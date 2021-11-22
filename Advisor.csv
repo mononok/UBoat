@@ -122,6 +122,7 @@ Tutorial Start Campaign 1
 Tutorial Start Campaign 2
 Tutorial First Dialogue with Officer 1
 Tutorial First Dialogue with Officer 2
+Tutorial Start First Tutorial Mission 1
 Tutorial RecruitmentListUI 1
 Tutorial RecruitmentListUI 2
 Tutorial RecruitmentListUI 3
@@ -186,6 +187,7 @@ Tutorial 03 - Arrive 05
 Tutorial 03 - Submerge 01
 Tutorial 03 - Hydrophone 01
 Tutorial 03 - Hydrophone 02
+Tutorial 03 - Hydrophone 03
 Tutorial 03 - Capture Course 01
 Tutorial 03 - Capture Course 02
 Tutorial 03 - Periscope Assign 01
@@ -233,10 +235,10 @@ Tutorial 04 - Travel 01
 Tutorial 04 - RadioSelect 01
 Tutorial 04 - RadioSelect 02
 Tutorial 04 - RadioAssign
-Tutorial 04 - RadioReceiveSelect - Select
-Tutorial 04 - RadioReceiveSelect - Already Selected
+Tutorial 04 - RadioReceiveStart
 Tutorial 04 - RadioReceive
 Tutorial 04 - RadioRead
+Tutorial 04 - RadioSummary
 Tutorial 04 - RadioCloseJournal
 Tutorial 04 - AllyHelpPath
 Tutorial 04 - AllyHelpMeeting MissingPath
@@ -262,8 +264,8 @@ Tutorial 04 - DestroyerSubmerge 1
 Tutorial 04 - DestroyerSubmerge 2
 Tutorial 04 - ChangeLighting 1
 Tutorial 04 - ChangeLighting 2
-Tutorial 04 - DisciplineLow 1
-Tutorial 04 - DisciplineLow 2
+Tutorial 04 - StressHigh 1
+Tutorial 04 - StressHigh 2
 Tutorial 04 - PanicSelect 1
 Tutorial 04 - PanicSelect 2
 Tutorial 04 - PanicAssign

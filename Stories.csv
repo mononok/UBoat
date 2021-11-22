@@ -106,6 +106,30 @@ WarCorrespondentWrongAnswer
 WarCorrespondentThanks.Accept
 WarCorrespondentQuestion.Classified
 
+/Weather Station
+SendExpedition_Confirm Wait Title
+SendExpedition_Confirm Wait
+SendExpedition_Intro Title
+SendExpedition_Intro
+SendExpedition_Confirm
+SendExpedition_Confirm Tooltip
+SendExpedition_Cancel
+TeamSelect Title
+TeamSelect
+ScoutingParty Title
+ScoutingParty
+ScoutingParty_SendTeam
+ScoutingParty_Sent Title
+ScoutingParty_Sent
+DeployWeatherStation Title
+DeployWeatherStation
+DeployWeatherStation_Start
+DeployWeatherStation_Started Title
+DeployWeatherStation_Started
+RunAndTestStation Title
+RunAndTestStation
+MainChoices_Retreat
+
 /WarCorrespondentQuestion
 Periscopes
 Periscopes Title
@@ -123,3 +147,443 @@ Food
 Food Title
 Food.Toilet
 Food.OfficerRoom
+
+/Radio
+Intro
+Intro Title
+PlayMusicStation
+ChangeMusicStation
+PlayMusicStationX
+DecodeTransmission
+LeaveStation
+PlayMusicStationStopPlaying
+ReceivingMessageCancel
+MessageReceivedConfirm
+RequestResupply
+RequestResupply_Sending
+RequestResupply_Cancel
+MusicStationSelection
+PlayMusicStationCancel
+ReceivingMessage
+MessageReceived Title
+MusicStationSelection Title
+ReceivingMessage Title
+RequestResupply_Sending Title
+
+/Rendezvous
+SendDelegation Wait Title
+SendDelegation Wait
+Intro_SupplyShip Title
+Intro_SupplyShip
+SendDelegation
+DelegationSelect Title
+DelegationSelect
+Welcome_SupplyShip Title
+Welcome_SupplyShip
+Dashboard Title
+Dashboard
+SmallTalk
+SmallTalk_Answer1 Tooltip
+SmallTalk_Answer1
+SmallTalk_Answer1_Continue
+Trade
+TransferCaptives
+Recruitment
+Return
+IntroCancel
+
+/Freighter Inspection
+Intro Title
+Intro
+SendDelegation
+SendDelegation Tooltip
+CommunicateSinkDecision
+CommunicateSinkDecision Tooltip
+CommunicateSinkDecisionSuccess Title
+CommunicateSinkDecisionSuccess
+CommunicateSinkDecisionSuccessConfirm
+CommunicateSinkDecisionIgnore Title
+CommunicateSinkDecisionIgnore
+CommunicateSinkDecisionIgnoreConfirm
+DelegationSelect Title
+DelegationSelect
+SendDelegation Wait Title
+SendDelegation Wait
+Welcome_1 Title
+Welcome_1
+WelcomeEnglish_1_Linguist Title
+WelcomeEnglish_1_Linguist
+WelcomeEnglish_1_MissingLinguist Title
+WelcomeEnglish_1_MissingLinguist
+Welcome_2 Title
+Welcome_2
+WelcomeEnglish_2_Linguist Title
+WelcomeEnglish_2_Linguist
+WelcomeEnglish_2_MissingLinguist Title
+WelcomeEnglish_2_MissingLinguist
+Welcome_3 Title
+Welcome_3
+WelcomeBack_1 Title
+WelcomeBack_1
+WelcomeBack_1_LanguageBarrier Title
+WelcomeBack_1_LanguageBarrier
+WelcomeEnglishInviteToDeckHouse Title
+WelcomeEnglishInviteToDeckHouse
+WelcomeEnglishInviteToDeckHouse_Accept
+DeckHouseIntro Title
+DeckHouseIntro
+WelcomeEnglishInviteToDeckHouse_Decline
+WelcomeEnglishInviteToTheOffice Title
+WelcomeEnglishInviteToTheOffice
+WelcomeEnglishInviteToTheOffice_Accept
+OfficeIntro Title
+OfficeIntro
+OfficeIntro_LanguageBarrier Title
+OfficeIntro_LanguageBarrier
+OfficeIntro_AskForDocuments
+OfficeIntro_SomethingElse
+WelcomeEnglishInviteToTheOffice_Decline
+WelcomeSpanish Title
+WelcomeSpanish
+MainChoices_Deck Title
+MainChoices_Deck
+MainChoices_DeckHouse Title
+MainChoices_DeckHouse
+MainChoices_CaptainOffice Title
+MainChoices_CaptainOffice
+MainChoices_CargoHold Title
+MainChoices_CargoHold
+MainChoicesPrizeConfirmed
+AskForDocuments
+AskForDocuments Tooltip
+PresentDocuments
+PresentDocuments_LanguageBarrier
+UndermineDocumentsAuthenticity
+UndermineDocumentsAuthenticity Tooltip
+UndermineDocumentsAuthenticity_LanguageBarrier
+UndermineDocumentsAuthenticity_LanguageBarrier Tooltip
+CaptainDeniesAccusation Title
+CaptainDeniesAccusation
+PutThePressureOnCaptain_Normal
+PutThePressureOnCaptain_Normal Tooltip
+PutThePressureOnCaptain_Armed
+PutThePressureOnCaptain_Armed Tooltip
+PutThePressureOnCaptain_PersonalSkills
+PutThePressureOnCaptain_PersonalSkills Tooltip
+PutThePressureOnCaptain_Armed_PersonalSkills
+PutThePressureOnCaptain_Armed_PersonalSkills Tooltip
+CaptainAdmitsTradeWithBritish4
+CaptainAdmitsTradeWithBritish4Confirm
+CaptainPressure_Deny
+QuestionTargetPortImports
+CaptainAdmitsTradeWithBritish1
+CaptainAdmitsTradeWithBritish1Confirm
+CaptainExplainsImport
+CaptainExplainsImportConfirm
+QuestionTargetPort
+CaptainAdmitsTradeWithBritish2
+CaptainAdmitsTradeWithBritish2Confirm
+CaptainExplainsTarget
+CaptainExplainsTargetConfirm
+QuestionCargoTea
+CaptainAdmitsTradeWithBritish3
+CaptainAdmitsTradeWithBritish3Confirm
+CaptainExplainsTea
+CaptainExplainsTeaConfirm
+CaptainDeniesAccusationConfirm
+PresentDocumentsAccept
+QuestionCargoTeaTopChoice
+GoToCargoHold
+RequestAccessToCargoHold
+RequestAccessToCargoHold_Agreed Title
+RequestAccessToCargoHold_Agreed
+RequestAccessToCargoHold_Agreed_Cancel
+SearchCargoHold
+MoveBackToCaptain
+Search_NothingFound
+Search_NothingFoundConfirm
+Search_Cargo_Ammunition
+Search_Cargo_Ammunition_Confirm
+Search_SecretCargo_Tea
+Search_SecretCargo_Tea_Confirm
+Search_SoldiersAttack Title
+Search_SoldiersAttack
+Search_SoldiersAttack_Counter
+Search_SoldiersAttack_Counter Tooltip
+Search_SoldiersAttack_Counter_Success Title
+Search_SoldiersAttack_Counter_Success
+Search_SoldiersAttack_Counter_SuccessAccept
+Search_SoldiersAttack_Counter_Failure
+Search_SoldiersAttack_Counter_FailureAccept
+Search_SoldiersAttack_CounterNoWeapon
+Search_SoldiersAttack_CounterNoWeapon Tooltip
+Search_SoldiersAttack_Escape
+FoundSuspiciousDocuments Title
+FoundSuspiciousDocuments
+FoundSuspiciousDocumentsQuestion
+FoundSuspiciousDocumentsQuestionDialogue Title
+FoundSuspiciousDocumentsQuestionDialogue
+FoundSuspiciousDocumentsQuestionDialoguePressure
+FoundSuspiciousDocumentsQuestionDialoguePressureSuccess Title
+FoundSuspiciousDocumentsQuestionDialoguePressureSuccess
+FoundSuspiciousDocumentsQuestionDialoguePressureSuccessContinue
+FoundSuspiciousDocumentsQuestionDialogueConfirm
+FoundSuspiciousDocumentsConfirm
+LockedCompartment Title
+LockedCompartment
+ThreatLockedDoors
+BreakThroughDoors
+DetonateDoors
+LockedCompartmentLeave
+UnlockedCompartment Title
+UnlockedCompartment
+UnlockedCompartmentConfirm
+ReviewGoods
+ScuttleFreighterExplosives
+OrderEvacuation
+OrderedEvacuationValidPrize Title
+OrderedEvacuationValidPrize
+OrderedEvacuationValidPrizeConfirm
+OrderedEvacuationNotValidPrize Title
+OrderedEvacuationNotValidPrize
+OrderedEvacuationNotValidPrizeConfirm
+Return
+Spanish
+Portuguese
+French
+German
+English
+
+
+BreakThroughDoors Wait Title
+BreakThroughDoors Wait
+
+CaptainAdmitsTradeWithBritish Title
+CaptainAdmitsTradeWithBritish
+CaptainAdmitsTradeWithBritishConfirm
+
+
+
+/Evacuated Freighter
+Intro Title
+Intro
+SendTeam
+TeamSelect
+Intro_Deck Title
+Intro_Deck
+GoTo_DeckHouse1
+Intro_DeckHouse Title
+Intro_DeckHouse
+GoTo_Deck
+GoTo_CaptainQuarter
+GoTo_EngineRoom
+Intro_CaptainQuarter Title
+Intro_CaptainQuarter
+GoTo_DeckHouse2
+Intro_EngineRoom Title
+Intro_EngineRoom
+GoTo_CargoHold
+Plant explosives.
+Intro_CargoHold Title
+Intro_CargoHold
+ViewGoods
+SearchCargoHold
+SearchCargoHold_Result Title
+SearchCargoHold_Result
+Search_NothingFound
+Search_NothingFoundConfirm
+Return
+SendTeam Wait Title
+SendTeam Wait
+
+/Lifeboat
+Intro Title
+Intro
+TakeSurvivorsOnBoard
+TakeSurvivorsOnBoard Tooltip
+GiveThemSupplies
+GiveThemSupplies Tooltip
+AcceptSupplies
+
+
+/Spy
+Spy_Port_Intro Title
+Spy_Port_Intro
+Spy_Port_Intro_Welcome
+"Spy_Port_Intro_Welcome Tooltip
+"
+
+
+/War Correspondent
+WarCorrespondent_Port_Intro Title
+WarCorrespondent_Port_Intro
+WarCorrespondent_Port_Intro_Welcome
+
+
+/Wreck
+SendDiver Title
+SendDiver
+SendDiver_Confirm
+SendDiver_TeamSelect
+SendDiver_Confirm Wait
+SendDiver_Confirm Wait Title
+SendDiver Wait Title
+SendDiver Wait
+Intro Title
+Intro
+Outside_EnterDeckHouse
+DeckHouse Title
+DeckHouse
+DeckHouse_Return Title
+DeckHouse_Return
+DeckHouse_Search
+MoveToCrewQuarters
+MoveDownToEngineRoom
+CrewQuarters Title
+CrewQuarters
+CrewQuarters_Return Title
+CrewQuarters_Return
+CrewQuarters_Search
+CrewQuarters_Safe Title
+CrewQuarters_Safe
+CrewQuarters_Safe_Open
+CrewQuarters_Safe_Open_Result Title
+CrewQuarters_Safe_Open_Result
+MoveToGalleyFromCrewQuarters
+EngineRoom Title
+EngineRoom
+EngineRoom_Return Title
+EngineRoom_Return
+EngineRoom_Search
+EngineRoom_SearchResult Title
+EngineRoom_SearchResult
+MoveToGalleyFromEngineRoom
+MoveToCargoHold
+CargoHold Title
+CargoHold
+CargoHold_Return Title
+CargoHold_Return
+CargoHold_Search
+CargoHold_SearchResult Title
+CargoHold_SearchResult
+CargoHold_Secret_Open
+CargoHold_Open
+MoveBackToEngineRoom
+Submarine_Outside_EnterSubmarine
+Submarine_MoveToControlRoom
+Submarine_MoveToOfficerQuarters
+Submarine_MoveToCrewQuarters
+Outside_Return
+
+MoveDownToEngineRoom Wait Title
+MoveDownToEngineRoom Wait
+MoveToGalleyFromEngineRoom Wait Title
+MoveToGalleyFromEngineRoom Wait
+MoveToCargoHold Wait Title
+MoveToCargoHold Wait
+Outside_Return Wait
+Outside_Return Wait Title
+MoveBackToEngineRoom Wait Title
+MoveBackToEngineRoom Wait
+
+/Enigma
+SendDiver Title
+SendDiver
+SendDiver_Confirm
+SendDiver_TeamSelect
+ConningTower Title
+ConningTower
+Enter_BatteryRoom
+CrewQuarters Title
+CrewQuarters
+Enter_ControlRoom
+CannotOpenHatch Title
+CannotOpenHatch
+ReturnAndOpenHatch
+OpeningTheMainHatch Title
+OpeningTheMainHatch
+Outside_Return
+
+SendDiver_Confirm Wait
+SendDiver_Confirm Wait Title
+Enter_BatteryRoom Wait
+Enter_BatteryRoom Wait Title
+Enter_ControlRoom Wait
+Enter_ControlRoom Wait Title
+ReturnAndOpenHatch Wait
+ReturnAndOpenHatch Wait Title
+Outside_Return Wait
+Outside_Return Wait Title
+
+/Shot Down Aircraft
+TakeSurvivorsOnBoard Tooltip
+Intro Title
+Intro
+TakeSurvivorsOnBoard
+
+
+/Lost U-boat
+Intro Title
+Intro
+Intro_Investigated Title
+Intro_Investigated
+SendTeam
+DelegationSelect Title
+DelegationSelect
+NotInvestigatedIntro Title
+NotInvestigatedIntro
+InvestigatedIntro Title
+InvestigatedIntro
+Investigate
+Investigating Title
+Investigating
+Result Title
+Result
+Accept
+Mine
+Return
+SendTeam Wait
+SendTeam Wait Title
+
+/Ally Help
+Intro_ReplacementParts Title
+Intro_ReplacementParts
+Intro_MedicalSupplies Title
+Intro_MedicalSupplies
+Intro_Food Title
+Intro_Food
+SendTeam
+DelegationSelect Title
+DelegationSelect
+Intro Title
+Intro
+Give_ReplacementParts
+Give_ReplacementParts Tooltip
+Give_MedicalSupplies
+Give_MedicalSupplies Tooltip
+Give_Food
+Give_Food Tooltip
+Give_ReplacementParts_Disabled
+Give_ReplacementParts_Disabled Tooltip
+Give_MedicalSupplies_Disabled
+Give_MedicalSupplies_Disabled Tooltip
+Give_Food_Disabled
+Give_Food_Disabled Tooltip
+Return
+Thanks Title
+Thanks
+GladToHelp
+
+SendTeam Wait
+SendTeam Wait Title
+
+/Surrender
+Intro Title
+Intro
+Surrender
+
+/Scuttle
+Coast
+Intro Title
+Intro
+Scuttle

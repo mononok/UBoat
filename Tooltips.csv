@@ -122,6 +122,10 @@ Depletion Discipline
 Depletion Discipline Description
 Depletion Discipline Started
 Depletion Discipline Finished
+
+
+Stress Started
+Stress Stopped
 Depletion Energy
 Depletion Energy Description
 Depletion Energy Started
@@ -141,7 +145,11 @@ Crush Depth Leave
 Travel Mode
 Travel Mode Description
 Travel Mode Start
+ItemsProduction - Task Complete
+TakeReward - Task Complete
 Research - Task Complete
+LocateDefenses - Task Complete
+MoveUnitAreaOfOperation - Task Complete
 Task Notification Description
 Task Notification Complete Description
 Lost on the Sea
@@ -181,3 +189,28 @@ Electric Engines Preferred Increase
 Home Port Changed
 Radio Transmission Detected By Enemy
 Radio Transmission Detected By Enemy Description
+Shallow Area
+Shallow Area Description
+Shallow Area Start
+Low Navigation Accuracy
+Low Navigation Accuracy Description
+Skill Tooltip
+Captive
+Captive Increase
+Captive Decrease
+Captive Description
+Weather Station Deployment Area
+Port Defences
+Port Defences Description
+Radio Transmission Interrupted
+Radio Transmission Interrupted Description
+Resupply Ship Sank
+Resupply Ship Sank Description
+Mission Status Update
+Mission Status Update Description
+Low Spare Parts
+Low Spare Parts Description
+No Spare Parts
+No Spare Parts Description
+Out of Free Space
+Headquarters Unavailable

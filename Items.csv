@@ -5,34 +5,34 @@ G7e Torpedo (T2)
 G7e Torpedo (T2) Description
 G7e Torpedo (T3)
 G7e Torpedo (T3) Description
-"G7es ""Zaunkönig"" Torpedo (T5)"
-"G7es ""Zaunkönig"" Torpedo (T5) Description"
+G7es Zaunk?nig Torpedo (T5)
+G7es Zaunk?nig Torpedo (T5) Description
 G7e Torpedo (T3) Prototype
 G7e Torpedo (T3) Prototype Description
-"G7es ""Zaunkönig"" Torpedo (T5) Prototype"
-"G7es ""Zaunkönig"" Torpedo (T5) Prototype Description"
+"G7es ""Zaunk?nig"" Torpedo (T5) Prototype"
+"G7es ""Zaunk?nig"" Torpedo (T5) Prototype Description"
 G7a Torpedo (T1) (Warmed)
 G7a Torpedo (T1) (Warmed) Description
 G7e Torpedo (T2) (Warmed)
 G7e Torpedo (T2) (Warmed) Description
 G7e Torpedo (T3) (Warmed)
 G7e Torpedo (T3) (Warmed) Description
-"G7es ""Zaunkönig"" Torpedo (T5) (Warmed)"
-"G7es ""Zaunkönig"" Torpedo (T5) (Warmed) Description"
+G7es Zaunk?nig Torpedo (T5) (Warmed)
+G7es Zaunk?nig Torpedo (T5) (Warmed) Description
 G7e Torpedo (T3) Prototype (Warmed)
 G7e Torpedo (T3) Prototype (Warmed) Description
-"G7es ""Zaunkönig"" Torpedo (T5) Prototype (Warmed)"
-"G7es ""Zaunkönig"" Torpedo (T5) Prototype (Warmed) Description"
+"G7es ""Zaunk?nig"" Torpedo (T5) Prototype (Warmed)"
+"G7es ""Zaunk?nig"" Torpedo (T5) Prototype (Warmed) Description"
 TMB Mine x3
 TMB Mine x3 Description
-FuMB 26 „Tunis”
-FuMB 26 „Tunis” Description
-FuMB 10 „Borkum”
-FuMB 10 „Borkum” Description
-FuMB 7 „Naxos I”
-FuMB 7 „Naxos I” Description
-FuMB 1 „Metox”
-FuMB 1 „Metox” Description
+FuMB 26 ?Tunis�h
+FuMB 26 ?Tunis�h Description
+FuMB 10 ?Borkum�h
+FuMB 10 ?Borkum�h Description
+FuMB 7 ?Naxos I�h
+FuMB 7 ?Naxos I�h Description
+FuMB 1 ?Metox�h
+FuMB 1 ?Metox�h Description
 Netzabweiser Antenne
 Netzabweiser Antenne Description
 Potassium Absorbers
@@ -146,3 +146,98 @@ Wound Badge in Silver
 Wound Badge in Silver Description
 Wound Badge in Gold
 Wound Badge in Gold Description
+Weather Station
+Weather Station Description
+Karabiner 98k
+Karabiner 98k Description
+Fresh Bread
+Fresh Bread Description
+G7a Torpedo T1 - Pi1
+G7a Torpedo T1 - Pi1 Description
+G7a Torpedo T1 - Pi1.1
+G7a Torpedo T1 - Pi1.1 Description
+G7a Torpedo T1 - Pi3
+G7a Torpedo T1 - Pi3 Description
+G7a Torpedo T1 - Pi3 - FAT
+G7a Torpedo T1 - Pi3 - FAT Description
+G7a Torpedo T1 - Pi3 - LUT
+G7a Torpedo T1 - Pi3 - LUT Description
+G7e Torpedo T2 - Pi1
+G7e Torpedo T2 - Pi1 Description
+G7e Torpedo T2 - Pi1.1
+G7e Torpedo T2 - Pi1.1 Description
+G7e Torpedo T3 - Pi2
+G7e Torpedo T3 - Pi2 Description
+G7e Torpedo T3 - Pi2 - FAT
+G7e Torpedo T3 - Pi2 - FAT Description
+G7e Torpedo T3 - Pi2 - LUT
+G7e Torpedo T3 - Pi2 - LUT Description
+G7e Torpedo T3 - Pi2 - Prototype
+G7e Torpedo T3 - Pi2 - Prototype Description
+G7es Zaunk?nig Torpedo T5 - Pi4
+G7es Zaunk?nig Torpedo T5 - Pi4 Description
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype Description
+G7a Torpedo T1 - Pi1 (Warmed)
+G7a Torpedo T1 - Pi1 (Warmed) Description
+G7a Torpedo T1 - Pi1.1 (Warmed)
+G7a Torpedo T1 - Pi1.1 (Warmed) Description
+G7a Torpedo T1 - Pi3 (Warmed)
+G7a Torpedo T1 - Pi3 (Warmed) Description
+G7a Torpedo T1 - Pi3 - FAT (Warmed)
+G7a Torpedo T1 - Pi3 - FAT (Warmed) Description
+G7a Torpedo T1 - Pi3 - LUT (Warmed)
+G7a Torpedo T1 - Pi3 - LUT (Warmed) Description
+G7e Torpedo T2 - Pi1 (Warmed)
+G7e Torpedo T2 - Pi1 (Warmed) Description
+G7e Torpedo T2 - Pi1.1 (Warmed)
+G7e Torpedo T2 - Pi1.1 (Warmed) Description
+G7e Torpedo T3 - Pi2 (Warmed)
+G7e Torpedo T3 - Pi2 (Warmed) Description
+G7e Torpedo T3 - Pi2 - FAT (Warmed)
+G7e Torpedo T3 - Pi2 - FAT (Warmed) Description
+G7e Torpedo T3 - Pi2 - LUT (Warmed)
+G7e Torpedo T3 - Pi2 - LUT (Warmed) Description
+G7e Torpedo T3 - Pi2 - Prototype (Warmed)
+G7e Torpedo T3 - Pi2 - Prototype (Warmed) Description
+G7es Zaunk?nig Torpedo T5 - Pi4 (Warmed)
+G7es Zaunk?nig Torpedo T5 - Pi4 (Warmed) Description
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype (Warmed)
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype (Warmed) Description
+Iron Ore
+Iron Ore Description
+Coal
+Coal Description
+Lumber
+Lumber Description
+Tea
+Tea Description
+Grains
+Grains Description
+Rubber
+Rubber Description
+Tire
+Tire Description
+Gold
+Gold Description
+Money
+Money Description
+Valuables
+Valuables Description
+Tobacco
+Tobacco Description
+Oil
+Enigma Machine
+Enigma Machine Description
+/Cargo
+Food
+Resources
+Utilities
+Rubber
+Valuables
+Tea
+Tobacco
+Medical
+DepthCharges
+Ammunition
+Oil

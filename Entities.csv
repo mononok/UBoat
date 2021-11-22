@@ -21,6 +21,7 @@ Torpedo
 Mine
 Bottom Mine
 Pontoon
+Lifeboat
 Environment
 F-Class
 F-Class (Recognized Manually)
@@ -28,7 +29,7 @@ E-Class
 Tribal-Class
 Benson-Class
 Liberty
-Zerstörer 1934A
+Zerst?rer 1934A
 Type IIB
 Type VIIB
 Type VIIC
@@ -61,12 +62,12 @@ G7e Torpedo (T2)
 G7e Torpedo (T2) (Warmed)
 G7e Torpedo (T3)
 G7e Torpedo (T3) (Warmed)
-"G7es ""Zaunkönig"" Torpedo (T5)"
-"G7es ""Zaunkönig"" Torpedo (T5) (Warmed)"
+G7es Zaunk?nig Torpedo (T5)
+G7es Zaunk?nig Torpedo (T5) (Warmed)
 G7e Torpedo (T3) Prototype
 G7e Torpedo (T3) Prototype (Warmed)
-"G7es ""Zaunkönig"" Torpedo (T5) Prototype"
-"G7es ""Zaunkönig"" Torpedo (T5) Prototype (Warmed)"
+"G7es ""Zaunk?nig"" Torpedo (T5) Prototype"
+"G7es ""Zaunk?nig"" Torpedo (T5) Prototype (Warmed)"
 TMB Mine
 Small Iceberg
 Medium Iceberg
@@ -82,6 +83,7 @@ C01 British Destroyer
 C01 British Aircraft Carrier
 Wilhelmshaven Port
 Wreckage
+Wreck
 Player Ship
 Unknown Group
 Air Patrol
@@ -95,12 +97,13 @@ Southern Atlantic
 Mediterranean Sea
 Bermuda Islands
 Danzig Port
-Klaipėda Port
+Klaip?da Port
 Headquarters
 Kilian
 Nordsee III
 Trondheim Port
 Bergen Port
+Scapa Flow
 Scapa Flow Port
 RAF Dundee
 Leith
@@ -177,3 +180,108 @@ Dale-Class
 War-Class
 Wave-Class
 Hunt-Class
+
+Port of Buenos Aires
+Port of Gibraltar
+Port of Lisbon
+Port of Lorient
+Port of Rotterdam
+Port of Vigo
+Gibraltar Strait
+Coastal Defense Patrol
+Milk Cow
+North Labrador Weather Station Deployment
+Battle of the Atlantic II
+Weather Station Deployment North Labrador
+Retrieve Enigma from Sunk Submarine
+RAF St. Eval
+RCAF Yarmouth
+Operation Drumbeat
+Arctic Convoys
+Battle of the Mediterranean
+Sink Warships on Anchor
+Weather Station Deployment Bear Island
+Recover Gold From Sunk Ship
+Bear Island Weather Station Deployment
+Join Battle of Arctic
+Join French Flotillas
+Pass Gibraltar
+U-boat Wreck
+Unknown Submarine
+Unknown Ship
+Unknown Aircraft Carrier
+Unknown Warship
+Unknown Aircraft
+Unknown Object
+Unknown Destination
+Wilhelmshaven Port Description
+Danzig Port Description
+Klaip?da Port Description
+Trondheim Port Description
+Bergen Port Description
+Scapa Flow Port Description
+Leith Description
+Port of Liverpool Description
+St-Nazaire Port Description
+La Rochelle Port Description
+Bordeaux Port Description
+Safi Port Description
+Port of Freetown Description
+Port of Boston Description
+Halifax Harbour Description
+Port of Sydney Description
+Port of Kiel Description
+Belfast Harbour Description
+Portsmouth Port Description
+La Spezia Port Description
+Grand Harbour Description
+Port of New York and New Jersey Description
+Port of Alexandria Description
+Port of Murmansk Description
+Port of Arkhangelsk Description
+Port of Buenos Aires Description
+Port of Gibraltar Description
+Port of Lisbon Description
+Port of Lorient Description
+Port of Rotterdam Description
+Port of Vigo Description
+Lyness Naval Base Description
+Port of Aruba Description
+RCAF Yarmouth Description
+Cardiff Docks Description
+RAF St. Eval Description
+RAF Gibraltar Description
+RAF Freetown Description
+RAF Dundee Description
+Kindley Air Force Base
+Kindley Air Force Base Description
+Port of Aruba
+Resupply Ship Marker
+Weather Station Deployment Area
+
+G7a Torpedo T1 - Pi1
+G7a Torpedo T1 - Pi1.1
+G7a Torpedo T1 - Pi3
+G7a Torpedo T1 - Pi3 - FAT
+G7a Torpedo T1 - Pi3 - LUT
+G7e Torpedo T2 - Pi1
+G7e Torpedo T2 - Pi1.1
+G7e Torpedo T3 - Pi2
+G7e Torpedo T3 - Pi2 - FAT
+G7e Torpedo T3 - Pi2 - LUT
+G7e Torpedo T3 - Pi2 - Prototype
+G7es Zaunk?nig Torpedo T5 - Pi4
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype
+G7a Torpedo T1 - Pi1 (Warmed)
+G7a Torpedo T1 - Pi1.1 (Warmed)
+G7a Torpedo T1 - Pi3 (Warmed)
+G7a Torpedo T1 - Pi3 - FAT (Warmed)
+G7a Torpedo T1 - Pi3 - LUT (Warmed)
+G7e Torpedo T2 - Pi1 (Warmed)
+G7e Torpedo T2 - Pi1.1 (Warmed)
+G7e Torpedo T3 - Pi2 (Warmed)
+G7e Torpedo T3 - Pi2 - FAT (Warmed)
+G7e Torpedo T3 - Pi2 - LUT (Warmed)
+G7e Torpedo T3 - Pi2 - Prototype (Warmed)
+G7es Zaunk?nig Torpedo T5 - Pi4 (Warmed)
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype (Warmed)

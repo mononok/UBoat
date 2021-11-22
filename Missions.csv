@@ -63,6 +63,7 @@ GatherIntelMission ReachDestination
 GatherIntelMission GatherIntel
 Campaign 01: Beginning GoToTargetingSight
 PatrolAssignment
+PatrolAssignmentShort
 PatrolAssignment Description
 PatrolAssignment Additional Objective
 PatrolAssignment Travel
@@ -132,6 +133,7 @@ Tutorial 02 Undock
 Tutorial 02 SetDestination
 Tutorial 02 Arrive
 Tutorial 02 OpenMap
+Tutorial 02 ReturnToPort
 Tutorial 03
 Tutorial 03 Description
 Tutorial 03 OpenMap
@@ -139,6 +141,7 @@ Tutorial 03 SetDestination
 Tutorial 03 Undock
 Tutorial 03 Arrive
 Tutorial 03 GetCloseToFreighter
+Tutorial 03 ReturnToPort
 Tutorial 04
 Tutorial 04 Description
 Tutorial 04 SetDestination
@@ -156,3 +159,84 @@ Tutorial 06 Description
 Tutorial 06 Talk
 Tutorial 07
 Tutorial 07 Description
+Battle of the Atlantic II
+Battle of the Atlantic II Description
+Battle of the Atlantic III
+Battle of the Atlantic III Description
+Southern Routes
+Southern Routes Description
+Battle of the Mediterranean
+Battle of the Mediterranean Description
+Arctic Convoys
+Arctic Convoys Description
+Sink Warships on Anchor
+Sink Warships on Anchor Long Name
+Sink Warships on Anchor Description
+Recover Gold From Sunk Ship
+Recover Gold From Sunk Ship Long Name
+Recover Gold From Sunk Ship Description
+Retrieve Enigma from Sunk Submarine
+Retrieve Enigma from Sunk Submarine Long Name
+Retrieve Enigma from Sunk Submarine Description
+Weather Station Deployment North Labrador
+Weather Station Deployment North Labrador Long Name
+Weather Station Deployment North Labrador Description
+Weather Station Deployment Bear Island
+Weather Station Deployment Bear Island Long Name
+Weather Station Deployment Bear Island Description
+Operation Drumbeat
+Operation Drumbeat Description
+Attack on Aruba
+Attack on Aruba Description
+OilInstallationsAttackAssignment Description
+Campaign Randomized Assignment Format
+WeatherStationDeploymentAssignment Description
+WeatherStationDeploymentAssignment FreeSpace
+WeatherStationDeploymentAssignment ReachDestination
+WeatherStationDeploymentAssignment SendExpedition
+WeatherStationDeploymentAssignment ScoutArea
+WeatherStationDeploymentAssignment BuildStation
+WeatherStationDeploymentAssignment TestSignal
+WeatherStationDeploymentAssignment ReturnToPort
+North Labrador Weather Station Deployment
+SearchWreckAssignment Description
+SearchWreckAssignment
+SearchWreckAssignment ReachDestination
+SearchWreckAssignment SendDiver
+SearchWreckAssignment LocateCargo
+SearchWreckAssignment RecoverCargo
+SearchWreckAssignment ReturnToPort
+OilInstallationsAttackAssignment ReachDestination
+OilInstallationsAttackAssignment AttackOilInstallations
+OilInstallationsAttackAssignment Escape
+OilInstallationsAttackAssignment ReturnToPort
+"PassGibraltarAssignment Description
+"
+PassGibraltarAssignment ReachGibraltar
+PassGibraltarAssignment PassThrough
+PassGibraltarAssignment AvoidDetection
+PassGibraltarAssignment DockAtDestinationPort
+Join Battle of Arctic
+Join Battle of Arctic Description
+Join French Flotillas
+Join French Flotillas Description
+Pass Gibraltar
+"Pass Gibraltar Description
+"
+SinkAnchoredBattleshipAssignment Description
+SinkAnchoredBattleshipAssignment TravelToDestination
+SinkAnchoredBattleshipAssignment EnterAnchorage
+SinkAnchoredBattleshipAssignment StayUndetected
+SinkAnchoredBattleshipAssignment Escape
+SinkAnchoredBattleshipAssignment SinkBattleship
+EnigmaRecoveryAssignment Description
+EnigmaRecoveryAssignment ReachDestination
+EnigmaRecoveryAssignment FreeSpaceForDivingSuit
+EnigmaRecoveryAssignment SendDiver
+EnigmaRecoveryAssignment FindEnigma
+EnigmaRecoveryAssignment OpenTheMainHatch
+EnigmaRecoveryAssignment ReturnToPort
+ScuttleOrSurrenderAssignment
+ScuttleOrSurrenderAssignment ReceiveTransmission
+ScuttleOrSurrenderAssignment Surrender
+ScuttleOrSurrenderAssignment Scuttle

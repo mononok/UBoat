@@ -10,7 +10,10 @@ SonarDetectability
 SonarDetectability/Description
 Depth
 Detected
+Hunted
 Alarm
+Low Discipline
+High Discipline
 Base
 Gyrocompass
 Hull
@@ -28,6 +31,8 @@ Oxygen
 Oxygen/Description
 Discipline
 Discipline/Description
+Stress
+Stress/Description
 Fuel
 Fuel/Description
 Crew
@@ -96,3 +101,5 @@ Crew Noise
 Dirtiness
 Torpedo Loading
 Torpedo Warming
+Diesel Engines Exhaust Smoke
+Vacation

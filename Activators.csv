@@ -83,7 +83,7 @@ Adjust ballast
 Snorkel raise
 Snorkel hide
 Flood valves
-FuMB 26 „Tunis”
+FuMB 26 ?Tunis�h
 Mount detector
 Unmount detector
 Climb up
@@ -124,6 +124,7 @@ Play Cards Full Description
 Valves
 Valves Description
 Warm up the torpedo
+Warm up the torpedo Progressing Description
 Warm up the torpedo Full Description
 Load Torpedoes
 Load Torpedoes 1
@@ -253,9 +254,11 @@ Battery Room no. 1 Water StorageUI
 Battery Room no. 2 Water StorageUI
 Engine Room Compartment StorageUI
 Galley Compartment StorageUI
+Sea (Cargo dump)
 Bulb 1
 Bulb 2
 "Bulb 3 (Red, Blue)"
+Bulb 4
 Bulb
 Bulb (White)
 Distribution Board Door
@@ -275,6 +278,7 @@ Hole Top Description
 Power Distribution Board
 Table
 Toilet Pipe
+Toilet Pipe Description
 Flood Valves
 Main Storage
 Main Storage Description
@@ -336,14 +340,17 @@ Cut The Rope
 Enable Reflector
 Disable Reflector
 Investigate
+Inspection
 Artillery - 8.8 cm
 Artillery - 8.8 cm Description
+Removed Deck Gun
+Removed Deck Gun Description
 Access Ammo Storage
 Idle
 Stern Torpedo Storage
 Bow Torpedo Storage
 Small Calibre Ammunition Storage
-Ammunition Storage
+Large Calibre Ammunition Storage
 Busy Warning
 Carrying Blocking Item
 Goods Depository
@@ -385,12 +392,14 @@ Turn On Electricity
 Turn Off Electricity
 Select Assignment
 Select Tutorial
+Select Tutorial Blocked By Survivors
 Abandon Assignment
 Reputation Purchases
 Open depository
 Enter upgrade mode
 Recruitment
 Open Crew List
+Release Captives
 Open Vacation List
 Open Vacation List (Time Limit)
 Open Headquarters Screen
@@ -404,14 +413,14 @@ Snorkel
 Snorkel Description
 Anti-Radar Coated Snorkel
 Anti-Radar Coated Snorkel Description
-FuMB 1 „Metox”
-FuMB 1 „Metox” Description
-FuMB 10 „Borkum”
-FuMB 10 „Borkum” Description
-FuMB 7 „Naxos I”
-FuMB 7 „Naxos I” Description
-FuMB 26 „Tunis”
-FuMB 26 „Tunis” Description
+FuMB 1 ?Metox�h
+FuMB 1 ?Metox�h Description
+FuMB 10 ?Borkum�h
+FuMB 10 ?Borkum�h Description
+FuMB 7 ?Naxos I�h
+FuMB 7 ?Naxos I�h Description
+FuMB 26 ?Tunis�h
+FuMB 26 ?Tunis�h Description
 Improved Toilets
 Improved Toilets Description
 Accumulators I
@@ -510,8 +519,12 @@ Gyrocompass - Operational
 Gyrocompass - Operational In
 Navigation Table - We are Lost
 Navigation Table - Known Area
-Navigation Table - Navigation Increases
-Navigation Table - Navigation Decreases
+Navigation Table - Navigation Increases High Accuracy
+Navigation Table - Navigation Increases Normal Accuracy
+Navigation Table - Navigation Increases Low Accuracy
+Navigation Table - Navigation Decreases High Accuracy
+Navigation Table - Navigation Decreases Normal Accuracy
+Navigation Table - Navigation Decreases Low Accuracy
 Navigation Table - Unsure
 Engines - RPM
 Engines - Speed
@@ -558,7 +571,8 @@ Sailor Work Helmsman Station
 Sailor Work Vertical Steers Station
 Sailor Work Valve Watch
 Sailor Work Switch Power
-
+Sailor Work Radio Room
+Sailor Work Open Close Hatch
 Ballast Tank no. 1
 Ballast Tank no. 2
 Ballast Tank no. 3
@@ -569,18 +583,32 @@ Fuel Tank no. 1
 Fuel Tank no. 2
 Pill Thrower
 
-G7a Torpedo (T1)
-G7e Torpedo (T2)
-G7e Torpedo (T3)
-"G7es ""Zaunkönig"" Torpedo (T5)"
-G7e Torpedo (T3) Prototype
-"G7es ""Zaunkönig"" Torpedo (T5) Prototype"
-G7a Torpedo (T1) (Warmed)
-G7e Torpedo (T2) (Warmed)
-G7e Torpedo (T3) (Warmed)
-"G7es ""Zaunkönig"" Torpedo (T5) (Warmed)"
-G7e Torpedo (T3) Prototype (Warmed)
-"G7es ""Zaunkönig"" Torpedo (T5) Prototype (Warmed)"
+G7a Torpedo T1 - Pi1
+G7a Torpedo T1 - Pi1.1
+G7a Torpedo T1 - Pi3
+G7a Torpedo T1 - Pi3 - FAT
+G7a Torpedo T1 - Pi3 - LUT
+G7e Torpedo T2 - Pi1
+G7e Torpedo T2 - Pi1.1
+G7e Torpedo T3 - Pi2
+G7e Torpedo T3 - Pi2 - FAT
+G7e Torpedo T3 - Pi2 - LUT
+G7e Torpedo T3 - Pi2 - Prototype
+G7es Zaunk?nig Torpedo T5 - Pi4
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype
+G7a Torpedo T1 - Pi1 (Warmed)
+G7a Torpedo T1 - Pi1.1 (Warmed)
+G7a Torpedo T1 - Pi3 (Warmed)
+G7a Torpedo T1 - Pi3 - FAT (Warmed)
+G7a Torpedo T1 - Pi3 - LUT (Warmed)
+G7e Torpedo T2 - Pi1 (Warmed)
+G7e Torpedo T2 - Pi1.1 (Warmed)
+G7e Torpedo T3 - Pi2 (Warmed)
+G7e Torpedo T3 - Pi2 - FAT (Warmed)
+G7e Torpedo T3 - Pi2 - LUT (Warmed)
+G7e Torpedo T3 - Pi2 - Prototype (Warmed)
+G7es Zaunk?nig Torpedo T5 - Pi4 (Warmed)
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype (Warmed)
 TMB Mine x3
 
 Bleeding
@@ -596,3 +624,15 @@ Turn OFF
 RunAtBowAction
 Valve Watch
 Switch Power
+Cargo Hold
+
+Deck Gun
+Upgrade
+
+Ammo Large Calibre HE
+Ammo Large Calibre AP
+Ammo Large Calibre AA
+Ammo Large Calibre SS
+
+Surrender
+Scuttle

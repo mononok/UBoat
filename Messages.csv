@@ -21,6 +21,7 @@ AllyNeedsHelpEvent.ReplacementParts
 AllyNeedsHelpEvent.MedicalSupplies
 AllyNeedsHelpEvent.Food
 Convoy Attack
+WolfpackAttackMission.ConvoyOffCourse
 PatrolAssignment.Title
 PatrolAssignment.IntroMessage
 PatrolAssignment.DestinationReached.Title
@@ -39,6 +40,7 @@ PortAttackAssignment.Title
 PortAttackAssignment.IntroMessage
 PortAttackAssignment.MissionFinished.Title
 PortAttackAssignment.MissionFinished
+SinkAnchoredBattleshipAssignment.MissionFinished
 JoinFlotillaAssignment.Title
 JoinFlotillaAssignment.IntroMessage
 JoinFlotillaAssignment.MissionFinished.Title
@@ -67,6 +69,9 @@ DestroyedByMyself.Title
 DestroyedByMyself
 AircraftDestroyedByMyself.Title
 AircraftDestroyedByMyself
+AircraftDestroyed.Title
+AircraftDestroyed
+AircraftDestroyedBy
 Group Hydrophone.Title
 Group Hydrophone
 Group Indirect.Title
@@ -91,3 +96,52 @@ Tutorial 06.Title
 Tutorial 07.Title
 Tutorial 04.SOS
 Standby Report
+Weather Station Deployment Area
+WeatherStationAssignment.Title
+Weather Station Test.Title
+Weather Station Test
+Resupply Impossible
+Resupply Coordinates
+Nearest Square
+InspectionFinished
+Panic prevention
+News - USA Declares War.Title
+News - USA Declares War
+Message - Barbarossa.Title
+Message - Barbarossa
+Message - Germany Declares War on USA.Title
+Message - Germany Declares War on USA
+Message - Laconia Order.Title
+Message - Laconia Order
+Message - Italy Surrenders.Title
+Message - Italy Surrenders
+Message - Rainbow.Title
+Message - Rainbow
+Message - Donitz Takes Command.Title
+Message - Donitz Takes Command
+Message - Surrender.Title
+Message - Surrender
+Message - Surrender Final.Title
+Message - Surrender Final
+News - Barbarossa.Title
+News - Barbarossa
+OilInstallationsAttackAssignment.Title
+EnigmaRecoveryAssignment.Title
+SearchWreckAssignment.Title
+WeatherStationDeploymentAssignment.Title
+PassGibraltarAssignment.Title
+SinkAnchoredBattleshipAssignment.Title
+Tutorial 01.Message
+Tutorial 02.Message
+Tutorial 03.Message
+Tutorial 04.Message
+Tutorial 05.Message
+Tutorial 06.Message
+Tutorial 07.Message
+Radio Messages From
+EnigmaRecoveryAssignment.IntroMessage
+PassGibraltarAssignment.IntroMessage
+SearchWreckAssignment.IntroMessage
+Attack on Aruba.IntroMessage
+Weather Station Deployment Bear Island.IntroMessage
+Weather Station Deployment North Labrador.IntroMessage

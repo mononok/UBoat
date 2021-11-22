@@ -45,11 +45,14 @@ Lock
 Unlock
 Unknown
 Stadimeter Help Text
+Stadimeter Warning Text
 Chronometer Help Text
 Course Help Text
+AOB Help Text
 Frachter Warning
 Recognize
-
+Course
+AOB
 /Telegraph
 Button 4
 Button 3
@@ -97,6 +100,15 @@ Send Report Totals
 Send Report NoValue Totals
 New Intelligence
 Accept Reward
+Complete Mission
+Complete Mission (Not Enough Fuel)
+Complete Mission (Leaks On Board)
+Complete Mission (Enemies Nearby)
+Complete Mission (Running Story)
+Complete Mission (Nearby Ports)
+Complete Mission (Too Deep)
+Complete Mission (Lost)
+Complete Mission (Docked)
 Send Report No Radio Operator
 Send Report Out of Range
 Send Report Underwater
@@ -115,6 +127,14 @@ Mission Completed
 New Objective
 Objective Completed
 Mission Failed
+Nearby Interaction Button
+Nearby Interaction Button X
+Nearby Interaction Button Warning
+Campaign
+New Offensive
+Offensive Completed
+Campaign Mission Completed
+
 /InteractionWheelUI
 Description
 
@@ -138,6 +158,8 @@ No
 Throw Out
 Count Cancel
 Count Transfer
+Count Buy
+Count Sell
 Transfer Hint
 Pre-heating Tip
 Fuel Header
@@ -318,12 +340,14 @@ Decimal
 Preset
 Entertaining
 Balanced
+Realism Label
 Realism X
 Cache Size
 Map Skin
 Map Default
 Map Desaturated
 Map Semi-Realistic
+Map Paper-Like
 Economic difficulty
 Economic difficulty Tooltip
 Economic Easy
@@ -334,6 +358,34 @@ AI difficulty Tooltip
 AI Easy
 AI Medium
 AI Hard
+Tutorial
+Tutorial Tooltip
+Max Frame Rate
+Max Frame Rate Warning
+Autosave after docking
+Autosave on exit
+Autosave time
+Autosave time off
+Autosave time 15
+Autosave time 30
+Autosave time 60
+Number of autosaves
+Food management
+Food management Tooltip
+Torpedo flaws
+Torpedo flaws Tooltip
+Torpedo Realistic
+Torpedo Semi-realistic
+Torpedo Basic
+Discipline management difficulty
+Discipline management difficulty Tooltip
+Auto mission completion
+Auto mission completion Tooltip
+Auto mission completion Yes
+Auto mission completion Yes (Fuel)
+Auto mission completion No
+Damage difficulty
+Damage difficulty Tooltip
 
 /CampaignSetupUI
 Back
@@ -373,6 +425,26 @@ U-1055 - Title
 U-1055 - Description
 Tutorial Warning
 Training Missions Warning
+Crew Management Settings Header
+Primary
+Primary Description
+Complex
+Complex Description
+Expert
+Expert Description
+Realism Settings Header
+Entertainment
+Entertainment Description
+Balanced
+Balanced Description
+Full realism
+Full realism Description
+Select
+Skip
+Loading
+Summary
+Main Settings
+Advanced Settings
 
 /EscapeMenuUI
 Resume
@@ -413,8 +485,16 @@ Hint 12
 Hint 13
 Hint 14
 Hint 15
-Hint 16
+UHint 16
 Hint 17
+Hint 18
+Hint 19
+Hint 20
+Hint 21
+Hint 22
+Hint 23
+Hint 24
+Hint 25
 
 /IntroMovieUI
 Label 1
@@ -428,8 +508,13 @@ Rudder
 Map
 Journal
 Pause
-Time Compression
-Fast Travel
+Time Compression x1
+Time Compression x4
+Time Compression x12
+Time Compression x48
+Time Compression x140
+Time Compression x1800
+Time Compression x6500
 Speed
 Depth Preset - Surface
 Depth Preset - Deck Awash
@@ -438,6 +523,8 @@ Depth Preset - Max Safe Depth
 Undock Generic Blockade
 Undock Take Assignment
 Undock Awaiting Objective
+Undock Survivors On Board
+Undock Officers Limit
 Undock Missing Skipper
 Undock Vacation
 Undock Load
@@ -464,6 +551,13 @@ Select Torpedo Not Enough Data
 Attack
 Deffensive
 Escape
+Distance
+Velocity
+Direction
+Hit Chance
+Error Level
+Interaction
+GRT
 
 /RadioTransmissionsUI
 Out of Range
@@ -478,7 +572,21 @@ Launcher Empty
 Status - Loading
 Status - Preheating
 Status - Unloading
+Status - Angle Out of Bounds
+Status - Damaged
 Depth Warning
+Compressed Air Warning
+AZ Pistol
+MZ Pistol
+Impact pistol
+Magnetic pistol
+Direction
+Initial Torpedo Run Length
+Pattern Rotation Angle
+Left
+Right
+FAT settings
+LUT settings
 
 /DefeatSummaryUI
 Header
@@ -492,11 +600,32 @@ Missions
 Accept Reward
 Reward
 Asignment Completed
+1 Day Later
+X Days Later
 
 /TrophyScreenUI
 Header
 Header Progression
+Campaign Objective Header
+Campaign Objective Header Progression
+Sunk Ship Title
+Sunk Ship Summary 1
+Sunk Ship Summary 2
+Sunk Ship Summary 3
+Sunk Ship Summary False Flag 1
+Sunk Ship Summary False Flag 2
+Sunk Ship Summary False Flag 3
+Convoy Sinkings Title
+Convoy Sinkings Summary 1
+Convoy Sinkings Summary 2
+Convoy Sinkings Summary 3
+Sunk Ship Newspaper Title
+Sunk Ship Newspaper Diplomatic Incident Summary
+Sunk Ship Newspaper Valuables Summary
 
+
+/HydrophoneUI
+Surface Warning
 
 /DevConsole
 Error Logged
@@ -559,6 +688,8 @@ Adding to Queue
 Idle
 Locked Action Tooltip
 External Action Tooltip
+Automated Schedule Action
+Right Click to Cancel
 
 /CompartmentInfoUI
 Stern Torpedo Room
@@ -576,8 +707,10 @@ Difficulty Medium
 Difficulty Hard
 Assignments
 Mission Select
+Tutorial
 Objective
 Reward
+Campaign Header
 
 /LoadGameStateUI
 Save Data
@@ -585,6 +718,7 @@ Incompatible Version
 Header
 Load
 Delete
+Incompatible Mods
 
 /SaveGameStateUI
 Header
@@ -621,10 +755,12 @@ Status
 Level
 Management
 Ready
+Tired
 Delegated to HQ
 Personality
 Description
-
+Tokens
+Free captive
 /RecruitmentUI
 Recruitment
 Recruit
@@ -642,14 +778,14 @@ SAVE
 LOAD
 SETTINGS
 EXIT
-
+CAMPAIGN
 
 /ReputationPurchasesListUI
 Reputation Purchases
 Buy
 
-
-
+/CampaignObjectivesListUI
+Header
 
 /HeadquartersUI
 Time to Complete
@@ -658,7 +794,7 @@ EMPTY
 ClickToStartNewOperation
 Requires
 Early Research Warning
-
+Target Area
 
 /RecruitmentUI/Backgrounds
 Story 1
@@ -689,10 +825,31 @@ Story 25
 Story 26
 Story 27
 
+/StoryPlayerUI
+Skill Token Modifier
+Skill Token Equipment Modifier
+Wait Info
+Available tokens
+Select Item
+Select Character
+Remove Item
+Remove Character
+Ranks
+Decision Requirement
+Time Skip Label
+Performance
+Progress
+Performance Very Low
+Performance Low
+Performance Average
+Performance Fast
+Performance Very Fast
+
 /CharacterUI
 Class
 Level
 XP
+XP Label
 Status
 Role
 Decorations
@@ -704,6 +861,7 @@ Disband
 Disband Confirmation
 Exit
 Apply
+Apply To All
 Name
 Voice
 Body Shape
@@ -746,10 +904,15 @@ X More
 Normal Lighting
 Red Lighting
 Blue Lighting
+Keep Bulkheads Open
+Close Bulkheads
+Electric Steering
+Manual Steering
 
 /HUD
 FPP Hint
 FPP Hint Activator
+Free Fly Camera Notification Hint
 
 /LiveTimeSkippingUI
 Format
@@ -849,18 +1012,31 @@ Time Compression 1
 Time Compression 2
 Time Compression 3
 Time Compression 4
+Time Compression 5
 Toggle UI
 Open Close Console
 Bug Report
+Reload
 
 /Rewards
 Reputation
 Budget
 Research Boost
+Milk Cow
+Captive Released
 
 /Accomplishments
 Assignment Completed
 Sunk Ship
+Sunk Ship Freighter
+Sunk Ship Tanker
+Sunk Ship Destroyer
+Sunk Ship Corvette
+Sunk Ship Battleship
+Sunk Ship Submarine
+Sunk Ship Escort Carrier
+Sunk Ship Cruiser
+Sunk Ship Fast Attack Craft
 Helped Ally
 Investigated Lost Ship
 Aircraft Shot Down
@@ -873,6 +1049,9 @@ Carried Wounded
 Visited Lost Ship
 Mined Lost Ship
 Wounds
+Weather Station Deployment
+Recovered Enigma From Wreck
+Located Gold In Wreck
 
 /AssignmentSummaryUI
 Statistics
@@ -883,6 +1062,11 @@ Statistics Header
 Sunken Ships Header
 Objectives Header
 Messages List Header
+GRT Progress Bar
+Rewards
+Additional Rewards
+Punishments
+Sunk Ship Format String
 
 /Mod Warning UI
 Info
@@ -1021,7 +1205,85 @@ Sailors X
 /TaskManagementUI
 Description
 Description use
-
+Save Preset
 
 /TimeManagementUI
 Description
+
+
+/ActivatorDetailsUI
+Details
+
+/EntityTooltips
+Imported Goods
+Exported Goods
+Goods Separator
+Paragraph Ending
+Unit Tooltip Name Known
+Unit Tooltip Name Unknown
+Similar To
+
+
+/Select SquareUI
+Select Target Square
+
+/CampaignObjectivesListUI
+Campaign Unavailable
+Campaign Unavailable Ports
+
+/Rich Presence
+Main Menu
+At Sea
+Docked
+Default
+
+/CrashWarningUI
+Info
+
+/TutorialWarningUI
+Info
+
+
+
+/CampaignSummaryUI
+Header
+Exit to Menu
+Summary Intro
+Surrender - Warship
+Surrender - Warship Short Service
+Surrender - Port
+Surrender - Port Short Service
+Scuttled - Port
+Scuttled - Port Short Service
+Scuttled - Specified Coast
+Scuttled - Specified Coast Short Service
+Scuttled - Unknown Coast
+Scuttled - Unknown Coast Short Service
+Decorations
+Casualties
+Zero Casualties
+Patrol Summary
+Patrol Summary With Special Missions
+Sunk Ships Summary Intro
+Sunk Ships Merchants
+Sunk Ships Merchants Single
+Sunk Ships Tankers Single
+Sunk Ships Tankers
+Sunk Ships Destroyers Single
+Sunk Ships Destroyers
+Sunk Ships Corvettes Single
+Sunk Ships Corvettes
+Sunk Ships Battleship
+Sunk Ships Battleships Many
+Sunk Ships Battleships Without Names
+Sunk Ships Battleships Without Names Single
+Sunk Ships Aircraft Carrier
+Sunk Ships Aircraft Carriers Many
+Sunk Ships Aircraft Carriers Without Names
+Sunk Ships Aircraft Carriers Without Names Single
+Sunk Ships Cruiser
+Sunk Ships Cruisers Many
+Sunk Ships Cruisers Without Names
+Sunk Ships Cruisers Without Names Single
+Sunk Ships Generic
+Summary End
