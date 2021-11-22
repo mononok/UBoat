@@ -1,0 +1,93 @@
+Key
+Report #1
+Report #2
+Misc Communications
+Report ID
+LostShipEvent.Title
+LostShipEvent.IntroMessageKnownIdentity
+LostShipEvent.IntroMessageUnknownIdentity
+SinkShipMission.Title
+SinkShipMission.IntroMessage
+GatherIntelMission.Title
+GatherIntelMission.IntroMessage
+GatherIntelMission.FinishMessage.Title
+GatherIntelMission.FinishMessage
+Hello World
+Report
+Campaign01_Message
+Renegade Message
+AllyNeedsHelpEvent.Title
+AllyNeedsHelpEvent.ReplacementParts
+AllyNeedsHelpEvent.MedicalSupplies
+AllyNeedsHelpEvent.Food
+Convoy Attack
+PatrolAssignment.Title
+PatrolAssignment.IntroMessage
+PatrolAssignment.DestinationReached.Title
+PatrolAssignment.DestinationReached
+PatrolAssignment.MissionFinished.Title
+PatrolAssignment.MissionFinished
+EspionageAssignment.Title
+EspionageAssignment.IntroMessage
+EspionageAssignment.SpyTransported.Title
+EspionageAssignment.SpyTransported
+EspionageAssignment.MissionFailed
+DiversionMission.IntroMessage
+DiversionMission.FinalMessage.Title
+DiversionMission.FinalMessage
+PortAttackAssignment.Title
+PortAttackAssignment.IntroMessage
+PortAttackAssignment.MissionFinished.Title
+PortAttackAssignment.MissionFinished
+JoinFlotillaAssignment.Title
+JoinFlotillaAssignment.IntroMessage
+JoinFlotillaAssignment.MissionFinished.Title
+JoinFlotillaAssignment.MissionFinished
+FreeRoamAssignment.Title
+FreeRoamAssignment.IntroMessage
+NPC Report
+Group.Title
+Group
+Ship.Title
+Ship
+LostShipMission/Coordinates
+LostShipMission/Explosive
+LostShipMission/AbandonedForUnknownReasons
+LostShipMission/Trap
+LostShipMission/BatteriesFailure.Title
+LostShipMission/BatteriesFailure
+Explosion Rumble.Title
+Explosion Rumble
+Destination Reached
+Destroyed.Title
+Destroyed
+DestroyedBy.Title
+DestroyedBy
+DestroyedByMyself.Title
+DestroyedByMyself
+AircraftDestroyedByMyself.Title
+AircraftDestroyedByMyself
+Group Hydrophone.Title
+Group Hydrophone
+Group Indirect.Title
+Group Indirect
+Group Indirect Convoy.Title
+Group Indirect Convoy
+Group Radar.Title
+Group Radar
+Group Radar Detector.Title
+Group Radar Detector
+SSS Contact
+Submarine Spotted
+SSS Torpedoed
+Message Encrypted
+Smoke Column
+Tutorial 01.Title
+Tutorial 02.Title
+Tutorial 03.Title
+Tutorial 04.Title
+Tutorial 05.Title
+Tutorial 06.Title
+Tutorial 07.Title
+Tutorial 04.SOS
+Standby Report

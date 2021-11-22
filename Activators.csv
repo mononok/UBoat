@@ -1,0 +1,598 @@
+Key
+Kitchen
+Radio Room
+Radio Room Description
+Hatch
+Attack Periscope
+Attack Periscope Description
+Deck Cannon
+Flak
+Storage
+Listening Room
+Listening Room Description
+Ladder
+Diesel Engine
+Trim Pump
+Trim Pump Short Description
+Trim Pump Description
+Gyrocompass
+Gyrocompass Short Description
+Gyrocompass Description
+Ventilation
+Ventilation Description
+Evacuation Hatch
+Evacuation Hatch Description
+Control Room
+Electric Engines
+Electric Engines Description
+Bow Torpedo Launcher
+Bow Torpedo Launcher Description
+Stern Torpedo Launcher
+Stern Torpedo Launcher Description
+Observation Spot
+Quarters
+Manage Workers
+Listen
+Open
+Close
+Blow the tanks
+Open map
+Enable
+Disable
+Evacuate
+Use
+Bulkhead
+Pipes
+Observation Periscope
+Observation Periscope Description
+Compressor
+Manage Torpedoes
+External Operation Meeting Point
+Mission
+Radio Listen
+Radio Listen Description
+Radio Listen Task
+Radio Listen Full Description
+Radio Listen Full Description 1
+Enable Device
+Disable Device
+Extend Antenna
+Hide Antenna
+Hydrophone Listen
+Hydrophone Listen Task
+Hydrophone Listen Full Description
+Hydrophone Listen Full Description 1
+ManageTorpedoesAction
+Targeting Sight
+Targeting Sight Description
+Funkpeilrahmen Antenna
+Junkers Diesel Compressor
+Junkers Diesel Compressor Description
+Electric Compressor
+Electric Compressor Description
+Use electrical steering
+Use manual steering
+Depth Steers Station
+Depth Steers Station Description
+Snorkel Control Lever
+Main Blowing Valve
+Flood the ballast tanks
+Blow the ballast tanks
+Blow the ballast tanks (emergency)	
+Adjust ballast
+Snorkel raise
+Snorkel hide
+Flood valves
+FuMB 26 „Tunis”
+Mount detector
+Unmount detector
+Climb up
+Climb down
+Open map
+Maps
+Repair
+Inspect
+First Aid
+Repair (Requires Parts)
+Discipline
+Calm Down
+Pardon
+Toilet Cleaning
+Arrest
+Execute
+Knock Out
+Pump out the water
+Open storage
+Open torpedo storage
+Open gun storage
+Open kitchen storage
+Open ventilation storage
+Open compartment storage
+Boost Performance
+Diesel Engines
+Diesel Engines Description
+Use Deck Gun
+Use Deck Gun Task
+Use Deck Gun Full Description
+Use Deck Gun Full Description 1
+Use Deck Gun Full Description 2
+Use Deck Gun Full Description 3
+MG C30
+MG C30 Description
+Play Cards
+Play Cards Full Description
+Valves
+Valves Description
+Warm up the torpedo
+Warm up the torpedo Full Description
+Load Torpedoes
+Load Torpedoes 1
+Load Torpedoes 2
+Load Torpedoes 3
+Load Torpedoes 4
+Load Torpedoes 5
+Load Torpedoes Full Description
+Load Torpedoes Full Description 1
+Load Torpedoes Full Description 2
+Load Torpedoes 1 Full Description
+Load Torpedoes 1 Full Description 1
+Load Torpedoes 1 Full Description 2
+Load Torpedoes 2 Full Description
+Load Torpedoes 2 Full Description 1
+Load Torpedoes 2 Full Description 2
+Load Torpedoes 3 Full Description
+Load Torpedoes 3 Full Description 1
+Load Torpedoes 3 Full Description 2
+Load Torpedoes 4 Full Description
+Load Torpedoes 4 Full Description 1
+Load Torpedoes 4 Full Description 2
+Load Torpedoes 5 Full Description
+Load Torpedoes 5 Full Description 1
+Load Torpedoes 5 Full Description 2
+Load and Warm Torpedoes
+Load and Warm Torpedoes 1
+Load and Warm Torpedoes 2
+Load and Warm Torpedoes 3
+Load and Warm Torpedoes 4
+Load and Warm Torpedoes 5
+Load and Warm Torpedoes Full Description
+Load and Warm Torpedoes Full Description 1
+Load and Warm Torpedoes Full Description 2
+Load and Warm Torpedoes 1 Full Description
+Load and Warm Torpedoes 1 Full Description 1
+Load and Warm Torpedoes 1 Full Description 2
+Load and Warm Torpedoes 2 Full Description
+Load and Warm Torpedoes 2 Full Description 1
+Load and Warm Torpedoes 2 Full Description 2
+Load and Warm Torpedoes 3 Full Description
+Load and Warm Torpedoes 3 Full Description 1
+Load and Warm Torpedoes 3 Full Description 2
+Load and Warm Torpedoes 4 Full Description
+Load and Warm Torpedoes 4 Full Description 1
+Load and Warm Torpedoes 4 Full Description 2
+Load and Warm Torpedoes 5 Full Description
+Load and Warm Torpedoes 5 Full Description 1
+Load and Warm Torpedoes 5 Full Description 2
+Use Attack Periscope
+Use Attack Periscope Task
+Use Attack Periscope Full Description
+Use Attack Periscope Full Description 1
+Use Observation Periscope
+Use Observation Periscope Task
+Use Targeting Sight
+Use Targeting Sight Task
+Use Targeting Sight Full Description
+Use Targeting Sight Full Description 1
+Use Targeting Sight Full Description 2
+Use Navigation Table
+Use Navigation Table Task
+Use Navigation Table Full Description
+Use Navigation Table Full Description 1
+Use Navigation Table Full Description 2
+Fix Ship Position
+Fix Ship Position Task
+Fix Ship Position Full Description
+Fix Ship Position Full Description 1
+Fix Ship Position Full Description 2
+Control Room Ladder
+Conning Tower Ladder
+Deck Ladder 1
+Deck Ladder 2
+Play Cards Description
+Use Navigation Table Description
+Sleep
+Sleep Full Description
+Consume Food
+Flood the ballast tanks Description
+Blow the ballast tanks Description
+Blow the ballast tanks (emergency) Description		
+Officer's Bed 1
+Officer's Bed 2
+Officer's Bed 3
+Officer's Bed 4
+Skipper's Bed
+ReturningTo
+PreparingToReturn
+TravellingTo
+Radio Listen State
+Receiving Transmission
+Investigating
+StoppingTheShip
+Manage Diesel Engines
+Manage Diesel Engines Task
+Manage Diesel Engines Full Description
+Manage Diesel Engines Full Description 1
+Manage Diesel Engines Full Description 2
+Manage Electric Engines
+Manage Electric Engines Task
+Manage Electric Engines Full Description
+Manage Electric Engines Full Description 1
+Manage Electric Engines Full Description 2
+Open Details
+Open Details Description
+Put on Deck
+Putting on Deck
+DivingTo
+DiverReturningTo
+Enable Trim Pump
+Disable Trim Pump
+Switch Light
+Light Switch
+Control Room Water
+Control Room Water Description
+Bow Torpedo Room Water
+Stern Torpedo Room Water
+Battery Room no. 1 Water
+Battery Room no. 2 Water
+Engine Room Water
+Galley Water
+Control Room Water StorageUI
+Bow Torpedo Room Water StorageUI
+Stern Torpedo Room Water StorageUI
+Battery Room no. 1 Water StorageUI
+Battery Room no. 2 Water StorageUI
+Engine Room Compartment StorageUI
+Galley Compartment StorageUI
+Bulb 1
+Bulb 2
+"Bulb 3 (Red, Blue)"
+Bulb
+Bulb (White)
+Distribution Board Door
+Distribution Board Door (2)
+Distribution Board Door (3)
+Navigation Table
+Navigation Table Description
+Pipe
+Exterior Hatch
+Hatch 06
+Hole Starboard
+Hole Starboard Description
+Hole Port
+Hole Port Description
+Hole Top
+Hole Top Description
+Power Distribution Board
+Table
+Toilet Pipe
+Flood Valves
+Main Storage
+Main Storage Description
+Item Storage
+Item Storage Description
+Torpedo Loading Hatch
+Torpedo Loading Hatch Description
+Cheese
+G7e Torpedo (T2)
+Put Down Briefcase
+Open Journal
+Talk
+Reflector
+Reflector Description
+Block Leak
+Block Leak Description
+Take Command
+Take Command Description
+Release From Duty
+Enable Gyrocompass
+Disable Gyrocompass
+Enable Ventilation
+Disable Ventilation
+Evacuate Compartment
+Stop Evacuation
+Enable Junkers Diesel Compressor
+Disable Junkers Diesel Compressor
+Enable Electric Compressor
+Disable Electric Compressor
+Skipper's Desk
+Use Flak
+Use Flak Task
+Use Flak Full Description
+Use Flak Full Description 1
+Use Flak Full Description 2
+Use Flak Full Description 3
+Use Flak Full Description 4
+Switch Light to Surface
+Switch Light to Alarm
+Switch Light to SilentRun
+Conning Tower
+Deck Storage
+Carry Items
+Carry Items Task
+Investigate Wreck
+Diver Spot
+Diver Spot Description
+Control Room Water StorageUI
+Bow Torpedo Room Water StorageUI
+Stern Torpedo Room Water StorageUI
+Battery Room no. 1 Water StorageUI
+Battery Room no. 2 Water StorageUI
+Engine Room Water StorageUI
+Galley Water StorageUI
+Large Wooden Chest
+Pontoon
+Open Container
+Cut The Rope
+Enable Reflector
+Disable Reflector
+Investigate
+Artillery - 8.8 cm
+Artillery - 8.8 cm Description
+Access Ammo Storage
+Idle
+Stern Torpedo Storage
+Bow Torpedo Storage
+Small Calibre Ammunition Storage
+Ammunition Storage
+Busy Warning
+Carrying Blocking Item
+Goods Depository
+Food Depository
+Ammunition Depository
+Torpedo Depository
+Fuel Depository
+Items Depository
+Fuel Tank
+Workshop
+Salvage Replacement Parts
+Salvage Replacement Parts Full Description
+Hide Flag
+Unfold Flag
+Flag Mast
+Drink Coffee
+Echosounder
+Echosounder Description
+Ping Shallow
+Ping Shallow Description
+Ping Deep
+Ping Deep Description
+Manage Diving Planes Station
+Manage Diving Planes Station Description
+Manage Diving Planes Station Full Description
+Status Required
+Control Room
+Bow Torpedo Room
+Stern Torpedo Room
+Battery Room no. 1
+Battery Room no. 2
+Engine Room
+Galley
+Deck
+Used by Somebody Else Warning
+Compartment Flooded Warning
+Take Items Task
+Turn On Electricity
+Turn Off Electricity
+Select Assignment
+Select Tutorial
+Abandon Assignment
+Reputation Purchases
+Open depository
+Enter upgrade mode
+Recruitment
+Open Crew List
+Open Vacation List
+Open Vacation List (Time Limit)
+Open Headquarters Screen
+Open Training Missions List
+Exit Dialogue
+Klaus Schmid
+Wolfgang Mayer
+Hans Fischer
+Erich Kuhn
+Snorkel
+Snorkel Description
+Anti-Radar Coated Snorkel
+Anti-Radar Coated Snorkel Description
+FuMB 1 „Metox”
+FuMB 1 „Metox” Description
+FuMB 10 „Borkum”
+FuMB 10 „Borkum” Description
+FuMB 7 „Naxos I”
+FuMB 7 „Naxos I” Description
+FuMB 26 „Tunis”
+FuMB 26 „Tunis” Description
+Improved Toilets
+Improved Toilets Description
+Accumulators I
+Accumulators I Description
+Accumulators II
+Accumulators II Description
+Accumulators III
+Accumulators III Description
+Turm 0
+Turm 0 Description
+Turm I
+Turm I Description
+Turm II
+Turm II Description
+Turm IV
+Turm IV Description
+GHG
+GHG Description
+KDB
+KDB Description
+GHG-Balkon
+GHG-Balkon Description
+Launch Sonar Decoy
+Launch Sonar Decoy Full Description
+Location Inaccessible
+Torpedo Is Being Loaded Warning
+Buoyancy Too Low Conning Tower Warning
+Buoyancy Too Low Deck Warning
+Cook
+Cook Full Description
+Toilet
+Exterior
+Evacuation
+Carry Wounded
+Warning Already Gets Help
+Warning No Free Beds
+Go To
+Trim pump enabled
+Trim pump enabled dry
+Trim pump disabled
+Trim pump disabled dry
+Antenna not hidden
+Antenna hidden
+Gyrocompass enabled
+Gyrocompass disabled
+Gyrocompass enabling
+Hatch closed
+Hatch open
+Depth steers station manual
+Depth steers station electric
+Snorkel mast raised
+Snorkel mast hidden
+Main Blowing Valve disabled
+Main Blowing Valve enabled
+Flood Valves disabled
+Flood Valves enabled
+Compartment Evacuated
+Hatch Pressure Durability
+Hatch Pressure
+Pump - Compartments Dry
+Pump - Compartments Flooded
+Pump - Compartments Pump Time
+Pump - Pressure
+Kitchen - Header
+Kitchen - Summary
+Kitchen - Summary Extended
+Kitchen - Extra Ingredients
+Kitchen - Extra Ingredients Not Last
+Kitchen - Extra Ingredients Last
+Kitchen - Empty
+Radio - Perfect Weather
+Radio - Weather Signal Quality
+Radio - Water Signal Quality
+Listening Room - Radar Detector
+Listening Room - Radar Detector Range
+Listening Room - Radar Detector Range Groups
+Listening Room - Hydrophone Detection Range
+Listening Room - Hydrophone Detection Range Groups
+Listening Room - Depth Charges Modifier
+Listening Room - Engines Modifier
+Listening Room - Surface Modifier
+Listening Room - Surface Modifier Full
+Compressor - Tanks Status
+Compressor - Tanks Full
+Compressor - Uses Interior Air
+Ventilation - Air Quality
+Ventilation - Air Quality Warning
+Ventilation - Air Quality Warning With Absorbers
+Periscope - Detection Range
+Periscope - Detection Range Groups
+Depth Steers Station - Electric
+Depth Steers Station - Manual
+Leak - Flow Rate
+Leak - Pressure
+Gyrocompass - Operational
+Gyrocompass - Operational In
+Navigation Table - We are Lost
+Navigation Table - Known Area
+Navigation Table - Navigation Increases
+Navigation Table - Navigation Decreases
+Navigation Table - Unsure
+Engines - RPM
+Engines - Speed
+Workshop - Remaining Replacement Parts
+Workshop - No Replacement Parts
+Diver Spot - Nothing Below
+Diver Spot - Ship
+General - Unused
+General - Disabled
+Torpedo Launchers - Loadout
+Torpedo Launchers - Empty
+Valves - Flooded
+Valves - Flooding
+Valves - Empty
+Valves - Blowing
+Valves - Not Enough Compressed Air
+Gun - Ammunition
+Social Table - In Use
+Social Table - Officer Waits
+Storage - Mass
+Container - Item
+Container - Empty
+Bilges - Mass
+Bilges - Buoyancy
+Bilges - Dry
+Ballast Tank - Water
+Ballast Tank - Empty
+Fuel Tank - Fuel
+Fuel Tank - Empty
+Power Control Room
+Power Conning Tower
+Power Battery Room no. 1
+Power Battery Room no. 2
+Power Bow Torpedo Room
+Power Galley
+Power Engine Room
+Power Stern Torpedo Room
+Sailor Work Engines
+Sailor Work Observation
+Sailor Work Cleaning Station
+Sailor Work Galley
+Sailor Work Observation Periscope
+Sailor Work Helmsman Station
+Sailor Work Vertical Steers Station
+Sailor Work Valve Watch
+Sailor Work Switch Power
+
+Ballast Tank no. 1
+Ballast Tank no. 2
+Ballast Tank no. 3
+Ballast Tank no. 4
+Ballast Tank no. 5
+Conning Tower Interior
+Fuel Tank no. 1
+Fuel Tank no. 2
+Pill Thrower
+
+G7a Torpedo (T1)
+G7e Torpedo (T2)
+G7e Torpedo (T3)
+"G7es ""Zaunkönig"" Torpedo (T5)"
+G7e Torpedo (T3) Prototype
+"G7es ""Zaunkönig"" Torpedo (T5) Prototype"
+G7a Torpedo (T1) (Warmed)
+G7e Torpedo (T2) (Warmed)
+G7e Torpedo (T3) (Warmed)
+"G7es ""Zaunkönig"" Torpedo (T5) (Warmed)"
+G7e Torpedo (T3) Prototype (Warmed)
+"G7es ""Zaunkönig"" Torpedo (T5) Prototype (Warmed)"
+TMB Mine x3
+
+Bleeding
+Resupply Ammunition
+Disallow Sailor Work
+Allow Sailor Work
+Work At Helmsman Station
+Helmsman Station
+Cleaning Station
+Vacation
+Turn ON
+Turn OFF
+RunAtBowAction
+Valve Watch
+Switch Power

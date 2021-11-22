@@ -1,0 +1,125 @@
+Key
+EpidemicStory Title
+EpidemicStory
+EpidemicStory.Accept
+EpidemicStory.Accept Tooltip
+CookFaultStory Title
+CookFaultStory
+CookFaultStory.Pardon
+CookFaultStory.Pardon Tooltip
+CookFaultStory.ToiletCleaning
+CookFaultStory.ToiletCleaning Tooltip
+CookFaultStory.Brig
+CookFaultStory.Brig Tooltip
+CookFaultStory.Execution
+CookFaultStory.Execution Tooltip
+ProcrastinatingSailorStory Title
+ProcrastinatingSailorStory
+ProcrastinatingSailorStory.Pardon
+ProcrastinatingSailorStory.Pardon Tooltip
+ProcrastinatingSailorStory.ToiletCleaning
+ProcrastinatingSailorStory.ToiletCleaning Tooltip
+ProcrastinatingSailorStory.Brig
+ProcrastinatingSailorStory.Brig Tooltip
+ProcrastinatingSailorStory.Execution
+ProcrastinatingSailorStory.Execution Tooltip
+LostShipStoryA1 Title
+LostShipStoryA1
+LostShipStoryA1.Investigate
+LostShipStoryA1.Investigate Tooltip
+LostShipStoryA1.Cancel
+LostShipStoryA1.Cancel Tooltip
+LostShipStoryA2 Title
+LostShipStoryA2
+LostShipStoryA2_Neutral
+LostShipStoryA2.Accept
+LostShipStoryA2.Accept Tooltip
+LostShipStoryA2.Mine
+LostShipStoryA2.Mine Tooltip
+InspectFreighterStoryA1 Title
+InspectFreighterStoryA1
+InspectFreighterStoryA1.Inspect
+InspectFreighterStoryA1.Investigate Tooltip
+InspectFreighterStoryA1.Cancel
+InspectFreighterStoryA1.Cancel Tooltip
+InspectFreighterStoryA2 Title
+InspectFreighterStoryA2
+InspectFreighterStoryA2.Sink
+InspectFreighterStoryA2.Investigate Tooltip
+InspectFreighterStoryA2.Cancel
+InspectFreighterStoryA2.Cancel Tooltip
+SearchWreckStoryA1 Title
+SearchWreckStoryA1
+SearchWreckStoryA1.Investigate
+SearchWreckStoryA1.Investigate Tooltip
+SearchWreckStoryA1.Cancel
+SearchWreckStoryA1.Cancel Tooltip
+SearchWreckStoryA2 Title
+SearchWreckStoryA2
+SearchWreckStoryA2.TakeBox
+SearchWreckStoryA2.TakeBox Tooltip
+SearchWreckStoryA2.Return
+SearchWreckStoryA2.Return Tooltip
+Take Item
+AllyNeedsHelpStoryA1 ReplacementParts Title
+AllyNeedsHelpStoryA1 MedicalSupplies Title
+AllyNeedsHelpStoryA1 Food Title
+AllyNeedsHelpStoryA1 ReplacementParts
+AllyNeedsHelpStoryA1 MedicalSupplies
+AllyNeedsHelpStoryA1 Food
+AllyNeedsHelpStoryA1.Travel
+AllyNeedsHelpStoryA1.Travel Tooltip
+AllyNeedsHelpStoryA1.Cancel
+AllyNeedsHelpStoryA1.Cancel Tooltip
+AllyNeedsHelpStoryA2 Title
+AllyNeedsHelpStoryA2
+AllyNeedsHelpStoryA2.GiveReplacementParts
+AllyNeedsHelpStoryA2.GiveReplacementParts Tooltip
+AllyNeedsHelpStoryA2.GiveMedicalSupplies
+AllyNeedsHelpStoryA2.GiveMedicalSupplies Tooltip
+AllyNeedsHelpStoryA2.GiveFood
+AllyNeedsHelpStoryA2.GiveFood Tooltip
+AllyNeedsHelpStoryA2.Return
+AllyNeedsHelpStoryA2.Return Tooltip
+AllyNeedsHelpStoryA3 Title
+AllyNeedsHelpStoryA3
+AllyNeedsHelpStoryA3.Return
+AllyNeedsHelpStoryA3.Return Tooltip
+PhotoRequestStory
+PhotoRequestStory.Accept
+PhotoRequestStory.Cancel
+InterviewRequestStory.Personal
+InterviewRequestStory.Engines
+InterviewRequestStory.Leadership
+InterviewRequestStory.Radio
+InterviewRequestStory.Accept
+InterviewRequestStory.Cancel
+SpyHello
+SpyHello Title
+WarCorrespondentHello
+WarCorrespondentHello Title
+WarCorrespondentHello.Welcome
+WarCorrespondentCorrectAnswer Title
+WarCorrespondentCorrectAnswer
+WarCorrespondentWrongAnswer Title
+WarCorrespondentWrongAnswer
+WarCorrespondentThanks.Accept
+WarCorrespondentQuestion.Classified
+
+/WarCorrespondentQuestion
+Periscopes
+Periscopes Title
+Periscopes.Observation
+Periscopes.Attack
+Submerge
+Submerge Title
+Submerge.BallastTanks
+Submerge.Steers
+CompressedAir
+CompressedAir Title
+CompressedAir.Surfacing
+CompressedAir.RefreshingAir
+Food
+Food Title
+Food.Toilet
+Food.OfficerRoom

@@ -1,0 +1,158 @@
+Key
+ReportEnemyPositionType
+ReportEnemyPositionDirectionType
+ReportAlliedPositionType
+Situation Update
+Campaign 01: Beginning
+Campaign 01: Beginning Description
+Campaign 01: Beginning MeetTheCaptain
+Campaign 01: Beginning LeaveBaggage
+Campaign 01: Beginning OpenMap
+Campaign 01: Beginning SetDestination1
+Campaign 01: Beginning SetDestination2
+Campaign 01: Beginning SetDestination3
+Campaign 01: Beginning SetDestination4
+Campaign 01: Beginning Discipline
+Campaign 01: Beginning RestockFood
+Campaign 01: Beginning ReadMessageFromBdU
+Campaign 01: Beginning ReachDestination
+Campaign 01: Beginning EnableReflector
+Campaign 01: Beginning FindWreck
+Campaign 01: Beginning ApproachWreck
+Campaign 01: Beginning SearchTheCargo
+Campaign 01: Beginning EquipDivingSuit
+Campaign 01: Beginning SendDiver
+Campaign 01: Beginning PullOutTheRadar
+Campaign 01: Beginning ObtainRadar
+Campaign 01: Beginning ObtainRadar2
+Campaign 01: Beginning MeetTheCaptain2
+Campaign 01: Beginning CutTheRope
+Campaign 01: Beginning Dive
+Campaign 01: Beginning Escape
+Campaign 01: Beginning EvacuateCompartment
+Campaign 01: Beginning RepairHatch1
+Campaign 01: Beginning RepairHatch2
+Campaign 01: Beginning EnablePump
+Campaign 01: Beginning Surface
+Campaign 01: Beginning EquipRebreather
+Campaign 01: Beginning OpenFloodedCompartment
+Campaign 01: Beginning RepairHullHole
+Campaign 01: Beginning RepairAirCompressor
+Campaign 01: Beginning RegenerateAirReserves
+Campaign 01: Beginning RepairElectricEngines
+Campaign 01: Beginning ShotDownTheAircraft
+Campaign 01: Beginning DetectTheCarrier
+Campaign 01: Beginning ApproachTheCarrier
+Campaign 01: Beginning SinkTheCarrier
+Campaign 01: Beginning Escape2
+Campaign 01: Beginning ReachThePort
+LostShipMission
+LostShipMission Description
+LostShipMission FindLostShip
+LostShipMission FindLostShip TimeLimitOff
+LostShipMission Investigate
+LostShipMission Sink
+AllyNeedsHelpMission
+AllyNeedsHelpMission MeetAlly
+AllyNeedsHelpMission MeetAlly TimeLimitOff
+SinkShipMission
+SinkShipMission Find
+SinkShipMission Sink
+GatherIntelMission
+GatherIntelMission ReachDestination
+GatherIntelMission GatherIntel
+Campaign 01: Beginning GoToTargetingSight
+PatrolAssignment
+PatrolAssignment Description
+PatrolAssignment Additional Objective
+PatrolAssignment Travel
+PatrolAssignment SinkGRT
+PatrolAssignment Completion
+EspionageAssignment
+EspionageAssignment Description
+EspionageAssignment Transport
+EspionageAssignment TransportAtNight
+EspionageAssignment SendReport
+EspionageAssignment FirstAid
+EspionageAssignment BombMaking
+EspionageAssignment Diversion
+EspionageAssignment KeepSpySafe
+EspionageAssignment ListenForOrders
+DiversionMission TravelToPort
+DiversionMission PrepareDiversion
+EspionageAssignment Completion
+DiversionMission
+PortAttackAssignment
+PortAttackAssignment Description
+PortAttackAssignment TravelToPort
+PortAttackAssignment StayUndetected
+PortAttackAssignment SinkShips
+PortAttackAssignment Escape
+PortAttackAssignment Completion
+JoinFlotillaAssignment
+JoinFlotillaAssignment Description
+JoinFlotillaAssignment TravelToPort
+JoinFlotillaAssignment ReportToOfficer
+JoinFlotillaAssignment Completion
+FreeRoamAssignment
+FreeRoamAssignment Completion
+BattleshipMissionModifier Intelligence
+WarCorrespondentMissionModifier
+WarCorrespondentMissionModifier Description
+WarCorrespondentMissionModifier ArticleQuality
+AircraftActivityMissionModifier
+AircraftActivityMissionModifier Intelligence
+WarshipActivityMissionModifier
+WarshipActivityMissionModifier Intelligence
+ExperimentalTorpedoMissionModifier
+ExperimentalTorpedoMissionModifier Description
+ExperimentalTorpedoMissionModifier FreeSpace
+ExperimentalTorpedoMissionModifier TestPrototype
+FoggyWeatherMissionModifier Intelligence
+StormyWeatherMissionModifier Intelligence
+CalmWeatherMissionModifier Intelligence
+Objectives
+Additional Objectives
+Intelligence
+WolfpackAttackMission ReachDestination
+WolfpackAttackMission WaitForConvoy
+WolfpackAttackMission SinkGRT
+Tutorial 00
+Tutorial 00 Talk
+Tutorial 01
+Tutorial 01 Description
+Tutorial 01 Talk
+Tutorial 01 BuyFood
+Tutorial 01 BuyFuel
+Tutorial 01 BuyTorpedoes
+Tutorial 01 SkipWaitTime
+Tutorial 02
+Tutorial 02 Description
+Tutorial 02 Undock
+Tutorial 02 SetDestination
+Tutorial 02 Arrive
+Tutorial 02 OpenMap
+Tutorial 03
+Tutorial 03 Description
+Tutorial 03 OpenMap
+Tutorial 03 SetDestination
+Tutorial 03 Undock
+Tutorial 03 Arrive
+Tutorial 03 GetCloseToFreighter
+Tutorial 04
+Tutorial 04 Description
+Tutorial 04 SetDestination
+Tutorial 04 Undock
+Tutorial 04 Arrive
+Tutorial 04 OpenMap
+Tutorial 04 AllyHelpPlotPath
+Tutorial 04 Travel
+Tutorial 04 Return
+Tutorial 05
+Tutorial 05 Description
+Tutorial 05 Talk
+Tutorial 06
+Tutorial 06 Description
+Tutorial 06 Talk
+Tutorial 07
+Tutorial 07 Description

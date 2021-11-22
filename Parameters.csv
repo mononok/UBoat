@@ -1,0 +1,98 @@
+Key
+HydrophoneDetectability
+HydrophoneDetectability/Description
+VisualDetectability
+VisualDetectability/Description
+SignatureRadius
+SignatureRadius/Description
+RadarDetectability
+SonarDetectability
+SonarDetectability/Description
+Depth
+Detected
+Alarm
+Base
+Gyrocompass
+Hull
+Navigation System
+Diesel Engine
+Snorkel
+Surface Noise
+Electric Engine
+Sonar Decoy
+Budget
+Budget/Description
+Energy
+Energy/Description
+Oxygen
+Oxygen/Description
+Discipline
+Discipline/Description
+Fuel
+Fuel/Description
+Crew
+Fresh Air
+Shadow Zone
+Seabed Proximity
+Surface Disturbances
+Cavitation
+Hunger
+Attack Periscope
+Diesel Compressor
+Electric Compressor
+Time of Day
+U-Boat Radar Detector/RadarDetectorRange
+U-Boat Radar Detector/Wavelength
+UnderwaterMoraleLoss
+TransmissionDuration
+HydrophoneRange
+HydrophoneRange Short
+GroupHydrophoneRange Short
+RadarDetectorRange Short
+GroupRadarDetectorRange Short
+ReceiveRange Short
+SonarRange Short
+SightRange Short
+GroupSightRange Short
+Noise Short
+Length Short
+Visibility Short
+SignatureRadius Short
+MaximumGear Short
+TransmissionRange
+TransmissionRange Short
+Cloudiness
+Fogginess
+Fog
+Rain
+Temperature
+Thunder
+Propeller
+Sun Position
+Reflector
+Pumps
+Lightings
+Steering Engines
+Reputation
+Reputation/Description
+Music
+Ventilation
+FoodTypes
+PlayCardsAction
+Silent Run
+Normal Lighting
+Red Lighting
+Work for Officers
+Bounty
+Resource Usage Suffix
+Additional Sailors - Engines
+Additional Sailors - Navigation
+CookAction
+Mark VII Depth Charge Shell
+Mark VII Heavy Depth Charge Shell
+Mark VII Upgraded Depth Charge Shell
+Fatigue
+Crew Noise
+Dirtiness
+Torpedo Loading
+Torpedo Warming

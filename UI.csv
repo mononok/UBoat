@@ -1,0 +1,1027 @@
+/MapUI
+Time on Sea
+Time on Sea Short
+Depth
+Group Tooltip
+Group Tooltip Short
+Time on Sea Tooltip
+Wind Speed Tooltip
+Navigation Correctness Tooltip
+Navigation Error Tooltip
+Depth Tooltip
+Coordinates Tooltip
+Exit Map
+Center Camera
+Lost on the Sea
+Full Map Tooltip
+World Map Tooltip
+Situational Map Tooltip
+Similar To
+Compass Tooltip
+Protractor Tooltip
+Ruler Tooltip
+Marker Tooltip
+Eraser Tooltip
+Contact Warning
+Capture Course Impossible
+/PeriscopeUI
+Start
+Stop
+Set
+Acquired Data Label
+Identification Book Data
+Stadimeter Tooltip
+Chronometer Tooltip
+Course Tooltip
+Course Tooltip Warning
+Identification Book Tooltip
+Velocity Tooltip
+Distance Tooltip
+Course Tooltip
+Zoom Tooltip
+Color Filter Tooltip
+Change View Tooltip
+Lock
+Unlock
+Unknown
+Stadimeter Help Text
+Chronometer Help Text
+Course Help Text
+Frachter Warning
+Recognize
+
+/Telegraph
+Button 4
+Button 3
+Button 2
+Button 1
+Button 0
+Button 11
+Button 12
+Button 13
+Button 14
+Button 15
+Button 5
+Button 6
+Button 7
+Button 8
+Button 9
+Button 10
+
+/Banners
+Experience Gain
+Level Up
+
+/Journal
+Empty Report
+Report Value
+Messages Header
+Header
+Subjects Header
+Report Header
+Enter Text
+Create
+
+/Travel Confirmation
+Title
+Description
+
+
+/ActiveMissionSummaryUI
+NextStepLabel
+Deselect
+None
+Send Report
+Send Report NoValue
+Send Report Totals
+Send Report NoValue Totals
+New Intelligence
+Accept Reward
+Send Report No Radio Operator
+Send Report Out of Range
+Send Report Underwater
+Send Report No Radio Operator Totals
+Send Report Out of Range Totals
+Send Report Underwater Totals
+Skip Off Duty Time
+Skip Off Duty Time Stop
+Wait for Convoy
+Meet Ally
+Main Mission
+Side Mission
+Tutorial
+New Mission
+Mission Completed
+New Objective
+Objective Completed
+Mission Failed
+/InteractionWheelUI
+Description
+
+
+/TutorialUI
+Close Legend
+Close Legend Controller
+
+
+/StageViewUI
+Leave Position
+
+
+/StorageUI
+Description
+Item Parameters
+Header
+Place on Deck
+Yes
+No
+Throw Out
+Count Cancel
+Count Transfer
+Transfer Hint
+Pre-heating Tip
+Fuel Header
+Refuel
+Fuel Price
+Off Duty Duration
+Off Duty Duration Total
+Moving X
+Moving
+Total Transport Time Long
+Total Transport Time
+
+/MainMenuUI
+Continue
+New Game
+Sandbox Test
+Load
+Settings
+Quit
+Gameplay
+Video
+Graphics
+Audio
+Controls
+Keyboard
+Keyboard Settings
+Gameplay Settings
+Difficulty
+Video Settings
+Resolution
+Display Mode
+Gamma
+Reset
+Vertical Sync
+Graphics Settings
+Quality Preset
+Water
+Shadows
+Contact Shadows
+Disabled
+Enabled (Sunlight)
+Enabled (All)
+Textures Resolution
+Textures Resolution Warning
+Reflections
+Effects
+Ambient Occlusion
+Bloom
+Vignette
+Depth of Field
+Motion Blur
+Chromatic Aberration
+Antialiasing
+Filtering Mode
+Audio Settings
+Speaker Configuration
+Master
+Music
+Effects
+Speech
+Subtitles
+Play music in FPP
+Control Settings
+Difficulty Normal
+Difficulty Hard
+Difficulty Impossible
+Display Fullscreen Windowed
+Display Fullscreen
+Display Windowed
+Preset Custom
+Preset Basic
+Preset Good
+Preset High
+Preset Extreme
+Water Simple
+Water Good
+Water Very Good
+Water Extreme
+Shadows Simple
+Shadows Good
+Shadows Very Good
+Shadows Extreme
+Textures Simple
+Textures Good
+Textures Very Good
+Reflections Basic
+Reflections Screen Space
+PostProcessing Simple
+PostProcessing Good
+PostProcessing Very Good
+PostProcessing Full
+Antialiasing None
+Antialiasing FXAA
+Antialiasing Temporal
+Temporal Antialiasing Style
+Temporal Antialiasing Subtle
+Temporal Antialiasing Normal
+Temporal Antialiasing Intense
+Filtering Trilinear
+Filtering Defaults
+Filtering Anisotropic
+Speaker Default
+Speaker Mono
+Speaker Stereo
+Speaker 4 Speakers
+Speaker 5 Speakers
+Speaker 5.1 Speakers
+Speaker 7.1 Speakers
+Resolution Change Confirmation
+Resolution Change Countdown
+No
+Yes
+Post-processing
+Scroll Map at Edges
+Invert Mouse
+Invert Mouse (Periscope)
+Rotation Sensitivity
+Error Reporting
+UI Scale
+Scroll View Modes
+Controller
+Controller Mouse
+Realistic Nights
+Realistic Nights Tooltip
+Realistic Bilge
+Realistic Bilge Tooltip
+Expanded Schedules
+Expanded Schedules Tooltip
+Realistic Earth Curvature
+Realistic Earth Curvature Tooltip
+Manual Item Delivery
+Manual Item Delivery Tooltip
+Units
+Units Tooltip
+Collision damage
+Collision damage Tooltip
+Hardcore aiming mode
+Hardcore aiming mode Tooltip
+Hide detection hint
+Hide detection hint Tooltip
+Metric
+MetricWithKnots
+Imperial
+New Campaign
+Level of Detail
+LOD Simple
+LOD Good
+LOD Very Good
+LOD Extreme
+Save Mode
+Save Mode Tooltip
+Saves Normal
+Saves Ports Only
+Gameplay Mode
+Gameplay Mode Tooltip
+Gameplay Normal
+Gameplay FPP Only
+Display Hints
+Voice Language
+Voice Language Tooltip
+Voice German
+Voice English
+Keyboard Hint
+Press Any Key Label
+Menu Style
+Menu Automatic
+Menu Static
+Menu Animated
+Last Game State Info
+Travel System
+Dynamic
+Realistic
+Travel System Tooltip
+Coordinates style
+Coordinates style Tooltip
+Classic
+Decimal
+Preset
+Entertaining
+Balanced
+Realism X
+Cache Size
+Map Skin
+Map Default
+Map Desaturated
+Map Semi-Realistic
+Economic difficulty
+Economic difficulty Tooltip
+Economic Easy
+Economic Medium
+Economic Hard
+AI difficulty
+AI difficulty Tooltip
+AI Easy
+AI Medium
+AI Hard
+
+/CampaignSetupUI
+Back
+Next
+Difficulty
+Difficulty Normal
+Difficulty High
+Difficulty VeryHigh
+Port
+Date
+Unit Type
+Unit Name
+Unit Flotilla
+1st U-boat Flotilla
+7th U-boat Flotilla
+9th U-boat Flotilla
+11th U-boat Flotilla
+29th U-boat Flotilla
+Tutorial - Name
+Tutorial - Title
+Tutorial - Description
+U-96 - Title
+U-96 - Description
+U-552 - Title
+U-552 - Description
+U-564 - Title
+U-564 - Description
+U-559 - Title
+U-559 - Description
+U-606 - Title
+U-606 - Description
+U-764 - Title
+U-764 - Description
+U-984 - Title
+U-984 - Description
+U-1055 - Title
+U-1055 - Description
+Tutorial Warning
+Training Missions Warning
+
+/EscapeMenuUI
+Resume
+Save Game
+Load Game
+Settings
+Quit to Menu
+Quit
+QuitConfirmation
+QuitYes
+QuitNo
+
+
+/AreaEnterNotificationUI
+Entering Area
+Loading
+
+
+/HintUI
+Close
+Skip Tutorials
+
+
+/LoadingUI
+Loading
+Hint 1
+Hint 2
+Hint 3
+Hint 4
+Hint 5
+Hint 6
+Hint 7
+Hint 8
+Hint 9
+Hint 10
+Hint 11
+Hint 12
+Hint 13
+Hint 14
+Hint 15
+Hint 16
+Hint 17
+
+/IntroMovieUI
+Label 1
+Label 2
+Label 3
+
+/ControlUI
+Telegraph
+Depth Meter
+Rudder
+Map
+Journal
+Pause
+Time Compression
+Fast Travel
+Speed
+Depth Preset - Surface
+Depth Preset - Deck Awash
+Depth Preset - Periscope Depth
+Depth Preset - Max Safe Depth
+Undock Generic Blockade
+Undock Take Assignment
+Undock Awaiting Objective
+Undock Missing Skipper
+Undock Vacation
+Undock Load
+Working Crew Tooltip Short
+Working Crew Tooltip
+
+
+/ContactsUI
+Targets
+Target - Hide Periscope
+Target - Raise Periscope
+Target - Auto
+Target - Clear
+Target - Ships
+Target - Aircrafts
+Target - Scan
+
+/EntitySelectionUI
+Capture Course
+Center Camera
+Target
+Select Torpedo
+Select Torpedo Not Enough Data
+Attack
+Deffensive
+Escape
+
+/RadioTransmissionsUI
+Out of Range
+Not Available in Demo
+Alarm
+
+/TorpedoLaunchersUI
+Speed
+Depth
+Spread
+Launcher Empty
+Status - Loading
+Status - Preheating
+Status - Unloading
+Depth Warning
+
+/DefeatSummaryUI
+Header
+Crew
+Officers
+Leave to Menu
+Accept
+
+/MissionCompletionUI
+Missions
+Accept Reward
+Reward
+Asignment Completed
+
+/TrophyScreenUI
+Header
+Header Progression
+
+
+/DevConsole
+Error Logged
+
+/EntityViewUI
+Leave View
+
+/CharacterSelectionUI
+Rest
+Add Follower
+Remove Follower
+Character Screen
+Follower Tooltips/LeaderFollower
+Follower Tooltips/EngineerFollower
+Follower Tooltips/RadiomanFollower
+Follower Tooltips/Use Targeting Sight
+Follower Tooltips/Use Attack Periscope
+Follower Tooltips/Load Torpedoes
+Follower Tooltips/Manage Diesel Engines
+Follower Tooltips/Manage Electric Engines
+Follower Tooltips/Hydrophone Listen
+Follower Tooltips/Radio Listen
+Follower Tooltips/Use Flak
+Follower Tooltips/Use Deck Gun
+Follower Tooltips/Carry Items
+No Role
+Chief Engineer
+Chief Engineer/Tooltip
+Watch Officer
+Watch Officer/Tooltip
+Torpedo Mechanic
+Torpedo Mechanic/Tooltip
+Radio Officer
+Radio Officer/Tooltip
+Chief Boatswain
+Chief Boatswain/Tooltip
+Technician Officer
+Technician Officer/Tooltip
+Gunner
+Gunner/Tooltip
+Medic
+Medic/Tooltip
+Quartermaster
+Quartermaster/Tooltip
+LeaderFollower
+EngineerFollower
+RadiomanFollower
+
+/GunUI
+Swap Ammo Tip
+Out of Ammo
+
+/ChangeViewUI
+FPP
+Section View
+Orbit View
+
+/ActionQueueUI
+Adding to Queue
+Idle
+Locked Action Tooltip
+External Action Tooltip
+
+/CompartmentInfoUI
+Stern Torpedo Room
+Engine Room
+Galley
+Crew Quarters
+Control Room
+Officers Room
+Bow Torpedo Room
+Conning Tower
+
+/AssignmentSelectionUI
+Difficulty Easy
+Difficulty Medium
+Difficulty Hard
+Assignments
+Mission Select
+Objective
+Reward
+
+/LoadGameStateUI
+Save Data
+Incompatible Version
+Header
+Load
+Delete
+
+/SaveGameStateUI
+Header
+Save
+Cancel
+Accept
+Saving
+Saving Error
+NEW GAME STATE FILE
+Invalid Characters Error
+Tutorial Blockade
+General Blockade
+Undocked Blockade
+
+/UpgradeModeUI
+Header
+Total Time to Install Long
+Total Time to Install
+
+/UpgradeUI
+Header
+Research Available
+Install Progress
+Install Queued
+Install Time
+
+/CrewListUI
+Boarded
+Free
+Select
+Requirements not Met
+Crew Management
+Status
+Level
+Management
+Ready
+Delegated to HQ
+Personality
+Description
+
+/RecruitmentUI
+Recruitment
+Recruit
+Class
+Name
+Price
+
+/MenuDropdown
+MENU
+JOURNAL
+MANAGEMENT
+HEADQUARTERS
+UBOATOPEDIA
+SAVE
+LOAD
+SETTINGS
+EXIT
+
+
+/ReputationPurchasesListUI
+Reputation Purchases
+Buy
+
+
+
+
+/HeadquartersUI
+Time to Complete
+Task Completed
+EMPTY
+ClickToStartNewOperation
+Requires
+Early Research Warning
+
+
+/RecruitmentUI/Backgrounds
+Story 1
+Story 2
+Story 3
+Story 4
+Story 5
+Story 6
+Story 7
+Story 8
+Story 9
+Story 10
+Story 11
+Story 12
+Story 13
+Story 14
+Story 15
+Story 16
+Story 17
+Story 18
+Story 19
+Story 20
+Story 21
+Story 22
+Story 23
+Story 24
+Story 25
+Story 26
+Story 27
+
+/CharacterUI
+Class
+Level
+XP
+Status
+Role
+Decorations
+Statistics
+Skills
+Customize
+Promote
+Disband
+Disband Confirmation
+Exit
+Apply
+Name
+Voice
+Body Shape
+Clothes
+Pants
+Accessory 1
+Accessory 2
+Cap
+Hairstyle
+Beard
+Hair color
+Complexion
+Face type
+Eye color
+Enter text
+Cancel
+Accept
+Customize Skipper Label
+Reputation Point Required
+Reputation Point Required Missing
+Promotion Possible Only in Port
+Captain Name
+Remaining Skill Points
+Thin
+Slightly Muscular
+Muscular
+Slightly Overweight
+Large
+Heavy
+
+/CharacterUI/Hair Colors
+Black
+Brown
+Blonde
+Red
+Gray
+
+/CharacterSwitchUI
+X More
+Normal Lighting
+Red Lighting
+Blue Lighting
+
+/HUD
+FPP Hint
+FPP Hint Activator
+
+/LiveTimeSkippingUI
+Format
+
+/VacationUI
+Header
+Duration Format
+Fatigue Reset
+Discipline Modifier
+Crew Energy Loss Modifier
+Experience Bonus
+Headquarters Performance Modifier
+La Rochelle
+La Rochelle Description
+French Chateau
+French Chateau Description
+French Campsite
+French Campsite Description
+Bavarian Village
+Bavarian Village Description
+German Alps Resort
+German Alps Resort Description
+Eagle's Nest
+Eagle's Nest Description
+
+/InputSettingsUI
+Already Used Confirmation
+Hydrophone
+Hydrophone - Adjust Bearing
+Hydrophone - Adjust Bearing Negative
+Hydrophone - Adjust Cutoff Frequency
+Hydrophone - Adjust Cutoff Frequency Negative
+Hydrophone - Adjust Volume
+Hydrophone - Adjust Volume Negative
+Camera
+Horizontal
+Horizontal Negative
+Vertical
+Vertical Negative
+Map Toggle
+Free Camera Mode
+Free Camera
+Free Fly Camera Up Down
+Free Fly Camera Up Down Negative
+View - FPP
+View - Section View
+View - Orbit View
+Zoom
+Zoom Negative
+FPP
+Horizontal Movement
+Horizontal Movement Negative
+Vertical Movement
+Vertical Movement Negative
+Sprint
+Binocular Toggle
+Flashlight
+FPP Show UI
+Gunnery
+Ammo - Next
+Ammo - Previous
+Artillery Fire
+Gun Zoom
+Rotate Gun - Horizontal
+Rotate Gun - Horizontal Negative
+Rotate Gun - Vertical
+Rotate Gun - Vertical Negative
+Hotkeys
+Pause
+Quick Save
+Quick Load
+Switch Character
+Engine Gear Increase
+Engine Gear Decrease
+Open Telegraph
+Open Depth Meter
+Open Rudder Control
+Open Journal
+UI Scale Increase
+UI Scale Decrease
+Hotkey - Character 0
+Hotkey - Character 1
+Hotkey - Character 2
+Hotkey - Character 3
+Hotkey - Character 4
+Hotkey - Character 5
+Hotkey - Character 6
+Hotkey - Character 7
+Hotkey - Character 8
+Miscellaneous
+Capture Screenshot
+Queue Actions
+Show Hidden Activators
+Swap Postprocessing
+Time Compression
+Time Compression 1
+Time Compression 2
+Time Compression 3
+Time Compression 4
+Toggle UI
+Open Close Console
+Bug Report
+
+/Rewards
+Reputation
+Budget
+Research Boost
+
+/Accomplishments
+Assignment Completed
+Sunk Ship
+Helped Ally
+Investigated Lost Ship
+Aircraft Shot Down
+Calmed Down Sailor
+Repaired Leak
+Medical Aid
+Torpedo Course
+Sunk Ship Participation
+Carried Wounded
+Visited Lost Ship
+Mined Lost Ship
+Wounds
+
+/AssignmentSummaryUI
+Statistics
+Mission Summary
+Sunk Ship GRT Suffix
+Rewards Header
+Statistics Header
+Sunken Ships Header
+Objectives Header
+Messages List Header
+
+/Mod Warning UI
+Info
+Confirm
+
+/Customization
+Cotton Shirt 01 Blue
+Cotton Shirt 01 Blue 2
+Cotton Shirt 01 Blue 3
+Cotton Shirt 01 Burgundy
+Cotton Shirt 01 Gray
+Cotton Shirt 01 Red
+Cotton Shirt 01 Red 2
+Cotton Shirt 01 Turquise
+Cotton Shirt 02 Brown
+Cotton Shirt 02 Gray
+Cotton Shirt 02 Green
+Cotton Shirt 03 Blue
+Cotton Shirt 03 Blue 2
+Cotton Shirt 03 Brown
+Cotton Shirt 03 Green
+Cotton Shirt 03 Orange
+Cotton Shirt 03 Red
+Cotton Shirt 03 Red 2
+Cotton Shirt 04 Blue
+Cotton Shirt 04 Blue 2
+Cotton Shirt 04 Green
+Cotton Shirt 04 Red
+Cotton Shirt 04 Red 2
+Cotton Shirt 04 Stripes
+Jacket 01
+Jacket 02
+Jacket 03
+Jacket 04 Black
+Jacket 04 Gray
+Jacket 05
+Jacket 06
+Shirt 01
+Shirt 02 Black
+Shirt 02 Black-Blue
+Shirt 02 Blue-White
+Shirt 02 Gray
+Shirt 03 Black
+Shirt 03 Blue
+Shirt 03 Brown
+Shirt 03 Gray
+Shirt 04 Blue
+Shirt 04 Gray
+Shirt 04 Red
+Sweater
+Sweater 02
+Binoculars
+Eye Patch 01
+Eye Patch 02
+Glasses 01
+Glasses 02
+None
+Pipe
+Sunglasses 01
+Cap 01 Blue
+Cap 01 Green
+Cap 01 Stripes
+Cap 02 Black
+Cap 02 Blue
+Cap 02 Red
+Cap 03 Black
+Cap 03 Gray
+Cap 03 Stripes
+Cap 05 Black
+Cap 05 Red
+Cap 05 Yellow
+Cap 06 Alternate
+Cap 06 Black
+Cap 06 Red
+Cap NCO
+Cap NCO 02
+Captain's Cap
+Officer's Cap
+Complexion I
+Complexion II
+Complexion III
+Complexion IV
+Complexion V
+Complexion VI
+Complexion VII
+Complexion VIII
+Type I
+Type II
+Type III
+Type IV
+Type V
+Type VI
+Type VII
+Type VIII
+Type IX
+Type X
+Type XI
+Type XII
+Type XIII
+Bald
+Hair 01
+Hair 02
+Hair 03
+Hair 04
+Hair 05
+Hair 06
+Pants 01
+Pants 02
+Basic Beard I
+Basic Beard II
+Basic Beard III
+Basic Beard IV
+Voice I
+
+/Management UI
+Crew
+Schedule
+Tasks
+Add Sailor
+Disband
+New Shift
+Squads
+Work
+Anything
+Free
+Disband Confirmation
+Disband Confirmation Title
+Morning Shift
+Evening Shift
+Night Shift
+
+/AssignmentManagementUI
+Description
+Sailors X
+
+/TaskManagementUI
+Description
+Description use
+
+
+/TimeManagementUI
+Description

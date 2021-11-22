@@ -1,0 +1,52 @@
+Key
+Warning Slot Occupied
+Warning Slot Under Water
+Warning Slot Air Toxic
+Warning Slot Cannot be Used Under Water
+Warning Slot Rebreather
+Warning Slot Rebreather Toxic
+Warning Slot Unreachable
+Warning Officer Already Present
+Warning Device No Energy
+Warning Device No Fuel
+Warning Device Under Water
+Warning Device Surface
+Warning Device Damaged
+Warning Device Disabled
+Warning Too Far
+Warning Moving Too Fast
+Warning Target Destroyed
+Warning Cannot Initiate Under Water
+
+/HatchOpenCloseAction
+Pressure Warning
+Damaged Warning
+Open
+Close
+
+/RepairAction
+Flood Warning
+Occupied Warning
+Replacement Parts Warning
+Replacement Parts Info
+Already Being Repaired
+
+/Campaign01PutDownBriefcase
+Put down briefcase
+
+/PutOnDeckAction
+Not Enough Space Warning
+
+/CarryItemsAction
+Carrying Items
+Carrying Water
+
+/InvestigateWreckAction
+Missing Wreck
+
+/SalvageReplacementParts
+Not Enough Scrap
+Storage Full
+
+/LaunchSonarDecoyAction
+Decoy Needed
