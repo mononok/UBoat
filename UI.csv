@@ -717,9 +717,11 @@ Left,Left
 Right,Right
 FAT settings,FAT settings
 LUT settings,LUT settings
-Torpedo avoidance maneuvers,Torpedo avoidance maneuvers!
-Torpedo data,"Estimated hit angle: {0}
-Target hit distance: {1}"
+Torpedo Avoidance Maneuvers,Torpedo avoidance maneuvers!
+Torpedo Hit Angle,Estimated hit angle: {0}
+Torpedo Hit Angle Warning,"Estimated hit angle: {0} <sprite name=""Warning"">"
+Torpedo Target Distance,Estimated target distance: {0}
+Torpedo Target Distance Warning,"Estimated target distance: {0} <sprite name=""Warning"">"
 ,
 /DefeatSummaryUI,English
 Header,Defeat
@@ -1501,3 +1503,23 @@ Sunk Ships Generic,"""{0}"""
 Summary End,"After the war, they were returned to their homes in Germany.
 
 <align=center>THE END"
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
