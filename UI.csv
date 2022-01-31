@@ -1,1289 +1,1503 @@
-/MapUI
-Time on Sea
-Time on Sea Short
-Depth
-Group Tooltip
-Group Tooltip Short
-Time on Sea Tooltip
-Wind Speed Tooltip
-Navigation Correctness Tooltip
-Navigation Error Tooltip
-Depth Tooltip
-Coordinates Tooltip
-Exit Map
-Center Camera
-Lost on the Sea
-Full Map Tooltip
-World Map Tooltip
-Situational Map Tooltip
-Similar To
-Compass Tooltip
-Protractor Tooltip
-Ruler Tooltip
-Marker Tooltip
-Eraser Tooltip
-Contact Warning
-Capture Course Impossible
-/PeriscopeUI
-Start
-Stop
-Set
-Acquired Data Label
-Identification Book Data
-Stadimeter Tooltip
-Chronometer Tooltip
-Course Tooltip
-Course Tooltip Warning
-Identification Book Tooltip
-Velocity Tooltip
-Distance Tooltip
-Course Tooltip
-Zoom Tooltip
-Color Filter Tooltip
-Change View Tooltip
-Lock
-Unlock
-Unknown
-Stadimeter Help Text
-Stadimeter Warning Text
-Chronometer Help Text
-Course Help Text
-AOB Help Text
-Frachter Warning
-Recognize
-Course
-AOB
-/Telegraph
-Button 4
-Button 3
-Button 2
-Button 1
-Button 0
-Button 11
-Button 12
-Button 13
-Button 14
-Button 15
-Button 5
-Button 6
-Button 7
-Button 8
-Button 9
-Button 10
-
-/Banners
-Experience Gain
-Level Up
-
-/Journal
-Empty Report
-Report Value
-Messages Header
-Header
-Subjects Header
-Report Header
-Enter Text
-Create
-
-/Travel Confirmation
-Title
-Description
-
-
-/ActiveMissionSummaryUI
-NextStepLabel
-Deselect
-None
-Send Report
-Send Report NoValue
-Send Report Totals
-Send Report NoValue Totals
-New Intelligence
-Accept Reward
-Complete Mission
-Complete Mission (Not Enough Fuel)
-Complete Mission (Leaks On Board)
-Complete Mission (Enemies Nearby)
-Complete Mission (Running Story)
-Complete Mission (Nearby Ports)
-Complete Mission (Too Deep)
-Complete Mission (Lost)
-Complete Mission (Docked)
-Send Report No Radio Operator
-Send Report Out of Range
-Send Report Underwater
-Send Report No Radio Operator Totals
-Send Report Out of Range Totals
-Send Report Underwater Totals
-Skip Off Duty Time
-Skip Off Duty Time Stop
-Wait for Convoy
-Meet Ally
-Main Mission
-Side Mission
-Tutorial
-New Mission
-Mission Completed
-New Objective
-Objective Completed
-Mission Failed
-Nearby Interaction Button
-Nearby Interaction Button X
-Nearby Interaction Button Warning
-Campaign
-New Offensive
-Offensive Completed
-Campaign Mission Completed
-
-/InteractionWheelUI
-Description
-
-
-/TutorialUI
-Close Legend
-Close Legend Controller
-
-
-/StageViewUI
-Leave Position
-
-
-/StorageUI
-Description
-Item Parameters
-Header
-Place on Deck
-Yes
-No
-Throw Out
-Count Cancel
-Count Transfer
-Count Buy
-Count Sell
-Transfer Hint
-Pre-heating Tip
-Fuel Header
-Refuel
-Fuel Price
-Off Duty Duration
-Off Duty Duration Total
-Moving X
-Moving
-Total Transport Time Long
-Total Transport Time
-
-/MainMenuUI
-Continue
-New Game
-Sandbox Test
-Load
-Settings
-Quit
-Gameplay
-Video
-Graphics
-Audio
-Controls
-Keyboard
-Keyboard Settings
-Gameplay Settings
-Difficulty
-Video Settings
-Resolution
-Display Mode
-Gamma
-Reset
-Vertical Sync
-Graphics Settings
-Quality Preset
-Water
-Shadows
-Contact Shadows
-Disabled
-Enabled (Sunlight)
-Enabled (All)
-Textures Resolution
-Textures Resolution Warning
-Reflections
-Effects
-Ambient Occlusion
-Bloom
-Vignette
-Depth of Field
-Motion Blur
-Chromatic Aberration
-Antialiasing
-Filtering Mode
-Audio Settings
-Speaker Configuration
-Master
-Music
-Effects
-Speech
-Subtitles
-Play music in FPP
-Control Settings
-Difficulty Normal
-Difficulty Hard
-Difficulty Impossible
-Display Fullscreen Windowed
-Display Fullscreen
-Display Windowed
-Preset Custom
-Preset Basic
-Preset Good
-Preset High
-Preset Extreme
-Water Simple
-Water Good
-Water Very Good
-Water Extreme
-Shadows Simple
-Shadows Good
-Shadows Very Good
-Shadows Extreme
-Textures Simple
-Textures Good
-Textures Very Good
-Reflections Basic
-Reflections Screen Space
-PostProcessing Simple
-PostProcessing Good
-PostProcessing Very Good
-PostProcessing Full
-Antialiasing None
-Antialiasing FXAA
-Antialiasing Temporal
-Temporal Antialiasing Style
-Temporal Antialiasing Subtle
-Temporal Antialiasing Normal
-Temporal Antialiasing Intense
-Filtering Trilinear
-Filtering Defaults
-Filtering Anisotropic
-Speaker Default
-Speaker Mono
-Speaker Stereo
-Speaker 4 Speakers
-Speaker 5 Speakers
-Speaker 5.1 Speakers
-Speaker 7.1 Speakers
-Resolution Change Confirmation
-Resolution Change Countdown
-No
-Yes
-Post-processing
-Scroll Map at Edges
-Invert Mouse
-Invert Mouse (Periscope)
-Rotation Sensitivity
-Error Reporting
-UI Scale
-Scroll View Modes
-Controller
-Controller Mouse
-Realistic Nights
-Realistic Nights Tooltip
-Realistic Bilge
-Realistic Bilge Tooltip
-Expanded Schedules
-Expanded Schedules Tooltip
-Realistic Earth Curvature
-Realistic Earth Curvature Tooltip
-Manual Item Delivery
-Manual Item Delivery Tooltip
-Units
-Units Tooltip
-Collision damage
-Collision damage Tooltip
-Hardcore aiming mode
-Hardcore aiming mode Tooltip
-Hide detection hint
-Hide detection hint Tooltip
-Metric
-MetricWithKnots
-Imperial
-New Campaign
-Level of Detail
-LOD Simple
-LOD Good
-LOD Very Good
-LOD Extreme
-Save Mode
-Save Mode Tooltip
-Saves Normal
-Saves Ports Only
-Gameplay Mode
-Gameplay Mode Tooltip
-Gameplay Normal
-Gameplay FPP Only
-Display Hints
-Voice Language
-Voice Language Tooltip
-Voice German
-Voice English
-Keyboard Hint
-Press Any Key Label
-Menu Style
-Menu Automatic
-Menu Static
-Menu Animated
-Last Game State Info
-Travel System
-Dynamic
-Realistic
-Travel System Tooltip
-Coordinates style
-Coordinates style Tooltip
-Classic
-Decimal
-Preset
-Entertaining
-Balanced
-Realism Label
-Realism X
-Cache Size
-Map Skin
-Map Default
-Map Desaturated
-Map Semi-Realistic
-Map Paper-Like
-Economic difficulty
-Economic difficulty Tooltip
-Economic Easy
-Economic Medium
-Economic Hard
-AI difficulty
-AI difficulty Tooltip
-AI Easy
-AI Medium
-AI Hard
-Tutorial
-Tutorial Tooltip
-Max Frame Rate
-Max Frame Rate Warning
-Autosave after docking
-Autosave on exit
-Autosave time
-Autosave time off
-Autosave time 15
-Autosave time 30
-Autosave time 60
-Number of autosaves
-Food management
-Food management Tooltip
-Torpedo flaws
-Torpedo flaws Tooltip
-Torpedo Realistic
-Torpedo Semi-realistic
-Torpedo Basic
-Discipline management difficulty
-Discipline management difficulty Tooltip
-Auto mission completion
-Auto mission completion Tooltip
-Auto mission completion Yes
-Auto mission completion Yes (Fuel)
-Auto mission completion No
-Damage difficulty
-Damage difficulty Tooltip
-
-/CampaignSetupUI
-Back
-Next
-Difficulty
-Difficulty Normal
-Difficulty High
-Difficulty VeryHigh
-Port
-Date
-Unit Type
-Unit Name
-Unit Flotilla
-1st U-boat Flotilla
-7th U-boat Flotilla
-9th U-boat Flotilla
-11th U-boat Flotilla
-29th U-boat Flotilla
-Tutorial - Name
-Tutorial - Title
-Tutorial - Description
-U-96 - Title
-U-96 - Description
-U-552 - Title
-U-552 - Description
-U-564 - Title
-U-564 - Description
-U-559 - Title
-U-559 - Description
-U-606 - Title
-U-606 - Description
-U-764 - Title
-U-764 - Description
-U-984 - Title
-U-984 - Description
-U-1055 - Title
-U-1055 - Description
-Tutorial Warning
-Training Missions Warning
-Crew Management Settings Header
-Primary
-Primary Description
-Complex
-Complex Description
-Expert
-Expert Description
-Realism Settings Header
-Entertainment
-Entertainment Description
-Balanced
-Balanced Description
-Full realism
-Full realism Description
-Select
-Skip
-Loading
-Summary
-Main Settings
-Advanced Settings
-
-/EscapeMenuUI
-Resume
-Save Game
-Load Game
-Settings
-Quit to Menu
-Quit
-QuitConfirmation
-QuitYes
-QuitNo
-
-
-/AreaEnterNotificationUI
-Entering Area
-Loading
-
-
-/HintUI
-Close
-Skip Tutorials
-
-
-/LoadingUI
-Loading
-Hint 1
-Hint 2
-Hint 3
-Hint 4
-Hint 5
-Hint 6
-Hint 7
-Hint 8
-Hint 9
-Hint 10
-Hint 11
-Hint 12
-Hint 13
-Hint 14
-Hint 15
-UHint 16
-Hint 17
-Hint 18
-Hint 19
-Hint 20
-Hint 21
-Hint 22
-Hint 23
-Hint 24
-Hint 25
-
-/IntroMovieUI
-Label 1
-Label 2
-Label 3
-
-/ControlUI
-Telegraph
-Depth Meter
-Rudder
-Map
-Journal
-Pause
-Time Compression x1
-Time Compression x4
-Time Compression x12
-Time Compression x48
-Time Compression x140
-Time Compression x1800
-Time Compression x6500
-Speed
-Depth Preset - Surface
-Depth Preset - Deck Awash
-Depth Preset - Periscope Depth
-Depth Preset - Max Safe Depth
-Undock Generic Blockade
-Undock Take Assignment
-Undock Awaiting Objective
-Undock Survivors On Board
-Undock Officers Limit
-Undock Missing Skipper
-Undock Vacation
-Undock Load
-Working Crew Tooltip Short
-Working Crew Tooltip
-
-
-/ContactsUI
-Targets
-Target - Hide Periscope
-Target - Raise Periscope
-Target - Auto
-Target - Clear
-Target - Ships
-Target - Aircrafts
-Target - Scan
-
-/EntitySelectionUI
-Capture Course
-Center Camera
-Target
-Select Torpedo
-Select Torpedo Not Enough Data
-Attack
-Deffensive
-Escape
-Distance
-Velocity
-Direction
-Hit Chance
-Error Level
-Interaction
-GRT
-
-/RadioTransmissionsUI
-Out of Range
-Not Available in Demo
-Alarm
-
-/TorpedoLaunchersUI
-Speed
-Depth
-Spread
-Launcher Empty
-Status - Loading
-Status - Preheating
-Status - Unloading
-Status - Angle Out of Bounds
-Status - Damaged
-Depth Warning
-Compressed Air Warning
-AZ Pistol
-MZ Pistol
-Impact pistol
-Magnetic pistol
-Direction
-Initial Torpedo Run Length
-Pattern Rotation Angle
-Left
-Right
-FAT settings
-LUT settings
-
-/DefeatSummaryUI
-Header
-Crew
-Officers
-Leave to Menu
-Accept
-
-/MissionCompletionUI
-Missions
-Accept Reward
-Reward
-Asignment Completed
-1 Day Later
-X Days Later
-
-/TrophyScreenUI
-Header
-Header Progression
-Campaign Objective Header
-Campaign Objective Header Progression
-Sunk Ship Title
-Sunk Ship Summary 1
-Sunk Ship Summary 2
-Sunk Ship Summary 3
-Sunk Ship Summary False Flag 1
-Sunk Ship Summary False Flag 2
-Sunk Ship Summary False Flag 3
-Convoy Sinkings Title
-Convoy Sinkings Summary 1
-Convoy Sinkings Summary 2
-Convoy Sinkings Summary 3
-Sunk Ship Newspaper Title
-Sunk Ship Newspaper Diplomatic Incident Summary
-Sunk Ship Newspaper Valuables Summary
-
-
-/HydrophoneUI
-Surface Warning
-
-/DevConsole
-Error Logged
-
-/EntityViewUI
-Leave View
-
-/CharacterSelectionUI
-Rest
-Add Follower
-Remove Follower
-Character Screen
-Follower Tooltips/LeaderFollower
-Follower Tooltips/EngineerFollower
-Follower Tooltips/RadiomanFollower
-Follower Tooltips/Use Targeting Sight
-Follower Tooltips/Use Attack Periscope
-Follower Tooltips/Load Torpedoes
-Follower Tooltips/Manage Diesel Engines
-Follower Tooltips/Manage Electric Engines
-Follower Tooltips/Hydrophone Listen
-Follower Tooltips/Radio Listen
-Follower Tooltips/Use Flak
-Follower Tooltips/Use Deck Gun
-Follower Tooltips/Carry Items
-No Role
-Chief Engineer
-Chief Engineer/Tooltip
-Watch Officer
-Watch Officer/Tooltip
-Torpedo Mechanic
-Torpedo Mechanic/Tooltip
-Radio Officer
-Radio Officer/Tooltip
-Chief Boatswain
-Chief Boatswain/Tooltip
-Technician Officer
-Technician Officer/Tooltip
-Gunner
-Gunner/Tooltip
-Medic
-Medic/Tooltip
-Quartermaster
-Quartermaster/Tooltip
-LeaderFollower
-EngineerFollower
-RadiomanFollower
-
-/GunUI
-Swap Ammo Tip
-Out of Ammo
-
-/ChangeViewUI
-FPP
-Section View
-Orbit View
-
-/ActionQueueUI
-Adding to Queue
-Idle
-Locked Action Tooltip
-External Action Tooltip
-Automated Schedule Action
-Right Click to Cancel
-
-/CompartmentInfoUI
-Stern Torpedo Room
-Engine Room
-Galley
-Crew Quarters
-Control Room
-Officers Room
-Bow Torpedo Room
-Conning Tower
-
-/AssignmentSelectionUI
-Difficulty Easy
-Difficulty Medium
-Difficulty Hard
-Assignments
-Mission Select
-Tutorial
-Objective
-Reward
-Campaign Header
-
-/LoadGameStateUI
-Save Data
-Incompatible Version
-Header
-Load
-Delete
-Incompatible Mods
-
-/SaveGameStateUI
-Header
-Save
-Cancel
-Accept
-Saving
-Saving Error
-NEW GAME STATE FILE
-Invalid Characters Error
-Tutorial Blockade
-General Blockade
-Undocked Blockade
-
-/UpgradeModeUI
-Header
-Total Time to Install Long
-Total Time to Install
-
-/UpgradeUI
-Header
-Research Available
-Install Progress
-Install Queued
-Install Time
-
-/CrewListUI
-Boarded
-Free
-Select
-Requirements not Met
-Crew Management
-Status
-Level
-Management
-Ready
-Tired
-Delegated to HQ
-Personality
-Description
-Tokens
-Free captive
-/RecruitmentUI
-Recruitment
-Recruit
-Class
-Name
-Price
-
-/MenuDropdown
-MENU
-JOURNAL
-MANAGEMENT
-HEADQUARTERS
-UBOATOPEDIA
-SAVE
-LOAD
-SETTINGS
-EXIT
-CAMPAIGN
-
-/ReputationPurchasesListUI
-Reputation Purchases
-Buy
-
-/CampaignObjectivesListUI
-Header
-
-/HeadquartersUI
-Time to Complete
-Task Completed
-EMPTY
-ClickToStartNewOperation
-Requires
-Early Research Warning
-Target Area
-
-/RecruitmentUI/Backgrounds
-Story 1
-Story 2
-Story 3
-Story 4
-Story 5
-Story 6
-Story 7
-Story 8
-Story 9
-Story 10
-Story 11
-Story 12
-Story 13
-Story 14
-Story 15
-Story 16
-Story 17
-Story 18
-Story 19
-Story 20
-Story 21
-Story 22
-Story 23
-Story 24
-Story 25
-Story 26
-Story 27
-
-/StoryPlayerUI
-Skill Token Modifier
-Skill Token Equipment Modifier
-Wait Info
-Available tokens
-Select Item
-Select Character
-Remove Item
-Remove Character
-Ranks
-Decision Requirement
-Time Skip Label
-Performance
-Progress
-Performance Very Low
-Performance Low
-Performance Average
-Performance Fast
-Performance Very Fast
-
-/CharacterUI
-Class
-Level
-XP
-XP Label
-Status
-Role
-Decorations
-Statistics
-Skills
-Customize
-Promote
-Disband
-Disband Confirmation
-Exit
-Apply
-Apply To All
-Name
-Voice
-Body Shape
-Clothes
-Pants
-Accessory 1
-Accessory 2
-Cap
-Hairstyle
-Beard
-Hair color
-Complexion
-Face type
-Eye color
-Enter text
-Cancel
-Accept
-Customize Skipper Label
-Reputation Point Required
-Reputation Point Required Missing
-Promotion Possible Only in Port
-Captain Name
-Remaining Skill Points
-Thin
-Slightly Muscular
-Muscular
-Slightly Overweight
-Large
-Heavy
-
-/CharacterUI/Hair Colors
-Black
-Brown
-Blonde
-Red
-Gray
-
-/CharacterSwitchUI
-X More
-Normal Lighting
-Red Lighting
-Blue Lighting
-Keep Bulkheads Open
-Close Bulkheads
-Electric Steering
-Manual Steering
-
-/HUD
-FPP Hint
-FPP Hint Activator
-Free Fly Camera Notification Hint
-
-/LiveTimeSkippingUI
-Format
-
-/VacationUI
-Header
-Duration Format
-Fatigue Reset
-Discipline Modifier
-Crew Energy Loss Modifier
-Experience Bonus
-Headquarters Performance Modifier
-La Rochelle
-La Rochelle Description
-French Chateau
-French Chateau Description
-French Campsite
-French Campsite Description
-Bavarian Village
-Bavarian Village Description
-German Alps Resort
-German Alps Resort Description
-Eagle's Nest
-Eagle's Nest Description
-
-/InputSettingsUI
-Already Used Confirmation
-Hydrophone
-Hydrophone - Adjust Bearing
-Hydrophone - Adjust Bearing Negative
-Hydrophone - Adjust Cutoff Frequency
-Hydrophone - Adjust Cutoff Frequency Negative
-Hydrophone - Adjust Volume
-Hydrophone - Adjust Volume Negative
-Camera
-Horizontal
-Horizontal Negative
-Vertical
-Vertical Negative
-Map Toggle
-Free Camera Mode
-Free Camera
-Free Fly Camera Up Down
-Free Fly Camera Up Down Negative
-View - FPP
-View - Section View
-View - Orbit View
-Zoom
-Zoom Negative
-FPP
-Horizontal Movement
-Horizontal Movement Negative
-Vertical Movement
-Vertical Movement Negative
-Sprint
-Binocular Toggle
-Flashlight
-FPP Show UI
-Gunnery
-Ammo - Next
-Ammo - Previous
-Artillery Fire
-Gun Zoom
-Rotate Gun - Horizontal
-Rotate Gun - Horizontal Negative
-Rotate Gun - Vertical
-Rotate Gun - Vertical Negative
-Hotkeys
-Pause
-Quick Save
-Quick Load
-Switch Character
-Engine Gear Increase
-Engine Gear Decrease
-Open Telegraph
-Open Depth Meter
-Open Rudder Control
-Open Journal
-UI Scale Increase
-UI Scale Decrease
-Hotkey - Character 0
-Hotkey - Character 1
-Hotkey - Character 2
-Hotkey - Character 3
-Hotkey - Character 4
-Hotkey - Character 5
-Hotkey - Character 6
-Hotkey - Character 7
-Hotkey - Character 8
-Miscellaneous
-Capture Screenshot
-Queue Actions
-Show Hidden Activators
-Swap Postprocessing
-Time Compression
-Time Compression 1
-Time Compression 2
-Time Compression 3
-Time Compression 4
-Time Compression 5
-Toggle UI
-Open Close Console
-Bug Report
-Reload
-
-/Rewards
-Reputation
-Budget
-Research Boost
-Milk Cow
-Captive Released
-
-/Accomplishments
-Assignment Completed
-Sunk Ship
-Sunk Ship Freighter
-Sunk Ship Tanker
-Sunk Ship Destroyer
-Sunk Ship Corvette
-Sunk Ship Battleship
-Sunk Ship Submarine
-Sunk Ship Escort Carrier
-Sunk Ship Cruiser
-Sunk Ship Fast Attack Craft
-Helped Ally
-Investigated Lost Ship
-Aircraft Shot Down
-Calmed Down Sailor
-Repaired Leak
-Medical Aid
-Torpedo Course
-Sunk Ship Participation
-Carried Wounded
-Visited Lost Ship
-Mined Lost Ship
-Wounds
-Weather Station Deployment
-Recovered Enigma From Wreck
-Located Gold In Wreck
-
-/AssignmentSummaryUI
-Statistics
-Mission Summary
-Sunk Ship GRT Suffix
-Rewards Header
-Statistics Header
-Sunken Ships Header
-Objectives Header
-Messages List Header
-GRT Progress Bar
-Rewards
-Additional Rewards
-Punishments
-Sunk Ship Format String
-
-/Mod Warning UI
-Info
-Confirm
-
-/Customization
-Cotton Shirt 01 Blue
-Cotton Shirt 01 Blue 2
-Cotton Shirt 01 Blue 3
-Cotton Shirt 01 Burgundy
-Cotton Shirt 01 Gray
-Cotton Shirt 01 Red
-Cotton Shirt 01 Red 2
-Cotton Shirt 01 Turquise
-Cotton Shirt 02 Brown
-Cotton Shirt 02 Gray
-Cotton Shirt 02 Green
-Cotton Shirt 03 Blue
-Cotton Shirt 03 Blue 2
-Cotton Shirt 03 Brown
-Cotton Shirt 03 Green
-Cotton Shirt 03 Orange
-Cotton Shirt 03 Red
-Cotton Shirt 03 Red 2
-Cotton Shirt 04 Blue
-Cotton Shirt 04 Blue 2
-Cotton Shirt 04 Green
-Cotton Shirt 04 Red
-Cotton Shirt 04 Red 2
-Cotton Shirt 04 Stripes
-Jacket 01
-Jacket 02
-Jacket 03
-Jacket 04 Black
-Jacket 04 Gray
-Jacket 05
-Jacket 06
-Shirt 01
-Shirt 02 Black
-Shirt 02 Black-Blue
-Shirt 02 Blue-White
-Shirt 02 Gray
-Shirt 03 Black
-Shirt 03 Blue
-Shirt 03 Brown
-Shirt 03 Gray
-Shirt 04 Blue
-Shirt 04 Gray
-Shirt 04 Red
-Sweater
-Sweater 02
-Binoculars
-Eye Patch 01
-Eye Patch 02
-Glasses 01
-Glasses 02
-None
-Pipe
-Sunglasses 01
-Cap 01 Blue
-Cap 01 Green
-Cap 01 Stripes
-Cap 02 Black
-Cap 02 Blue
-Cap 02 Red
-Cap 03 Black
-Cap 03 Gray
-Cap 03 Stripes
-Cap 05 Black
-Cap 05 Red
-Cap 05 Yellow
-Cap 06 Alternate
-Cap 06 Black
-Cap 06 Red
-Cap NCO
-Cap NCO 02
-Captain's Cap
-Officer's Cap
-Complexion I
-Complexion II
-Complexion III
-Complexion IV
-Complexion V
-Complexion VI
-Complexion VII
-Complexion VIII
-Type I
-Type II
-Type III
-Type IV
-Type V
-Type VI
-Type VII
-Type VIII
-Type IX
-Type X
-Type XI
-Type XII
-Type XIII
-Bald
-Hair 01
-Hair 02
-Hair 03
-Hair 04
-Hair 05
-Hair 06
-Pants 01
-Pants 02
-Basic Beard I
-Basic Beard II
-Basic Beard III
-Basic Beard IV
-Voice I
-
-/Management UI
-Crew
-Schedule
-Tasks
-Add Sailor
-Disband
-New Shift
-Squads
-Work
-Anything
-Free
-Disband Confirmation
-Disband Confirmation Title
-Morning Shift
-Evening Shift
-Night Shift
-
-/AssignmentManagementUI
-Description
-Sailors X
-
-/TaskManagementUI
-Description
-Description use
-Save Preset
-
-/TimeManagementUI
-Description
-
-
-/ActivatorDetailsUI
-Details
-
-/EntityTooltips
-Imported Goods
-Exported Goods
-Goods Separator
-Paragraph Ending
-Unit Tooltip Name Known
-Unit Tooltip Name Unknown
-Similar To
-
-
-/Select SquareUI
-Select Target Square
-
-/CampaignObjectivesListUI
-Campaign Unavailable
-Campaign Unavailable Ports
-
-/Rich Presence
-Main Menu
-At Sea
-Docked
-Default
-
-/CrashWarningUI
-Info
-
-/TutorialWarningUI
-Info
-
-
-
-/CampaignSummaryUI
-Header
-Exit to Menu
-Summary Intro
-Surrender - Warship
-Surrender - Warship Short Service
-Surrender - Port
-Surrender - Port Short Service
-Scuttled - Port
-Scuttled - Port Short Service
-Scuttled - Specified Coast
-Scuttled - Specified Coast Short Service
-Scuttled - Unknown Coast
-Scuttled - Unknown Coast Short Service
-Decorations
-Casualties
-Zero Casualties
-Patrol Summary
-Patrol Summary With Special Missions
-Sunk Ships Summary Intro
-Sunk Ships Merchants
-Sunk Ships Merchants Single
-Sunk Ships Tankers Single
-Sunk Ships Tankers
-Sunk Ships Destroyers Single
-Sunk Ships Destroyers
-Sunk Ships Corvettes Single
-Sunk Ships Corvettes
-Sunk Ships Battleship
-Sunk Ships Battleships Many
-Sunk Ships Battleships Without Names
-Sunk Ships Battleships Without Names Single
-Sunk Ships Aircraft Carrier
-Sunk Ships Aircraft Carriers Many
-Sunk Ships Aircraft Carriers Without Names
-Sunk Ships Aircraft Carriers Without Names Single
-Sunk Ships Cruiser
-Sunk Ships Cruisers Many
-Sunk Ships Cruisers Without Names
-Sunk Ships Cruisers Without Names Single
-Sunk Ships Generic
-Summary End
+/MapUI,English
+Time on Sea,"{0} days, {1} hours at sea"
+Time on Sea Short,{0} hours at sea
+Depth,Depth
+Group Tooltip,"{0} ({1})
+Pos. inaccuracy: {2:0}"
+Group Tooltip Short,{0} ({1})
+Time on Sea Tooltip,Time at sea.
+Wind Speed Tooltip,Wind speed.
+Navigation Correctness Tooltip,Navigation Correctness.
+Navigation Error Tooltip,Navigation error.
+Depth Tooltip,Depth.
+Coordinates Tooltip,Coordinates.
+Exit Map,Exit map
+Center Camera,Center the view
+Lost on the Sea,"Our ship's position is undetermined
+<size=80%>Full map is not available."
+Full Map Tooltip,"<b>Full map</b>
+
+This default map mode merges world and situational maps into one. It's available only when our ship's position in the world is determined."
+World Map Tooltip,"<b>World map</b>
+
+Displays lands, seas and ports."
+Situational Map Tooltip,"<b>Tactical map</b>
+
+Displays our ship's neighbourhood and detected contacts."
+Similar To,Similar to {0}
+Compass Tooltip,Compass
+Protractor Tooltip,Protractor
+Ruler Tooltip,Ruler
+Marker Tooltip,Markers
+Eraser Tooltip,Eraser
+Contact Warning,Inaccurate contact! Units may be anywhere in a radius of {0}.
+Capture Course Impossible,Interception not possible
+/PeriscopeUI,English
+Start,Start
+Stop,Stop
+Set,Set
+Acquired Data Label,Collected data
+Identification Book Data,"Displacement: {0} t<pos=150>Speed: {3}
+Length: {1} m<pos=150>Range: {4} mi
+Beam: {2} m<pos=150>Masts height: {5} m
+Draught: {6} m"
+Stadimeter Tooltip,"<b>Stadimeter Tool</b>
+The stadimeter is a tool used to estimate the distance to a target."
+Chronometer Tooltip,"<b>Chronometer Tool</b>
+The chronometer is usually used to estimate the velocity of a target."
+Course Tooltip,"<b>Course Tool</b>
+Tool used to estimate the course of a target."
+Course Tooltip Warning,"<b>Course Tool</b>
+Tool used to estimate the course of a target.
+
+<color=red>This tool cannot be used without a selected target.</color>"
+Identification Book Tooltip,"<b>Identification Book</b>
+Contains outlines and data of all common ship classes known to us."
+Velocity Tooltip,Velocity
+Distance Tooltip,Distance
+Course Tooltip,Course
+Velocity Label,Velocity
+Distance Label,Distance
+Course Label,Course
+Launcher Tooltip,Torpedo tubes
+Zoom Tooltip,Zoom
+Color Filter Tooltip,Color filter
+Change View Tooltip,View mode
+Lock,Lock
+Unlock,Unlock
+Unknown,Unknown
+Stadimeter Help Text,"Use ""Q"" and ""E"" to rotate the ""ghost"" image so that its sea level is on the level of highest mast of the target ship."
+Stadimeter Warning Text,"Please identify the ship first, if you would like to use stadimeter to compute a distance to this target."
+Chronometer Help Text,"Instructions: 
+1. Point the periscope at the front of your target. 
+2. Start the chronometer. 
+3. Wait for the whole ship to get past the observed point and stop the chronometer."
+Course Help Text,Rotate the arrow to visually match the course of your target just as you see it.
+AOB Help Text,"Rotate the arrow to set the angle on bow (AOB), which is an angle at which your u-boat appears to be from the perspective of someone on the target ship's bow."
+Frachter Warning,"This is an example of a freighter that was built using an individual, not standarized design. Using data supplied here in calculations for ships that are similar to it visually may introduce errors reaching 20%."
+Recognize,Recognize
+Course,Relative course
+AOB,Angle on bow
+Help,Help
+Unknown Ship,Unknown ship
+Chronometer Tool Tutorial #1,"In this video, we will determine ship's velocity using a chronometer."
+Chronometer Tool Tutorial #2,"First, point the periscope directly at the target ship's bow and click ""Start"" button."
+Chronometer Tool Tutorial #3,Then you need to wait for the entire ship to travel past the periscope's center.
+Chronometer Tool Tutorial #4,You can use time compression to make this process faster.
+Chronometer Tool Tutorial #5,"Once the ship's stern passes through, click ""Stop"" and then ""Set""."
+Chronometer Tool Tutorial #6,The measurement is now complete and computed velocity appeared in a respective field.
+Stadimeter Tutorial #1,"In this video, we will determine a ship's distance using a stadimeter."
+Stadimeter Tutorial #2,"Use ""Q"" and ""E"" on the keyboard to move a ghost image."
+Stadimeter Tutorial #3,"Move it in such a manner, that the waterline of one of the images is at the same height as the highest mast of the ship."
+Stadimeter Tutorial #4,"Once you are satisfied, click ""Set"" button."
+Stadimeter Tutorial #5,"Ship's distance that resulted from the measurement, will appear in the respective field."
+Identification Book Tutorial #1,"In this video, we will determine ship's class using an identification book."
+Identification Book Tutorial #2,Switch pages of the book until you see a ship with similar shape.
+Identification Book Tutorial #3,Pay attention to characteristic elements of the ship's superstructure and make sure that it's the right ship.
+Identification Book Tutorial #4,"Remember, if you identify the ship in a wrong way, all other measurements may be incorrect. It's the most important step in that sense."
+Identification Book Tutorial #5,"Once you confirm your selection, selected ship class will appear in the respective field."
+Course Tool Tutorial #1,"In this video, we will determine a ship's course using the course tool."
+Course Tool Tutorial #2,Look at the target ship and try to deduce its course in degrees relative to your periscope.
+Course Tool Tutorial #3,Here are some examples to get you started.
+Course Tool Tutorial #4,"Once you are done, the course will appear in the respective field."
+/Telegraph,English
+Button 4,Forward 1
+Button 3,Forward 2
+Button 2,Forward 3
+Button 1,Forward 4
+Button 0,Forward 5
+Button 11,Reverse 1
+Button 12,Reverse 2
+Button 13,Reverse 3
+Button 14,Reverse 4
+Button 15,Reverse 5
+Button 5,Diesel motors
+Button 6,Alarm!
+Button 7,Stop
+Button 8,Electric motors
+Button 9,
+Button 10,Stop & charge the battery
+,
+/Banners,English
+Experience Gain,+{0} XP
+Level Up,Level up!
+,
+/Journal,English
+Empty Report,(Nothing to report)
+Report Value,Report value
+Messages Header,Messages
+Header,Ship log
+Subjects Header,Subjects
+Report Header,Report
+Enter Text,Enter contents�c
+Create,Create
+,
+/Travel Confirmation,English
+Title,Travel
+Description,"Travelling to {0} will take us {1}, consume {2} tons of fuel and {3} food units.
+
+Navigation penalty: {4}%."
+,
+,
+/ActiveMissionSummaryUI,English
+NextStepLabel,"<size=14><color=#ffee66>New objective:</color></size>
+{0}"
+Deselect,(deselect)
+None,(none)
+Send Report,"{0}
+<size=14>Click to send a report (value: {1})</size>"
+Send Report NoValue,"{0}
+<size=14>Click to send a report</size>"
+Send Report Totals,"Queued messages: {0}
+<size=14>Click to send a report (value: {1})</size>"
+Send Report NoValue Totals,"Queued messages: {0}
+<size=14>Click to send a report</size>"
+New Intelligence,New intelligence!
+Accept Reward,"Mission completed!
+<size=14>Click to review summary.</size>"
+Complete Mission,"Mission completed!
+<size=14>Click to return back to port.</size>"
+Complete Mission (Not Enough Fuel),"Mission completed!
+<size=14>Not enough fuel to return back to port.</size>"
+Complete Mission (Leaks On Board),"Mission completed!
+<size=12>There are leaks on board - repair them or return back to port manually.</size>"
+Complete Mission (Enemies Nearby),"Mission completed!
+<size=12>Cannot continue when there are enemies nearby.</size>"
+Complete Mission (Running Story),"Mission completed!
+<size=12>Cannot continue when officers are busy with a special event.</size>"
+Complete Mission (Nearby Ports),"Mission completed!
+<size=12>Please leave the current port to continue.</size>"
+Complete Mission (Too Deep),"Mission completed!
+<size=12>Your ship cannot be deeper than the periscope depth before completing the mission.</size>"
+Complete Mission (Lost),"Mission completed!
+<size=12>We are currently lost and must fix our position to plot a course back to the port.</size>"
+Complete Mission (Docked),"Mission completed!
+<size=14>Click to report back to the officer.</size>"
+Send Report No Radio Operator,"{0}
+<size=14><color=#f33>Radio officer missing</color></size>"
+Send Report Out of Range,"{0}
+<size=14><color=#f33>Out of range</color></size>"
+Send Report Underwater,"{0}
+<size=14><color=#f33>Can't transmit under water</color></size>"
+Send Report No Radio Operator Totals,"Queued messages: {0}
+<size=14><color=#f33>Radio officer missing</color></size>"
+Send Report Out of Range Totals,"Queued messages: {0}
+<size=14><color=#f33>Out of range</color></size>"
+Send Report Underwater Totals,"Queued messages: {0}
+<size=14><color=#f33>Can't transmit under water</color></size>"
+Skip Off Duty Time,"U-boat is off duty ({0})
+<size=14>Click here to skip the wait time.</size>"
+Skip Off Duty Time Stop,"U-boat is off duty ({0})
+<size=14>Click here to stop the wait.</size>"
+Wait for Convoy,"Convoy is on it's way ({0})
+<size=14>Click here to skip the wait time.</size>"
+Meet Ally,<size=14>Click to meet ally</size>
+Main Mission,Main Mission
+Side Mission,Side Mission
+Tutorial,Tutorial
+New Mission,New Mission
+Mission Completed,Mission Completed
+New Objective,New Objective
+Objective Completed,Objective Completed
+Mission Failed,Mission Failed
+Nearby Interaction Button,"{0}
+<size=14>Click to interact.</size>"
+Nearby Interaction Button X,"There are {0} interactions nearby.
+<size=14>Click to select.</size>"
+Nearby Interaction Button Warning,"{0}
+<size=14><color=#f33>{1}</color></size>"
+Campaign,Campaign
+New Offensive,New Offensive
+Offensive Completed,Offensive Completed
+Campaign Mission Completed,Campaign Mission Completed!
+,
+/InteractionWheelUI,English
+Description,"<size=24>{0}</size>
+{1}"
+,
+,
+/TutorialUI,English
+Close Legend,Click anywhere to close�c
+Close Legend Controller,"Press <sprite name=""JoystickButton0""> to close�c"
+,
+,
+/StageViewUI,English
+Leave Position,Leave position
+,
+,
+/StorageUI,English
+Description,"<line-height=120%><size=24>{0}</size>
+<line-height=100%>{1}"
+Item Parameters,"<color=#A4A389>Mass:</color><pos=130>{0} kg
+<color=#A4A389>Stack limit:</color><pos=130>{1}"
+Header,Inventory
+Place on Deck,Place on the deck
+Yes,Yes
+No,No
+Throw Out,Throw out
+Count Cancel,Cancel
+Count Transfer,Transfer
+Count Buy,Buy
+Count Sell,Sell
+Transfer Hint,Hold down the Ctrl key to move items one at a time.
+Pre-heating Tip,Maintenance removes the chance for a dud torpedo.
+Fuel Header,Amount to buy
+Refuel,Refuel
+Fuel Price,{0} / ton
+Off Duty Duration,It will take {0} to load these goods.
+Off Duty Duration Total,{0} will be needed to load all queued goods.
+Moving X,Moving...{0} / {1}
+Moving,Moving...
+Total Transport Time Long,"Total time to transport all goods: {0:%d} days, {0:hh} h : {0:mm} min"
+Total Transport Time,Total time to transport all goods
+,
+/MainMenuUI,English
+Continue,Continue
+New Game,New game
+Sandbox Test,Sandbox mode
+Load,Load
+Settings,Settings
+Quit,Quit
+Gameplay,Gameplay
+Video,Video
+Graphics,Graphics
+Audio,Audio
+Controls,Controls
+Keyboard,Keyboard
+Keyboard Settings,Keyboard Settings
+Gameplay Settings,Gameplay settings
+Difficulty,Difficulty level
+Video Settings,Video settings
+Resolution,Resolution
+Display Mode,Display mode
+Gamma,Gamma
+Reset,Reset
+Vertical Sync,Vertical sync
+Graphics Settings,Graphics settings
+Quality Preset,Quality preset
+Water,Water
+Shadows,Shadows
+Contact Shadows,Contact Shadows
+Disabled,Disabled
+Enabled (Sunlight),Enabled (Sunlight)
+Enabled (All),Enabled (All)
+Textures Resolution,Textures resolution
+Textures Resolution Warning,"This setting may be set too high for the currently installed graphics card as it's optimized for at least {0} GB of video memory, while we detect {1} GB in the system."
+Reflections,Reflections
+Effects,Effects
+Ambient Occlusion,Ambient occlusion
+Bloom,Bloom
+Vignette,Vignette
+Depth of Field,Depth of field
+Motion Blur,Motion blur
+Chromatic Aberration,Chromatic aberration
+Antialiasing,Antialiasing
+Filtering Mode,Filtering mode
+Audio Settings,Audio settings
+Speaker Configuration,Speaker configuration
+Master,Master
+Music,Music
+Effects,Effects
+Speech,Speech
+Subtitles,Subtitles
+Play music in FPP,Play music in FPP
+Control Settings,Control settings
+Difficulty Normal,Normal
+Difficulty Hard,Hard
+Difficulty Impossible,Impossible
+Display Fullscreen Windowed,Fullscreen (Windowed)
+Display Fullscreen,Fullscreen
+Display Windowed,Windowed
+Preset Custom,Custom
+Preset Basic,Medium
+Preset Good,Good
+Preset High,High
+Preset Extreme,Extreme
+Water Simple,Simple
+Water Good,Good
+Water Very Good,Very good
+Water Extreme,Extreme
+Shadows Simple,Simple
+Shadows Good,Good
+Shadows Very Good,Very good
+Shadows Extreme,Extreme
+Textures Simple,Simple
+Textures Good,Good
+Textures Very Good,Very good
+Reflections Basic,Basic
+Reflections Screen Space,SSR
+PostProcessing Simple,Simple
+PostProcessing Good,Good
+PostProcessing Very Good,Very good
+PostProcessing Full,Full
+Antialiasing None,None
+Antialiasing FXAA,FXAA
+Antialiasing Temporal,Temporal
+Temporal Antialiasing Style,Temporal Antialiasing Sharpness
+Temporal Antialiasing Subtle,Sharp (Recommended)
+Temporal Antialiasing Normal,Medium
+Temporal Antialiasing Intense,Soft
+Filtering Trilinear,Trilinear
+Filtering Defaults,Defaults
+Filtering Anisotropic,Anisotropic
+Speaker Default,Default
+Speaker Mono,Mono
+Speaker Stereo,Stereo
+Speaker 4 Speakers,4 speakers
+Speaker 5 Speakers,5 speakers
+Speaker 5.1 Speakers,5.1 surround
+Speaker 7.1 Speakers,7.1 surround
+Resolution Change Confirmation,Would you like to keep this resolution?
+Resolution Change Countdown,({0
+No,No
+Yes,Yes
+Post-processing,Post-processing
+Scroll Map at Edges,Scroll map at edges
+Invert Mouse,Invert mouse
+Invert Mouse (Periscope),Invert Mouse (Periscope)
+Rotation Sensitivity,Rotation sensitivity
+Error Reporting,Error reporting
+UI Scale,UI Scale
+Scroll View Modes,Scroll view modes
+Controller,Controller
+Controller Mouse,Mouse and keyboard
+Realistic Nights,Darker nights
+Realistic Nights Tooltip,"Use this option to make nights darker. Use of flashlight and searchlight may be mandatory in exterior areas.
+
+This setting doesn't affect a sight range of AI. Other ships always behave like the nights would be darker."
+Realistic Bilge,Realistic bilge
+Realistic Bilge Tooltip,"Use this option to ensure realistic water accumulation in the bilges from sources like the holes for propellers, periscopes located in the hull or rain coming through an open hatch in the conning tower."
+Expanded Schedules,Expanded sailor management
+Expanded Schedules Tooltip,"This setting adds new configurable jobs for sailors on the schedules screen: work at diving planes station, helmsman station and cleaner's work. All of these jobs have underlying mechanics.
+
+Otherwise, these jobs are not configurable and are purely aesthetical without meaning anything for the gameplay."
+Realistic Earth Curvature,Realistic Earth curvature
+Realistic Earth Curvature Tooltip,"This option ensures that scenes will be rendered on a spherical Earth instead on a flat plane like it's done usually. This option may have minor performance impact.
+
+Note: Some ships may be occluded by the horizon unless higher observation point will be used."
+Manual Item Delivery,Manual item delivery
+Manual Item Delivery Tooltip,If you use this option you will have to manually equip an engineer with a spare part and a medic with the first-aid kit.
+Units,Units
+Units Tooltip,Specify a set of measurement units used to display numeric values in the game.
+Collision damage,Collision damage
+Collision damage Tooltip,This setting makes ships receive damage from collisions with other ships and the other obstacles. It adds more difficulty to the game and may make ramming a dangerous strategy of NPC ships against your submarine.
+Hardcore aiming mode,Hardcore aiming mode
+Hardcore aiming mode Tooltip,"While having this setting enabled, your crew will never compute torpedo solutions for you. It will be necessary to do this manually in all cases."
+Hide detection hint,Hide detection hint
+Hide detection hint Tooltip,This settings disables detailed information about your ship visibility to enemy. It's strongly recommended to keep this setting disabled until you become more familar with the game.
+Metric,"Metric (km, km/h)"
+MetricWithKnots,"Mixed (km, knots)"
+Imperial,"Nautical (nmi, knots)"
+New Campaign,Realism settings
+Level of Detail,Level of detail
+LOD Simple,Low
+LOD Good,High
+LOD Very Good,Very high
+LOD Extreme,Full
+Save Mode,Save mode
+Save Mode Tooltip,"Specify, if you would like to play with some restrictions to the save system."
+Saves Normal,Normal
+Saves Ports Only,Ports only
+Gameplay Mode,Gameplay mode
+Gameplay Mode Tooltip,"Specify, if you would like to play with some restrictions to available view modes."
+Gameplay Normal,Normal (Recommended)
+Gameplay FPP Only,First person only
+Display Hints,Display hints
+Voice Language,Audio language
+Voice Language Tooltip,Characters will speak in this language.
+Voice German,German
+Voice English,English
+Keyboard Hint,"Select Key / ""del"" to clear / ""esc"" to leave"
+Press Any Key Label,Press any key to continue...
+Menu Style,Menu style
+Menu Automatic,Automatic
+Menu Static,Static
+Menu Animated,Animated
+Last Game State Info,"<color=#ccc>Date:</color> {0}
+<color=#ccc>Skipper:</color> {1}
+<color=#ccc>Mission:</color> {2}"
+Travel System,Travel system
+Dynamic,Dynamic
+Realistic,Realistic
+Travel System Tooltip,"Choose how a long distance travel will work in the game.
+
+Dynamic: Movement on the map will be faster and will resolve in a similar time scale as battles.
+
+Realistic: Movement on the map will be as in the real life. Very high time compression tools will be available to skip the time needed for travel."
+Coordinates style,Coordinates style
+Coordinates style Tooltip,"Choose a display mode for coordinates displayed in the game.
+
+Classic: Coordinates will be presented in degrees, minutes and sometimes seconds, for example 46 09 33N 1 09 06W.
+
+Decimal: Coordinates will be displayed with a decimal fraction instead, for example 46.1591N 1.1517W."
+Classic,Classic
+Decimal,Decimal
+Preset,Preset
+Entertaining,Entertaining
+Balanced,Balanced
+Realism Label,Realism
+Realism X,{0}%
+Cache Size,Cache Size
+Map Skin,Map Skin
+Map Default,Colourful
+Map Desaturated,Desaturated
+Map Semi-Realistic,Semi-Realistic
+Map Paper-Like,Paper-Like (Default)
+Economic difficulty,Economic difficulty
+Economic difficulty Tooltip,"This setting controls how expensive and sparse various goods are. The higher this setting is, the harder it is to keep a positive balance during resource shortages during the later stages of the war."
+Economic Easy,Easy
+Economic Medium,Medium
+Economic Hard,Hard
+AI difficulty,AI difficulty
+AI difficulty Tooltip,This setting determines how realistic or how experienced enemy crews will seem to be. It directly translates to the combat difficulty of the game.
+AI Easy,Easy
+AI Medium,Medium
+AI Hard,Hard
+Tutorial,Tutorial introduction
+Tutorial Tooltip,"This setting determines, if the campaign will start with an introduction to the tutorial missions."
+Max Frame Rate,Max Frame Rate
+Max Frame Rate Warning,This option is unavailable because Vertical sync is turned on
+Autosave after docking,Autosave after docking
+Autosave on exit,Autosave on exit
+Autosave time,Autosave time interval (out of combat)
+Autosave time off,Off
+Autosave time 15,15 minutes
+Autosave time 30,30 minutes
+Autosave time 60,60 minutes
+Number of autosaves,Number of autosaves
+Food management,Food management
+Food management Tooltip,"This setting determines, if food management should be present in the game.
+
+If it's disabled, crew won't require food to function and it won't be possible to restock food in the warehouse."
+Torpedo flaws,Torpedo flaws
+Torpedo flaws Tooltip,"This setting determines how realistic should be the torpedo flaws in the game.
+
+Realistic: Torpedo pistols have flaws that match the historic records. If a torpedo with an impact pistol hits the target at a high angle, it most likely won't detonate.
+
+Semi-realistic: Perfect impact angle is rewarded with an almost guaranteed detonation of a torpedo, although sub-optimal hits usually end up in a detonation too - especially if the torpedo is properly maintainted by a trained officer.
+
+Basic: Torpedo impact angle is ignored and torpedo duds are determined using a flat chance. This chance is very close to zero, if torpedo is properly maintained by a trained officer."
+Torpedo Realistic,Realistic
+Torpedo Semi-realistic,Semi-realistic
+Torpedo Basic,Basic
+Discipline management difficulty,Morale management difficulty
+Discipline management difficulty Tooltip,"This difficulty setting determines how hard it is to manage crew's discipline over long periods of time, as well as to keep crew's stress at bay during combat situations.
+
+At high difficulty levels, your initial crew may not handle stress well enough. Take notes and remove sailors that are not fit for the service until you end up with a crew of sea wolves."
+Auto mission completion,Mission completion
+Auto mission completion Tooltip,"If automatic mission completion is enabled, game will offer an automated return back to the port after mission objectives are complete.
+
+It's recommended to use this setting, unless you are looking for a comprehensive experience of submarine commandeering."
+Auto mission completion Yes,Automatic
+Auto mission completion Yes (Fuel),"Automatic (only, if enough fuel) "
+Auto mission completion No,Manual in port
+Damage difficulty,Damage difficulty
+Damage difficulty Tooltip,"This setting determines how hard to manage are potential leaks on your ship. The higher this difficulty level is set, the larger the simulated hull breaches will be on average after receiving damage.
+
+Note: If you pursue realism we recommend the average setting, but each of these settings may potentially be the realistic one. There is limited data to support any claim as there is an observational bias towards the survivable damage on the photographies and in the written records."
+,
+/CampaignSetupUI,English
+Back,Back
+Next,Next
+Difficulty,Difficulty
+Difficulty Normal,<color=green>Normal</color>
+Difficulty High,<color=yellow>Hard</color>
+Difficulty VeryHigh,<color=red>Very hard</color>
+Port,Port
+Date,Date
+Unit Type,Unit type
+Unit Name,Name
+Unit Flotilla,Flotilla
+1st U-boat Flotilla,1st U-boat Flotilla
+7th U-boat Flotilla,7th U-boat Flotilla
+9th U-boat Flotilla,9th U-boat Flotilla
+11th U-boat Flotilla,11th U-boat Flotilla
+29th U-boat Flotilla,29th U-boat Flotilla
+Tutorial - Name,Tutorial
+Tutorial - Title,Tutorial
+Tutorial - Description,"Learn the basics of the game. If you are new to UBOAT, it's strongly recommended to play this scenario first to learn the most important game mechanics.
+
+Warning: This scenario will be removed during next months and replaced with a different approach of educating new players about the game."
+U-96 - Title,U-96
+U-96 - Description,"One of the first Type VIIC u-boats, U-96, launches in Kiel. Leaving its home port behind, it completes a very successful patrol on the Atlantic, during which it manages to sink 7 Allied freighters in two convoys. U-96 now arrives at French ports on the Atlantic, from which its crew will continue to operate.  Amongst themselves skippers call the current period the ""Happy Times"", because the Allies don't seem to be ready for the fight against modern u-boats."
+U-552 - Title,Red Devil
+U-552 - Description,"A young and brave skipper takes U-552 under command after losing his previous ship. After two months of training and integration, the crew are ready for their first orders. They have just taken a 3 day trip through Kiel Canal to the new base port. All that is left is to replenish resources and head to sea."
+U-564 - Title,U-564
+U-564 - Description,"After leaving Hamburg shipyard and two months of training, U-564 is ready to join the Battle of the Atlantic."
+U-559 - Title,Mare Nostrum
+U-559 - Description,"Having already served half a year on the Atlantic and scoring its first successes, U-559 follows headquarters' orders and crosses through Gibraltar into the Mediterranean Sea where it joins 29th flotilla in La Spezia."
+U-606 - Title,Battle of Arctic
+U-606 - Description,"After leaving the Baltic Sea, U-606 joins the forces stationed in the north of Norway, whose targets are allied convoys bound for the USSR."
+U-764 - Title,U-764 joins Battle of Atlantic
+U-764 - Description,"After half a year of training in the Baltic from Danzig (Gda?sk), U-764 arrives at French ports on the Atlantic coast. On the way there they manage to shoot down an Allied bomber and their skipper claims that despite many errors, his crew are toughened and ready to face the hard battle being fought on the Atlantic."
+U-984 - Title,U-984 joins Battle of Atlantic
+U-984 - Description,"During the first patrol of U-984, during which the crew lost one member, it managed to sink a british destroyer. Now after reaching French ports, it becomes one of the first u-boats to be fitted with a snorkel,  a device that allows for prolonged runs under water. The situation on the Atlantic though is getting worse each day."
+U-1055 - Title,U-1055
+U-1055 - Description,Good fortune reversed. The Reich has lost most of the conquered territories to the west and to the east. Allied bombardments continue and the situation is getting worse when U-1055 leaves for a first patrol on Atlantic from a Norwegian port. What dangers may lie ahead for this crew in such hard times?
+Tutorial Warning,"<align=center><size=40><line-height=50%><b>Warning</b></size>
+
+<align=left><line-height=100%>This scenario is considered obsolete as it doesn't explain many latest game mechanics, while many aspects explained in it are no longer worth learning at the beginning due to more developed automation in the game. It's going to be replaced with a different approach of educating new players about the game in the next months.
+
+While it still works, there are more up to date tutorials made by the community on YouTube, Fandom Wiki and Steam articles section. Our recommendation is to use them instead until a new tutorial is complete.
+
+Thank you for the attention."
+Training Missions Warning,Training missions are not available in this area!
+Crew Management Settings Header,How involved in crew management do you wish to be?
+Primary,Minimal
+Primary Description,Crew management will be mostly automated.
+Complex,Intermediate
+Complex Description,"The crew will require your attention, but some corners will be cut to remove complexity."
+Expert,Expert
+Expert Description,"Like real people, your crew will require some attention in order for them to do their best, but  you can reap extra benefits if you address their needs."
+Realism Settings Header,How realistic a simulation do you prefer?
+Entertainment,Entertaining
+Entertainment Description,The game will be adjusted for optimal entertainment. Simulation aspects that don't contribute to an interesting story won't get in your way.
+Balanced,Balanced
+Balanced Description,"Realism and simulation aspects will be fine-tuned to make them challenging, but not excessively so."
+Full realism,Hardcore
+Full realism Description,You know everything about submarine warfare and want very demanding gameplay.
+Select,Select
+Skip,Skip
+Loading,Loading...
+Summary,Summary
+Main Settings,Main Settings
+Advanced Settings,Advanced Settings - Summary
+,
+/EscapeMenuUI,English
+Resume,Resume
+Save Game,Save game
+Load Game,Load game
+Settings,Settings
+Quit to Menu,Quit to menu
+Quit,Quit
+QuitConfirmation,Are you sure you want to quit the game?
+QuitYes,Yes
+QuitNo,No
+,
+,
+/AreaEnterNotificationUI,English
+Entering Area,Entering area�c
+Loading,Loading�c
+,
+,
+/HintUI,English
+Close,Close
+Skip Tutorials,Skip tutorials
+,
+,
+/LoadingUI,English
+Loading,Loading�c
+Hint 1,"<space=55>The ocean is a vast and empty space, hence encountering other ships by a pure luck is very rare. Always use hydrophone to find your prey."
+Hint 2,"<space=55>If the discipline on your boat is low, use it as an opportunity to identify sea wolves among your crew and those who are not fit for the service."
+Hint 3,"<space=55>If you are ordered to patrol a square on the Atlantic, plot a patrol path with as much longditudinal movement as possible. All convoys cross the Atlantic from west to east or vice versa, so you will increase your chances of crossing the path of a convoy this way."
+Hint 4,<space=55>Radiomen on Type VII u-boats are often well trained in first aid.
+Hint 5,"<space=55>""The only thing that ever really frightened me during the war was the U-boat peril."" Winston Churchill"
+Hint 6,<space=55>You can start tutorial missions by talking with the leading officer in any port.
+Hint 7,"<space=55>Once a u-boat's presence is discovered, most captains of surface ships order active torpedo avoidance by following a zig-zagging course. It's much harder to hit such ships with a torpedo attack."
+Hint 8,"<space=55>Aircraft are extremely dangerous to u-boats. Don't fight them, unless you have to."
+Hint 9,<space=55>Your crew will appreciate some variety in food rations.
+Hint 10,"<space=55>Your orders are to sink all ships that trade with the blockaded enemy ports. You can inspect ships that fly a neutral flag to find out where are they headed, if you are suspicious."
+Hint 11,<space=55>Some ships may fly a false flag to avoid being torpedoed by u-boats. Carry out an inspection to see if you are dealing with such a situation.
+Hint 12,"<space=55>If you lay your submarine on the seabed, enemy sonar will have a much harder time detecting you."
+Hint 13,<space=55>Take some coffee with you to keep the officers awake during long engagements.
+Hint 14,"<space=55>Type XIV u-boats are often called ""milk cows"". They serve as resupply ships for combat u-boats and will always welcome you with some fresh bread."
+Hint 15,"<space=55>When trying to approach the enemy submerged, turn off all unnecessary devices. The enemy can hear them through the hydrophone and discover your location."
+UHint 16,<space=55>The character assigned to the listening room operates the radar when the boat is surfaced and the hydrophone when submerged.
+Hint 17,"<space=55>If the enemy ship does not want to sink, you can help it with the 88 mm gun mounted on the deck."
+Hint 18,<space=55>Explosions of depth charges overwhelm enemy sonars for a short time. It's a window of opportunity for u-boats to escape the area.
+Hint 19,<space=55> Searchlights reveal the position of a surface vessel to a greater extent than they increase its view range.
+Hint 20,"<space=55>The pump is able to pump water from compartments other than the control room only at a shallow depth, due to resistance in the pipes."
+Hint 21,<space=55>Remember to report ships that were sunk on your patrol. This is the only way to be credited for the sinking and receive a reward from high command.
+Hint 22,"<space=55>If your boat is submerged at periscope depth during bad weather, consider sending an engineer to the depth steers station. He will prevent broaching and will make observation through periscopes easier by stabilizing the boat."
+Hint 23,"<space=55>Enemy ships carry a limited number of depth charges. When they are exhausted, there is a good chance that they will withdraw from submarine hunting."
+Hint 24,"<space=55>At greater depths there is a so-called shadow zone. Due to the acoustic layer above it, enemy vessels will find it much harder to detect your ship using hydrophone or sonar."
+Hint 25,"<space=55>If the night is dark, consider turning on the red lighting inside your u-boat. Such light makes it easier for the eyes to adapt to the darkness. It will increase the sight range of your crew and will also make your screen brighter."
+,
+/IntroMovieUI,English
+Label 1,"THOUSANDS OF YOUNG, BRAVE MEN ENLISTED IN THE KRIEGSMARINE ENTICED
+BY ADVENTURE AND IDEOLOGY, MOTIVATED BY FAME AND MONEY."
+Label 2,LESS THAN HALF OF THEM RETURNED HOME
+Label 3,THEIR LIVES AND FIGHT BECAME LEGENDARY.
+,
+/ControlUI,English
+Telegraph,Telegraph
+Depth Meter,Depth meter
+Rudder,Rudder
+Map,Map
+Journal,Journal
+Pause,Pause
+Time Compression x1,Time compression x1
+Time Compression x4,Time compression x4
+Time Compression x12,Time compression x12
+Time Compression x48,Time compression x48
+Time Compression x140,Time compression x140
+Time Compression x1800,Time compression x1800
+Time Compression x6500,Time compression x6500
+Speed,Speed
+Depth Preset - Surface,Surface the ship.
+Depth Preset - Deck Awash,Deck awash.
+Depth Preset - Periscope Depth,Periscope depth.
+Depth Preset - Max Safe Depth,Crash dive to the maximum safe depth.
+Depth Preset - Hydrophone Check,"Perform a routine check of the surroundings with the hydrophone that involves following steps:
+
+1. Air compressors are disabled.
+2. U-boat dives at 50 meters (or lower at shallow waters).
+3. The most rested radioman goes to the hydrophone station.
+4. Radioman is listening for screw sounds for 5 minutes.
+5. U-boat goes back to the surface.
+6. Air compressors are enabled to replenish lost compressed air in the process."
+Undock Generic Blockade,Undocking is currently impossible.
+Undock Take Assignment,Take an assignment from the officer in the port before leaving.
+Undock Awaiting Objective,Certain mission objectives have to be fulfilled before undocking.
+Undock Survivors On Board,"You have guests on your ship. Release them, by talking with the recruitment officer, before undocking."
+Undock Officers Limit,You have too many officers aboard. Leave some of them on land before undocking.
+Undock Missing Skipper,You can't undock without a skipper. Select one of your officers and promote him to a skipper on the character screen.
+Undock Vacation,You can't undock while your crew is on a vacation.
+Undock Load,Ordered equipment is being loaded onto your ship. Undocking is currently not possible.
+Working Crew Tooltip Short,"Currently {0} of {1} sailors are on duty.
+It has no effect on the discipline."
+Working Crew Tooltip,"Currently {0} of {1} sailors are on duty. 
+It drains discipline by <color=red>{2}</color>/min."
+,
+,
+/ContactsUI,English
+Targets,Targets
+Target - Hide Periscope,Hide periscope
+Target - Raise Periscope,Raise periscope
+Target - Auto,Collect information on all contacts.
+Target - Clear,Hold fire.
+Target - Ships,Fire at ships.
+Target - Aircrafts,Fire at aircraft.
+Target - Scan,Scan frequencies.
+,
+/EntitySelectionUI,English
+Capture Course,Plot an intercept course to the vessel.
+Center Camera,Center camera on the vessel.
+Target,Open targeting stations list.
+Select Torpedo,Launch torpedoes at this target.
+Select Torpedo Not Enough Data,"Launch torpedoes at this target.
+
+<color=#ff4c11>We haven't collected enough data to fire at this target. We first need to estimate the distance, velocity and course of our target (displayed on the left).</color>"
+Attack,Attack
+Deffensive,Defensive
+Escape,Escape
+Distance,Distance
+Velocity,Velocity
+Direction,Direction
+Hit Chance,Hit Chance
+Error Level,Estimated group position error
+Interaction,Interaction
+GRT,({0} GRT)
+,
+/RadioTransmissionsUI,English
+Out of Range,out of range!
+Not Available in Demo,disabled in the demo!
+Alarm,alarm!
+,
+/TorpedoLaunchersUI,English
+Speed,Speed
+Depth,Depth
+Spread,Dispersion
+Launcher Empty,<<< Empty >>>
+Status - Loading,Loading
+Status - Preheating,Maintenance
+Status - Unloading,Unloading
+Status - Angle Out of Bounds,Angle out of range!
+Status - Damaged,Damaged
+Depth Warning,Cannot be operated at the current depth!
+Compressed Air Warning,Compressed air level is too low!
+AZ Pistol,Impact pistol (AZ)
+MZ Pistol,Magnetic pistol (MZ)
+Impact pistol,AZ
+Magnetic pistol,MZ
+Direction,Direction
+Initial Torpedo Run Length,Initial Torpedo Run Length
+Pattern Rotation Angle,Pattern Rotation Angle
+Left,Left
+Right,Right
+FAT settings,FAT settings
+LUT settings,LUT settings
+Torpedo avoidance maneuvers,Torpedo avoidance maneuvers!
+Torpedo data,"Estimated hit angle: {0}
+Target hit distance: {1}"
+,
+/DefeatSummaryUI,English
+Header,Defeat
+Crew,Crew
+Officers,Officers
+Leave to Menu,Go to the menu
+Accept,Accept
+,
+/MissionCompletionUI,English
+Missions,Missions
+Accept Reward,Accept Reward
+Reward,Reward
+Asignment Completed,Asignment Completed
+1 Day Later,1 day later...
+X Days Later,{0} days later...
+,
+/TrophyScreenUI,English
+Header,{0} receives a new decoration
+Header Progression,{0} gains points to the next decoration
+Campaign Objective Header,Campaign objective complete!
+Campaign Objective Header Progression,Campaign objective progressed
+Sunk Ship Title,{0} sunk!
+Sunk Ship Summary 1,This ship was registered in {5} and was carrying {1} from {3} to {2}. Its gross register tonnage was {0} tons.
+Sunk Ship Summary 2,Our intel tells us that the ship had GRT of {0} tons and was transporting {1} from {3} to {2}. It was registered in {5}.
+Sunk Ship Summary 3,Our sources inform us that the ship was headed from {3} to {2} with {1} in the cargo holds. The ship's GRT was {0} tons. It was a registered ship of {5}.
+Sunk Ship Summary False Flag 1,This ship was registered in {5} and was carrying {1} from {3} to {2}. Its gross register tonnage was {0} tons. The ship flied a false flag of {4}.
+Sunk Ship Summary False Flag 2,"Our intel tells that the ship had GRT of {0} tons and was transporting {1} from {3} to {2}. It was registered in {5}, but the crew used a flag of {4} for deception."
+Sunk Ship Summary False Flag 3,"Our sources inform us that the ship was headed from {3} to {2} with {1} in the cargo holds. The ship's GRT was {0} tons. It was a registered ship of {5}, but it flied a false flag of {4}."
+Convoy Sinkings Title,{0} attacked!
+Convoy Sinkings Summary 1,Our sources inform us that the convoy was headed to {1}. Total GRT of sunk ships was {0} tons.
+Convoy Sinkings Summary 2,Our sources inform us that the convoy was headed to {1}. Total GRT of sunk ships was {0} tons.
+Convoy Sinkings Summary 3,Our sources inform us that the convoy was headed to {1}. Total GRT of sunk ships was {0} tons.
+Sunk Ship Newspaper Title,{0} sunk!
+Sunk Ship Newspaper Diplomatic Incident Summary,"Our sources inform us that it was a neutral ship from {0} that carried {1} to {2}. Survivors report they were attacked by u-boat. It caused a great distress in {0}, but German officials continue denying that they are responsible for this incident."
+Sunk Ship Newspaper Valuables Summary,The word says that the ship was loaded with precious metals. Survivors claim that they were torpedoed by an u-boat.
+,
+,
+/HydrophoneUI,English
+Surface Warning,Hydrophone is very unreliable when used from the surface of the sea. Consider diving deeper before using it.
+,
+/DevConsole,English
+Error Logged,<color=red>Error logged</color>
+,
+/EntityViewUI,English
+Leave View,Leave view
+,
+/CharacterSelectionUI,English
+Rest,"<b>Rest</b>
+Give officer some free time to regain energy."
+Follower,Assigned sailors
+Add Follower,"<b>Add Sailor</b>
+Sailor may aid officer in performed tasks to complete them faster and with better results."
+Remove Follower,"<b>Remove sailor</b>
+Sailor aid officer in performed tasks to complete them faster and with better results."
+Remove All Followers,<b>Remove all sailors</b>
+Command,<b>Command</b>
+DamageControl,<b>Damage Control</b>
+Zoom,Zoom
+Camera,Camera
+Character Screen,"<b>Character screen</b>
+Customize this officer, level up and select appropriate skills."
+Follower Tooltips/LeaderFollower,"<b>Leader:</b> When sailors have nothing to assist the officer with, they will bring supplies to the deck guns and the kitchen."
+Follower Tooltips/EngineerFollower,"<b>Engineer:</b> When sailors have nothing to assist the officer with, they will make repairs to the boat."
+Follower Tooltips/RadiomanFollower,"<b>Radioman:</b> When sailors have nothing to assist the officer with, they will provide medical help to wounded sailors."
+Follower Tooltips/Use Targeting Sight,"<b>Targeting sight observation ({0}/{1}):</b>
+Officer watches for targets increasing u-boat's sight range. If ordered, he can aim torpedoes at a chosen target.
+
+Additional sailors.
+<color=green><b>1 sailor:</b> The range of the observation and the aiming speed increases by 40%.</color>
+
+2 sailors: The range of the observation and the aiming speed increases by 80%."
+Follower Tooltips/Use Attack Periscope,"<b>Attack periscope observation:</b>
+Officer watches for targets increasing u-boat's sight range. If ordered, he can aim torpedoes at a chosen target.
+
+Additional sailors.
+1 sailor: The range of the observation and the speed of targeting towards set targets will increase by 40%."
+Follower Tooltips/Load Torpedoes,<b>Torpedo loading ({0}/{1})
+Follower Tooltips/Manage Diesel Engines,<b> Diesel engine ({0}/{1})
+Follower Tooltips/Manage Electric Engines,<b>Electric engine ({0}/{1})
+Follower Tooltips/Hydrophone Listen,<b>Listening room ({0}/{1})
+Follower Tooltips/Radio Listen,"<b>Radio room ({0}/{1}):</b> The speed of radio message reception and decoding will increase.  Time needed to sending reports will be reduced, thus reducing the risk of being tracked by the enemy."
+Follower Tooltips/Use Flak,<b>Weapons ({0}/{1})
+Follower Tooltips/Use Deck Gun,<b>Deck canon ({0}/{1})
+Follower Tooltips/Carry Items,<b>Carrying
+No Role,Unassigned
+Chief Engineer,Chief Engineer
+Chief Engineer/Tooltip,"The Chief Engineer will be the first to deal with repairs on the boat. When everything works as it should, he will maintain the diesel engines, increasing their maximal speed."
+Watch Officer,Watch Officer
+Watch Officer/Tooltip,The Watch Officer will always try to operate the best observation post available. He will also try to deal with navigation when possible.
+Torpedo Mechanic,Mechanic
+Torpedo Mechanic/Tooltip,"Most of the time, the Mechanic is occupied with the loading and maintenance of the torpedoes, but if the boat is damaged, he will stop this activity and start repairs. If he has a necessary skill and does not have any other activities, he will prepare spare parts for further repairs from scrap metal lying in the storage room."
+Radio Officer,Radio Officer
+Radio Officer/Tooltip,"The Radio Officer is mostly occupied with operating the radio, but he will man the hydrophone, if radio isn't operational."
+Chief Boatswain,Chief Boatswain
+Chief Boatswain/Tooltip,The Chief Boatswain always tries to handle crew issues and when this is not necessary he will help with navigation.
+Technician Officer,Technician Officer
+Technician Officer/Tooltip,"The Technician Officer operates equipment such as the hydrophone, sonar or radar detector."
+Gunner,Gunner
+Gunner/Tooltip,The Gunners will man the ship�fs weaponry as needed in order to provide efficient gunfire against enemy ships and planes.
+Medic,Medic
+Medic/Tooltip,The Medic only provides first aid to the wounded.
+Quartermaster,Quartermaster
+Quartermaster/Tooltip,The Quartermaster is responsible for providing ammunition for the ship�fs weapons and food supplies for the kitchen.
+LeaderFollower,Leader's helper
+EngineerFollower,Engineers's helper
+RadiomanFollower,Radioman's helper
+,
+/GunUI,English
+Swap Ammo Tip,"Press "","" and ""."" to swap ammunition types."
+Out of Ammo,Out of ammo!
+,
+/ChangeViewUI,English
+FPP,FPP
+Section View,Section view
+Orbit View,Orbit view
+,
+/ActionQueueUI,English
+Adding to Queue,+ Adding to queue�c
+Idle,Idle�c
+Locked Action Tooltip,This order cannot be stopped.
+External Action Tooltip,This order doesn't belong to this order queue.
+Automated Schedule Action,This order is coming from an automated schedule.
+Right Click to Cancel,Right click to cancel this order.
+,
+/CompartmentInfoUI,English
+Stern Torpedo Room,Stern Torpedo Room
+Engine Room,Engine Room
+Galley,Galley
+Crew Quarters,Crew Quarters
+Control Room,Control Room
+Officers Room,Officers Room
+Bow Torpedo Room,Bow Torpedo Room
+Conning Tower,Conning Tower
+,
+/AssignmentSelectionUI,English
+Difficulty Easy,"Difficulty
+<color=green>Low</color>"
+Difficulty Medium,"Difficulty
+<color=yellow>Medium</color>"
+Difficulty Hard,"Difficulty
+<color=red>High</color>"
+Assignments,Assignments
+Mission Select,Mission Select
+Tutorial,Tutorial
+Objective,Objective
+Reward,Reward
+Campaign Header,Contribution towards the campaign
+Very Large,very large
+Large,large
+Medium,medium
+Small,small
+,
+/LoadGameStateUI,English
+Save Data,"Date<pos=200>{1}
+Skipper<pos=200>{2}
+Assignment<pos=200>{3}
+Region<pos=200>{4}
+Sector<pos=200>{5}
+Version<pos=200>{0}"
+Incompatible Version,"<color=red>{0}
+<pos=200>Incompatible!</color>"
+Header,Load
+Load,Load
+Delete,Delete
+Incompatible Mods,"The currently installed mods are different from the mods used in this game state:
+
+{0}
+
+This may lead to unpredictable issues with the game. Are you sure that you want to continue?"
+,
+/SaveGameStateUI,English
+Header,Save
+Save,Save
+Cancel,Cancel
+Accept,Accept
+Saving,Saving�c
+Saving Error,"Couldn't save a game state.
+Please report this problem (F11 key)."
+NEW GAME STATE FILE,NEW GAME STATE FILE
+Invalid Characters Error,Restricted characters are present in the file name.
+Tutorial Blockade,<color=red>It's not possible to save state when there is an active tutorial prompt.</color>
+General Blockade,<color=red>It's not possible to save state at the moment. Please try again later.</color>
+Undocked Blockade,<color=red>Game state can only be saved when u-boat is docked at a port or resupply ship.</color>
+,
+/UpgradeModeUI,English
+Header,Upgrades
+Total Time to Install Long,"Total time to install all upgrades: {0:%d} days, {0:hh} h : {0:mm} min"
+Total Time to Install,Total time to install all upgrades
+,
+/UpgradeUI,English
+Header,Upgrades
+Research Available,<color=#1a1>Research to unlock this upgrade is available in the Headquarters.</color>
+Install Progress,"Upgrading...
+{0:0}%"
+Install Queued,Queued...
+Install Time,It will take {0} to install this upgrade.
+,
+/CrewListUI,English
+Boarded,Boarded
+Free,Free
+Select,Select
+Requirements not Met,You don't have any officers staying on the land that match the requirements of this mission
+Crew Management,Crew Management
+Status,Status
+Level,Level
+Management,Management
+Ready,Ready
+Tired,<color=red>Tired</color>
+Delegated to HQ,<color=#999>Headquarters</color>
+Personality,Personality
+Description,Manage the crew.
+Tokens,Tokens
+Free captive,Free survivor
+/RecruitmentUI,English
+Recruitment,Recruitment
+Recruit,Recruit
+Class,Class
+Name,Name
+Price,Cost
+,
+/MenuDropdown,English
+MENU,MENU
+JOURNAL,JOURNAL
+MANAGEMENT,MANAGEMENT
+HEADQUARTERS,HEADQUARTERS
+UBOATOPEDIA,UBOATOPEDIA
+SAVE,SAVE
+LOAD,LOAD
+SETTINGS,SETTINGS
+EXIT,EXIT
+CAMPAIGN,CAMPAIGN
+,
+/ReputationPurchasesListUI,English
+Reputation Purchases,Reputation Purchases
+Buy,Buy
+Remove,Remove
+,
+/CampaignObjectivesListUI,English
+Header,Campaign Objectives
+,
+/HeadquartersUI,English
+Time to Complete,"Time to complete:
+{0}"
+Task Completed,"TASK
+COMPLETED!"
+EMPTY,EMPTY
+ClickToStartNewOperation,Click to start new operation
+Requires,Requires
+Early Research Warning,<color=orange>Warning
+Target Area,Target area
+,
+/RecruitmentUI/Backgrounds,English
+Story 1,A German of Austrian descent. A weapon lover and a hunter. Service in the navy is his dream. Ambitious. He counts on a rapid promotion in the military hierarchy.
+Story 2,{0} comes from a poor family. His father sent him to the forces to learn discipline. He hates his military service.
+Story 3,"A pharmacist's son. He's in the military for money. After returning, he wants to help his father in business."
+Story 4,Orphaned and homeless. The military committee accepted him out of pity. He plans to rebuild his life in Kriegsmarine.
+Story 5,Handyman. In civilian life he was a car mechanic. With piece of metal and wire he can do anything. Favorite of colleagues in the barracks.
+Story 6,A playboy and reveler. He joined up because it is easier to pick up girls in uniform. He is too big for his boots.
+Story 7,"The war deprived him of everything. He does not like people, but still finds himself in the service. Weirdo."
+Story 8,A brawler. When the fight comes he's the first in line. A natural born sailor. Cleans his shoes everyday.
+Story 9,"As the son of teachers {0} is very well-read. He is most fascinated by books about seafaring and adventurous naval heroes like Admiral Nelson. He is also musically talented and plays several instruments. Faced with the choice whether he wanted to become a musician or rather go to sea, he decided to join the Kriegsmarine. Unlike many of his comrades, he did not receive his basic nautical training on a regular training ship, but on a sailing training ship. However, he discovered that working at great heights and especially on masts was not necessarily one of his favourites. So after finishing his training he joined the U-boat flotilla for further use and completed his training there with distinction.
+
+He is very much appreciated in his comrades' circle because of his musical talent, is sociable and often provides a little variety on board with musical interludes on the harmonica."
+Story 10,{0} grew up in a small village in Austria and has been tinkering with motorbikes since his youth. His uncle persuaded him to join the Kriegsmarine and tried his luck as an engineer with his knowledge of mechanics. During his training he was always very exemplary. He can repair almost anything with a piece of wire. He is very popular with most sailors and likes to play cards.
+Story 11,Coming from Schwarzwald. Moved to the Baltic Sea coast with his parents as a child. As a boy he was a long fisherman on his father's boat and soon joined the navy. He has always been drawn to the submarine fleet. He impressed his instructors at the U-School in Kiel with his experience at sea. He is rather introverted and likes to withdraw in case of conflicts. Otherwise a very obedient sailor.
+Story 12,"Born in Berlin / Neuk?lln in the vicinity of Airport Berlin Tempelhof {0} has been fascinated by airplanes since his youth. He learned a lot about engines and technology and as soon he graduated from high school he volunteered for the german Luftwaffe for pilot training. However, he was classified as unsuitable because he was too short for the cockpit. Instead, because of his size, he was sent to the Marine U-boot Schule in Kiel. He started his duty reluctantly but adapted to the situation during his training and was finally pleased with to work in submarine technology. Gained a good knowledge of navigation and was trained as a helmsman. Is appreciated by his comrades, does what they told, but rarely shows initiative."
+Story 13,"{0}  comes from a Prussian officer family. He also wanted to enter officer candidate school, but he couldn't wait to pay back the British for World War I, in which his uncle died at sea. His father does not respect him because he has not obtained the rank of officer, therefore he does everything in his power to achieve the rank of senior mate as soon as possible and earn medals. According to him, all methods are allowed, which makes him unpopular with his comrades."
+Story 14,"Raised as an orphan in a home in Dresden. As a young adult he never really found his place. After serving a prison sentence for petty crimes he decided to join the Kriegsmarine to start a new life. In the barracks he was always in a bad mood with his comrades and officers because of his rugged nature. When he heard about the submarine fleet and the close community, he switched to submarine training. From the very beginning, he had difficulty adjusting to the discipline, but finally managed to establish himself in his new reality. He is known for his dirty talk."
+Story 15,"Born in 1923 in Husum on the North Sea. At first he thought about the Luftwaffe. His dream was to become a pilot of the Me-109 fighter. Due to his height, he was rejected as a pilot. The real reason for going into service on submarines was the fear of being drafted into infantry and being sent to the Eastern Front."
+Story 16,"As the son of a miner from the Ruhr {0}, he had to work hard at an early age. He left school early and practiced as a bricklayer. With no prospects for the future, he left his home in Dortmund and went to Hamburg to work in the port.
+
+He gets angry easily and often gets into fights. Due to his muscularity and aggressive and dominant behavior, he often intimidates others and uses it from time to time to bully the weaker. He can lead people, but is also not afraid to get his hands dirty. He is used to working long hours. If muscle strength or a loud voice is needed, then he is the right person. He is prone to rough jokes. He doesn't have much education."
+Story 17,"He grew up in Hunsr?ck. An experienced electrical engineer. When his wife and daughter lost their lives following the RAF raid on Wilhelmshaven, which he barely survived, he immediately offered the Kriegsmarine his electrical skills and began training in the School's U-boat Fleet."
+Story 18,"{0} never thought about serving at sea. His parents have a tavern outside Munich. Even in his youth, he regularly helped in the kitchen. However, the start of the war changed his plan of taking over the tavern. He was called up for military service and served as a kitchen assistant in an infantry battalion. Lentil soup with bacon from the field kitchen was not enough for him, so he volunteered as a ship's cook at the Kriegsmarine.
+{0} is always in a good mood and has an inexhaustible repertoire of jokes, which is not always liked by senior officers. Nevertheless, he is highly appreciated by most captains as he maintains high morale even in difficult situations thanks to his cooking skills and cheerful disposition. Additionally, they turn a blind eye to his weight problem. Has good knowledge of food storage."
+Story 19,"{0} comes from a  family of sailors living near Bremen. His father is a Kriegsmarine officer and his two brothers serve aboard submarines. It is said that in the barracks he only met the recruiting requirements thanks to his father's connections. Consequently, his training path was not easy. He is very ambitious and works hard to show that he can handle it without any help. Reading is his passion. He is writing his own novel. Due to his strict Catholic upbringing, he is often ridiculed by others."
+Story 20,"Born in Osterfeld, he was separated from his father at a young age and grew up in L?beck with his uncle Hans. He left gymnasium and joined the merchant navy. He quickly became a captain and then was unemployed for a long time. Due to lack of prospects, he joined the Kriegsmarine as a midshipman."
+Story 21,"Growing up in the mountains on his parents' farm {0} he learned to work hard.
+He loved being in nature, being free, and he loved hunting. {0} however, he decided to experience something new and volunteered to serve his country in the ranks of the Kriegsmarine."
+Story 22,"{0}  was born as the oldest of four children. His parents divorced around 1928. His single mother moved to Embsen near L?neburg. After eight years at school, {0} began an apprenticeship as a blacksmith. With his bicycle he undertook numerous bicycle tours, which also led him to Hamburg. After visiting the port of Hamburg he decided to become a sailor. The beginning of the war thwarted his plans. He volunteered to serve on a submarine."
+Story 23,"Born and raised in Trier, he trained as a dentist in Kiel. His goal was to become a rich man at the age of 30, but after unsuccessful financial speculations he had to close his practice. With no funds, he volunteered for the Kriegsmarine. His colleagues, who underwent basic training with him, emphasize his loyalty to those around him."
+Story 24,"Growing up in the small village of Schmiedefeld near Dresden, {0} always dreamed of seeing the big wide world. After his apprenticeship as a locksmith, he was commissioned to work on the coast of Kiel. There, he became interested in working on large ships. When he heard that they were looking for submarine sailors, he volunteered for duty without hesitation."
+Story 25,"A descendant of an impoverished noble family. After they bet on the wrong horse during the change of power, all the old splendor was gone. Now, during the war, the family try their best to regain the favor of the authorities, if necessary, also by the heroic deeds of their children."
+Story 26,"{0}  had a very happy childhood and grew up in the countryside. After completing his apprenticeship as a baker, he opened a small pastry shop in Friborg on the Elbe. When it was destroyed by fire, he lost everything he had. After that, he decided to join the Kriegsmarine as a sailor and was quickly accepted into the submarine training flotilla. After eight months of basic training, he became a torpedo mechanic. He is popular with his colleagues and likes to make jokes about the officers."
+Story 27,"Born in Munich, he helped his parents on the farm at an early age as a pig farmer. He learned butchery and was later trained as a cook. When the war started, he wanted to serve as the ship's cook. As there was an empty seat on the submarine, he volunteered to become ""Smutje"". He copes very well with the lack of space in the galley. While cooking, he likes to tell stories about the mountains near Munich. His culinary skills are deeply appreciated by the crew."
+,
+/StoryPlayerUI,English
+Skill Token Modifier,from {0} thanks to the {1} skill.
+Skill Token Equipment Modifier,from {0} carried by {1}.
+Wait Info,"You can leave this screen at any time, until the wait is over."
+Available tokens,Available tokens
+Select Item,Select Item
+Select Character,Select Character
+Remove Item,Remove Item
+Remove Character,Remove Character
+Ranks,Ranks
+Decision Requirement,(Requirement
+Time Skip Label,"<line-height=110%><color=#aaa><size=22>Waiting...</size></color>
+{0}"
+Performance,Performance
+Progress,Progress
+Performance Very Low,<color=red>Very slow</color>
+Performance Low,<color=orange>Slow</color>
+Performance Average,<color=yellow>Average</color>
+Performance Fast,<color=#99ff99>Fast</color>
+Performance Very Fast,<color=#22ff22>Very fast</color>
+,
+/CharacterUI,English
+Class,Class
+Level,Level
+XP,XP
+XP Label,XP
+Status,Status
+Role,Role
+Decorations,Decorations
+Statistics,Statistics
+Skills,Skills
+Customize,Customize
+Promote,Promote
+Disband,Disband
+Disband Confirmation,Are you sure you want to disband this character permanently?
+Exit,Exit
+Apply,Apply
+Apply To All,Apply to all sailors
+Name,Name
+Voice,Voice
+Body Shape,Body Shape
+Clothes,Clothes
+Pants,Pants
+Accessory 1,Accessory 1
+Accessory 2,Accessory 2
+Cap,Cap
+Hairstyle,Hairstyle
+Beard,Beard
+Hair color,Hair Color
+Complexion,Complexion
+Face type,Face Type
+Eye color,Eye Color
+Enter text,Enter text�c
+Cancel,Cancel
+Accept,Accept
+Customize Skipper Label,Customize the skipper
+Reputation Point Required,This promotion will consume 1 reputation point.
+Reputation Point Required Missing,<color=red>This promotion requires 1 reputation point.</color>
+Promotion Possible Only in Port,<color=red>Promotions are possible only at ports.</color>
+Captain Name,Captain Name
+Remaining Skill Points,Remaining skill points
+Thin,Thin
+Slightly Muscular,Slightly Muscular
+Muscular,Muscular
+Slightly Overweight,Slightly Overweight
+Large,Large
+Heavy,Heavy
+,
+/CharacterUI/Hair Colors,English
+Black,Black
+Brown,Brown
+Blonde,Blonde
+Red,Red
+Gray,Gray
+,
+/CharacterSwitchUI,English
+X More,{0} targets...
+Normal Lighting,Normal lighting
+Red Lighting,Red lighting
+Blue Lighting,Blue lighting
+Keep Bulkheads Open,Open bulkheads
+Close Bulkheads,Close bulkheads
+Electric Steering,Dive planes
+Manual Steering,Dive planes
+Devices,Devices
+Lighting,Lighting
+Orders,Orders
+,
+/HUD,English
+FPP Hint,"Press ALT to display UI.
+Press TAB to open management screen."
+FPP Hint Activator,Click right mouse button to open action list.
+Free Fly Camera Notification Hint,"Free camera enabled. Press ""{0}"" on the keyboard to leave this mode."
+,
+/LiveTimeSkippingUI,English
+Format,Day {0}
+,
+/VacationUI,English
+Header,Vacation
+Duration Format,{0} days
+Fatigue Reset,- Discipline penalties will be reset.
+Discipline Modifier,- Discipline +{0} for 10 days.
+Crew Energy Loss Modifier,- Crew's energy is depleted {0}% slower for 10 days.
+Experience Bonus,- Having time to think your crew gains {0}% extra experience from the last patrol.
+Headquarters Performance Modifier,"- Due to contact with politicians in this area, headquarters tasks will be performed {0}% faster during the stay."
+La Rochelle,La Rochelle
+La Rochelle Description,"La Rochelle. A place for a quick rest after patrol. Here sailors can find everything they need, nightclubs, small pubs, restaurants. The proximity of the flotilla base is convenient in the event of a sudden alarm."
+French Chateau,French Chateau
+French Chateau Description,"Ch?teauneuf-du-Faou. A holiday resort with a lovely red-brick building, surrounded by gardens and fields. Here sailors can forget about bombs and air attacks. Also, they can take partners with them. An ideal place to relax in silence and peace."
+French Campsite,French Campsite
+French Campsite Description,"Lager Lemp. The campsite located on the main road to Lorient. The lake surrounded by the promenade can be used by sailors for water sports. At the resort sailors can watch the latest german films, play cards, write letters to family with an indispensable bottle of cheap beer in hand. Lovers of stronger experiences often go to nearby towns in search of the company of local ladies and stronger alcohol."
+Bavarian Village,Bavarian Village
+Bavarian Village Description,"Bad Wiessee. You recently found out that your U-boat was ""adopted"" by small bavarian village. The local people are waiting impatiently to host their heroes. Here sailors can rest on skis, enjoy luxury and all amenities, satisfying all the most sophisticated needs. After months of patrols and duty they can regain the fighting spirit and regenerate the morale in the surroundings of well-known landscapes."
+German Alps Resort,German Alps Resort
+German Alps Resort Description,Berchtesgaden. A tourist and winter sports resort located in the Salzburg Alps. A place of rest for the elite and exceptionally deserved sailors. The profile of this place is raised by the nearby official residence of Adolf Hitler - Berghof. Some lucky ones have the opportunity to meet their adored F?hrer there.
+Eagle's Nest,The Eagle's Nest
+Eagle's Nest Description,"The Eagle's nest. A birthday gift for Adolf Hitler's 50th birthday. A hostel at the top of the Kehlstein mountain. The building is residence of Hitler, Bormann and G?ring. A meeting place for personalities. Eva Braun often stays there. The perfect place for rest but also to gain contacts. Here Officers can settle their matters with the influential personalities of the Third Reich in a less official atmosphere."
+,
+/InputSettingsUI,English
+Already Used Confirmation,This key is already used for such actions
+Hydrophone,Hydrophone
+Hydrophone - Adjust Bearing,Bearing - Left
+Hydrophone - Adjust Bearing Negative,Bearing - Right
+Hydrophone - Adjust Cutoff Frequency,Cutoff frequency - Left
+Hydrophone - Adjust Cutoff Frequency Negative,Cutoff frequency - Right
+Hydrophone - Adjust Volume,Volume - Left
+Hydrophone - Adjust Volume Negative,Volume - Right
+Camera,View
+Horizontal,Right
+Horizontal Negative,Left
+Vertical,Forward
+Vertical Negative,Backward
+Map Toggle,Toggle map
+Free Camera Mode,Free camera mode
+Free Camera,Toggle on/off
+Free Fly Camera Up Down,Increase elevation
+Free Fly Camera Up Down Negative,Decrease elevation
+View - FPP,Switch to FPP
+View - Section View,Switch to section view
+View - Orbit View,Switch to orbit view
+Zoom,Zoom in
+Zoom Negative,Zoom out
+FPP,First Person Perspective
+Horizontal Movement,Right
+Horizontal Movement Negative,Left
+Vertical Movement,Forward
+Vertical Movement Negative,Backward
+Sprint,Sprint
+Binocular Toggle,Binoculars
+Flashlight,Flashlight
+FPP Show UI,Display interface
+Gunnery,Gunnery
+Ammo - Next,Next ammunition
+Ammo - Previous,Previous ammunition
+Artillery Fire,Fire
+Gun Zoom,Zoom
+Rotate Gun - Horizontal,Rotate - Right
+Rotate Gun - Horizontal Negative,Rotate - Left
+Rotate Gun - Vertical,Rotate - Up
+Rotate Gun - Vertical Negative,Rotate - Down
+Hotkeys,Hotkeys
+Pause,Pause
+Quick Save,Quick save
+Quick Load,Quick load
+Switch Character,Management screen
+Engine Gear Increase,Increase engines gear
+Engine Gear Decrease,Decrease engines gear
+Open Telegraph,Open telegraph
+Open Depth Meter,Open depth meter
+Open Rudder Control,Open rudder tool
+Open Journal,Open journal
+UI Scale Increase,Increase interface size
+UI Scale Decrease,Decrease interface size
+Hotkey - Character 0,Select character 1
+Hotkey - Character 1,Select character 2
+Hotkey - Character 2,Select character 3
+Hotkey - Character 3,Select character 4
+Hotkey - Character 4,Select character 5
+Hotkey - Character 5,Select character 6
+Hotkey - Character 6,Select character 7
+Hotkey - Character 7,Select character 8
+Hotkey - Character 8,Select character 9
+Miscellaneous,Miscellaneous
+Capture Screenshot,Capture screenshot
+Queue Actions,Action queueing mode
+Show Hidden Activators,Show hidden activators
+Swap Postprocessing,Swap postprocessing
+Time Compression,Time compression
+Time Compression 1,Time compression 1
+Time Compression 2,Time compression 2
+Time Compression 3,Time compression 3
+Time Compression 4,Time compression 4
+Time Compression 5,Time compression 5
+Toggle UI,Toggle UI
+Open Close Console,Toggle cheat console
+Bug Report,Bug reporting tool
+Reload,Reload
+,
+/Rewards,English
+Reputation,{0
+Budget,{0
+Research Boost,{0}
+Milk Cow,Milk Cow
+Captive Released,Survivor released
+,
+/Accomplishments,English
+Assignment Completed,Completed assignment.
+Sunk Ship,"Sinking of ""{0}"" {1}."
+Sunk Ship Freighter,"Sinking of ""{0}"" freighter."
+Sunk Ship Tanker,"Sinking of ""{0}"" tanker."
+Sunk Ship Destroyer,"Sinking of ""{0}"" destroyer."
+Sunk Ship Corvette,"Sinking of ""{0}"" corvette."
+Sunk Ship Battleship,"Sinking of ""{0}"" battleship."
+Sunk Ship Submarine,"Sinking of ""{0}"" submarine."
+Sunk Ship Escort Carrier,"Sinking of ""{0}"" escort carrier."
+Sunk Ship Cruiser,"Sinking of ""{0}"" cruiser."
+Sunk Ship Fast Attack Craft,"Sinking of ""{0}"" fast attack craft."
+Helped Ally,"Helped other u-boat, {0}."
+Investigated Lost Ship,"Investigated drifting u-boat, {0}."
+Aircraft Shot Down,Shot down {0}.
+Calmed Down Sailor,Dealt with crisis involving {0}.
+Repaired Leak,Repaired critical leak at {0}.
+Medical Aid,Saved life of {0}.
+Torpedo Course,"Determined torpedo course at ""{0}"" {1}."
+Sunk Ship Participation,"Contribution in sinking of ""{0}"" {1}."
+Carried Wounded,Carried wounded {0} to safety.
+Visited Lost Ship,"Visited drifting u-boat, {0}."
+Mined Lost Ship,"Mined lost ship, {0}."
+Wounds,Wounds.
+Weather Station Deployment,Weather station deployment.
+Recovered Enigma From Wreck,Recovered Enigma machine from the wreck.
+Located Gold In Wreck,Located gold inside a sunk merchant ship.
+,
+/AssignmentSummaryUI,English
+Statistics,"Tonnage sunk: {0} tons
+Time: {1}
+Traveled distance: {2}"
+Mission Summary,Mission Summary
+Sunk Ship GRT Suffix,<color=#C8C1A5>({0} GRT)</color>
+Rewards Header,Rewards
+Statistics Header,Statistics
+Sunken Ships Header,Units sunk
+Objectives Header,Objectives
+Messages List Header,Messages List
+GRT Progress Bar,{0} / {1} GRT
+Rewards,Rewards
+Additional Rewards,Additional rewards
+Punishments,Punishments
+Sunk Ship Format String,{0} {1}
+,
+/Mod Warning UI,English
+Info,"We noticed that you use mods in the game. Mods may sometimes introduce bugs into the game. Please consider disabling mods first, before reporting a bug as otherwise we may not be able to help you.
+
+Are you sure that you want to continue with the bug reporting tool?"
+Confirm,Confirm
+,
+/Customization,English
+Cotton Shirt 01 Blue,Cotton Shirt 01 Blue
+Cotton Shirt 01 Blue 2,Cotton Shirt 01 Blue 2
+Cotton Shirt 01 Blue 3,Cotton Shirt 01 Blue 3
+Cotton Shirt 01 Burgundy,Cotton Shirt 01 Burgundy
+Cotton Shirt 01 Gray,Cotton Shirt 01 Gray
+Cotton Shirt 01 Red,Cotton Shirt 01 Red
+Cotton Shirt 01 Red 2,Cotton Shirt 01 Red 2
+Cotton Shirt 01 Turquise,Cotton Shirt 01 Turquise
+Cotton Shirt 02 Brown,Cotton Shirt 02 Brown
+Cotton Shirt 02 Gray,Cotton Shirt 02 Gray
+Cotton Shirt 02 Green,Cotton Shirt 02 Green
+Cotton Shirt 03 Blue,Cotton Shirt 03 Blue
+Cotton Shirt 03 Blue 2,Cotton Shirt 03 Blue 2
+Cotton Shirt 03 Brown,Cotton Shirt 03 Brown
+Cotton Shirt 03 Green,Cotton Shirt 03 Green
+Cotton Shirt 03 Orange,Cotton Shirt 03 Orange
+Cotton Shirt 03 Red,Cotton Shirt 03 Red
+Cotton Shirt 03 Red 2,Cotton Shirt 03 Red 2
+Cotton Shirt 04 Blue,Cotton Shirt 04 Blue
+Cotton Shirt 04 Blue 2,Cotton Shirt 04 Blue 2
+Cotton Shirt 04 Green,Cotton Shirt 04 Green
+Cotton Shirt 04 Red,Cotton Shirt 04 Red
+Cotton Shirt 04 Red 2,Cotton Shirt 04 Red 2
+Cotton Shirt 04 Stripes,Cotton Shirt 04 Stripes
+Jacket 01,Jacket 01
+Jacket 02,Jacket 02
+Jacket 03,Jacket 03
+Jacket 04 Black,Jacket 04 Black
+Jacket 04 Gray,Jacket 04 Gray
+Jacket 05,Jacket 05
+Jacket 06,Jacket 06
+Shirt 01,Shirt 01
+Shirt 02 Black,Shirt 02 Black
+Shirt 02 Black-Blue,Shirt 02 Black-Blue
+Shirt 02 Blue-White,Shirt 02 Blue-White
+Shirt 02 Gray,Shirt 02 Gray
+Shirt 03 Black,Shirt 03 Black
+Shirt 03 Blue,Shirt 03 Blue
+Shirt 03 Brown,Shirt 03 Brown
+Shirt 03 Gray,Shirt 03 Gray
+Shirt 04 Blue,Shirt 04 Blue
+Shirt 04 Gray,Shirt 04 Gray
+Shirt 04 Red,Shirt 04 Red
+Sweater,Sweater
+Sweater 02,Sweater 02
+Binoculars,Binoculars
+Eye Patch 01,Eye Patch 01
+Eye Patch 02,Eye Patch 02
+Glasses 01,Glasses 01
+Glasses 02,Glasses 02
+None,None
+Pipe,Pipe
+Sunglasses 01,Sunglasses 01
+Cap 01 Blue,Cap 01 Blue
+Cap 01 Green,Cap 01 Green
+Cap 01 Stripes,Cap 01 Stripes
+Cap 02 Black,Cap 02 Black
+Cap 02 Blue,Cap 02 Blue
+Cap 02 Red,Cap 02 Red
+Cap 03 Black,Cap 03 Black
+Cap 03 Gray,Cap 03 Gray
+Cap 03 Stripes,Cap 03 Stripes
+Cap 05 Black,Cap 05 Black
+Cap 05 Red,Cap 05 Red
+Cap 05 Yellow,Cap 05 Yellow
+Cap 06 Alternate,Cap 06 Alternate
+Cap 06 Black,Cap 06 Black
+Cap 06 Red,Cap 06 Red
+Cap NCO,Cap NCO
+Cap NCO 02,Cap NCO 02
+Captain's Cap,Captain's Cap
+Officer's Cap,Officer's Cap
+Complexion I,Complexion I
+Complexion II,Complexion II
+Complexion III,Complexion III
+Complexion IV,Complexion IV
+Complexion V,Complexion V
+Complexion VI,Complexion VI
+Complexion VII,Complexion VII
+Complexion VIII,Complexion VIII
+Type I,Type I
+Type II,Type II
+Type III,Type III
+Type IV,Type IV
+Type V,Type V
+Type VI,Type VI
+Type VII,Type VII
+Type VIII,Type VIII
+Type IX,Type IX
+Type X,Type X
+Type XI,Type XI
+Type XII,Type XII
+Type XIII,Type XIII
+Bald,Bald
+Hair 01,Hair 01
+Hair 02,Hair 02
+Hair 03,Hair 03
+Hair 04,Hair 04
+Hair 05,Hair 05
+Hair 06,Hair 06
+Pants 01,Pants 01
+Pants 02,Pants 02
+Basic Beard I,Basic Beard I
+Basic Beard II,Basic Beard II
+Basic Beard III,Basic Beard III
+Basic Beard IV,Basic Beard IV
+Voice I,Voice 1
+,
+/Management UI,English
+Crew,Crew
+Schedule,Schedule
+Tasks,Tasks
+Add Sailor,Add Sailor
+Disband,Disband
+New Shift,New Shift
+Squads,Squads
+Work,Work
+Anything,Anything
+Free,Free
+Disband Confirmation,Are you sure you want to delete this?
+Disband Confirmation Title,Confirmation
+Morning Shift,Morning shift
+Evening Shift,Evening shift
+Night Shift,Night shift
+,
+/AssignmentManagementUI,English
+Description,This screen allows to setup which and how many sailors should be assigned to a shift or officer.
+Sailors X,{0} sailors
+,
+/TaskManagementUI,English
+Description,"This screen allows to set work priorities for officers and sailor shifts. A higher number means higher priority for working on the associated task.
+Selected priority may drop by a few points, if the associated task is currently not profitable."
+Description use,Press SHIFT + use mouse scroll to adjust priorities OR click to enter them manually.
+Save Preset,Save Preset
+,
+/TimeManagementUI,English
+Description,Configure work schedules for sailor shifts and officers.
+,
+,
+/ActivatorDetailsUI,English
+Details,Details
+,
+/EntityTooltips,English
+Imported Goods,Imported goods
+Exported Goods,Exported goods
+Goods Separator,","
+Paragraph Ending,.
+Unit Tooltip Name Known,"<align=""center""><b>�g{6}�h</b></align>
+<align=""center"">{0}</align>
+
+Country: {1}
+Distance: {2}
+Velocity: {3}
+<line-height=150%>Course: {4}
+Est. accuracy: {5} "
+Unit Tooltip Name Unknown,"<align=""center""><b>{0}</b></align>
+
+Country: {1}
+Distance: {2}
+Velocity: {3}
+<line-height=150%>Course: {4}
+Est. accuracy: {5}"
+Similar To,{0} similar to {1}
+,
+,
+/Select SquareUI,English
+Select Target Square,Select target square
+,
+/CampaignObjectivesListUI,English
+Campaign Unavailable,This campaign objective is currently not available.
+Campaign Unavailable Ports,"This campaign objective is currently not available.
+
+It will start after stationing in one of the following ports: {0}."
+,
+/Rich Presence,English
+Main Menu,In main menu
+At Sea,At sea aboard {0}
+Docked,Docked at {0}
+Default,In game
+,
+/CrashWarningUI,English
+Info,"We noticed that the last time you played UBOAT a crash occured that we are currently trying to repair.
+<line-height=40%>
+<line-height=100%>We kindly ask you to contact us on Steam forum. Thank you!"
+,
+/TutorialWarningUI,English
+Info,"Are you absolutely sure that you <b><u>want to disable tutorial introduction?</u></b>
+
+We highly recommend to play through the tutorial first. There are many things to learn about the game. It's going to be very hard to learn everything on the fly."
+,
+,
+,
+/CampaignSummaryUI,English
+Header,Summary
+Exit to Menu,Exit to Menu
+Summary Intro,"III Reich capitulated on 8th May 1945 after almost 6 years of war.
+
+The war accounted to 28000 casualties among sailors serving on the U-boats."
+Surrender - Warship,The crew of {0} surrendered at {1} to an enemy warship after {3} of service.
+Surrender - Warship Short Service,The crew of {0} surrendered at {1} to an enemy warship.
+Surrender - Port,The crew of {0} surrendered at {1} in {2} after {3} of service.
+Surrender - Port Short Service,The crew of {0} surrendered at {1} in {2}.
+Scuttled - Port,The crew of {0} scuttled the boat at {1} in {2} after {3} of service.
+Scuttled - Port Short Service,The crew of {0} scuttled the boat at {1} in {2}.
+Scuttled - Specified Coast,The crew of {0} scuttled the boat at {1} near {2} after {3} of service.
+Scuttled - Specified Coast Short Service,The crew of {0} scuttled the boat at {1} near {2}.
+Scuttled - Unknown Coast,The crew of {0} scuttled the boat at {1} after {3} of service.
+Scuttled - Unknown Coast Short Service,The crew of {0} scuttled the boat at {1}.
+Decorations,Sailors serving on {0} collected {1} Iron Cross decorations.
+Casualties,They suffered {1} casualties during the service.
+Zero Casualties,They suffered no casualties during the entire service.
+Patrol Summary,{0} completed {1} patrols during its service.
+Patrol Summary With Special Missions,{0} completed {1} patrols during its service and special missions such as
+Sunk Ships Summary Intro,"It's documented that during its service, {0} sunk at least the following ships:"
+Sunk Ships Merchants,- {0} merchant ships that totalled to {1} GRT.
+Sunk Ships Merchants Single,- 1 merchant ship of {1} GRT.
+Sunk Ships Tankers Single,- 1 tanker.
+Sunk Ships Tankers,- {0} tankers.
+Sunk Ships Destroyers Single,- 1 destroyer.
+Sunk Ships Destroyers,- {0} destroyers.
+Sunk Ships Corvettes Single,- 1 corvette.
+Sunk Ships Corvettes,- {0} corvettes.
+Sunk Ships Battleship,"- ""{0}"" {1} battleship."
+Sunk Ships Battleships Many,- {0} battleships including
+Sunk Ships Battleships Without Names,- {0} battleships.
+Sunk Ships Battleships Without Names Single,- 1 battleship.
+Sunk Ships Aircraft Carrier,"- ""{0}"" {1} aircraft carrier."
+Sunk Ships Aircraft Carriers Many,- {0} aircraft carriers including
+Sunk Ships Aircraft Carriers Without Names,- {0} aircraft carriers.
+Sunk Ships Aircraft Carriers Without Names Single,- 1 aircraft carrier.
+Sunk Ships Cruiser,"- ""{0}"" {1} cruiser."
+Sunk Ships Cruisers Many,- {0} cruisers including
+Sunk Ships Cruisers Without Names,- {0} cruisers.
+Sunk Ships Cruisers Without Names Single,- 1 cruiser.
+Sunk Ships Generic,"""{0}"""
+Summary End,"After the war, they were returned to their homes in Germany.
+
+<align=center>THE END"

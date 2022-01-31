@@ -1,216 +1,283 @@
-Key
-Disease
-Disease Description
-Disease Increase
-Disease Decrease
-Bleeding
-Bleeding Description
-Bleeding Increase
-Bleeding Decrease
-Death
-Death Description
-Death Increase
-Death Decrease
-Decreased Performance
-Decreased Performance Description
-Performance Increased
-Performance Decreased
-Broken Device
-Broken Device Description
-Broken Device Increase
-Broken Device Decrease
-Flaw
-Flaw Description
-Flaw Increase
-Flaw Decrease
-Air Tanks Unfilled
-Air Tanks Unfilled Description
-Air Tanks Unfilled Ribbon
-Encoded Messages
-Encoded Messages Description
-Awaiting Messages
-Awaiting Messages Description
-Awaiting Messages Entry Format
-AnxiousPersonality
-AnxiousPersonality Description
-AnxiousPersonality Increase
-AnxiousPersonality Decrease
-Maniac
-Maniac Description
-Maniac Increase
-Maniac Decrease
-SeaWolf
-SeaWolf Description
-SeaWolf Increase
-Spy
-Spy Description
-Spy Increase
-Spy Decrease
-DelusionalPersonality
-DelusionalPersonality Description
-DelusionalPersonality Increase
-DelusionalPersonality Decrease
-Hunger
-Hunger Satisfied
-Hunger Peckish
-Hunger Hunger
-Hunger Starvation
-Crew Mission
-Crew Mission Description
-Crew Mission Increase
-Crew Mission Decrease
-Leak
-Leak Description
-Leak Increase
-Leak Decrease
-Radio Transmission
-Radio Transmission Description
-Radio Transmission Increase
-Radio Transmission Decrease
-Indirect Detection
-Indirect Detection Description
-Indirect Detection Increase
-Indirect Detection Decrease
-Visual
-RadarDetector
-Hydrophone
-Alarm
-Fire
-Evacuated
-Evacuation
-Sinking
-Active Radar
-Active Sonar
-Active Radio
-Nearby Contacts
-Nearby Contacts Description
-Nearby Contacts Increase
-Nearby Contacts Decrease
-Checkpoint Unlocked
-Checkpoint Unlocked Description
-Checkpoint Unlocked Increase
-Checkpoint Unlocked Decrease
-Skip Travel
-Skip Travel Description
-Intel
-Intel Description
-Intel Increase
-Intel Decrease
-Direct Detection
-Direct Detection Description
-Direct Detection Increase
-Direct Detection Decrease
-Buoyancy
-Buoyancy Positive 2 Description
-Buoyancy Positive 1 Description
-Buoyancy Positive 0 Description
-Buoyancy Neutral Description
-Buoyancy Negative 1 Description
-Buoyancy Negative 0 Description
-Buoyancy Sink
-Buoyancy Loose of Buoyancy
-Postprocessing Notification
-Postprocessing - Recommended
-Postprocessing - Dark
-Postprocessing - Desaturated
-Postprocessing - Bright
-Depletion Oxygen
-Depletion Oxygen Description
-Depletion Oxygen Started
-Depletion Oxygen Finished
-Depletion Discipline
-Depletion Discipline Description
-Depletion Discipline Started
-Depletion Discipline Finished
+Key,English
+Disease,Sickness
+Disease Description,Sickness is spreading on your boat! Treat it with a radioman that has medical training or return to port. Affected sailors
+Disease Increase,Sickness is spreading!
+Disease Decrease,The sickness is cured�c
+Bleeding,The sailors are in critical state!
+Bleeding Description,The sailors are dying on board. Stabilize them with a radioman that has medical training as soon as possible.
+Bleeding Increase,The sailor is in critical state!
+Bleeding Decrease,The sailor is stabilized
+Death,Death
+Death Description,Some sailors have died on board.
+Death Increase,A sailor died!
+Death Decrease,
+Decreased Performance,Performance decreased
+Decreased Performance Description,We are lacking healthy crew members to fully operate the boat.
+Performance Increased,Performance increased.
+Performance Decreased,Performance decreased!
+Broken Device,Damage
+Broken Device Description,Some things on the boat are damaged. Use the engineers to perform the necessary repairs.
+Broken Device Increase,Damage!
+Broken Device Decrease,Device repaired!
+Flaw Identified,Flaw point identified!
+Flaw Identified Description,Our engineers detected hidden faults on some devices on the boat. They are most likely a result of earlier combat or were caused by pressure deep under the water. Consider repairing them with your engineers as they may cause serious damage in the long term.
+Flaw Identified Increase,Fault detected!
+Flaw Identified Decrease,Fault repaired
+Flaw Triggered,Flaw triggered!
+Flaw Triggered Description,"Something on the boat has just broken. It seems that the previous combat or pressure deep under the water has left some deeper scars on our boat.
 
+We could potentially locate these flaw points before they were triggered, by having our engineers assigned to the damage control."
+Flaw Triggered Increase,Flaw point triggered!
+Flaw Triggered Decrease,Flaw point repaired.
+Air Tanks Unfilled,Compressed air reserves low
+Air Tanks Unfilled Description,"Our compressed air reserves are low, making surfacing harder or even impossible. Turn on the compressor on the water surface to replenish your air reserves."
+Air Tanks Unfilled Ribbon,Low air reserves
+Encoded Messages,Encoded messages
+Encoded Messages Description,We've received encoded messages. Assign the radioman to Enigma to decode them.
+Awaiting Messages,New messages!
+Awaiting Messages Description,Our radioman received new messages. Click this notification to open your message log.
+Awaiting Messages Entry Format,<size=14><b>? {0}</b><color=#aaa> from {1}</color></size>
+AnxiousPersonality,Cowards!
+AnxiousPersonality Description,"Skipper, a few sailors on board broke under pressure. They may make noise and need to be taken care of."
+AnxiousPersonality Increase,Coward!
+AnxiousPersonality Decrease,The situation is under control
+Maniac,Maniacs
+Maniac Description,At least one of our crewmates have become very aggressive due to the stress. He has to be stopped.
+Maniac Increase,Personality revealed!
+Maniac Decrease,Situation goes back under control
+SeaWolf,Sea wolf
+SeaWolf Description,"At least one of our crewmates turned out to be a Sea Wolf, a real stoic facing whatever is to come with dignity. Stress peak had no effect."
+SeaWolf Increase,The situation is under control
+Spy,Spy
+Spy Description,We have a spy on board!
+Spy Increase,Personality revealed!
+Spy Decrease,Situation goes back under control
+DelusionalPersonality,Paranoid
+DelusionalPersonality Description,One of our crewmates has lost it. He may be dangerous and has to be stopped
+DelusionalPersonality Increase,Personality revealed!
+DelusionalPersonality Decrease,Situation goes back under control
+Hunger,Hunger
+Hunger Satisfied,The crew is no longer hungry
+Hunger Peckish,The crew is becoming hungry
+Hunger Hunger,The crew is hungry!
+Hunger Starvation,The crew is starving!
+Crew Mission,Crew missions
+Crew Mission Description,We can send our men on missions nearby!
+Crew Mission Increase,New mission nearby!
+Crew Mission Decrease,
+Leak,Leak
+Leak Description,There are one or more leaks on board!
+Leak Increase,Leak on board!
+Leak Decrease,Leak fixed!
+Radio Transmission,Radio transmissions
+Radio Transmission Description,We picked up active radio transmissions nearby.
+Radio Transmission Increase,Incoming
+Radio Transmission Decrease,Transmission lost
+Indirect Detection,Group detected!
+Indirect Detection Description,We managed to detect a group of units nearby.
+Indirect Detection Increase,New contact
+Indirect Detection Decrease,Contact lost!
+Visual,"<b>Visually detected</b>
+We have a visual bearing on this vessel."
+RadarDetector,"<b>Detected by the radar detector</b>
+This vessel is heard by the hydrophone."
+Hydrophone,"<b>Detected by the hydrophone</b>
+This vessel is heard by the hydrophone."
+Alarm,"<b>Alarm</b>
+This vessel has been alarmed and is ready to fight."
+Fire,"<b>Fire</b>
+There is a fire on this vessel. As time passes it will cause more damage."
+Evacuated,"<b>Abandoned</b>
+The vessel has been abandoned by the crew."
+Evacuation,"<b>Evacuation</b>
+The crew tries to abandon the vessel."
+Sinking,"<b>Sinking</b>
+The vessel is sinking."
+Active Radar,"<b>Radar</b>
+The vessel uses a radar."
+Active Sonar,"<b>Sonar</b>
+The vessel uses a sonar."
+Active Radio,"<b>Radio</b>
+The vessel transmits something on the radio."
+Nearby Contacts,Nearby contacts!
+Nearby Contacts Description,"We are in an area where we expect that some ships are. Submerge and listen to the hydrophone, use the radar detector or just wander around to narrow down their position!"
+Nearby Contacts Increase,We are close!
+Nearby Contacts Decrease,Area left.
+Checkpoint Unlocked,Checkpoint
+Checkpoint Unlocked Description,"We have unlocked a checkpoint at sea. In exchange for the required resources, we can quickly move to it."
+Checkpoint Unlocked Increase,Checkpoint unlocked!
+Checkpoint Unlocked Decrease,
+Skip Travel,Fast travel
+Skip Travel Description,We are in a friendly area with no enemies nearby. Click this notification to quickly travel to your current target.
+Intel,Intelligence collected!
+Intel Description,We have gathered more or less useful intelligence. We can send it to our headquarters at any time by radio.
+Intel Increase,Intel collected!
+Intel Decrease,Intel sent.
+Direct Detection,Vessels detected!
+Direct Detection Description,We managed to detect some vessels nearby.
+Direct Detection Increase,Detection!
+Direct Detection Decrease,Contact lost!
+Buoyancy,Boat's buoyancy
+Buoyancy Positive 2 Description,"Our boat has positive buoyancy at this time and will float on the water�fs surface during normal conditions.
 
-Stress Started
-Stress Stopped
-Depletion Energy
-Depletion Energy Description
-Depletion Energy Started
-Depletion Energy Finished
-Depletion Fuel
-Depletion Fuel Description
-Depletion Fuel Started
-Depletion Fuel Finished
-Dangerous Depth
-Dangerous Depth Description
-Dangerous Depth Enter
-Dangerous Depth Leave
-Crush Depth
-Crush Depth Description
-Crush Depth Enter
-Crush Depth Leave
-Travel Mode
-Travel Mode Description
-Travel Mode Start
-ItemsProduction - Task Complete
-TakeReward - Task Complete
-Research - Task Complete
-LocateDefenses - Task Complete
-MoveUnitAreaOfOperation - Task Complete
-Task Notification Description
-Task Notification Complete Description
-Lost on the Sea
-Lost on the Sea Description
-Notification X More
-Mine Triggered
-Checkpoint Travel Alarm
-Checkpoint Travel Lost
-Vacation Start
-Vacation
-Vacation Description
-Heart Attack
-Heart Attack Description
-Heart Attack Increase
-Heart Attack Decrease
-Dirtiness
-Dirtiness Description
-Dirtiness Increase
-Dirtiness Decrease
-Missing Workers
-Missing Workers Description
-Engines Description
-Engines Increase
-Engines Decrease
-Observation Spot Description
-Observation Spot Increase
-Observation Spot Decrease
-Diving Planes Description
-Diving Planes Increase
-Diving Planes Decrease
-Helmsman Description
-Helmsman Increase
-Helmsman Decrease
-Electric Engines Preferred
-Electric Engines Preferred Description
-Electric Engines Preferred Increase
-Home Port Changed
-Radio Transmission Detected By Enemy
-Radio Transmission Detected By Enemy Description
-Shallow Area
-Shallow Area Description
-Shallow Area Start
-Low Navigation Accuracy
-Low Navigation Accuracy Description
-Skill Tooltip
-Captive
-Captive Increase
-Captive Decrease
-Captive Description
-Weather Station Deployment Area
-Port Defences
-Port Defences Description
-Radio Transmission Interrupted
-Radio Transmission Interrupted Description
-Resupply Ship Sank
-Resupply Ship Sank Description
-Mission Status Update
-Mission Status Update Description
-Low Spare Parts
-Low Spare Parts Description
-No Spare Parts
-No Spare Parts Description
-Out of Free Space
-Headquarters Unavailable
+<color=#ff4c11>Warning: the displayed buoyancy doesn't account for the volume between the hulls that usually slows down submerging for a short time.</color>"
+Buoyancy Positive 1 Description,"Our boat has positive buoyancy at this time and will float on the water�fs surface during normal conditions.
+
+The displacement is too low to walk on the upper deck since it is partially or fully under the water.
+
+<color=#ff4c11>Warning: the displayed buoyancy doesn't account for the volume between the hulls that usually slows down submerging for a short time.</color>"
+Buoyancy Positive 0 Description,"Our boat has positive buoyancy at this time and will float on the water�fs surface during normal conditions.
+
+The displacement is too low to go outside. Most of the boat is under the water and it would be dangerous for the crew to be outside and for the boat itself.
+
+<color=#ff4c11>Warning: the displayed buoyancy doesn't account for the volume between the hulls that usually slows down submerging for a short time.</color>"
+Buoyancy Neutral Description,"Our boat has neutral buoyancy and may freely change its submersion depth using the vertical steers.
+
+<color=#ff4c11>Warning: the displayed buoyancy doesn't account for the volume between the hulls that usually slows down submerging for a short time.</color>"
+Buoyancy Negative 1 Description,"Our boat has negative buoyancy, but for the most part, it's still possible to compensate using the engines."
+Buoyancy Negative 0 Description,Our boat has negative buoyancy and is sinking!
+Buoyancy Sink,The boat is sinking!
+Buoyancy Loose of Buoyancy,The boat is losing buoyancy!
+Postprocessing Notification,Post-processing
+Postprocessing - Recommended,Lively (Default)
+Postprocessing - Dark,Dark
+Postprocessing - Desaturated,Desaturated
+Postprocessing - Bright,Bright
+Depletion Oxygen,Low air quality
+Depletion Oxygen Description,The quality of air inside the boat is very low.
+Depletion Oxygen Started,Low air quality
+Depletion Oxygen Finished,The quality of air increased
+Depletion Discipline,Low discipline
+Depletion Discipline Description,Discipline on the boat is very low and because of it your crew is very susceptible to stress during combat. Consider returning back to the port and sending your crew on a vacation.
+Depletion Discipline Started,Low discipline
+Depletion Discipline Finished,Discipline increased
+,
+,
+Stress Started,Your crew is strained and stressed
+Stress Stopped,Crew is no longer strained and stressed
+Depletion Energy,The batteries are close to depletion
+Depletion Energy Description,The energy in the batteries is at a very low level.
+Depletion Energy Started,The batteries are close to depletion
+Depletion Energy Finished,The batteries are recharged
+Depletion Fuel,The fuel is close to depletion
+Depletion Fuel Description,We are running out of fuel.
+Depletion Fuel Started,The fuel is close to depletion
+Depletion Fuel Finished,The fuel is refilled
+Dangerous Depth,Dangerous depth
+Dangerous Depth Description,Our boat is currently at a depth that poses some danger to parts exposed to external pressure.
+Dangerous Depth Enter,Dangerous depth
+Dangerous Depth Leave,Safe depth
+Crush Depth,Crushing depth
+Crush Depth Description,Our boat is currently at a depth for which the boat�fs hull was not designed. Move closer to the surface as the hull might be crushed at any moment!
+Crush Depth Enter,Crushing depth
+Crush Depth Leave,The danger has passed
+Travel Mode,Long distance travel
+Travel Mode Description,"Our boat is now on the open sea, far from anything else. Travel speed on the map is now much faster."
+Travel Mode Start,Travel mode
+ItemsProduction - Task Complete,Production complete!
+TakeReward - Task Complete,Research complete!
+Research - Task Complete,Research complete!
+LocateDefenses - Task Complete,Research complete!
+MoveUnitAreaOfOperation - Task Complete,Supply ship has reached the target square!
+Task Notification Description,This task will be completed in {0}.
+Task Notification Complete Description,This task was completed! Visit Headquarters to receive rewards.
+Lost on the Sea,We are lost!
+Lost on the Sea Description,"We are not sure about our boat's current location. Our boat's position won't be dynamically updated on the map. Send officer to the navigator's station to make him determine our current position back again. 
+Note: You can keep officer at the navigator's station when travelling long distances on the open sea to prevent this."
+Notification X More,{0} <color=#ccce>({1} more�c)</color>
+Mine Triggered,We triggered a mine!
+Checkpoint Travel Alarm,Cannot travel to a checkpoint during alarm.
+Checkpoint Travel Lost,Cannot travel to a checkpoint when u-boat's position isn't known.
+Vacation Start,Crew vacation started.
+Vacation,Crew's vacation
+Vacation Description,Vacation will end in {0}.
+Heart Attack,Heart attack!
+Heart Attack Description,At least one of the sailors has got a heart attack due to stress and his underlying health condition.
+Heart Attack Increase,Sailor has a heart attack!
+Heart Attack Decrease,The sailor is stabilized
+Dirtiness,Neglected interiors
+Dirtiness Description,"Our boat interiors accumulated some dirt as they weren't cleaned for an extended period of time. This will make our crew a bit unhappy.
+
+Ensure that a cleaner is assigned to work in the Management screen to eliminate this penalty."
+Dirtiness Increase,Neglected interiors
+Dirtiness Decrease,Interiors are clean
+Missing Workers,Stations are empty
+Missing Workers Description,We don't have any sailors working at vital places of the boat
+Engines Description,? Engines are currently not manned. We won't be able to move.
+Engines Increase,Missing workers
+Engines Decrease,Engines are manned
+Observation Spot Description,? Sailors performing observations at the conning tower are missing despite our boat being surfaced. We won't see anything around us.
+Observation Spot Increase,Missing workers
+Observation Spot Decrease,Conning tower is manned
+Diving Planes Description,? Missing sailors at the depth steers station. We won't be able to dive or intentionally change our depth.
+Diving Planes Increase,Missing workers
+Diving Planes Decrease,Diving planes station is manned
+Helmsman Description,? We don't have any sailor working at the helmsman station. We won't be able to turn our boat around.
+Helmsman Increase,Missing worker
+Helmsman Decrease,Helmsman station is manned
+Electric Engines Preferred,Electric engines are now preferred over diesel engines
+Electric Engines Preferred Description,"They will be used even on the sea surface until this order is dismissed. You can do that by opening the telegraph from the top bar and clicking a button labelled as ""Diesel Motors""."
+Electric Engines Preferred Increase,Electric engines are now preferred over diesel engines
+Home Port Changed,Your home port has fallen to the enemy! Head to {0} for further orders.
+Radio Transmission Detected By Enemy,Radio transmission detected by the enemy!
+Radio Transmission Detected By Enemy Description,"Skipper, enemy started an alarm and it seems likely that they detected our radio transmission."
+Shallow Area,Shallow area
+Shallow Area Description,"We are in shallow waters.
+Watch out for shoals!"
+Shallow Area Start,Shallow area
+Low Navigation Accuracy,Low navigation accuracy
+Low Navigation Accuracy Description,"The determined course and position of our boat is imprecise.
+Send an officer to the navigator's station!"
+Skill Tooltip,"<b>{0}</b>
+{1}"
+Captive,Survivors
+Captive Increase,New survivor on board
+Captive Decrease,Survivor released
+Captive Description,"Skipper, we have a few survivors on board. We tried to accommodate them in a limited space of a submarine. We can leave them at the nearest port or supply ship for a small reward."
+Weather Station Deployment Area,Weather station deployment area
+Port Defences,Port defences may be near
+Port Defences Description,"We are in an area, where there is a high risk of encountering various anti-submarine defences like mines and nets. Act carefully skipper!"
+Radio Transmission Interrupted,Radio transmission was interrupted
+Radio Transmission Interrupted Description,"Due to a weak signal, bad weather or some other reason, currently received transmission has been interrupted."
+Resupply Ship Sank,Resupply ship sank
+Resupply Ship Sank Description,"One of our resupply ships was sunk by the enemy. 
+Coordinates: {0} (square {1})"
+Mission Status Update,
+Mission Status Update Description,
+Low Spare Parts,Running low on spare parts
+Low Spare Parts Description,"We are running low on the spare parts. If they are depleted, we won't be able to patch leaks or perform other major repairs."
+No Spare Parts,Spare parts are missing
+No Spare Parts Description,We don't have any spare parts in the storage. We won't be able to patch leaks or perform other major repairs.
+Out of Free Space,There is no free space on the drive. The game state wasn't saved.
+Headquarters Unavailable,Headquarters is no longer available.
+Aircraft Detection,Aircraft detected!
+Aircraft Detection Description,"Skipper, we've detected an aircraft nearby."
+Aircraft Detection Increase,Aircraft detected!
+Ship Detection,Ships detected!
+Ship Detection Description,"Skipper, we've detected ships nearby."
+Ship Detection Increase,Ships detected!
+Smoke Detection,Smoke over horizon detected!
+Smoke Detection Description,"Skipper, we've spotted a funnel smoke over horizon."
+Smoke Detection Increase,Smoke over horizon detected!
+Propeller Detection,Propellers detected!
+Propeller Detection Description,"Skipper, our radioman is reporting that he heard propellers at some distance."
+Propeller Detection Increase,Propellers detected!
+Flaw Description,"<size=14><b>?  Flaw: {0}</b></size>
+<margin=9>{1}</margin>"
+Major Damage Description,"<size=14><b>?  Damage: {0}</b></size>
+<margin=9>This equipment was damaged. We will have to use replacement parts to repair it.</margin>"
+Minor Damage Description,"<size=14><b>?  Minor damage: {0}</b></size>
+<margin=9>This equipment was damaged, but luckily it's an easy one and fixing it won't require replacement parts.</margin>"
+Time Interval Flaw Identified,A material fatigue has appeared after taking a recent damage. It's a matter of time when it breaks. We need to hurry.
+Pressure Threshold Flaw Identified,"A surface exposed to external pressure has became weaker after taking a recent damage. It won't withstand the pressure exerted by water, if we dive deeper."
+Usability Flaw Identified,"This damage wasn't noticeable at first, but this equipment is currently not useable."
+Damage Vulnerability Flaw Identified,"Due to material fatigue from the recent damage, this equipment became vulnerable to any further stress. It will easily break, if we receive any further damage."
+Time Interval Flaw Activated,A material fatigue has appeared after taking a recent damage. It was a matter of time when it would break.
+Pressure Threshold Flaw Activated,A surface exposed to external pressure has became weaker after taking a recent damage. It couldn't withstand the pressure exerted by water when we dived deeper.
+Usability Flaw Activated,This damage wasn't noticeable at first. A crewman has noticed that this device was broken by recent damage when he tried to do some work on it.
+Damage Vulnerability Flaw Activated,"Due to material fatigue from the recent damage, this equipment became vulnerable to any further damage. It broken when we were hit again."
+Inspection Reminder,Our boat requires an inspection for hidden flaws
+Inspection Reminder Title,Inspection required
+Inspection Reminder Description,"Skipper, our boat was recently damaged by the enemy. There may be some damages on the boat of which we are not aware.
+
+You can assign an engineer or a radioman to the command station in the control room along with a few sailors to perform a full check of the boat."

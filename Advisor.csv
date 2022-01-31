@@ -1,290 +1,424 @@
-Key
-Hydrophone Surface
-Hydrophone Submerged
-Radar Detector
-Restock Food
-Restock Ammo
-Salvage Replacement Parts
-Navigation Positive
-Navigation Negative
-Radio Positive
-Radio Negative
-Observe Targeting Sight
-Observe Attack Periscope
-Observe Observation Periscope
-Use Gun - Artillery - 8.8 cm
-Use Gun - MG C30
-Gun No Enemies Nearby
-Enable Air Compressor
-Enable Ventilation
-Repair Leak
-Repair Damages
-Block Leak
-Medical Aid
-Manage Engines
-Inspect
-Talk
-Play Cards
-Sleep Positive
-Sleep Negative
-Tutorial Route Mouse 1
-Tutorial Route Controller 1
-Tutorial Route Mouse 2
-Tutorial Route Controller 2
-Tutorial Route Mouse 3
-Tutorial Route Controller 3
-Tutorial Engines
-Tutorial Engines FPP
-Tutorial Engines Controller
-Tutorial Engines Gear
-Tutorial Open Map
-Tutorial Open Controller
-Tutorial Prepare Boat
-Tutorial Galley 1
-Tutorial Galley 2
-Tutorial Galley 3
-Tutorial Time Compression
-Tutorial Time Compression Controller
-Tutorial Skip Travel
-Tutorial Skip Travel Controller
-Tutorial Reflector
-Tutorial Targeting Sight
-Tutorial Diver
-Tutorial Storage
-Tutorial Storage Controller
-Tutorial Depth
-Tutorial Depth FPP
-Tutorial Pause
-Tutorial Pause Controller
-Tutorial Lock Compartment
-Tutorial Repair
-Tutorial Repair 2
-Tutorial Unpause
-Tutorial Flashlight
-Tutorial Flashlight Controller
-Tutorial Pump
-Tutorial Carry Water
-Tutorial Dry Compartment
-Tutorial Rebreather
-Tutorial Aircraft Carrier
-Tutorial Hydrophone
-Tutorial Hydrophone 2
-Tutorial Wreckage
-Tutorial Boxes
-Tutorial Escort Carrier Area
-Tutorial Disable Reflector
-Tutorial Attack Carrier
-Tutorial Surface 2
-Tutorial Load Torpedoes
-Tutorial Escort Carrier Spotted
-Tutorial Escort Carrier Spotted 2
-Tutorial Aim
-Tutorial Fire
-Tutorial Fire 2
-Tutorial Fire 3
-Tutorial Fire 4
-Tutorial Dive 200 0
-Tutorial Dive 200 1
-Tutorial Dive 200 2
-Tutorial Surface
-Tutorial Skip Travel 2
-Tutorial Skip Travel 3
-Tutorial Wreck Out of Range
-Tutorial Disable Gyrocompass 1
-Tutorial Disable Gyrocompass 2
-Tutorial Escort Carrier Spotted 2 Alt
-Tutorial Wreck Area Reached
-Tutorial Smoke on Horizon
-Tutorial Followers
-Tutorial Storage UI 1
-Tutorial Storage UI 2
-Tutorial Storage UI 3
-Tutorial Storage UI 4
-Tutorial Warehouse 1
-Tutorial Warehouse 2
-Tutorial Warehouse 3
-Tutorial Warehouse 4
-Tutorial Warehouse 5
-Tutorial CrewList UI 1
-Tutorial CrewList UI 2
-Tutorial Journal 1
-Tutorial Headquarters 1
-Tutorial Headquarters 2
-Tutorial AssignmentManagementUI 1
-Tutorial AssignmentManagementUI 2
-Tutorial TimeManagementUI 1
-Tutorial TimeManagementUI 2
-Tutorial TaskManagement UI 1
-Tutorial TaskManagement UI 2
-Tutorial TaskManagement UI 3
-Tutorial AssignmentSelectionUI 1
-Tutorial Start Campaign 1
-Tutorial Start Campaign 2
-Tutorial First Dialogue with Officer 1
-Tutorial First Dialogue with Officer 2
-Tutorial Start First Tutorial Mission 1
-Tutorial RecruitmentListUI 1
-Tutorial RecruitmentListUI 2
-Tutorial RecruitmentListUI 3
-Tutorial UpgradeModeUI 1
-Tutorial EquipmentUpgradeListUI 1
-Tutorial EquipmentUpgradeListUI 2
-Tutorial 01 - Intro 01
-Tutorial 01 - Intro 02
-Tutorial 01 - Select Dialogue Option 01
-Tutorial 01 - Buy Food 01
-Tutorial 01 - Buy Fuel 01
-Tutorial 01 - Buy Torpedoes 01
-Tutorial 01 - Off Duty Time 01
-Tutorial 01 - Off Duty Time 02
-Tutorial 02 - Intro 01
-Tutorial 02 - Intro 02
-Tutorial 02 - Waypoint 01
-Tutorial 02 - Waypoint 02
-Tutorial 02 - Waypoint 03
-Tutorial 02 - Time Compression 01
-Tutorial 02 - Time Compression Realistic 01
-Tutorial 02 - Periscope Depth 01
-Tutorial 02 - Periscope Depth 02
-Tutorial 02 - Periscope 01
-Tutorial 02 - Periscope 02
-Tutorial 02 - Periscope 03
-Tutorial 02 - Periscope 04
-Tutorial 02 - Periscope 05
-Tutorial 02 - Deeper 01
-Tutorial 02 - Deeper 02
-Tutorial 02 - Deeper 03
-Tutorial 02 - Air 01
-Tutorial 02 - Air 02
-Tutorial 02 - Air 03
-Tutorial 02 - Air 04
-Tutorial 02 - Air 05
-Tutorial 02 - Air 06
-Tutorial 02 - Pump 01
-Tutorial 02 - Pump 02
-Tutorial 02 - Pump 03
-Tutorial 02 - Pump 04
-Tutorial 02 - Pump 05
-Tutorial 02 - Pump 06
-Tutorial 02 - Surface 01
-Tutorial 02 - Surface 02
-Tutorial 02 - Surface 03
-Tutorial 02 - Surface 04
-Tutorial 02 - Surface 05
-Tutorial 02 - Surface 06
-Tutorial 02 - Return to Port 01
-Tutorial 02 - Return to Port 02
-Tutorial 03 - Intro 01
-Tutorial 03 - Open Map 01
-Tutorial 03 - Set Course 01
-Tutorial 03 - Set Course 02
-Tutorial 03 - Undock 01
-Tutorial 03 - Arrive 01
-Tutorial 03 - Arrive 02
-Tutorial 03 - Arrive 03
-Tutorial 03 - Arrive 04
-Tutorial 03 - Arrive 05
-Tutorial 03 - Submerge 01
-Tutorial 03 - Hydrophone 01
-Tutorial 03 - Hydrophone 02
-Tutorial 03 - Hydrophone 03
-Tutorial 03 - Capture Course 01
-Tutorial 03 - Capture Course 02
-Tutorial 03 - Periscope Assign 01
-Tutorial 03 - Periscope Assign 02
-Tutorial 03 - Periscope Assign 03
-Tutorial 03 - Periscope Assign 04
-Tutorial 03 - Out of Range 01
-Tutorial 03 - Torpedo Course 01
-Tutorial 03 - Torpedo Course 02
-Tutorial 03 - Torpedo Course 03
-Tutorial 03 - Torpedo Launch 01
-Tutorial 03 - Torpedo Launch 01 Second Attempt
-Tutorial 03 - Torpedo Launch 02
-Tutorial 03 - Torpedo Launch 03
-Tutorial 03 - Torpedo Launch 04
-Tutorial 03 - Torpedo Launch 05
-Tutorial 03 - Surface Ship 01
-Tutorial 03 - Surface Ship 02
-Tutorial 03 - Surface Ship 03
-Tutorial 03 - Observation 01
-Tutorial 03 - Observation 02
-Tutorial 03 - Helpers 01
-Tutorial 03 - Helpers 02
-Tutorial 03 - Helpers 03
-Tutorial 03 - Helpers 04
-Tutorial 03 - Helpers 05
-Tutorial 03 - Submerge Attempt 01
-Tutorial 03 - Observation Success 01
-Tutorial 03 - Observation Success 02
-Tutorial 03 - Gun 01
-Tutorial 03 - Gun 02
-Tutorial 03 - Gun Fire Select 01
-Tutorial 03 - Gun Fire 01
-Tutorial 03 - Return to Port 01
-Tutorial 04 - Intro 01
-Tutorial 04 - Open Map 01
-Tutorial 04 - Plot Path 01
-Tutorial 04 - Undock 01
-Tutorial 04 - Arrived 01 Open Map
-Tutorial 04 - Arrived 01 Already On Map
-Tutorial 04 - Arrived 02
-Tutorial 04 - Plot Path Explanation
-Tutorial 04 - Plot Path Wrong
-Tutorial 04 - Travel 01
-Tutorial 04 - RadioSelect 01
-Tutorial 04 - RadioSelect 02
-Tutorial 04 - RadioAssign
-Tutorial 04 - RadioReceiveStart
-Tutorial 04 - RadioReceive
-Tutorial 04 - RadioRead
-Tutorial 04 - RadioSummary
-Tutorial 04 - RadioCloseJournal
-Tutorial 04 - AllyHelpPath
-Tutorial 04 - AllyHelpMeeting MissingPath
-Tutorial 04 - AllyHelpMeeting HasPath
-Tutorial 04 - AllyHelpAircraft 1
-Tutorial 04 - AllyHelpAircraft 2
-Tutorial 04 - AllyHelpAircraft 3
-Tutorial 04 - AllyHelpAircraft 4
-Tutorial 04 - AllyHelpAircraft 5
-Tutorial 04 - Ally Sunk
-Tutorial 04 - Pause
-Tutorial 04 - LeakExplanation 1
-Tutorial 04 - LeakExplanation 2
-Tutorial 04 - LeakExplanation 3
-Tutorial 04 - LeakRepairSelect
-Tutorial 04 - LeakRepairAssign
-Tutorial 04 - LeakPump
-Tutorial 04 - FirstAidSelect
-Tutorial 04 - FirstAidAssign
-Tutorial 04 - Unpause
-Tutorial 04 - Repaired
-Tutorial 04 - DestroyerSubmerge 1
-Tutorial 04 - DestroyerSubmerge 2
-Tutorial 04 - ChangeLighting 1
-Tutorial 04 - ChangeLighting 2
-Tutorial 04 - StressHigh 1
-Tutorial 04 - StressHigh 2
-Tutorial 04 - PanicSelect 1
-Tutorial 04 - PanicSelect 2
-Tutorial 04 - PanicAssign
-Tutorial 04 - Surface
-Tutorial 04 - CompletePatrol
-Tutorial 05 - RecruitmentStartDialogue 1
-Tutorial 05 - RecruitmentStartDialogue 2
-Tutorial 05 - RecruitmentSelectDialogueOption
-Tutorial 05 - RecruitmentClose
-Tutorial 05 - CrewListOpen
-Tutorial 05 - CrewListClose
-Tutorial 06 - UpgradeStartDialogue 1
-Tutorial 06 - UpgradeStartDialogue 2
-Tutorial 06 - UpgradeSelectDialogueOption
-Tutorial 06 - UpgradeBattery
-Tutorial 07 - OpenHeadquarterScreen 1
-Tutorial 07 - OpenHeadquarterScreen 2
-Tutorial 07 - SelectAnyFreeSlot
-Tutorial 07 - SelectAnyTask
-Tutorial 07 - TaskExplanation 1
-Tutorial 07 - TaskExplanation 2
-Tutorial 07 - Complete
+Key,English
+Hydrophone Surface,The hydrophone doesn't work on the surface.
+Hydrophone Submerged,Tip
+Radar Detector,Tip
+Restock Food,Tip
+Restock Ammo,Tip
+Salvage Replacement Parts,Tip
+Navigation Positive,Tip
+Navigation Negative,Our position is well determined.
+Radio Positive,Tip
+Radio Negative,"Currently, the range of the radio is very weak."
+Observe Targeting Sight,Tip
+Observe Attack Periscope,Tip
+Observe Observation Periscope,Tip
+Use Gun - Artillery - 8.8 cm,Tip
+Use Gun - MG C30,Tip
+Gun No Enemies Nearby, There are no enemies nearby.
+Enable Air Compressor,Tip
+Enable Ventilation,Tip
+Repair Leak,Tip
+Repair Damages,Tip
+Block Leak,Tip
+Medical Aid,Tip
+Manage Engines,Tip
+Inspect,Tip
+Talk,Tip
+Play Cards,Tip
+Sleep Positive,Tip
+Sleep Negative,The officer is now rested.
+Tutorial Route Mouse 1,"Good! Now set the ship�fs course by clicking the right mouse button on the <sprite name=""MissionDot""> target."
+Tutorial Route Controller 1,
+Tutorial Route Mouse 2,"To add more points to the route press SHIFT and like previously, click right mouse button on the next <sprite name=""MissionDot""> target."
+Tutorial Route Controller 2,
+Tutorial Route Mouse 3,"Very good! Now, do the same for the third and fourth waypoints.
+
+To spot them you will need to zoom out or move the map. You can zoom in and out using the mouse wheel, while you can move it by pressing left mouse button and moving the pointer."
+Tutorial Route Controller 3,"Very good! Now, do the same for the third and fourth waypoints. To spot them you will need to zoom out or move the map. You can zoom in and out using the controller triggers."
+Tutorial Engines,It's time to start the engines. Click the highlighted button to show the telegraph.
+Tutorial Engines FPP,"It's time to start the engines. Press CONTROL to show the full interface, then click the highlighted button to show the telegraph."
+Tutorial Engines Controller,"It's time to start the engines. Press <sprite name=""JoystickButton3""> to show the telegraph."
+Tutorial Engines Gear,..and now choose the highlighted second gear of the engine.
+Tutorial Open Map,"Officer, it's time to open the map and plot the course. The easiest way to do that is to press the ""M"" key on the keyboard or to press the button in the upper right part of the screen."
+Tutorial Open Controller,
+Tutorial Prepare Boat,"It's a perfect time for you to get familiar with the boat and prepare for what is to come.
+<line-height=50%>
+<line-height=100%>I've prepared a list of things worth doing in the meantime. Select officer Kohler and assign him necessary tasks or if you prefer to play in FPP click on him twice."
+Tutorial Galley 1,"Remember, that if the galley runs out of food, cook will take random food from the storage to prepare the meals.
+
+Sometimes you may want to serve the crew a few food types. That will boost the discipline recovery at a cost of faster consumption. I suggest you to do exactly that for better integration of our crew."
+Tutorial Galley 2,"You can manually transfer food through the backpack of your character, but there is a faster way.
+
+Click ""Galley"" tab on the right."
+Tutorial Galley 3,Now drag the exotic fruits from the storage directly to the galley and accept your decision..
+Tutorial Time Compression,Let's speed things up. Turn on time compression by pressing the highlighted button in the interface or click the middle mouse button.
+Tutorial Time Compression Controller,Let's speed things up. Turn on time compression by pressing the left trigger.
+Tutorial Skip Travel,"When you are in a friendly or neutral area, then also the Fast Travel mode becomes available. It is displayed next to the regular time compression button. Click it to rapidly move out of the current area."
+Tutorial Skip Travel Controller,When you are in a friendly or neutral area there is even a better time compression available that shows up among notifications on the right. Click it to rapidly move out of the current area.
+Tutorial Reflector,"Considering that it's pretty dark, I suggest you turn on the searchlight mounted on the conning tower. I don't think that we will be able to spot the wreck otherwise."
+Tutorial Targeting Sight,Send officer Kohler to the targeting sight on the conning tower to look for the wreck in the area.
+Tutorial Diver,"In this game, you won't be controlling just a single character, but all the officers. Officer Sommer is in front of you, he is an officer like Kohler and will be a playable character from now on. Considering that we found the wreck, equip him a diving suit and send to the wreck to explore."
+Tutorial Storage,Hmm�c there is nothing worth our time in this box. Let's check two more.
+Tutorial Storage Controller, Hmm�c there is nothing worth our time in this box. Let's check two more.
+Tutorial Depth,They will shoot us like ducks on the water surface! Click the highlighted button and set the depth of 50 meters.
+Tutorial Depth FPP,"They will shoot us like ducks on the water�fs surface! Press CTRL to show the full interface, then click the highlighted button and set the depth for 50 meters."
+Tutorial Pause,"The hull has been breached! Fast, press the space button on the keyboard!"
+Tutorial Pause Controller," The hull has been breached! Quickly, press <sprite name=""JoystickButton1"">!"
+Tutorial Lock Compartment,"In such a situation always stop the game and carefully plan what to do as each second matters.
+
+At this time, there are two leaks on board, one is serious, but the second is smaller and won't be that dangerous until we dive to a greater depth.
+
+I don't see any way to save the aft compartment. Move camera to the aft part of the boat and click highlighted evacuation button."
+Tutorial Repair,"While Kohler takes care of closing the compartment, send engineer Felix West for replacement parts to the storage room."
+Tutorial Repair 2,Very good. West took the replacement parts and he can do repairs. Select him and order to repair the leak of the evacuation hatch in the galley.
+Tutorial Unpause,Everything is ready. You can unpause the game now.
+Tutorial Flashlight,"During some nights visibility outside is very low. Press ""F"", to turn on the flashlight."
+Tutorial Flashlight Controller,"During some nights visibility outside is very low. Press ""F"", to turn on the flashlight."
+Tutorial Pump,Now select and send Kohler to turn on the pump to pump out the water from the leak.
+Tutorial Carry Water,"The pump can pump out water from all compartments on board, but because of the resistance of the pipes, it is most efficient to do this from the central compartment.
+
+Although there is no need now, at deeper depths you may be forced to carry water with buckets to the central compartment to pump it outside."
+Tutorial Dry Compartment,"We have used most of our compressed air reserves for the emergency blowing. We have to use the air compressor to regenerate them�c but it's located in the flooded compartment.
+
+It's time to dry the stern compartment. Open the bulkhead leading to it and start repairs. Remember to repair the hole at the top of the hull first. After that, take the air compressor and turn it on."
+Tutorial Rebreather,"One more thing! Before you open the bulkhead, I suggest you equip the engineer with an oxygen mask from the storage room. Without it, he won't be able to perform eventual repairs under the water�fs surface in the compartment."
+Tutorial Aircraft Carrier,Hmm�c that aircraft flew too fast after our boat was detected by the destroyer. There has to be an aircraft carrier nearby!
+Tutorial Hydrophone,"There is a hydrophone mounted on your boat. If the aircraft carrier is moving, we may be able to detect it.
+
+Select Adam Neumann, our radio officer, and assign him to the listening room at the hydrophone."
+Tutorial Hydrophone 2,"Remember that in order to detect anything with our current GHG hydrophone, you first need to submerge to at least some depth.
+
+Send any free officer to the valves in the control room."
+Tutorial Wreckage,"Look at that! In these crates may be the equipment that we are looking for. Let's try to check some of them.
+
+One thing at a time though - stop the engines so that we won't pass the wreckage."
+Tutorial Boxes,"We can now check the contents of the crates floating from the wreckage.
+
+You can activate all objects floating on the sea's surface in the same way as the stations on your boat. It's easiest to look for them in the first person perspective."
+Tutorial Escort Carrier Area,"We are in the area where we detected the aircraft carrier earlier. Visibility is very low�c send Kohler to the conning tower to the targeting sight so he can help look for the enemy.
+
+Considering that u-boats on the surface are harder to spot than the average ship - night and bad weather work for us, and allow us to get close to the enemy without detection."
+Tutorial Disable Reflector,"Although the searchlight increases our vision range, it reveals our location to the enemy. I suggest you send any officer to turn it off."
+Tutorial Attack Carrier,"It worked! The radioman clearly heard the propeller of a larger vessel not far from here.
+
+Turn on the map and click the right mouse button on the aircraft carrier group to set the course to it."
+Tutorial Surface 2,Now send any officer to the valves to surface back again. Long distance travels under the water are definitely slower and less economical. The fast travel mode is also not available at that time.
+Tutorial Load Torpedoes,We are going to need all the torpedoes to get such a prize. Select our engineer - West - and send him to load a torpedo in one of the free tubes.
+Tutorial Escort Carrier Spotted,"We spotted the aircraft carrier! It has separated from its escort, probably because of the fog. It's a great moment to attack!
+
+In similar situations, remember to keep your boat at right distance to stay undetected. Click highlighted button and choose first forward gear for the engines."
+Tutorial Escort Carrier Spotted 2,"Good. Let's start the targeting process.
+
+Select officer Kohler."
+Tutorial Aim,"In the upper left part of the screen you will see a list of targets spotted by the officer.
+
+Click with the right mouse button on the aircraft carrier to start the targeting process. That will make the officer focus on taking the bearings for the target instead of, for example, looking for new targets."
+Tutorial Fire,"Kohler has a good bearing on our target. It's a good time to fire.
+
+Select officer Kohler and then click with the left mouse button on the aircraft carrier on the list."
+Tutorial Fire 2,Now click the highlighted button to open the torpedo interface.
+Tutorial Fire 3,Very good! Now click on all tubes sequentially to flood them.
+Tutorial Fire 4,All tubes are flooded and good to go. Fire!
+Tutorial Dive 200 0,The ringing of the alarm bells of the escort is heard. It's only a matter of time before they detect us.
+Tutorial Dive 200 1,Send one of the officers to the valves and flood the ballast tanks.
+Tutorial Dive 200 2,Now press the highlighted button and set the target depth at 180 meters.
+Tutorial Surface,"There is a leak on board and we don't have any replacement parts left to fix it. The only thing we can do is to evacuate the compartment and surface the boat. Let's hope we lost those chasing us...
+
+Leaks marked with a yellow icon are extremely dangerous at greater depths, however, on the surface, a pump will easily pump out flowing water."
+Tutorial Skip Travel 2,"The officer has managed to spot the wreck! Plot a direct course towards it.
+
+To open map, press ""M"" key."
+Tutorial Skip Travel 3,"Enable fast travel mode, to rapidly move to your destination."
+Tutorial Wreck Out of Range,Our boat has moved far away from the wreck. Plot the course back before sending the diver.
+Tutorial Disable Gyrocompass 1,"When escaping from an enemy underwater, remember that most hostile warships have hydrophones on board.
+
+Because of that, it is good to turn off everything that emits sound on your ship. If you move the cursor to detection notification on the right part of the screen, you will see a list of such devices."
+Tutorial Disable Gyrocompass 2,Order any officer to turn off the gyrocompass. Its use is rather limited while escaping under the water.
+Tutorial Escort Carrier Spotted 2 Alt,"Good. Let's start the aiming process.
+
+Send officer Kohler to the targeting sight."
+Tutorial Wreck Area Reached,"We've reached the area where, according to our intelligence, the Falcon wreck should be located. Keep your eyes open, we have to find it before the British."
+Tutorial Smoke on Horizon,We saw the mast of a warship on the horizon. It's definitely British ... we need to hurry.
+Tutorial Followers,"We need to see the enemy first. To maximize our chances, I suggest that you give Kohler some help. Select him and press the illuminated button two times to recruit random crewmen to work with the officer. They will help him with observation and thereby increase our range of vision. """
+Tutorial Storage UI 1,On the screen of the storage you can view the accumulated supplies and move them between storages on the ship.
+Tutorial Storage UI 2,On the left is the storage that you just opened.
+Tutorial Storage UI 3,On the right you can choose the target storage from all the storages on your ship. You can do this using the buttons in the right part of the window.
+Tutorial Storage UI 4,You can drag goods between both storages as you like. The character will transport them according to your order. The transport time depends on the distance between the storages.
+Tutorial Warehouse 1,"In the port warehouse, you can buy and sell goods to get your ship ready for the road."
+Tutorial Warehouse 2,On the left side there is a window with goods available in the port. Note the series of tabs next to them that allow you to choose a category.
+Tutorial Warehouse 3,Your current budget is displayed on the upper bar of this window.
+Tutorial Warehouse 4,On the right side is the window of your ship's storage.
+Tutorial Warehouse 5,"To buy or sell product, right-click on it or drag it from one window to another."
+Tutorial CrewList UI 1,This screen allows you to specify which sailors will join the crew on your ship and who will remain in port.
+Tutorial CrewList UI 2,"The three labels on the right specify successively: the number of officers, the number of sailors currently on the board and a number of survivors you have taken on your ship."
+Tutorial Journal 1,"The log screen allows you to view received messages, both received by radio and directly at the port. Messages are grouped by topic."
+Tutorial Headquarters 1,"Welcome to the headquarters, Captain. Here you can delegate your officers to perform special tasks, such as organizing reconnaissances or developing new technologies."
+Tutorial Headquarters 2,Click on the empty tab in the lower left corner to go to the map view with available researches.
+Tutorial AssignmentManagementUI 1,"Captain, this screen allows you to specify the division of sailors into shifts and assign them to the officers."
+Tutorial AssignmentManagementUI 2,"Clicking the green buttons in each row you can assign specific sailors from the crew to selected groups. Using the ""+"" and ""-"" buttons you can specify their overall number. They will then be recruited automatically from the crew."
+Tutorial TimeManagementUI 1,"Captain, this screen allows you to specify the working hours for officers and the shifts. You can modify the schedule by clicking on the fields on this screen. They correspond to the hours of the day and can be in one of three states."
+Tutorial TimeManagementUI 2,"- Green in the field indicates work at a given time.
+- Gray specifies that the officer can work or rest at his discretion.
+- Red means a break from work."
+Tutorial TaskManagement UI 1,"Captain, on this screen you can set work priorities for your officers and crew. The rows contain officers and, in the case of the crew, shifts. The columns contain the tasks available on the ship."
+Tutorial TaskManagement UI 2,"To modify the priority of a specific task, you can click on one of the fields and enter a numerical priority from 0 to 99. Alternatively, you can point the cursor at the field and then press CTRL and move the mouse wheel forward or backward."
+Tutorial TaskManagement UI 3,The buttons in the upper left corner allow you to switch between the list of officers and the list of sailors' shifts.
+Tutorial AssignmentSelectionUI 1,"On this screen you can choose a training mission to explore the secrets of the game. If you play for the first time, it is recommended to complete the missions from the first to the last."
+Tutorial Start Campaign 1,"Captain, before you go on the first patrol, I recommend you to undergo training that will prepare you and your crew for the fight."
+Tutorial Start Campaign 2,Click on the highlighted officer in the port to start a conversation with him.
+Tutorial First Dialogue with Officer 1,The officer you talk to is an intermediary between you and Kriegsmarine headquarters. You can choose an assignment for yourself or assign your officers to different tasks at  headquarters.
+Tutorial First Dialogue with Officer 2,"To start, select the highlighted option to open the list of training missions."
+Tutorial Start First Tutorial Mission 1,"Let's start the first introductory mission right now. It's already highlighted on the left, so all you need to do is to click the button below."
+Tutorial RecruitmentListUI 1,This is a list of candidates who can be recruited to your crew. You can click on each candidate to see details about them.
+Tutorial RecruitmentListUI 2,"The column on the right shows the cost of recruiting a new crew member
+
+Keep in mind that this cost may vary between ports. It's usually cheaper to recruit sailors close to the homeland."
+Tutorial RecruitmentListUI 3,"This list usually contains only sailors, but if you have the space for more officers in your crew, they may appear there from time to time too."
+Tutorial UpgradeModeUI 1,You are currently in upgrade mode. Click on the devices on your boat to open a list of available upgrades.
+Tutorial EquipmentUpgradeListUI 1,This list contains upgrades that are available for the selected device.
+Tutorial EquipmentUpgradeListUI 2,"Some upgrades on this list may be currently locked. That means that the technology needed to install that upgrade is not researched yet, but is available for research at headquarters.
+
+This list will expand over time as the technology progress and new research becomes available."
+Tutorial 01 - Intro 01,"Before starting a patrol, as a captain, you must ensure that your boat is properly prepared to go to sea. You must provide adequate provisions, fuel supply and equip the ship to fight."
+Tutorial 01 - Intro 02,You can provide all these things by talking to a warehouse clerk. Click on him to start the conversation.
+Tutorial 01 - Select Dialogue Option 01,Now select the first dialogue option to open the warehouse menu.
+Tutorial 01 - Buy Food 01,"First, we must ensure that we have enough food for the upcoming mission. Click a highlighted tab to browse the food available at the current port."
+Tutorial 01 - Buy Fuel 01,We must also ensure that we have enough fuel to complete the mission and return to  port. Click the highlighted tab.
+Tutorial 01 - Buy Torpedoes 01,"Finally, we must also ensure that the u-boat is armed well enough to attack enemy vessels. Click the highlighted tab to browse torpedoes that are currently available at this port."
+Tutorial 01 - Off Duty Time 01,After ordering new goods at the warehouse loading them on your boat begins. It's not an instant process and takes some time.
+Tutorial 01 - Off Duty Time 02,Click this button to skip the wait.
+Tutorial 02 - Intro 01,"Welcome skipper!
+
+During this training mission, you will train how to navigate and dive with your ship.
+
+First, we must undock from the port. To do that, click the highlighted button and select the third engine gear forward."
+Tutorial 02 - Intro 02,Very good! Now open the map by clicking the highlighted button.
+Tutorial 02 - Waypoint 01,"The in-game map allows you to plan ahead the travel. As you can see, your crew automatically set a route to leave port, after you are undocked."
+Tutorial 02 - Waypoint 02,"To test the diving capabilities of the ship, we need to travel to a more remote location with deeper water.
+
+I marked a good spot for that on your map."
+Tutorial 02 - Waypoint 03,"To set a course to this location, press <b>SHIFT</b> on the keyboard and click on it with the <b>right mouse button</b>."
+Tutorial 02 - Time Compression 01,"Having a set  a course for our boat, we must now wait until the boat arrives at the destination. This may take a few hours in realtime though...
+
+Click the highlighted button to speed up the in-game time."
+Tutorial 02 - Time Compression Realistic 01,"After you leave the port area, you can use  more powerful time compression buttons. Click the highlighted button to quickly arrive at your destination."
+Tutorial 02 - Periscope Depth 01,We are now at the target location. We can now practice how to dive
+Tutorial 02 - Periscope Depth 02,"First, we will dive to periscope depth, which is just below the surface of the water. Click the highlighted button to open the depth meter and then click the small button on the right with a periscope icon."
+Tutorial 02 - Periscope 01,"Well done, skipper. Your boat is now at periscope depth."
+Tutorial 02 - Periscope 02,"Remaining at periscope depth means staying just below the water's surface, allowing the crew to extend periscopes above the water to scan the surroundings."
+Tutorial 02 - Periscope 03,There are two periscopes installed on this submarine. The observation periscope is conveniently located in the control room. It's good for scanning quickly the surroundings and it's usually used by the regular crew.
+Tutorial 02 - Periscope 04,"The attack periscope on the other hand is designed to perform precise torpedo attacks. It's much better at this task than the observation periscope, but it must be manned by an officer."
+Tutorial 02 - Periscope 05,"Your submarine is extremely hard to spot when it stays at periscope depth, although it's still possible to spot it at close range.
+
+It's also vulnerable here to detection methods that use the sound waves for detection - hydrophones and sonars."
+Tutorial 02 - Deeper 01,"Now, let's dive deeper. Click the highlighted button again to open the depth meter and select the maximum safe depth button."
+Tutorial 02 - Deeper 02,"We are now 150 meters below the surface... Pressure outside is around 16 atmospheres. This submarine was built to handle such pressure indefinitely, but going deeper than this comes with a risk."
+Tutorial 02 - Deeper 03,"As a rule of thumb, the deeper you dive, the easier it is to hide from enemies. Your submarine also becomes harder to hit with anti-submarine weapons."
+Tutorial 02 - Air 01,"Staying under water comes with some problems though.
+
+When you remain under water, there is no way to vent the ship and air quality will become worse with the passing of time."
+Tutorial 02 - Air 02,"You can always check the current air quality, by looking at this indicator. It's very important.
+
+If it ever becomes empty, your crew will start to suffocate."
+Tutorial 02 - Air 03,"You can refresh air to some degree by using the on-board ventilation system, but it has the drawback of being quite noisy. Enemies may detect your ship more easily, when it's turned on."
+Tutorial 02 - Air 04,Let's use it right now. Click on it using the <b>left mouse button</b>.
+Tutorial 02 - Air 05,"Well done. After you gave the order, one of the sailors will come here soon and activate the ventilation system."
+Tutorial 02 - Air 06,Notice that the air quality in the ship starts to get better.  The ventilation system won't improve it indefinitely though as it can only recirculate existing air.
+Tutorial 02 - Pump 01,"Another thing to watch, when you stay underwater for a long time, are the bilges of your ship.
+
+Your submarine will slowly accumulate water through the holes in the ship's hull like the propeller shafts, periscopes, valves and the torpedo tubes."
+Tutorial 02 - Pump 02,"When ballast accumulates, your ship will be less maneuverable and responsive.
+
+Eventually that ballast may sink your ship, but we will learn about that in more detail during the next training assignments."
+Tutorial 02 - Pump 03,"To get rid of the accumulated water, enable the pump in the control room. Please do that right now, before we proceed."
+Tutorial 02 - Pump 04,Well done. The Pump slowly pumps out the water from all your compartments.
+Tutorial 02 - Pump 05,"Please note, that the performance of the pump is correlated with the pressure of the water outside the ship. At 150 meters it basically doesn't do anything useful! We must move to a shallower depth to get rid of the water."
+Tutorial 02 - Pump 06,Let's get back to the surface. Please click the depth meter button and then select the surface preset button.
+Tutorial 02 - Surface 01,"Good to be back. To surface the ship, your crew had to blow the water out of the ballast tanks using the compressed air reserves. You can check how much compressed air you have by looking at this notification."
+Tutorial 02 - Surface 02,Compressed air is stored in a special tanks under the hull. You can replenish it using air compressors installed on your ship.
+Tutorial 02 - Surface 03,"You have two air compressors at your disposal. One is a medium-performance electric compressor and the second, larger one, is a high-performance diesel compressor in stern torpedo room.
+
+You may use one or both of them, depending on the resources you have and the circumstances you find yourself in."
+Tutorial 02 - Surface 04,"Please enable one, or both of them now."
+Tutorial 02 - Surface 05,Well done skipper!
+Tutorial 02 - Surface 06,"To surface your ship after diving, you need at minimum 25% of the compressed air reserves. The amount consumed is not constant though. The deeper you are and the larger the ballast you have in the compartments to compensate, the more air may be consumed in the process."
+Tutorial 02 - Return to Port 01,Well done skipper! You learned a lot today. Let's get back to the port.
+Tutorial 02 - Return to Port 02,Open the map and right click on the port icon to plot a course to it.
+Tutorial 03 - Intro 01,"Hello skipper!
+
+During this training assignment we will make an attempt to attack the enemy shipping. I will also teach you the basics of the crew management."
+Tutorial 03 - Open Map 01,"Please open the map, before we continue."
+Tutorial 03 - Set Course 01,"Another u-boat reported spotting a few freighters headed at square {0} a few hours ago.
+
+The u-boat was coming back from a mine laying assignment and wasn't armed to attack the ships at the time."
+Tutorial 03 - Set Course 02,"I marked a spot where we expect these freighters to be in the near future.
+
+Please right click on the marked point to set a course there."
+Tutorial 03 - Undock 01,"Everything is ready. Now we must undock from the port. To do that, click the highlighted button and select the third engine gear forward."
+Tutorial 03 - Arrive 01,"Very good. You arrived at the area.
+
+We should start searching for the cargo ships."
+Tutorial 03 - Arrive 02,"Let's take a look inside the ship for a moment.
+
+As you see, your crew is already active and work on various stations on the ship. They know their tasks very well and don't need directions to perform it for most of the time."
+Tutorial 03 - Arrive 03,"During long assignments and battles unusual things tend to happen and your role, as a captain of this boat, is to adapt as necessary to survive."
+Tutorial 03 - Arrive 04,"For this reason, I have asked your officers to leave their stations, so that we can train micro-management during this assignment."
+Tutorial 03 - Arrive 05,"We must locate the cargo ships we are looking for.
+
+The best way to accomplish that is to use the on-board hydrophone. It's capable of detecting ships from tens of kilometers. Much farther than it's possible by sight, even in the best weather."
+Tutorial 03 - Submerge 01,"The GHG hydrophone installed on your ship doesn't work on the surface though.
+
+We must submerge to periscope depth, before we can proceed."
+Tutorial 03 - Hydrophone 01,"The hydrophone can be manned by any trained officer, but radiomen excel at this task. Select officer {0}, your radioman, before we proceed."
+Tutorial 03 - Hydrophone 02,Now click on the listening room to assign him there.
+Tutorial 03 - Hydrophone 03,"Good. Now let's give the officer some time to listen for contacts. You can use the time compression, if you like."
+Tutorial 03 - Capture Course 01,Excellent! {0} hears the ship propellers nearby through the hydrophone.
+Tutorial 03 - Capture Course 02,Click on the contact using a <b>right mouse button</b> to plot an interception course towards it.
+Tutorial 03 - Periscope Assign 01,Shhh! The sailor using the periscope has spotted the freighter. We can attack it now.
+Tutorial 03 - Periscope Assign 02,"The most effective weapon at your disposal are G7 torpedoes that carry a 280 kg warhead.
+
+Aside from their sheer power, that may rip a ship apart, they usually do not reveal your position to the enemy. It's your primary weapon."
+Tutorial 03 - Periscope Assign 03,"To use them, we first need to compute a course for the torpedo.
+
+Please select officer {0}, before we continue."
+Tutorial 03 - Periscope Assign 04,Good. Now send him over to the attack periscope in the conning tower.
+Tutorial 03 - Out of Range 01,"The freighter is currently out of the visual range. We must wait until it comes back into visual range, before we proceed."
+Tutorial 03 - Torpedo Course 01,Officer {0} arrived at the periscope. Select him before we proceed.
+Tutorial 03 - Torpedo Course 02,"Having selected the officer, click on the enemy cargo ship using the <b>right mouse button</b> to calculate torpedo course."
+Tutorial 03 - Torpedo Course 03,"Very good. Officer {0} now calculates the course for the torpedo.
+
+We should give him some time to do that. I will give you further directions once that's done."
+Tutorial 03 - Torpedo Launch 01,Officer {0} managed to prepare a decent torpedo course solution. It's time to launch the torpedoes at the target.
+Tutorial 03 - Torpedo Launch 01 Second Attempt,"Sadly, the first salvo didn't hit the target. Our officer loaded a new set of torpedoes into the tubes. Let's try again."
+Tutorial 03 - Torpedo Launch 02,Select enemy ship using <b>a left mouse button</b> before we proceed.
+Tutorial 03 - Torpedo Launch 03,Good. Now click the highlighted button to open the torpedo tubes interface.
+Tutorial 03 - Torpedo Launch 04,Click on at least three tubes to flood the tubes with sea water.
+Tutorial 03 - Torpedo Launch 05,"Everything is set. Fire, captain!"
+Tutorial 03 - Surface Ship 01,Well done captain. This freighter is finished.
+Tutorial 03 - Surface Ship 02,The original report mentioned two freighters headed to this area. The second one may also be around.
+Tutorial 03 - Surface Ship 03,Let's return to the surface and look around. Click the highlighted buttons.
+Tutorial 03 - Observation 01,"Good to be back. Now select {0} again, before we proceed."
+Tutorial 03 - Observation 02,"Very good. Now send him to observe the surroundings from the conning tower, by clicking on the small eye icon using the <b>left mouse button</b>."
+Tutorial 03 - Helpers 01,"Officer {0} hasn't found anything yet. It's still possible that the freighter is nearby, but beyond our current sight range...
+
+Let's assign him some help."
+Tutorial 03 - Helpers 02,"Your crew is composed of officers like the officer {0}, but also regular sailors.
+
+<b>Officers</b> take direct orders from you and you have a direct control over them. You can find the portraits of them in the bottom right part of the screen."
+Tutorial 03 - Helpers 03,"<b>Regular sailors</b> on the other hand usually follow automated schedules, as they are too numerous to take orders from the captain, one by one.
+
+They can also aid officers in their work."
+Tutorial 03 - Helpers 04,That's exactly what we need right now. Each officer has a few bars near to his portrait. They represent sailors assigned to the officer.
+Tutorial 03 - Helpers 05,Click on the upper-most bar near the officer {0} to assign him as many sailors as he can manage.
+Tutorial 03 - Submerge Attempt 01,Please don't submerge the ship and stick to the surface for the time being.
+Tutorial 03 - Observation Success 01,Excellent! Officer {0} has found the second cargo ship nearby.
+Tutorial 03 - Observation Success 02,Let's get ahead of the second freighter. Click on the marked point using a <b>right mouse button</b> .
+Tutorial 03 - Gun 01,"The freighter already spotted us, but it seems to be unarmed. We will attempt to sink it using a deck gun.
+
+Select officer {0}, before we proceed."
+Tutorial 03 - Gun 02,Good. Now send him over to the deck gun.
+Tutorial 03 - Gun Fire Select 01,"{0} is now at the deck gun. Select him now, before we proceed."
+Tutorial 03 - Gun Fire 01,Now click on the freighter using a <b>right mouse button</b> to order {0} to fire at it.
+Tutorial 03 - Return to Port 01,Well done skipper! You can come back to the port at any time now.
+Tutorial 04 - Intro 01,"Welcome skipper!
+
+During this mission we will practice a first real-world patrol on the sea. I will accompany you and do my best to ensure that we return in one piece back to the port."
+Tutorial 04 - Open Map 01,"First, let's open the map to plan the voyage ahead."
+Tutorial 04 - Plot Path 01,"Your orders are to complete a patrol in squares {0}.
+
+Click on the marked point using a <b>right mouse button</b> to plot a path to this area. Please note that, if it's too far to plot a path in one shot, you can use <b>SHIFT + right mouse button</b> to append intermediate points."
+Tutorial 04 - Undock 01,"Everything is ready. Now we must undock from the port. To do that, click the highlighted button and select the third engine gear forward."
+Tutorial 04 - Arrived 01 Open Map,"Good. We are in the target area. Now we need to plan ahead the patrol route.
+
+Open the map before we continue."
+Tutorial 04 - Arrived 01 Already On Map,Good. We are in the target area and now we must plan the patrol route ahead.
+Tutorial 04 - Arrived 02,"There are many ways to plot a patrol route and the technique is up to your preferences.
+
+As a rule of thumb, try to plot a route that avoids travelling over the same areas multiple times and the one that has as much vertical movement as possible."
+Tutorial 04 - Plot Path Explanation,Please do that now. Plot any path inside the target area that is at least {0} long. Use SHIFT to add points to the end of the current path.
+Tutorial 04 - Plot Path Wrong,This path isn't contained inside the marked area. Please start again and plot a different path.
+Tutorial 04 - Travel 01,Excellent! Now stay sharp and follow the route.
+Tutorial 04 - RadioSelect 01,The patrol has been uneventful until now. Let's check the radio.
+Tutorial 04 - RadioSelect 02,Select officer {0}.
+Tutorial 04 - RadioAssign,Now assign him to the Radio Room.
+Tutorial 04 - RadioReceiveStart,Officer {0} has found an ongoing broadcast. Click the highlighted icon to use the radio.
+Tutorial 04 - RadioReceive,Now order the radioman to receive and decode the message by clicking the first button on the left.
+Tutorial 04 - RadioRead,Officer {0} has decoded the message. Click on the highlighted notification to open the journal to the relevant page.
+Tutorial 04 - RadioSummary,It's an SOS signal from another u-boat! We should do our best to help them.
+Tutorial 04 - RadioCloseJournal,"It's an SOS signal from another u-boat! We should do our best to help them.
+
+Close the journal to continue."
+Tutorial 04 - AllyHelpPath,"The radioman is tracking this message using a direction finder antenna installed on the ship.
+
+Order your crew to plot a path towards the marked contact, by clicking on it using a <b>right mouse button</b>"
+Tutorial 04 - AllyHelpMeeting MissingPath,"Your crew spotted the u-boat on the horizon. Set a course towards it, by clicking using the right mouse button on the marked point."
+Tutorial 04 - AllyHelpMeeting HasPath,Your crew spotted the u-boat on the horizon. We should get closer.
+Tutorial 04 - AllyHelpAircraft 1,"There is an aircraft on the horizon! They have to search for {0}, the u-boat that sent SOS signal."
+Tutorial 04 - AllyHelpAircraft 2,"Remember, that your main mission is to sink enemy shipping and Kriegsmarine won't reward you as much for shooting down the aircraft. The best strategy when you encounter them is to submerge and wait when the aircraft leaves the area."
+Tutorial 04 - AllyHelpAircraft 3,"In this case we are going to risk it though, because the second u-boat is severely damaged and needs help from us."
+Tutorial 04 - AllyHelpAircraft 4,Select officer {0} before we continue.
+Tutorial 04 - AllyHelpAircraft 5,Now assign him to the AA gun installed on the conning tower.
+Tutorial 04 - Ally Sunk,"Sadly, {0} was sunk by the aircraft. Let's continue the fight for now."
+Tutorial 04 - Pause,Quickly! Press <b>SPACE</b> or click the highlighted button to pause the game!
+Tutorial 04 - LeakExplanation 1,"Officer {0} shot that aircraft down, but they hit us hard too.
+
+We must plan how to proceed to get out of this situation. We have a few problems to deal with."
+Tutorial 04 - LeakExplanation 2,"There is a massive hole in the pressure hull. Our ship is going to sink, if we don't patch it up fast.
+
+Luckily for us, it's located in the upper part of the hull. Such breaches usually don't leak water in a constant stream, as long as your ship stays on the water surface."
+Tutorial 04 - LeakExplanation 3,The second problem is that officer {0} got seriously wounded in the explosion. He saved us all by shooting down the aircraft and it's up to us to return the favor.
+Tutorial 04 - LeakRepairSelect,"Select {0}, our engineer, before we continue."
+Tutorial 04 - LeakRepairAssign,Now assign him to repair the hull breach by clicking on it using a <b>left mouse button</b>.
+Tutorial 04 - LeakPump,We must start pumping out the water leaking into the ship. Click on the pump using a <b>left mouse button</b> to order switching it on.
+Tutorial 04 - FirstAidSelect,"Good. Let's now ensure that {1} will get the medical help he needs.
+
+On u-boats, radiomen are always trained in some form of a medical help. Select {0}, our radioman, before we continue."
+Tutorial 04 - FirstAidAssign,Now click on {0} to order your radioman to help him.
+Tutorial 04 - Unpause,Everything is done for now. You can unpause the game by either pressing <b>space</b> again or clicking the highlighted button.
+Tutorial 04 - Repaired,The breach has been repaired. We are fine for now.
+Tutorial 04 - DestroyerSubmerge 1,Your crew spotted a destroyer on the horizon! They must be searching here for the previously sunk u-boat.
+Tutorial 04 - DestroyerSubmerge 2,"Destroyers are heavily armed units and you should never face them on the surface. Skipper, order a crash dive!"
+Tutorial 04 - ChangeLighting 1,"Shhh... They are circling right on top of us, listening through the hydrophones."
+Tutorial 04 - ChangeLighting 2,"Press and hold TAB on the keyboard to open the quick orders menu and change the lighting to blue by clicking the highlighted button.
+
+Blue lighting is a signal for the crew to stay completely quiet and limit any chatter."
+Tutorial 04 - StressHigh 1,Your crew clearly becomes stressed...
+Tutorial 04 - StressHigh 2,"Considering that it's the very first patrol of your crew, you may shortly see who among it is up to the duty and who isn't.
+
+Take notes captain and adjust the roster accordingly when you will be back to the port."
+Tutorial 04 - PanicSelect 1,"Damn it! One of the sailors is having a panic attack! The enemy may hear him using the hydrophone.
+
+We must deal with it as quick as possible."
+Tutorial 04 - PanicSelect 2,"Select officer {0}, one of the leaders, before we continue."
+Tutorial 04 - PanicAssign,Now click on the panicking sailor using a <b>left mouse button</b> to order the officer to calm him down.
+Tutorial 04 - Surface,"We are now past that crisis skipper.  The destroyer seems to have left the area.
+
+Click the highlighted button to return back to the surface."
+Tutorial 04 - CompletePatrol,"That was an adventure! Luckily, we are now back to business and can carry on with the orders.
+
+Skipper, continue the patrol on the highlighted area and then return back to port after travelling {0}."
+Tutorial 05 - RecruitmentStartDialogue 1,"Hello skipper!
+
+During this assignment, I will explain to you how to prepare the crew on your u-boat for the challenges ahead."
+Tutorial 05 - RecruitmentStartDialogue 2,"Over time you will have to recruit new sailors.
+
+You can perform all recruitment tasks by talking with recruitment officer at a port. Please do that now, by clicking on him using a <b>left mouse button</b>."
+Tutorial 05 - RecruitmentSelectDialogueOption,Good. Now select the first dialogue option to look at the available recruits.
+Tutorial 05 - RecruitmentClose,You can close this view for now.
+Tutorial 05 - CrewListOpen,"After you recruit new sailors, they may need to be assigned to your crew. To do that open the crew list by clicking  on the highlighted button using a <b>left mouse button</b>."
+Tutorial 05 - CrewListClose,You can close this view for now.
+Tutorial 06 - UpgradeStartDialogue 1,"Hello skipper,
+
+This time, I will quickly explain you how to upgrade the ship."
+Tutorial 06 - UpgradeStartDialogue 2,"Ship upgrades can be ordered at the port warehouse. Please talk to the warehouse worker, before we proceed."
+Tutorial 06 - UpgradeSelectDialogueOption,Good. Now select the highlighted dialogue option to open the upgrade mode.
+Tutorial 06 - UpgradeBattery,Please click on the listening room to see currently available upgrades.
+Tutorial 07 - OpenHeadquarterScreen 1,"Hello skipper,
+
+I will give you a quick introduction how to aid Kriegsmarine by assigning your officers to help with ongoing research and other tasks."
+Tutorial 07 - OpenHeadquarterScreen 2,"Please open the headquarters screen, before we continue by clicking on the highlighted button in the menu."
+Tutorial 07 - SelectAnyFreeSlot,Click on a blank document in the lower left part of the screen to look through available tasks in the headquarter.
+Tutorial 07 - SelectAnyTask,Good. Now select any icon on the map by clicking on it using a <b>left mouse button</b>.
+Tutorial 07 - TaskExplanation 1,The document you see on the left describes a project that is currently being worked on by the headquarters.
+Tutorial 07 - TaskExplanation 2,"You can assign one of your officers to complete it, by clicking on the empty slot in the bottom part of the page, as long as he meets the requirements. The officer must also be not assigned to participate in the next assignment on board of your ship in the crew management menu."
+Tutorial 07 - Complete,"That's all you had to know, skipper. Good luck!"

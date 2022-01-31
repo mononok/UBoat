@@ -1,9 +1,29 @@
-Key
-Perspectives Title
-Perspectives
-Beta Campaign Title
-Beta Campaign
-Beta Campaign Finish Title
-Beta Campaign Finish
-Beta Sandbox Title
-Beta Sandbox
+Key,English
+Perspectives Title,Camera perspectives
+Perspectives,"This view is called the section view. It allows you to easily give orders to your crew and learn about the general condition of the ship.
+
+The game is fully playable using either section view or FPP, so if you prefer to play using only one of them you will never be forced to use the other.
+
+The first mission will demonstrate the advantages of each of them so you will be able to decide yourself which one you prefer."
+Beta Campaign Title,Beta version
+Beta Campaign,"<align=center>Welcome to the test version of UBOAT!
+
+
+<align=left>Remember that the version of the game before you is not final and can be significantly different from the final version.
+
+At your disposal are two modes - Tutorial and Sandbox. In the full game both modes will be combined into one.
+
+At this phase, the game is definitely not without errors, so we ask you to report them on a specially separated Steam subforum (<color=#0645AD><u><link=""https://steamcommunity.com/app/494840/discussions/1/"">link</link></u></color>).
+
+In addition, we are waiting for suggestions to the game, the balance of the game, your observations and any opinions that will help us to make the game better.
+
+Thank you for participating in the tests.
+
+<align=center>Have fun,
+Deep Water Studio"
+Beta Campaign Finish Title,The end
+Beta Campaign Finish,"Unfortunately, we have to stop here. You will be able to learn about the further fate of the crew in one of the upcoming updates. If you wish to keep playing, we suggest you choose the Sandbox mode from the main menu. After completing this tutorial you should be ready for the challenges of managing your submarine on your own. We hope you have enjoyed the game. Remember to report to us all your suggestions for improvement and encountered problems. Thank you for your time, Deep Water Studio"
+Beta Sandbox Title,Sandbox mode
+Beta Sandbox,"The Sandbox mode has just been launched - you can do whatever you like and choose the entertainment that you like. You can hunt for cargo ships near Great Britain, intercept nearby radio transmissions or follow orders from headquarters.
+
+Keep in mind that the beta version lacks the possibility to save the game."

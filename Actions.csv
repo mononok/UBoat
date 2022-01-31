@@ -1,65 +1,66 @@
-Key
-Warning Slot Occupied
-Warning Slot Under Water
-Warning Slot Air Toxic
-Warning Slot Cannot be Used Under Water
-Warning Slot Rebreather
-Warning Slot Rebreather Toxic
-Warning Slot Unreachable
-Warning Officer Already Present
-Warning Device No Energy
-Warning Device No Fuel
-Warning Device Under Water
-Warning Device Surface
-Warning Device Damaged
-Warning Device Disabled
-Warning Too Far
-Warning Moving Too Fast
-Warning Target Destroyed
-Warning Cannot Initiate Under Water
-
-/HatchOpenCloseAction
-Pressure Warning
-Damaged Warning
-Open
-Close
-
-/RepairAction
-Flood Warning
-Occupied Warning
-Replacement Parts Warning
-Replacement Parts Info
-Already Being Repaired
-
-/Campaign01PutDownBriefcase
-Put down briefcase
-
-/PutOnDeckAction
-Not Enough Space Warning
-
-/CarryItemsAction
-Carrying Items
-Carrying Water
-
-/InvestigateWreckAction
-Missing Wreck
-
-/SalvageReplacementParts
-Not Enough Scrap
-Storage Full
-
-/LaunchSonarDecoyAction
-Decoy Needed
-
-/StoryTasks
-ScoutingParty
-TransportTeam
-EngineeringTeam
-SearchArea
-TransportWeatherStationComponents
-DeployWeatherStation
-SearchCargo
-OpeningTheHatch
-SearchCompartment
-Scout
-Investigate
+Key,English
+Warning Slot Occupied,Station is occupied by {0}.
+Warning Slot Under Water,Compartment is flooded.
+Warning Slot Air Toxic,Air in the compartment is toxic.
+Warning Slot Cannot be Used Under Water,Cannot be used under water.
+Warning Slot Rebreather,Rebreather will be needed to work under water.
+Warning Slot Rebreather Toxic,Rebreather will be needed to work here.
+Warning Slot Unreachable,Station isn't reachable for this character.
+Warning Officer Already Present,Another officer is taking care of this.
+Warning Device No Energy,Power is down.
+Warning Device No Fuel,Fuel has run out.
+Warning Device Under Water,Cannot be used under water.
+Warning Device Surface,Cannot be used on the surface.
+Warning Device Damaged,Device is damaged.
+Warning Device Disabled,Device is disabled.
+Warning Too Far,Target is too far.
+Warning Moving Too Fast,We are moving too fast!
+Warning Target Destroyed,Target is sinking.
+Warning Cannot Initiate Under Water,This action can be initiated only from the surface.
+Warning Sleep Alarm,Officers cannot rest during an alarm.
+,
+/HatchOpenCloseAction,English
+Pressure Warning,Pressure on the opening side is too high.
+Damaged Warning,The hatch is damaged and cannot be closed.
+Open,Open
+Close,Close
+,
+/RepairAction,English
+Flood Warning,A breathing apparatus is needed to work underwater.
+Occupied Warning,The station is occupied.
+Replacement Parts Warning,Replacement parts are required to repair this.
+Replacement Parts Info,A replacement part will be consumed to repair this.
+Already Being Repaired,{0} is already making repairs here.
+,
+/Campaign01PutDownBriefcase,English
+Put down briefcase,Put down the briefcase
+,
+/PutOnDeckAction,English
+Not Enough Space Warning,There is not enough free space on the deck for loading.
+,
+/CarryItemsAction,English
+Carrying Items,Carrying items�c
+Carrying Water,Carrying water�c
+,
+/InvestigateWreckAction,English
+Missing Wreck,There are no wrecks under the boat.
+,
+/SalvageReplacementParts,English
+Not Enough Scrap,There isn't enough scrap in the storage room.
+Storage Full,There is no free room for replacement parts in the storage.
+,
+/LaunchSonarDecoyAction,English
+Decoy Needed,Sonar decoy is needed to use this device.
+,
+/StoryTasks,English
+ScoutingParty,Scouting Party
+TransportTeam,Transport Team
+EngineeringTeam,Engineering Team
+SearchArea,Searching area
+TransportWeatherStationComponents,Carrying weather station components
+DeployWeatherStation,Deploying weather station
+SearchCargo,Searching the cargo hold
+OpeningTheHatch,Opening the hatch
+SearchCompartment,Searching compartment
+Scout,Scout
+Investigate,Investigate

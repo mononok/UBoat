@@ -1,281 +1,283 @@
-Key
-Convoy
-Open
-Close
-Equip
-Value
-Report value
-Estimated transmission time
-days
-hours
-seconds
-minutes
-second
-minute
-Report header
-Torpedo Launcher X
-empty
-Rescued
-Dead
-Drown
-Killed
-Captured
-Deserted
-DefeatSummary/Crushed
-DefeatSummary/EvacuatedAndSunk
-DefeatSummary/MostRescued
-DefeatSummary/MostDrown
-DefeatSummary/MostKilled
-DefeatSummary/MostCaptured
-DefeatSummary/MostDeserted
-Quarter
-Attack on group summary
-Open sea
-Shore
-Seabed
-Unidentified Group
-Fuel depleted in
-Fully depleted in
-Full in
-Total route
-Device operational
-Device broken
-Wolfpack
-Date Format 1
-Confirm
-Cancel
-Carry Task Confirmation
-North Atlantic
-Sight
-Max Sight
-Hydrophone
-Max Hydrophone
-Radar Detector
-Radio
-Gyrocompass is offline!
-Select
-Change storage
-Grab
-Drop
-Drop X
-NPC Report Title
-PC Report Title
-Balance Log Sent Report
-Balance Log Generic
-Balance Log Console
-Balance Log Shopping
-Balance Log Start
-Balance Log Empty
-Manual Mode
-Manual Mode (Demo)
-North Sea
-North-West Atlantic
-North-East Atlantic
-Western Approaches
-South Atlantic
-English Channel
-Arctic Ocean
-Norwegian Sea
-North Pacific Ocean
-South Pacific Ocean
-Indian Ocean
-Baltic Sea
-German Reich Coast
-British Coast
-USA Coast
-Canadian Coast
-Drake Passage
-Black Sea
-Biscay Bay
-Celtic Sea
-Skagerrak
-North Atlantic Ocean
-South Atlantic Ocean
-Mediterranean Sea
-Caribbean Sea
-Labrador Sea
-Davis Strait
-Baffin Bay
-Danemark Strait
-Greenland Sea
-knots
-Report
-Tiny
-Small
-Large
-Very Large
-Unknown Group Size
-Group
-Misc Communications
-Campaign01_Subject
-Log
-Berlin Transmission
-Weather Station Deployment Area
-Unknown Transmission
-Convoy Attack
-Radioman Description
-Leader Description
-Engineer Description
-Skipper Description
-Skipper Promotion
-Skipper Promotion Description
-Skills Header
-Skipper
-Radioman
-Leader
-Engineer
-Other
-Stern Torpedo Room
-Engine Room
-Galley
-Crew Quarters
-Control Room
-Officers Room
-Bow Torpedo Room
-Conning Tower
-Conning Tower Interior
-Battery Room no. 1
-Battery Room no. 2
-Generic Budget Operation
-Point
-Additional Sailor Tooltip Prefix
-Additional Sailor Tooltip Prefix 1
-Time Span Years Format
-Time Span Months Format
-Time Span Days Format
-Time Span Hours Format
-Time Span Minutes Format
-Time Span Seconds Format
-Backspace
-Delete
-Tab
-Clear
-Return
-Pause
-Escape
-Space
-Keypad0
-Keypad1
-Keypad2
-Keypad3
-Keypad4
-Keypad5
-Keypad6
-Keypad7
-Keypad8
-Keypad9
-KeypadPeriod
-KeypadDivide
-KeypadMultiply
-KeypadMinus
-KeypadPlus
-KeypadEnter
-KeypadEquals
-UpArrow
-DownArrow
-RightArrow
-LeftArrow
-Insert 
-Home 
-End 
-PageUp 
-PageDown 
-Alpha0
-Alpha1
-Alpha2
-Alpha3
-Alpha4
-Alpha5
-Alpha6
-Alpha7
-Alpha8
-Alpha9
-Exclaim
-DoubleQuote
-Hash
-Dollar
-Percent
-Ampersand
-Quote
-LeftParen
-RightParen
-Asterisk
-Plus
-Comma
-Minus
-Period
-Slash
-Colon
-Semicolon
-Less
-Equals
-Greater
-Question
-At
-LeftBracket
-Backslash
-RightBracket
-Caret
-Underscore
-BackQuote
-LeftCurlyBracket
-Pipe
-RightCurlyBracket
-Tilde
-Numlock
-CapsLock 
-ScrollLock 
-RightShift 
-LeftShift
-RightControl
-LeftControl 
-RightAlt
-LeftAlt
-LeftCommand
-LeftApple
-LeftWindows
-RightCommand
-RightApple
-RightWindows
-AltGr
-Help
-Print
-SysReq
-Break
-Menu
-Mouse0
-Mouse1
-Mouse2
-Mouse3
-Mouse4
-Mouse5
-Mouse6
-JoystickButton0
-JoystickButton1
-JoystickButton2
-JoystickButton3
-JoystickButton4
-JoystickButton5
-JoystickButton6
-JoystickButton7
-JoystickButton8
-JoystickButton9
-JoystickButton10
-JoystickButton11
-JoystickButton12
-JoystickButton13
-JoystickButton14
-JoystickButton15
-JoystickButton16
-JoystickButton17
-JoystickButton18
-JoystickButton19
-Sequence Last Separator
-
-/Units
-km
-m
-nmi
-cables
-km/h
-kn
+Key,English
+Convoy,Convoy
+Open,Open
+Close,Close
+Equip,Equip
+Value,Value
+Report value,Report value
+Estimated transmission time,Estimated transmission time
+days,days
+hours,hours
+seconds,seconds
+minutes,minutes
+second,second
+minute,minute
+Report header,"{0} report<size=16>{1}, {2:d MMMM yyyy}</size>"
+Torpedo Launcher X,Torpedo tube {0}
+empty,empty
+Rescued,Rescued
+Dead,Casualties
+Drown,Drown
+Killed,Killed
+Captured,Captured
+Deserted,Deserted
+DefeatSummary/Crushed,hull has been crushed by the pressure. No survivors
+DefeatSummary/EvacuatedAndSunk,has been evacuated and sunk
+DefeatSummary/MostRescued,Most of the crew has been rescued by other u-boats.
+DefeatSummary/MostDrown,Most of the crew didn't made it to the surface.
+DefeatSummary/MostKilled,Most of the crew didn't made it to the surface.
+DefeatSummary/MostCaptured,Most of the crew was captured by nearby enemy forces.
+DefeatSummary/MostDeserted,Most of the crew has deserted. Shame on them!
+Quarter,Quarter
+Attack on group summary,"Attack on {0}, {1} ships sunk."
+Open sea,Open sea
+Shore,Shore
+Seabed,Seabed
+Unidentified Group,Unidentified group
+Fuel depleted in,Remaining
+Fully depleted in,Fully depleted in {0}.
+Full in,Full in {0}.
+Total route,Total route
+Device operational,<color=#12FF12>The device is in a working condition</color>
+Device broken,<color=#C1241F>The device is broken</color>
+Wolfpack,Wolfpack
+Date Format 1,"{1}, {2}"
+Confirm,Confirm
+Cancel,Cancel
+Carry Task Confirmation,Is your order to carry {0} to {1}?
+North Atlantic,North Atlantic
+Sight,Clear sight
+Max Sight,Max sight
+Hydrophone,Hydrophone
+Max Hydrophone,Max hydrophone
+Radar Detector,Radar detector
+Radio,Radio
+Gyrocompass is offline!,Gyrocompass is offline!
+Select,Select
+Change storage,Change storage
+Grab,Grab
+Drop,Drop
+Drop X,Drop X
+NPC Report Title,Captured report
+PC Report Title,Report #{0
+Balance Log Sent Report,Report {0
+Balance Log Generic,{0} {1
+Balance Log Console,Console {0
+Balance Log Shopping,{1} {0
+Balance Log Start,Initial balance {0
+Balance Log Empty,(no recent transactions)
+Manual Mode,Manual mode
+Manual Mode (Demo),Manual mode<size=12>not available in demo</size>
+North Sea,North Sea
+North-West Atlantic,North-West Atlantic
+North-East Atlantic,North-East Atlantic
+Western Approaches,Western Approaches
+South Atlantic,South Atlantic
+English Channel,English Channel
+Arctic Ocean,Arctic Ocean
+Norwegian Sea,Norwegian Sea
+North Pacific Ocean,North Pacific Ocean
+South Pacific Ocean,South Pacific Ocean
+Indian Ocean,Indian Ocean
+Baltic Sea,Baltic Sea
+German Reich Coast,German Reich coast
+British Coast,British coast
+USA Coast,Coast of USA
+Canadian Coast,Canadian coast
+Drake Passage,Drake Passage
+Black Sea,Black Sea
+Biscay Bay,Bay of Biscay
+Celtic Sea,Celtic Sea
+Skagerrak,Skagerrak
+North Atlantic Ocean,"North 
+Atlantic Ocean"
+South Atlantic Ocean,"South 
+Atlantic Ocean"
+Mediterranean Sea,Mediterranean Sea
+Caribbean Sea,Caribbean Sea
+Labrador Sea,Labrador Sea
+Davis Strait,Davis Strait
+Baffin Bay,Baffin Bay
+Danemark Strait,Danemark Strait
+Greenland Sea,Greenland Sea
+knots,knots
+Report,Report
+Tiny,Tiny group
+Small,Small group
+Large,Large group
+Very Large,Very large group
+Unknown Group Size,Unknown size
+Group,Group
+Misc Communications,Misc communications
+Campaign01_Subject,Orders
+Log,Activity
+Berlin Transmission,Transmission from BdU
+Weather Station Deployment Area,Weather station deployment area
+Unknown Transmission,Unknown transmission
+Convoy Attack,Wolfpack formation
+Radioman Description,Radiomen are specialists in telecommunication devices usage. They may also obtain medical training.
+Leader Description,Leaders take care of crew matters and they control devices meant for visual observation.
+Engineer Description,Engineers are specialists in the usage and conservation of devices on board.
+Skipper Description,Character is a skipper of {0}.
+Skipper Promotion,Skipper
+Skipper Promotion Description,Promote this officer to be the new skipper of our ship.
+Skills Header,Learned skills
+Skipper,Skipper
+Radioman,Radioman
+Leader,Leader
+Engineer,Engineer
+Other,Other
+Stern Torpedo Room,Stern Torpedo Room
+Engine Room,Engine Room
+Galley,Galley
+Crew Quarters,Crew Quarters
+Control Room,Control Room
+Officers Room,Officers Room
+Bow Torpedo Room,Bow Torpedo Room
+Conning Tower,Conning Tower
+Conning Tower Interior,Conning Tower
+Battery Room no. 1,Battery Room No. 1
+Battery Room no. 2,Battery Room No. 2
+Generic Budget Operation,{0} {1
+Point,Point
+Additional Sailor Tooltip Prefix,{0} sailors
+Additional Sailor Tooltip Prefix 1,1 sailor
+Time Span Years Format,{0} years
+Time Span Months Format,{0} months
+Time Span Days Format,{0} days
+Time Span Hours Format,{0} hours
+Time Span Minutes Format,{0} minutes
+Time Span Seconds Format,{0} seconds
+Backspace,Backspace
+Delete,Delete
+Tab,Tab
+Clear,Clear
+Return,Enter
+Pause,Pause
+Escape,Escape
+Space,Space
+Keypad0,Num 0
+Keypad1,Num 1
+Keypad2,Num  2
+Keypad3,Num 3
+Keypad4,Num  4
+Keypad5,Num  5
+Keypad6,Num  6
+Keypad7,Num  7
+Keypad8,Num  8
+Keypad9,Num  9
+KeypadPeriod,Num .
+KeypadDivide,Num /
+KeypadMultiply,Num  *
+KeypadMinus,Num -
+KeypadPlus,Num +
+KeypadEnter,Num Enter
+KeypadEquals,Num =
+UpArrow,Up arrow
+DownArrow,Down arrow
+RightArrow,Right arrow
+LeftArrow,Left arrow
+Insert ,Insert 
+Home ,Home 
+End ,End 
+PageUp ,Page Up 
+PageDown ,Page Down 
+Alpha0,0
+Alpha1,1
+Alpha2,2
+Alpha3,3
+Alpha4,4
+Alpha5,5
+Alpha6,6
+Alpha7,7
+Alpha8,8
+Alpha9,9
+Exclaim,!
+DoubleQuote,""""
+Hash,#
+Dollar,$
+Percent,%
+Ampersand,&
+Quote,?'
+LeftParen,(
+RightParen,)
+Asterisk,*
+Plus,+
+Comma,","
+Minus,-
+Period,.
+Slash,/
+Colon,
+Semicolon,;
+Less,<
+Equals,=
+Greater,>
+Question,?
+At,@
+LeftBracket,[
+Backslash,\
+RightBracket,]
+Caret,^
+Underscore,_
+BackQuote,`
+LeftCurlyBracket,{
+Pipe,|
+RightCurlyBracket,}
+Tilde,~
+Numlock,Num Lock
+CapsLock ,Caps Lock 
+ScrollLock ,Scroll Lock 
+RightShift ,Right Shift 
+LeftShift,Left Shift
+RightControl,Right Control
+LeftControl ,Left Control 
+RightAlt,Right Alt
+LeftAlt,Left Alt
+LeftCommand,Left Command
+LeftApple,Left Apple
+LeftWindows,Left Windows
+RightCommand,Right Command
+RightApple,Right Apple
+RightWindows,Right Windows
+AltGr,AltGr
+Help,Help
+Print,Print
+SysReq,SysRq
+Break,Break
+Menu,Menu
+Mouse0,Left click
+Mouse1,Right click
+Mouse2,Middle click
+Mouse3,Mouse 3
+Mouse4,Mouse 4
+Mouse5,Mouse 5
+Mouse6,Mouse 6
+JoystickButton0,"<size=20><sprite name=""JoystickButton0""></size>"
+JoystickButton1,"<size=20><sprite name=""JoystickButton1""></size>"
+JoystickButton2,"<size=20><sprite name=""JoystickButton2""></size>"
+JoystickButton3,"<size=20><sprite name=""JoystickButton3""></size>"
+JoystickButton4,Left Bumper
+JoystickButton5,Right Bumper
+JoystickButton6,View (Back)
+JoystickButton7,Menu (Start)
+JoystickButton8,Left Stick Button
+JoystickButton9,Right Stick Button
+JoystickButton10,"Left Stick ""Horizontal"""
+JoystickButton11,Left Stick �gVertical�h
+JoystickButton12,Right Stick �gHorizontalTurn�h
+JoystickButton13,Right Stick �gVerticalTurn�h
+JoystickButton14,DPAD ? Horizontal
+JoystickButton15,DPAD ? Vertical
+JoystickButton16,Left Trigger
+JoystickButton17,Right Trigger
+JoystickButton18,Left Trigger Shared Axis
+JoystickButton19,Right Trigger Shared Axis
+Sequence Last Separator, and
+,
+/Units,English
+km,km
+m,m
+nmi,nmi
+cables,cables
+km/h,km/h
+kn,kn

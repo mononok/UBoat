@@ -1,269 +1,438 @@
-Key
-Deutschland
-Deutschland Occupied
-United Kingdom
-Spanish State
-Portugal
-Poland
-Poland Occupied Germany
-Poland Occupied USSR
-General Government
-Ukrainian S.S.R.
-Ukraine Occupied Germany
-Ireland
-Iceland
-Iceland Occupied Allies
-Denmark
-Denmark Occupied Germany
-Norway
-Norway Occupied Germany
-Sweden
-Finland
-Italy
-Italy Occupied Germany
-Italy Occupied Allies
-Turkey
-Greenland Denmark
-Greenland Independent
-Greenland USA Protectorate
-Soviet Union
-Morocco
-Morocco Vichy
-Morocco Occupied Allies
-Morocco Free France
-Morocco Spanish
-Newfoundland and Labrador
-Algeria
-Algeria Vichy
-Algeria Occupied Allies
-Algeria Free France
-Tunisia
-Tunisia Vichy
-Tunisia Occupied Germany
-Tunisia Free France
-Libya Occupied Italy
-Libya Occupied Allies
-Egypt
-Anglo-Egyptian Sudan
-Syria France
-Syria Vichy
-Syria Free France
-Syria 
-France
-France Occupied
-Vichy France
-Greece
-Greece Occupied Axis
-Albania
-Albania Occupied Italy
-Albania Occupied Germany
-Yugoslavia
-Montenegro Occupied Italy
-Montenegro Occupied Germany
-Croatia
-Serbia
-Palestine 
-Emirate of Transjordan
-Lebanon
-Hungary
-Hungary Occupied USSR
-Romania
-Romania Occupied USSR
-Bulgaria
-Bulgaria Occupied USSR
-Switzerland
-Cyprus
-Malta
-United States 
-Canada
-Hudson Bay 
-Netherlands
-Netherlands Occupied
-Belgium
-Belgium Occupied
-Slovakia
-Slovakia Occupied USSR
-Estonia
-Estonia Occupied USSR
-Estonia Occupied Germany
-Latvia
-Latvia Occupied USSR
-Latvia Occupied Germany
-Lithuania
-Lithuania Occupied USSR
-Lithuania Occupied Germany
-Iraq
-Iraq Occupied UK
-Iran
-Iran Occupied UK USSR
-Saudi Arabia
-Kuwait
-Trucial States
-Yemen
-Aden Protectorate
-Imamate of Oman
-Qatar
-Muscat
-Australia
-New Zealand
-Japan
-Taiwan
-India
-Ceylon
-Nepal
-Tibet
-Bhutan
-French Indochina
-Thailand
-Philippines
-Korea
-New Guinea
-Afghanistan
-Mongolia
-Manchuria
-Malaya
-Dutch East Indies
-Burma
-Sierra Leone
-China
-Sahara
-Liberia
-Madagascar
-Madagascar Vichy
-Madagascar Free France
-Nyasaland
-Nigeria
-Cape Verde
-Gambia
-Portuguese Guinea
-Spanish Guinea 
-Gold Coast
-Togo
-Togo Vichy
-Togo Free France
-Cameroun
-Cameroun Vichy
-Cameroun Free France
-French West Africa
-French West Africa Vichy
-French West Africa Free France
-French Equatorial Africa
-French Equatorial Africa Vichy
-French Equatorial Africa Free France
-Angola
-Belgian Congo
-Belgian Congo Free Belgian
-Uganda
-Ruanda-Urundi
-Ruanda-Urundi Free Belgian
-British Somaliland
-British Somaliland Occupied Italy
-French Somaliland
-French Somaliland Vichy
-French Somaliland Free France
-Mozambique
-South-West Africa
-Union of South Africa
-Bechuanaland
-Southern Rhodesia
-Northern Rhodesia
-Italian East Africa
-Tanganyika
-Kenya
-Cuba
-Mexico
-Colombia
-Venezuela
-Brazil
-Argentina
-Uruguay
-Ecuador
-Peru
-Bolivia
-Paraguay
-Chile
-Haiti
-Panama
-Costa Rica
-Nicaragua
-Honduras
-El Salvador 
-Guatemala
-Dominican Republic
-Jamaica
-Puerto Rico
-Hawaii
-Black Sea 
-Red Sea
-Sea of Okhotsk
-Sea of Japan
-Bering Sea 
-Indian Ocean
-Arabian Sea
-Caspian Sea
-Bay of Bengal
-North Pacific Ocean
-South Pacific Ocean
-Arctic Ocean
-Barents Sea
-Kara Sea
-Balearic Sea
-Alboran Sea
-Tyrrhenian Sea
-Adriatic Sea
-Ionian Sea
-Aegean Sea
-Gulf of Mexico
-Gulf of Guinea
-Gulf of Bothnia
-Gulf of Finland
-Gulf of Riga
-Persian Gulf
-Gulf of Oman
-Gulf of Aden
-South China Sea
-East China Sea
-Philippine Sea
-Coral Sea
-Timor Sea
-Celebes Sea
-Banda Sea
-Sulu Sea
-Yellow Sea
-Arafura Sea
-
-
-Operation Overlord
-Siegfried Line Campaign
-Ardennes Counteroffensive
-Western Allied Invasion of Germany
-Operation Barbarossa
-The Blitz
-Operation Torch
-Tunisian Campaign
-East African Campaign
-Italian Campaign
-Battle of Stalingrad
-Red Army Offensive
-Vistula-Oder Offensive
-Battle of Berlin
-Battle of Kursk
-
-Bay of Biscay
-English Channel
-Celtic Sea
-North Sea
-Skagerrak
-Baltic Sea
-Norwegian Sea
-North Atlantic Ocean
-South Atlantic Ocean
-Mediterranean Sea
-Caribbean Sea
-Labrador Sea
-Davis Strait
-Baffin Bay
-Danemark Strait
-Greenland Sea
-Battle of the Atlantic II
-Battle of the Atlantic
+Key,English
+Deutschland,Deutschland
+Deutschland Occupied,"Deutschland
+<size=60%>Occupied by Allies</size>"
+United Kingdom,"United
+Kingdom"
+Spanish State,Spain
+Portugal,Portugal
+Poland,Poland
+Poland Occupied Germany,"Poland
+<size=60%>Occupied by Germany</size>"
+Poland Occupied USSR,"Poland
+<size=60%>Occupied by USSR</size>"
+General Government,"General
+Government"
+Ukrainian S.S.R.,Ukrainian S.S.R.
+Ukraine Occupied Germany,"Ukraine
+<size=60%>Occupied by Germany</size>"
+Ireland,Ireland
+Iceland,Iceland
+Iceland Occupied Allies,"Iceland
+<size=60%>Occupied by Allies</size>"
+Denmark,Denmark
+Denmark Occupied Germany,"Denmark
+<size=60%>Occupied by Germany</size>"
+Norway,Norway
+Norway Occupied Germany,"Norway
+<size=60%>Occupied by Germany</size>"
+Sweden,Sweden
+Finland,Finland
+Italy,Italy
+Italy Occupied Germany,"Italy
+<size=60%>Occupied by Germany</size>"
+Italy Occupied Allies,"Italy
+<size=60%>Occupied by Allies</size>"
+Turkey,Turkey
+Greenland Denmark,"Greenland
+<size=60%>Danish colony</size>"
+Greenland Independent,Greenland
+Greenland USA Protectorate,"Greenland
+<size=60%>US protectorate</size>"
+Soviet Union,Soviet Union
+Morocco,"Morocco
+<size=60%>French protectorate</size> "
+Morocco Vichy,"Morocco
+<size=60%>Vichy French protectorate</size>"
+Morocco Occupied Allies,"Morocco
+<size=60%>Occupied by Allies</size> "
+Morocco Free France,"Morocco
+<size=60%>Free French administration</size>"
+Morocco Spanish,"Morocco
+<size=60%>Spanish protectorate</size> "
+Newfoundland and Labrador,"Newfoundland and Labrador
+<size=60%>British administration</size>"
+Algeria,"Algeria
+<size=60%>French possession</size>"
+Algeria Vichy,"Algeria
+<size=60%>Vichy French possession</size>"
+Algeria Occupied Allies,"Algeria
+<size=60%>Occupied by Allies</size>"
+Algeria Free France,"Algeria
+<size=60%>Free French administration</size>"
+Tunisia,"Tunisia
+<size=60%>French
+protectorate</size>"
+Tunisia Vichy,"Tunisia
+<size=60%>Vichy French
+protectorate</size>"
+Tunisia Occupied Germany,"Tunisia
+<size=60%>Occupied by 
+Germany</size>"
+Tunisia Free France,"Tunisia
+<size=60%>Free French
+protectorate</size>"
+Libya Occupied Italy,"Libya
+<size=60%>Italian possession</size> "
+Libya Occupied Allies,"Libya
+<size=60%>Occupied by Allies</size>"
+Egypt,"Egypt
+<size=60%>Occupied by United Kingdom</size>"
+Anglo-Egyptian Sudan,"Anglo-Egyptian Sudan
+<size=60%>British administration</size>"
+Syria France,"Syria & Lebanon
+<size=60%>French mandate</size>"
+Syria Vichy,"Syria & Lebanon
+<size=60%>Vichy French mandate</size>"
+Syria Free France,"Syria
+<size=60%>Free French mandate</size> "
+Syria ,"Syria
+<size=60%>Occupied by France & United Kingdom</size> "
+France,France
+France Occupied,"France
+<size=60%>Occupied by Germany</size>"
+Vichy France,"Vichy 
+France"
+Greece,Greece
+Greece Occupied Axis,"Hellenic 
+State
+<size=60%>Axis Occupied</size>"
+Albania,Albania
+Albania Occupied Italy,"Albania
+<size=60%>Italian
+Protectorate</size>"
+Albania Occupied Germany,"Albania
+<size=60%>Occupied by
+Germany</size>"
+Yugoslavia,Yugoslavia
+Montenegro Occupied Italy,"Montenegro
+<size=60%>Occupied 
+by Italy</size>"
+Montenegro Occupied Germany,"Montenegro
+<size=60%>Occupied 
+by Germany</size>"
+Croatia,"Croatia
+<size=60%>Axis Occupied</size>"
+Serbia,"Serbia
+<size=60%>Occupied by Germany</size>"
+Palestine ,"Palestine 
+<size=60%>British mandate</size>"
+Emirate of Transjordan,"Emirate of 
+Transjordan
+<size=60%>British mandate</size>"
+Lebanon,"Lebanon
+<size=60%>Occupied by France & United Kingdom</size> "
+Hungary,Hungary
+Hungary Occupied USSR,"Hungary
+<size=60%>Occupied by USSR</size>"
+Romania,Romania
+Romania Occupied USSR,"Romania
+<size=60%>Occupied by USSR</size>"
+Bulgaria,Bulgaria
+Bulgaria Occupied USSR,"Bulgaria
+<size=60%>Occupied by USSR</size>"
+Switzerland,Switzerland
+Cyprus,"Cyprus
+<size=60%>British colony</size>"
+Malta,"Malta
+<size=60%>British colony</size>"
+United States ,"United States of 
+America"
+Canada,Canada
+Hudson Bay ,Hudson Bay 
+Netherlands,Netherlands
+Netherlands Occupied,"Netherlands
+<size=60%>Occupied by Germany</size>"
+Belgium,Belgium
+Belgium Occupied,"Belgium
+<size=60%>Occupied by Germany</size>"
+Slovakia,Slovakia
+Slovakia Occupied USSR,"Slovakia
+<size=60%>Occupied by USSR</size>"
+Estonia,Estonia
+Estonia Occupied USSR,"Estonia
+<size=60%>Occupied by USSR</size>"
+Estonia Occupied Germany,"Estonia
+<size=60%>Occupied by Germany</size>"
+Latvia,Latvia
+Latvia Occupied USSR,"Latvia
+<size=60%>Occupied by USSR</size>"
+Latvia Occupied Germany,"Latvia
+<size=60%>Occupied by Germany</size>"
+Lithuania,Lithuania
+Lithuania Occupied USSR,"Lithuania
+<size=60%>Occupied by USSR</size>"
+Lithuania Occupied Germany,"Lithuania
+<size=60%>Occupied by Germany</size>"
+Iraq,Iraq
+Iraq Occupied UK,"Iraq
+<size=60%>Occupied by United Kingdom</size>"
+Iran,Iran
+Iran Occupied UK USSR,"Iran
+<size=60%>Occupied by United Kingdom & USSR</size>"
+Saudi Arabia,Saudi Arabia
+Kuwait,"Kuwait
+<size=60%>British
+protectorate</size> "
+Trucial States,"Trucial Oman
+<size=60%>British
+protectorate</size> "
+Yemen,Yemen
+Aden Protectorate,"Aden Protectorate
+<size=60%>British protectorate</size>"
+Imamate of Oman,"Imamate of 
+Oman"
+Qatar,"Qatar
+<size=60%>British
+protectorate</size>"
+Muscat,"Muscat & Oman
+<size=60%>British protectorate</size>"
+Australia,"Australia
+<size=60%>British dominion</size>"
+New Zealand,"New Zealand
+<size=60%>British dominion</size>"
+Japan,Japan
+Taiwan,"Taiwan
+<size=60%>Japanese colony</size>"
+India,"British India
+<size=60%>British administration</size> "
+Ceylon,"Ceylon
+<size=60%>British colony</size> "
+Nepal,Nepal
+Tibet,Tibet
+Bhutan,"Bhutan
+<size=60%>British protectorate</size>"
+French Indochina,"French
+Indochina
+<size=60%>French protectorate</size> "
+Thailand,Thailand
+Philippines,Philippines
+Korea,Korea
+New Guinea,New Guinea
+Afghanistan,Afghanistan
+Mongolia,Mongolia
+Manchuria,Manchuria
+Malaya,"Malaya
+<size=60%>British protectorate</size>"
+Dutch East Indies,"Dutch East Indies
+<size=60%>Dutch colony</size>"
+Burma,"Burma
+<size=60%>British colony</size>"
+Sierra Leone,"Sierra Leone
+<size=60%>British colony</size> "
+China,China
+Sahara,"Sahara
+<size=60%>Spanish possession</size>"
+Liberia,Liberia
+Madagascar,"Madagascar
+<size=60%>French colony</size> "
+Madagascar Vichy,"Madagascar
+<size=60%>Vichy French colony</size> "
+Madagascar Free France,"Madagascar
+<size=60%>Free French colony</size> "
+Nyasaland,"Nyasaland
+<size=60%>British protectorate</size> "
+Nigeria,"Nigeria
+<size=60%>British colony</size> "
+Cape Verde,"Cape Verde
+<size=60%>Portuguese colony</size>"
+Gambia,"Gambia
+<size=60%>British colony</size> "
+Portuguese Guinea,"Portuguese
+Guinea
+<size=60%>Portuguese colony</size>"
+Spanish Guinea ,"Spanish 
+Guinea
+<size=60%>Spanish colony</size>"
+Gold Coast,"Gold Coast
+<size=60%>British colony</size>"
+Togo,"Togo
+<size=60%>French
+mandate</size>"
+Togo Vichy,"Togo
+<size=60%>Vichy French 
+mandate</size>"
+Togo Free France,"Togo
+<size=60%>Free French
+mandate</size>"
+Cameroun,"Cameroun
+<size=60%>French mandate</size> "
+Cameroun Vichy,"Cameroun
+<size=60%>Vichy French mandate</size> "
+Cameroun Free France,"Cameroun
+<size=60%>Free French mandate</size> "
+French West Africa,"French West Africa
+<size=60%>French colonial federation</size>"
+French West Africa Vichy,"French West Africa
+<size=60%>Vichy French colonial federation</size>"
+French West Africa Free France,"French West Africa
+<size=60%>Free French colonial federation</size>"
+French Equatorial Africa,"French Equatorial Africa
+<size=60%>French colonial federation</size>"
+French Equatorial Africa Vichy,"French Equatorial Africa
+<size=60%>Vichy French colonial federation</size>"
+French Equatorial Africa Free France,"French Equatorial Africa
+<size=60%>Free French colonial federation</size>"
+Angola,"Angola
+<size=60%>Portuguese colony</size>"
+Belgian Congo,"Belgian Congo
+<size=60%>Belgian colony</size>"
+Belgian Congo Free Belgian,"Belgian Congo
+<size=60%>Free Belgian administration</size>"
+Uganda,"Uganda
+<size=60%>British protectorate</size> "
+Ruanda-Urundi,"Ruanda-Urundi
+<size=60%>Belgian mandate</size> "
+Ruanda-Urundi Free Belgian,"Ruanda-Urundi
+<size=60%>Free Belgian administration</size>"
+British Somaliland,"British Somaliland
+<size=60%>British protectorate</size> "
+British Somaliland Occupied Italy,"British Somaliland
+<size=60%>Occupied by Italy</size> "
+French Somaliland,"French
+Somaliland
+<size=60%>French possession</size>"
+French Somaliland Vichy,"French
+Somaliland
+<size=60%>Vichy French
+possession</size>"
+French Somaliland Free France,"French
+Somaliland
+<size=60%>Free French
+possession</size>"
+Mozambique,"Mozambique
+<size=60%>Portuguese colony</size>"
+South-West Africa,"South-West Africa
+<size=60%>South African mandate</size>"
+Union of South Africa,"Union of 
+South Africa
+<size=60%>British dominion</size>"
+Bechuanaland,"Bechuanaland
+<size=60%>British High Commission Territory</size>"
+Southern Rhodesia,"Southern Rhodesia
+<size=60%>British Self-governing colony</size>"
+Northern Rhodesia,"Northern Rhodesia
+<size=60%>British protectorate</size>"
+Italian East Africa,"Italian East Africa
+<size=60%>Italian possession</size> "
+Tanganyika,"Tanganyika
+<size=60%>British mandate</size>"
+Kenya,"Kenya
+<size=60%>British possession</size> "
+Cuba,Cuba
+Mexico,Mexico
+Colombia,Colombia
+Venezuela,Venezuela
+Brazil,Brazil
+Argentina,Argentina
+Uruguay,Uruguay
+Ecuador,Ecuador
+Peru,Peru
+Bolivia,Bolivia
+Paraguay,Paraguay
+Chile,Chile
+Haiti,Haiti
+Panama,Panama
+Costa Rica,Costa Rica
+Nicaragua,Nicaragua
+Honduras,Honduras
+El Salvador ,El Salvador 
+Guatemala,Guatemala
+Dominican Republic,"Dominican
+Republic"
+Jamaica,Jamaica
+Puerto Rico,Puerto Rico
+Hawaii,Hawaii
+Black Sea ,Black Sea 
+Red Sea,Red Sea
+Sea of Okhotsk,Sea of ??Okhotsk
+Sea of Japan,Sea of Japan
+Bering Sea ,Bering Sea 
+Indian Ocean,Indian Ocean
+Arabian Sea,Arabian Sea
+Caspian Sea,Caspian Sea
+Bay of Bengal,Bay of Bengal
+North Pacific Ocean,"North Pacific 
+Ocean"
+South Pacific Ocean,"South Pacific 
+Ocean"
+Arctic Ocean,Arctic Ocean
+Barents Sea,Barents Sea
+Kara Sea,Kara Sea
+Balearic Sea,Balearic Sea
+Alboran Sea,Alboran Sea
+Tyrrhenian Sea,Tyrrhenian Sea
+Adriatic Sea,Adriatic Sea
+Ionian Sea,Ionian Sea
+Aegean Sea,Aegean Sea
+Gulf of Mexico,Gulf of Mexico
+Gulf of Guinea,Gulf of Guinea
+Gulf of Bothnia,Gulf of Bothnia
+Gulf of Finland,Gulf of Finland
+Gulf of Riga,"Gulf of 
+Riga"
+Persian Gulf,Persian Gulf
+Gulf of Oman,Gulf of Oman
+Gulf of Aden,Gulf of Aden
+South China Sea,South China Sea
+East China Sea,East China Sea
+Philippine Sea,Philippine Sea
+Coral Sea,Coral Sea
+Timor Sea,Timor Sea
+Celebes Sea,Celebes Sea
+Banda Sea,Banda Sea
+Sulu Sea,Sulu Sea
+Yellow Sea,Yellow Sea
+Arafura Sea,Arafura Sea
+,
+,
+Operation Overlord,"Operation
+Overlord"
+Siegfried Line Campaign,"Siegfried Line
+Campaign"
+Ardennes Counteroffensive,"Ardennes
+Counteroffensive"
+Western Allied Invasion of Germany,"Invasion of
+Germany"
+Operation Barbarossa,"Operation
+Barbarossa"
+The Blitz,The Blitz
+Operation Torch,"Operation
+Torch"
+Tunisian Campaign,"Tunisian
+Campaign"
+East African Campaign,"East African
+Campaign"
+Italian Campaign,"Italian
+Campaign"
+Battle of Stalingrad,"Battle of
+Stalingrad"
+Red Army Offensive,"Red Army
+Offensive"
+Vistula-Oder Offensive,"Vistula-Oder
+Offensive"
+Battle of Berlin,"Battle of
+Berlin"
+Battle of Kursk,"Battle of
+Kursk"
+,
+Bay of Biscay,Bay of Biscay
+English Channel,English Channel
+Celtic Sea,Celtic Sea
+North Sea,North Sea
+Skagerrak,Skagerrak
+Baltic Sea,Baltic Sea
+Norwegian Sea,Norwegian Sea
+North Atlantic Ocean,"North 
+Atlantic Ocean"
+South Atlantic Ocean,"South 
+Atlantic Ocean"
+Mediterranean Sea,Mediterranean Sea
+Caribbean Sea,Caribbean Sea
+Labrador Sea,Labrador Sea
+Davis Strait,Davis Strait
+Baffin Bay,Baffin Bay
+Danemark Strait,Danemark Strait
+Greenland Sea,Greenland Sea
+Battle of the Atlantic II,The Black Pit
+Battle of the Atlantic,Battle of the Atlantic

@@ -1,99 +1,153 @@
-Key
-Invade Poland
-Build: La Rochelle Pen
-Build: La Rochelle Pen Description
-Operation Weserubung
-Operation Weserubung Description
-Research Rewards
-ItemsProduction Rewards
-Research Snorkels
-Research Snorkels Description
-Research Anti-Radar Coated Snorkel
-Research Anti-Radar Coated Snorkel Description
-Research FuMB 1 ?Metox�h
-Research FuMB 1 ?Metox�h Description
-Research FuMB 10 ?Borkum�h
-Research FuMB 10 ?Borkum�h Description
-Research FuMB 7 ?Naxos I�h
-Research FuMB 7 ?Naxos I�h Description
-Research FuMB 26 ?Tunis�h
-Research FuMB 26 ?Tunis�h Description
-Research Accumulators I
-Research Accumulators I Description
-Research Accumulators II
-Research Accumulators II Description
-Research Accumulators III
-Research Accumulators III Description
-Research Improved Toilets
-Research Improved Toilets Description
-Research KDB
-Research KDB Description
-Research GHG-Balkon
-Research GHG-Balkon Description
-Research Turm I
-Research Turm I Description
-Research Turm II
-Research Turm II Description
-Research Turm III
-Research Turm III Description
-Research Turm IV
-Research Turm IV Description
-Locate Military Storage - Bergen
-Locate Military Storage - Bergen Description
-Locate Military Storage - Bergen Rewards
-Locate Military Storage - Nantes
-Locate Military Storage - Nantes Description
-Locate Military Storage - Nantes Rewards
-Ammunition Factory I
-Ammunition Factory I Description
-Ammunition Factory I Rewards
-Raise Officer Limit to 5
-Raise Officer Limit to 5 Description
-Raise Officer Limit to 6
-Raise Officer Limit to 6 Description
-Free Roam
-Free Roam Description
-HQ Influences
-HQ Influences Description
-HQ Influences Lvl 2
-HQ Influences Lvl 2 Description
-Equipment Production I
-Equipment Production I Description
-Torpedo Pistol - Pi1.1
-Torpedo Pistol - Pi1.1 Description
-G7e Torpedo T3 - Pi2
-G7e Torpedo T3 - Pi2 Description
-Torpedo Control Program - FAT
-Torpedo Control Program - FAT Description
-Torpedo Control Program - LUT
-Torpedo Control Program - LUT Description
-"G7es ""Zaunk?nig"" Torpedo (T5)"
-"G7es ""Zaunk?nig"" Torpedo (T5) Description"
-LocateDefenses Rewards
-Identify Defense - Scapa Flow
-Identify Defense - Scapa Flow Description
-Identify Defense - Cardiff
-Identify Defense - Cardiff Description
-Research Sonar Decoys
-Research Sonar Decoys Description
-Milk Cow I
-Milk Cow I Description
-Milk Cow II
-Milk Cow II Description
-Milk Cow III
-Milk Cow III Description
-Milk Cow IV
-Milk Cow IV Description
-Milk Cow V
-Milk Cow V Description
-Milk Cow VI
-Milk Cow VI Description
-Milk Cow VII
-Milk Cow VII Description
-Milk Cow VIII
-Milk Cow VIII Description
-Milk Cow IX
-Milk Cow IX Description
-Milk Cow X
-Milk Cow X Description
-MoveUnitAreaOfOperation Rewards
+Key,English
+Invade Poland,Invade Poland
+Build, La Rochelle Pen
+Build, La Rochelle Pen Description
+Operation Weserubung,Operation Weserubung
+Operation Weserubung Description,"The German command was alerted by the information about the intention of the British taking over ports in Norway. The decision to invade Norway become fact.The core of the military landing on Narvik is the 3rd Mountain Division, whose individual units have been boarded on fast and heavily armed ships that give us a good chance to surprise the enemy.The area of the North and Norwegian Sea is in the immediate vicinity of large Royal Navy centers, which makes the whole operation very dangerous. We need the support of the best trained and most faithful officers. The Reich counts on you!
+
+Summary:
+- Meet the fleet at the gathering point.
+- Report dangers and eliminate enemies on the way to Norwegian coast.
+- Investigate enemy activity at Scapa Flow.
+"
+Research Rewards,"Research has been completed. Visit port, if you would like to refit your u-boat."
+ItemsProduction Rewards,"Equipment was successfully passed to production. Visit port, if you would like to refit your u-boat."
+Research Snorkels,Snorkels
+Research Snorkels Description,"Some of the Dutch submarines that we captured use a curious device called by them a <i>sniffer</i>. It's a pipe system that allows them to use diesel engines while staying at periscope depth.
+
+As the danger from allied aircrafts increases with each passing month and surface of the seas becomes too dangerous to operate for the u-boats, this technology may prove to be vital. Our submarines wouldn't have too surface that often.
+
+We are already working on the adaptation of this technology to our u-boats, but advice from experienced officer serving on the u-boat would help to develop it much faster."
+Research Anti-Radar Coated Snorkel,Anti-Radar Coating for Snorkels
+Research Anti-Radar Coated Snorkel Description,"It's possible that enemy radars may be able to detect retracted snorkels, when the boat is submerged. There are some ways to counter that, by coating our snorkels with materials that disperse radar waves."
+Research FuMB 1 ?Metox�h,"""Metox"" Radar Detector (T1)"
+Research FuMB 1 ?Metox�h Description,"After Rommel's troops captured British Wellington aircraft in North Africa, its radar technology was a subject of our ongoing ?investigation.
+
+Metox & Grandin company in Paris is working on a device that would be able to detect these radars from large distances and give our u-boats early warning. Our u-boats would be much safer from air patrols with this technology as they would simply submerge long before aircrafts would arrive at their location.
+
+While there are already working prototypes of such detector, a help from experienced officer would speed up its practical integration on our u-boats."
+Research FuMB 10 ?Borkum�h,"""Borkum"" Radar Detector (T2)"
+Research FuMB 10 ?Borkum�h Description,"There are growing reports of surprise aircraft attacks despite careful use of ?Metox�h radar detector. Interrogations give us a clue that enemy may have a technology to detect ?Metox�h radar detectors themselves from much larger range than is normally possible. Our tests indeed suggest that this detector creates some own emissions, so this is possible.
+
+Our military researchers already work on a new radar detector, codenamed ""Borkum"", that would be free of such emissions and would have a bit better spectrum coverage. Sadly, there are still multiple technical obstacles to pass. Help of experienced radio technician would definitely help."
+Research FuMB 7 ?Naxos I�h,"""Naxos"" Radar Detector (T3)"
+Research FuMB 7 ?Naxos I�h Description,"Whilst examining the wreckage of an RAF Short Stirling that was shot down by Luftwaffe over Rotterdam we discovered that Allies started to use radar technology operating at 10 cm frequency. It's a major technological breakthrough and our current radar detector designs aren't capable of detecting them.
+
+Our response to this finding is a new radar detector device called ?Naxos�h. It would theoretically be able to detect all radars operating at 8 to 12 cm frequencies."
+Research FuMB 26 ?Tunis�h,"""Tunis"" Radar Detector (T4)"
+Research FuMB 26 ?Tunis�h Description,"Considering that enemy was often a few steps ahead of us in radar technology, this time, we should take the initiative and create a radar detector that would be able to detect radars operating on frequencies as small as 3 cm.
+
+Our researchers claim that this advancement would also allow to greatly increase effective range of our new radar detector."
+Research Accumulators I,Accumulators I
+Research Accumulators I Description,There is ongoing research in Hanover that could potentially improve the effective capacity of accumulators on our u-boats. Presence of an experienced officer would greatly speed this research up.
+Research Accumulators II,Accumulators II
+Research Accumulators II Description,There is ongoing research in Hanover that could potentially improve the effective capacity of accumulators on our u-boats. Presence of an experienced officer would greatly speed this research up.
+Research Accumulators III,Accumulators III
+Research Accumulators III Description,There is ongoing research in Hanover that could potentially improve the effective capacity of accumulators on our u-boats. Presence of an experienced officer would greatly speed this research up.
+Research Improved Toilets,Improved Toilets
+Research Improved Toilets Description,"While our u-boats are impressively capable of staying at large depths for a long time, there is one nagging issue that often leads our crews to irrationally move out of the safe depth. This issue is our current toilet design as it's functional only at a small depth. There are many ways to address this issue, but it was neglected so far. Presence of a veteran officer that would explain the weight of this improvement would help to allocate more resources for developing better hydraulic systems that would work on a greater depth."
+Research KDB,Hydrophone
+Research KDB Description,"While our current GHG hydrophones are very effective and outmatch enemy technologies, they don't ensure full direction coverage for listening.
+
+A group of engineers created a simple prototype device, that carries a set of microphones, able to rotate around one axis. It seems be a very promising project, but still needs work before being integrated on our u-boats."
+Research GHG-Balkon,Hydrophone
+Research GHG-Balkon Description,"A group of our engineers suggested that our current GHG design may be improved by mounting the microphones on a dome attached to the bottom part of the hull. This solution would increase direction coverage of GHG microphones and as addition the extra space in dome would be able to hold more microphones, increasing precision of the whole system."
+Research Turm I,Armoured Conning Towers (T1)
+Research Turm I Description,"Aircraft cause larger losses to our u-boat forces with each passing month. While preferred way to deal with them is to dive, in practice there is sometimes no choice or time for that.
+
+Our engineers have ideas how to improve anti-aircraft capabilities of our u-boats. Thanks to this research, we would create more armoured conning towers and also equip them with better AA guns."
+Research Turm II,Armoured Conning Towers (T2)
+Research Turm II Description,"Aircraft cause larger losses to our u-boat forces with each passing month. While preferred way to deal with them is to dive, in practice there is sometimes no choice or time for that.
+
+Our engineers have ideas how to improve anti-aircraft capabilities of our u-boats. Thanks to this research, we would create more armoured conning towers and also equip them with better AA guns."
+Research Turm III,Armoured Conning Towers (T3)
+Research Turm III Description,"Aircrafts cause larger losses to our u-boat forces with each passing month. While preferred way to deal with them is to dive, in practice there is sometimes no choice or time for that.
+
+Our engineers have ideas how to improve anti-aircraft capabilities of our u-boats. Thanks to this research, we would create more armoured conning towers and also equip them with better AA guns."
+Research Turm IV,Armoured Conning Towers (T4)
+Research Turm IV Description,"Aircraft cause larger losses to our u-boat forces with each passing month. While preferred way to deal with them is to dive, in practice there is sometimes no choice or time for that.
+
+Our engineers have ideas how to improve anti-aircraft capabilities of our u-boats. Thanks to this research, we would create more armoured conning towers and also equip them with better AA guns."
+Locate Military Storage - Bergen,Military stash
+Locate Military Storage - Bergen Description,"Our intel suggests that the Norwegian navy has stashed a large quantities of ammunition near Bergen to prevent it from falling into our hands.
+
+There are some leads that would let us narrow down its location."
+Locate Military Storage - Bergen Rewards,"Investigation was successful. We located the stash.
+
+Budget +{0}"
+Locate Military Storage - Nantes,Military stash
+Locate Military Storage - Nantes Description,Our intel suggests that the French navy has stashed a large quantities of ammunition near Nantes to prevent it from falling into our hands.There are some leads that would let us narrow down its location.
+Locate Military Storage - Nantes Rewards,"Investigation was successful. We located the stash.
+
+Budget +{0}"
+Ammunition Factory I,Ammunition Production I
+Ammunition Factory I Description,"Our ammunition production has to increase in order to match growing needs of the navy. There was a talk of increasing production output in Fahrenkrug Navy Arsenal, but things progress slowly and motivated officer may speed things up.
+
+Rewards:
+- More ammunition in military depositories.
+- Specialized ammunition types that weren't widely available before."
+Ammunition Factory I Rewards,"The task was completed successfully.
+
+88mm HE ammunition production increases.
+88mm AA ammunition is now available.
+88mm SS ammunition is now available."
+Raise Officer Limit to 5,Specialized Crew I
+Raise Officer Limit to 5 Description,Increases officers limit on board to 6.
+Raise Officer Limit to 6,Specialized Crew II
+Raise Officer Limit to 6 Description,Increases officers limit on board to 7.
+Free Roam,Free Roam
+Free Roam Description,Having this right would allow us to leave ports without any assignments from the Headquarters.
+HQ Influences,Headquarters Influences I
+HQ Influences Description,Opens up possibility to send officers on missions in Headquarters.
+HQ Influences Lvl 2,Headquarters Influences II
+HQ Influences Lvl 2 Description,Allows to run two missions in Headquarters simultaneously.
+Equipment Production I,Equipment Production I
+Equipment Production I Description,"We should sign contracts with private companies inside the Reich to raise our production capacity of basic equipment for our u-boats.
+
+Rewards:
+- More replacement parts and medkits in ports.
+- Potassium absorbers will become available."
+Torpedo Pistol - Pi1.1,Improved torpedo pistols
+Torpedo Pistol - Pi1.1 Description,"Our current pistol design turned out to be faulty and we must prioritize fixing it above other things. Pistols with magnetic (MZ) setting often tend to explode on their own before reaching the target, while impact (AZ) setting works correctly only close to the right angle.
+
+There are many theories why things are this way and different branches shift responsibility to one another. Presence of experienced engineer from one of our u-boats would help to move things forward and potentially find some solutions."
+G7e Torpedo T3 - Pi2,G7e Torpedo (T3)
+G7e Torpedo T3 - Pi2 Description,"Our current G7e T2 electric torpedoes have some technical limitations that noticeably limit their use like a low range, speed and despite our earlier efforts there are still many pistol issues left, especially with the magnetic (MZ) setting.
+
+Our engineers already work on improved design - G7e T3. These torpedoes at current prototype stages bear a promise to fix all aforementioned issues of T2 torpedoes."
+Torpedo Control Program - FAT,Torpedo control program - FAT
+Torpedo Control Program - FAT Description,"A novel idea appeared to enhance our existing torpedo designs with a control mechanism that would steer the torpedo to follow a specific pattern in case of a miss. The proposed pattern would increase the probability of scoring a hit, if torpedo would be fired inside a convoy."
+Torpedo Control Program - LUT,Torpedo control program - LUT
+Torpedo Control Program - LUT Description,"We consider our FAT torpedo programs to be a great success, although it's time to upgrade it further. The main drawback of FAT program is that it assumes a very specific firing angle for the u-boat for optimal run.
+
+There is a new idea of upgrading it with additional setting that would make the pattern independent from the initial firing angle."
+"G7es ""Zaunk?nig"" Torpedo (T5)","G7es ""Zaunk?nig"" Torpedo (T5)"
+"G7es ""Zaunk?nig"" Torpedo (T5) Description","Our engineers are designing a new type of torpedo - T5. These new torpedoes are acoustically homing at nearby targets, turning many missed shots into perfect hits. It's a complicated design though and experienced engineer would definitely be helpful in addressing its remaining issues."
+LocateDefenses Rewards,Reconaissance completed. Port defenses are now marked on the map.
+Identify Defense - Scapa Flow,Aerial reconaissance
+Identify Defense - Scapa Flow Description,We can send one of our officers to Luftwaffe to organize aerial reconaissance and recognize defense in the area.
+Identify Defense - Cardiff,Aerial reconaissance
+Identify Defense - Cardiff Description,We can send one of our officers to Luftwaffe to organize aerial reconaissance and recognize defense in the area.
+Research Sonar Decoys,Sonar decoys
+Research Sonar Decoys Description,"Advancing sonar technologies became one of the greatest threats to the u-boats. Technically it should be easy to deceive them with simple, chemical devices."
+Milk Cow I,Milk Cow
+Milk Cow I Description,We can assign one of our leaders to convince the admiralty that this milk cow will be more useful in a different area.
+Milk Cow II,Milk Cow
+Milk Cow II Description,We can assign one of our leaders to convince the admiralty that this milk cow will be more useful in a different area.
+Milk Cow III,Milk Cow
+Milk Cow III Description,We can assign one of our leaders to convince  the admiralty that this milk cow will be more useful in a different area.
+Milk Cow IV,Milk Cow
+Milk Cow IV Description,We can assign one of our leaders to convince the admiralty that this milk cow will be more useful in a different area.
+Milk Cow V,Milk Cow
+Milk Cow V Description,We can assign one of our leaders to convince the admiralty that this milk cow will be more useful in a different area.
+Milk Cow VI,Milk Cow
+Milk Cow VI Description,We can assign one of our leaders to convince the admiralty that this milk cow will be more useful in a different area.
+Milk Cow VII,Milk Cow
+Milk Cow VII Description,We can assign one of our leaders to convince the admiralty that this milk cow will be more useful in a different area.
+Milk Cow VIII,Milk Cow
+Milk Cow VIII Description,We can assign one of our leaders to convince the admiralty that this milk cow will be more useful in a different area.
+Milk Cow IX,Milk Cow
+Milk Cow IX Description,We can assign one of our leaders to convince the admiralty that this milk cow will be more useful in a different area.
+Milk Cow X,Milk Cow
+Milk Cow X Description,We can assign one of our leaders to convince the admiralty that this milk cow will be more useful in a different area.
+MoveUnitAreaOfOperation Rewards,"The Admiralty positively responded to our request and directed the ""Milk Cow"" to the new square. This will improve our capabilities to resupply and refuel on the sea when we will be near this area."

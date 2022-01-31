@@ -1,287 +1,322 @@
-Key
-Destroyer
-Freighter
-Corvette
-Aircraft
-Aircrafts
-Bomber
-Ships
-Submarine
-U-boat
-Fast Attack Craft
-Sloop
-Cruiser
-Battleship
-Escort Carrier
-Tanker
-Submarine Pen
-Port
-Air Base
-Torpedo
-Mine
-Bottom Mine
-Pontoon
-Lifeboat
-Environment
-F-Class
-F-Class (Recognized Manually)
-E-Class
-Tribal-Class
-Benson-Class
-Liberty
-Zerst?rer 1934A
-Type IIB
-Type VIIB
-Type VIIC
-Type XIV
-Canadian Motor Torpedo Boat
-PBY-5A Catalina
-Catalina Mk III
-Mk IA Catalina
-GST
-Flower-Class
-Black Swan-Class
-Admiral Hipper
-Allen M. Sumner Class
-Bogue-Class
-Casablanca-Class
-Kirov-Class
-Gnevny-Class
-MS Rio de Janeiro
-T2
-Generic Submarine Pen
-Generic Port
-Generic Air Base
-Boeing B-17 Flying Fortress
-Vickers Wellington
-PF(B)
-Type VIIC (Player)
-G7a Torpedo (T1)
-G7a Torpedo (T1) (Warmed)
-G7e Torpedo (T2)
-G7e Torpedo (T2) (Warmed)
-G7e Torpedo (T3)
-G7e Torpedo (T3) (Warmed)
-G7es Zaunk?nig Torpedo (T5)
-G7es Zaunk?nig Torpedo (T5) (Warmed)
-G7e Torpedo (T3) Prototype
-G7e Torpedo (T3) Prototype (Warmed)
-"G7es ""Zaunk?nig"" Torpedo (T5) Prototype"
-"G7es ""Zaunk?nig"" Torpedo (T5) Prototype (Warmed)"
-TMB Mine
-Small Iceberg
-Medium Iceberg
-Whales
-Minke Whales
-Harbor Porpoise
-Ice Cover
-Ulysses
-Marconi
-Illustrious
-"C01 ""Falcon"" Wreck"
-C01 British Destroyer
-C01 British Aircraft Carrier
-Wilhelmshaven Port
-Wreckage
-Wreck
-Player Ship
-Unknown Group
-Air Patrol
-Warships
-Convoy
-Norwegian Sea
-Western Approaches
-North Atlantic
-Central Atlantic
-Southern Atlantic
-Mediterranean Sea
-Bermuda Islands
-Danzig Port
-Klaip?da Port
-Headquarters
-Kilian
-Nordsee III
-Trondheim Port
-Bergen Port
-Scapa Flow
-Scapa Flow Port
-RAF Dundee
-Leith
-Port of Liverpool
-RAF St. Eval
-Dom (West)
-Dom (East)
-St-Nazaire Port
-La Rochelle Port
-Bordeaux Port
-Radio Gibraltar
-Safi Port
-Port of Freetown
-Radio New York
-Port of Boston
-Halifax Harbour
-Port of Sydney
-Convoy Code
-Transport
-Transport Code
-Wolfpack Code
-Unknown Name
-Carrier-Borne Aircraft
-Contrail
-Chimney Smoke
-Conning Tower
-Ship
-Ships
-Visual Contact
-Masts
-Propeller Noise
-Hydrophone Contact
-Detected Radar
-Radar Contact
-Coordinates
-C01 Aircraft Carrier
-Large Freighter 01
-Large Freighter 02
-Large Freighter 03
-Port of Kiel
-Lyness Naval Base
-Belfast Harbour
-Portsmouth Port
-Cardiff Docks
-La Spezia Port
-Grand Harbour
-Port in Alexandria
-Port of New York and New Jersey
-Scapa Flow Mines #1
-Scapa Flow Mines #2
-Scapa Flow Net #1
-Port of Alexandria
-Port of Murmansk
-Port of Arkhangelsk
-Portsmouth Net #1
-Belfast Net #1
-Cardiff Net #1
-Cardiff Mines #1
-AA Platform #1
-AA Platform #2
-AA Platform #3
-AA Platform #4
-AA Platform #5
-Berlin
-Tutorial02Movement
+Key,English
+Destroyer,Destroyer
+Freighter,Freighter
+Corvette,Corvette
+Aircraft,Aircraft
+Aircrafts,Aircraft
+Bomber,Bomber
+Ships,Ships
+Submarine,Submarine
+U-boat,U-boat
+Fast Attack Craft,Fast attack craft
+Sloop,Sloop
+Cruiser,Cruiser
+Battleship,Battleship
+Escort Carrier,Escort carrier
+Tanker,Tanker
+Submarine Pen,Submarine pen
+Port,Port
+Air Base,Airbase
+Torpedo,Torpedo
+Mine,Mine
+Bottom Mine,Bottom Mine
+Pontoon,Pontoon
+Lifeboat,Lifeboat
+Environment,Environment
+F-Class,F-class
+F-Class (Recognized Manually),E/F-class
+E-Class,E-class
+Tribal-Class,Tribal-class
+Benson-Class,Benson-class
+Liberty,Liberty
+Zerst?rer 1934A,Zerst?rer 1934A
+Type IIB,Type IIB
+Type VIIB,Type VIIB
+Type VIIC,Type VIIC
+Type XIV,Type XIV
+Canadian Motor Torpedo Boat,Canadian Motor Torpedo Boat
+PBY-5A Catalina,PBY-5A Catalina
+Catalina Mk III,Catalina Mk III
+Mk IA Catalina,Mk IA Catalina
+GST,GST
+Flower-Class,Flower-class
+Black Swan-Class,Black Swan-class
+Admiral Hipper,Admiral Hipper
+Allen M. Sumner Class,Allen M. Sumner-class
+Bogue-Class,Bogue-class
+Casablanca-Class,Casablanca-class
+Kirov-Class,Kirov-class
+Gnevny-Class,Gnevny-class
+MS Rio de Janeiro,MS Rio de Janeiro
+T2,T2
+Generic Submarine Pen,Submarine Pen
+Generic Port,Port
+Generic Air Base,Airbase
+Boeing B-17 Flying Fortress,Boeing B-17 Flying Fortress
+Vickers Wellington,Vickers Wellington
+PF(B),PF(B)
+Type VIIC (Player),Type VIIC
+G7a Torpedo (T1),G7a torpedo (T1)
+G7a Torpedo (T1) (Warmed),G7a torpedo (T1)
+G7e Torpedo (T2),G7e torpedo (T2)
+G7e Torpedo (T2) (Warmed),G7e torpedo (T2)
+G7e Torpedo (T3),G7e torpedo (T3)
+G7e Torpedo (T3) (Warmed),G7e torpedo (T3)
+G7es Zaunk?nig Torpedo (T5),"G7es ""Zaunk?nig"" torpedo (T5)"
+G7es Zaunk?nig Torpedo (T5) (Warmed),"G7es ""Zaunk?nig"" torpedo (T5)"
+G7e Torpedo (T3) Prototype,G7e torpedo prototype (T3)
+G7e Torpedo (T3) Prototype (Warmed),G7e torpedo prototype (T3)
+"G7es ""Zaunk?nig"" Torpedo (T5) Prototype","G7es ""Zaunk?nig"" torpedo prototype (T5)"
+"G7es ""Zaunk?nig"" Torpedo (T5) Prototype (Warmed)","G7es ""Zaunk?nig"" torpedo prototype (T5)"
+TMB Mine,TMB mine
+Small Iceberg,Small iceberg
+Medium Iceberg,Medium iceberg
+Whales,Whales
+Minke Whales,Minke whales
+Harbor Porpoise,Harbor porpoise
+Ice Cover,Ice cover
+Ulysses,Ulysses
+Marconi,Marconi
+Illustrious,Illustrious
+"C01 ""Falcon"" Wreck","""Falcon"" Wreck"
+C01 British Destroyer,British destroyer
+C01 British Aircraft Carrier,Aircraft carrier
+Wilhelmshaven Port,Port of Wilhelmshaven
+Wreckage,Wreckage
+Wreck,Wreck
+Player Ship,U-96
+Unknown Group,Unknown group
+Air Patrol,Aircraft
+Warships,Warships
+Convoy,Convoy
+Norwegian Sea,Norwegian Sea
+Western Approaches,Western Approaches
+North Atlantic,North Atlantic
+Central Atlantic,Central Atlantic
+Southern Atlantic,Southern Atlantic
+Mediterranean Sea,Mediterranean Sea
+Bermuda Islands,Bermuda Islands
+Danzig Port,Danzig Port
+Klaip?da Port,Port of Klaipeda
+Headquarters,Headquarters
+Kilian,"Submarine Pen ""Kilian"""
+Nordsee III,"Submarine Pen ""Nordsee III"""
+Trondheim Port,Port of Trondheim
+Bergen Port,Port of Bergen
+Scapa Flow,Scapa Flow
+Scapa Flow Port,Port of Scapa Flow
+RAF Dundee,RAF Dundee
+Leith,Leith
+Port of Liverpool,Port of Liverpool
+RAF St. Eval,RAF St. Eval
+Dom (West),"Submarine Pen ""Dom"" (West)"
+Dom (East),"Submarine Pen ""Dom"" (East)"
+St-Nazaire Port,Port of St-Nazaire
+La Rochelle Port,Port of La Rochelle
+Bordeaux Port,Port of Bordeaux
+Radio Gibraltar,Radio Gibraltar
+Safi Port,Port of Safi
+Port of Freetown,Port of Freetown
+Radio New York,Radio New York
+Port of Boston,Port of Boston
+Halifax Harbour,Port of Halifax
+Port of Sydney,Port of Sydney
+Convoy Code,{0} Convoy
+Transport,Transport
+Transport Code,{0} Transport
+Wolfpack Code,{0} Wolfpack
+Unknown Name,Unknown
+Carrier-Borne Aircraft,Aircraft
+Contrail,Contrail
+Chimney Smoke,Funnel smoke
+Conning Tower,Conning tower
+Ship,Ship
+Ships,Ships
+Visual Contact,Visual contact
+Masts,Ship masts
+Propeller Noise,Propeller noise
+Hydrophone Contact,Hydrophone contact
+Detected Radar,Detected radar
+Radar Contact,Radar contact
+Coordinates,Coordinates - {0}
+C01 Aircraft Carrier,Aircraft carrier
+Large Freighter 01,Empire Bell
+Large Freighter 02,Empire Tower
+Large Freighter 03,Empire Explorer
+Port of Kiel,Port of Kiel
+Lyness Naval Base,Lyness Naval Base
+Belfast Harbour,Belfast Harbour
+Portsmouth Port,Portsmouth Port
+Cardiff Docks,Cardiff Docks
+La Spezia Port,La Spezia Port
+Grand Harbour,Grand Harbour
+Port in Alexandria,Port in Alexandria
+Port of New York and New Jersey,Port of New York and New Jersey
+Scapa Flow Mines #1,Scapa Flow Mines #1
+Scapa Flow Mines #2,Scapa Flow Mines #2
+Scapa Flow Net #1,Scapa Flow Net #1
+Port of Alexandria,Port of Alexandria
+Port of Murmansk,Port of Murmansk
+Port of Arkhangelsk,Port of Arkhangelsk
+Portsmouth Net #1,Portsmouth Net #1
+Belfast Net #1,Belfast Net #1
+Cardiff Net #1,Cardiff Net #1
+Cardiff Mines #1,Cardiff Mines #1
+AA Platform #1,AA Platform #1
+AA Platform #2,AA Platform #2
+AA Platform #3,AA Platform #3
+AA Platform #4,AA Platform #4
+AA Platform #5,AA Platform #5
+Berlin,BdU
+Tutorial02Movement,Training Area
+,
+Sims-Class,Sims-class
+County-Class,County-class
+River-Class,River-class
+V-Class,V-class
+Dido-Class,Dido-class
+Ol-Class,Ol-class
+Dale-Class,Dale-class
+War-Class,War-class
+Wave-Class,Wave-class
+Hunt-Class,Hunt-class
+Port of Tunis,Port of Tunis
+Port of Buenos Aires,Port of Buenos Aires
+Port of Gibraltar,Port of Gibraltar
+Port of Lisbon,Port of Lisbon
+Port of Lorient,Port of Lorient
+Port of Rotterdam,Port of Rotterdam
+Port of Vigo,Port of Vigo
+Gibraltar Strait,Gibraltar Strait
+Coastal Defense Patrol,Coastal defense patrol
+Milk Cow,Milk Cow
+North Labrador Weather Station Deployment,North Labrador Weather Station Deployment
+Battle of the Atlantic II,The Black Pit
+Weather Station Deployment North Labrador,Weather station
+North Labrador Weather Station Deployment Patrol,North Labrador coastal defense patrol
+Retrieve Enigma from Sunk Submarine,Enigma recovery
+RAF St. Eval,RAF St. Eval
+RCAF Yarmouth,RCAF Yarmouth
+Operation Drumbeat,Operation Drumbeat
+Arctic Convoys,Arctic convoys
+Battle of the Mediterranean,Battle of the Mediterranean
+Sink Warships on Anchor,Attack
+Weather Station Deployment Bear Island,Weather station
+Recover Gold From Sunk Ship,Gold retaking
+Bear Island Weather Station Deployment,Bear Island Weather Station Deployment
+Bear Island Weather Station Deployment Patrol,Bear Island coastal defense patrol
+Join Battle of Arctic,Join Battle of Arctic
+Join French Flotillas,Join French Flotillas
+Pass Gibraltar,Passage through Gibraltar
+U-boat Wreck,U-boat Wreck
+Unknown Submarine,Unknown submarine
+Unknown Ship,Unknown ship
+Unknown Aircraft Carrier,Unknown aircraft carrier
+Unknown Warship,Unknown warship
+Unknown Aircraft,Unknown aircraft
+Unknown Object,Unknown object
+Unknown Destination,unknown destination port
+Wilhelmshaven Port Description,"Kriegsmarinewerft Wilhelmshaven
+In the shipyard, smaller warships and submarines are built, and repairs due to battle damage, conversions and maintenance are carried out.
 
-Sims-Class
-County-Class
-River-Class
-V-Class
-Dido-Class
-Ol-Class
-Dale-Class
-War-Class
-Wave-Class
-Hunt-Class
+Stationing: u-boat flotillas"
+Danzig Port Description,"Kriegsmarinewerft
 
-Port of Buenos Aires
-Port of Gibraltar
-Port of Lisbon
-Port of Lorient
-Port of Rotterdam
-Port of Vigo
-Gibraltar Strait
-Coastal Defense Patrol
-Milk Cow
-North Labrador Weather Station Deployment
-Battle of the Atlantic II
-Weather Station Deployment North Labrador
-Retrieve Enigma from Sunk Submarine
-RAF St. Eval
-RCAF Yarmouth
-Operation Drumbeat
-Arctic Convoys
-Battle of the Mediterranean
-Sink Warships on Anchor
-Weather Station Deployment Bear Island
-Recover Gold From Sunk Ship
-Bear Island Weather Station Deployment
-Join Battle of Arctic
-Join French Flotillas
-Pass Gibraltar
-U-boat Wreck
-Unknown Submarine
-Unknown Ship
-Unknown Aircraft Carrier
-Unknown Warship
-Unknown Aircraft
-Unknown Object
-Unknown Destination
-Wilhelmshaven Port Description
-Danzig Port Description
-Klaip?da Port Description
-Trondheim Port Description
-Bergen Port Description
-Scapa Flow Port Description
-Leith Description
-Port of Liverpool Description
-St-Nazaire Port Description
-La Rochelle Port Description
-Bordeaux Port Description
-Safi Port Description
-Port of Freetown Description
-Port of Boston Description
-Halifax Harbour Description
-Port of Sydney Description
-Port of Kiel Description
-Belfast Harbour Description
-Portsmouth Port Description
-La Spezia Port Description
-Grand Harbour Description
-Port of New York and New Jersey Description
-Port of Alexandria Description
-Port of Murmansk Description
-Port of Arkhangelsk Description
-Port of Buenos Aires Description
-Port of Gibraltar Description
-Port of Lisbon Description
-Port of Lorient Description
-Port of Rotterdam Description
-Port of Vigo Description
-Lyness Naval Base Description
-Port of Aruba Description
-RCAF Yarmouth Description
-Cardiff Docks Description
-RAF St. Eval Description
-RAF Gibraltar Description
-RAF Freetown Description
-RAF Dundee Description
-Kindley Air Force Base
-Kindley Air Force Base Description
-Port of Aruba
-Resupply Ship Marker
-Weather Station Deployment Area
+Stationing: u-boat flotillas"
+Klaip?da Port Description,Large transport hub for for goods as well as a ship repair yard
+Trondheim Port Description,"Strategically important base of the Kriegsmarine.
 
-G7a Torpedo T1 - Pi1
-G7a Torpedo T1 - Pi1.1
-G7a Torpedo T1 - Pi3
-G7a Torpedo T1 - Pi3 - FAT
-G7a Torpedo T1 - Pi3 - LUT
-G7e Torpedo T2 - Pi1
-G7e Torpedo T2 - Pi1.1
-G7e Torpedo T3 - Pi2
-G7e Torpedo T3 - Pi2 - FAT
-G7e Torpedo T3 - Pi2 - LUT
-G7e Torpedo T3 - Pi2 - Prototype
-G7es Zaunk?nig Torpedo T5 - Pi4
-G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype
-G7a Torpedo T1 - Pi1 (Warmed)
-G7a Torpedo T1 - Pi1.1 (Warmed)
-G7a Torpedo T1 - Pi3 (Warmed)
-G7a Torpedo T1 - Pi3 - FAT (Warmed)
-G7a Torpedo T1 - Pi3 - LUT (Warmed)
-G7e Torpedo T2 - Pi1 (Warmed)
-G7e Torpedo T2 - Pi1.1 (Warmed)
-G7e Torpedo T3 - Pi2 (Warmed)
-G7e Torpedo T3 - Pi2 - FAT (Warmed)
-G7e Torpedo T3 - Pi2 - LUT (Warmed)
-G7e Torpedo T3 - Pi2 - Prototype (Warmed)
-G7es Zaunk?nig Torpedo T5 - Pi4 (Warmed)
-G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype (Warmed)
+Stationing: u-boat flotillas"
+Bergen Port Description,"Strategically important base of the Kriegsmarine. 
+
+Stationing: u-boat flotillas"
+Scapa Flow Port Description,"A very heavily secured British naval port.
+Probably protected by nets and ground mines."
+Leith Description,A large number of shipyards and a transhipment point for goods.
+Port of Liverpool Description,"One of the largest and most important UK ports on the West Coast. 
+The port is the main link between the UK and North America, the transatlantic SC- (Slow Convoy) and HX- (Halifax) convoys."
+St-Nazaire Port Description,"One of the largest ports on the French Atlantic coast.
+During the Western campaign, the German military reached Saint-Nazaire in June 1940. The port was used as one of the main bases for U-boat operations from September 1940.
+
+Stationing: Stationing: u-boat flotillas"
+La Rochelle Port Description,"With the conquest of northern France in June 1940, a submarine base was established in La Rochelle, also for the overhaul and refurbishment of submarines.
+
+Stationing: u-boat flotillas"
+Bordeaux Port Description,"After the capitulation of France in June 1940, another submarine base was established in Bordeaux. 
+The 12th Flotilla stationed there specialised in supplying other submarines at sea with torpedoes, rations and fuel. "
+Safi Port Description,
+Port of Freetown Description,The port of Freetown acts as an important convoy station for the Allies.
+Port of Boston Description,Internationally important for overseas trade and a transshipment centre for goods.
+Halifax Harbour Description,"A very important port for  transatlantic routes vital to Allied war logistics.
+The HX convoys probably started here."
+Port of Sydney Description,The second most important port in Canada after Halifax and the starting point for many convoys aiding Britain in the war.
+Port of Kiel Description,"Kriegsmarinewerft Kiel
+Mainly submarines were built in the shipyard.Especially the type VIIC.
+
+Stationing: u-boat flotillas"
+Belfast Harbour Description,"One of the largest shipyards in the United Kingdom. In addition, many soldiers are shipped from here."
+Portsmouth Port Description,The port is the Royal Navy's most important naval base. Ammunition and warships are manufactured and stationed here.
+La Spezia Port Description,"La Spezia is an important naval base because of the French-Italian naval rivalry in the Mediterranean. It also serves as a submarine base for German submarines.
+
+Stationing: u-boat flotillas"
+Grand Harbour Description,"The island is one of the most important British naval bases in the Mediterranean and became a strategic target for the Axis powers after Italy entered the war.
+The port is of central importance for disrupting supplies to the German and Italian troops in North Africa."
+Port of New York and New Jersey Description,The port is the starting point for many supplies bound for the west coast of England and also towards the Mediterranean sea.
+Port of Alexandria Description,Base of the British Mediterranean Fleet.
+Port of Murmansk Description,Stationing of the Russian Northern Fleet.
+Port of Arkhangelsk Description,"Important supply port for the North Sea convoys, through which the US supplies war materials and foodstuffs to the Soviet Union in accordance with the Lend-Lease Act."
+Port of Buenos Aires Description,"Major transshipment centre for goods to and from Argentina.
+Argentina sympathises with the Axis powers but is officially neutral."
+Port of Gibraltar Description,"The Key to the Mediterranean
+Under the sovereignty of Great Britain. 
+As a strategic command centre, Gibraltar has a strongly defended port from which ships can operate in both the Atlantic and the Mediterranean."
+Port of Lisbon Description,Neutral trading port on the Tejo Bay. Intelligence services from both sides are believed to be based here.
+Port of Lorient Description,"Immediately after the French defeat, the German commander of the Kreigsmarine, Rear Admiral D?nitz, visited the port of Lorient. As a result, the harbour was developed into one of the largest known U-boat bases 
+
+Stationing: u-boat flotillas"
+Port of Rotterdam Description,"After the attack on Rotterdam, the ""Rotterdam Blitz"" the port was taken over by the Kriegsmarine.
+
+Stationing: u-boat flotilla (outpost flotilla)"
+Port of Vigo Description,German U-boat supply base in Spain. Spain is neutral but is positive about the German presence. The supply bases are mostly merchant ships.
+Lyness Naval Base Description,Military base of the Royal Navy of significant importance.
+Port of Aruba Description,The island of Aruba is one of the world's largest oil refineries for the Allies.
+RCAF Yarmouth Description,"Royal Air Force training base.
+In addition to the Naval Air Gunnery School, several individual squadrons and units are based at RCAF Yarmouth."
+Cardiff Docks Description,The main coal exporting port in England.
+RAF St. Eval Description,"Royal Air Force St. Eval is a strategic base for Coastal Command.
+St Eval's main task is to enable anti-submarine and anti-shipping patrols off the south west coast."
+RAF Gibraltar Description,An important naval base of the British Royal Navy's Fleet Air Arm.
+RAF Freetown Description,Base of the British Royal West African Frontier Force.
+RAF Dundee Description,British Royal Navy airbase in the Scottish Highlands.
+Kindley Air Force Base,Kindley Air Force Base
+Kindley Air Force Base Description,Air base of both the Royal Air Force and US Army Air Force. Mainly sea-planes are operated from this base.
+Port of Aruba,Port of Aruba
+Resupply Ship Marker,Supply ship
+Weather Station Deployment Area,Weather station deployment area
+,
+G7a Torpedo T1 - Pi1,G7a torpedo T1 - Pi1
+G7a Torpedo T1 - Pi1.1,G7a torpedo T1 - Pi1/v2
+G7a Torpedo T1 - Pi3,G7a torpedo T1 - Pi3
+G7a Torpedo T1 - Pi3 - FAT,G7a torpedo T1 - Pi3 - FAT
+G7a Torpedo T1 - Pi3 - LUT,G7a torpedo T1 - Pi3 - LUT
+G7e Torpedo T2 - Pi1,G7e torpedo T2 - Pi1
+G7e Torpedo T2 - Pi1.1,G7e torpedo T2 - Pi1/v2
+G7e Torpedo T3 - Pi2,G7e torpedo T3 - Pi2
+G7e Torpedo T3 - Pi2 - FAT,G7e torpedo T3 - Pi2 - FAT
+G7e Torpedo T3 - Pi2 - LUT,G7e torpedo T3 - Pi2 - LUT
+G7e Torpedo T3 - Pi2 - Prototype,G7e torpedo T3 prototype - Pi2
+G7es Zaunk?nig Torpedo T5 - Pi4,"G7es ""Zaunk?nig"" torpedo T5 - Pi4"
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype,"G7es ""Zaunk?nig"" torpedo T5 prototype - Pi4"
+G7a Torpedo T1 - Pi1 (Warmed),G7a torpedo T1 - Pi1
+G7a Torpedo T1 - Pi1.1 (Warmed),G7a torpedo T1 - Pi1/v2
+G7a Torpedo T1 - Pi3 (Warmed),G7a torpedo T1 - Pi3
+G7a Torpedo T1 - Pi3 - FAT (Warmed),G7a torpedo T1 - Pi3 - FAT
+G7a Torpedo T1 - Pi3 - LUT (Warmed),G7a torpedo T1 - Pi3 - LUT
+G7e Torpedo T2 - Pi1 (Warmed),G7e torpedo T2 - Pi1
+G7e Torpedo T2 - Pi1.1 (Warmed),G7e torpedo T2 - Pi1/v2
+G7e Torpedo T3 - Pi2 (Warmed),G7e torpedo T3 - Pi2
+G7e Torpedo T3 - Pi2 - FAT (Warmed),G7e torpedo T3 - Pi2 - FAT
+G7e Torpedo T3 - Pi2 - LUT (Warmed),G7e torpedo T3 - Pi2 - LUT
+G7e Torpedo T3 - Pi2 - Prototype (Warmed),G7e torpedo T3 prototype - Pi2
+G7es Zaunk?nig Torpedo T5 - Pi4 (Warmed),"G7es ""Zaunk?nig"" torpedo T5 - Pi4"
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype (Warmed),"G7es ""Zaunk?nig"" torpedo T5 prototype - Pi4"
