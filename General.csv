@@ -34,10 +34,10 @@ Open sea,Open sea
 Shore,Shore
 Seabed,Seabed
 Unidentified Group,Unidentified group
-Fuel depleted in,Remaining
+Fuel depleted in,Remaining: {0} on current usage.
 Fully depleted in,Fully depleted in {0}.
 Full in,Full in {0}.
-Total route,Total route
+Total route,Total route: {0}
 Device operational,<color=#12FF12>The device is in a working condition</color>
 Device broken,<color=#C1241F>The device is broken</color>
 Wolfpack,Wolfpack
@@ -58,13 +58,13 @@ Change storage,Change storage
 Grab,Grab
 Drop,Drop
 Drop X,Drop X
-NPC Report Title,Captured report
-PC Report Title,Report #{0
-Balance Log Sent Report,Report {0
-Balance Log Generic,{0} {1
-Balance Log Console,Console {0
-Balance Log Shopping,{1} {0
-Balance Log Start,Initial balance {0
+NPC Report Title,Captured report: {0}
+PC Report Title,Report #{0:00}
+Balance Log Sent Report,Report {0:+#;-#;0}
+Balance Log Generic,{0} {1:+#;-#;0}
+Balance Log Console,Console {0:+#;-#;0}
+Balance Log Shopping,{1} {0:+#;-#;0}
+Balance Log Start,Initial balance {0:+#;-#;0}
 Balance Log Empty,(no recent transactions)
 Manual Mode,Manual mode
 Manual Mode (Demo),Manual mode<size=12>not available in demo</size>
@@ -121,7 +121,7 @@ Engineer Description,Engineers are specialists in the usage and conservation of 
 Skipper Description,Character is a skipper of {0}.
 Skipper Promotion,Skipper
 Skipper Promotion Description,Promote this officer to be the new skipper of our ship.
-Skills Header,Learned skills
+Skills Header,Learned skills:
 Skipper,Skipper
 Radioman,Radioman
 Leader,Leader
@@ -138,10 +138,10 @@ Conning Tower,Conning Tower
 Conning Tower Interior,Conning Tower
 Battery Room no. 1,Battery Room No. 1
 Battery Room no. 2,Battery Room No. 2
-Generic Budget Operation,{0} {1
+Generic Budget Operation,{0} {1:+#;-#;0}
 Point,Point
-Additional Sailor Tooltip Prefix,{0} sailors
-Additional Sailor Tooltip Prefix 1,1 sailor
+Additional Sailor Tooltip Prefix,{0} sailors: 
+Additional Sailor Tooltip Prefix 1,1 sailor: 
 Time Span Years Format,{0} years
 Time Span Months Format,{0} months
 Time Span Days Format,{0} days
@@ -207,7 +207,7 @@ Comma,","
 Minus,-
 Period,.
 Slash,/
-Colon,
+Colon,:
 Semicolon,;
 Less,<
 Equals,=

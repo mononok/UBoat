@@ -3,49 +3,49 @@ ReportEnemyPositionType,The enemy {0} has been spotted in the vicinity of positi
 ReportEnemyPositionDirectionType,"The enemy {0} has been spotted in the vicinity of position {1}, bearing {2}."
 ReportAlliedPositionType,An ally {0} is near your location in the vicinity of position {1}.
 Situation Update,Situation Update
-Campaign 01, Beginning
-Campaign 01, Beginning Description
-Campaign 01, Beginning MeetTheCaptain
-Campaign 01, Beginning LeaveBaggage
-Campaign 01, Beginning OpenMap
-Campaign 01, Beginning SetDestination1
-Campaign 01, Beginning SetDestination2
-Campaign 01, Beginning SetDestination3
-Campaign 01, Beginning SetDestination4
-Campaign 01, Beginning Discipline
-Campaign 01, Beginning RestockFood
-Campaign 01, Beginning ReadMessageFromBdU
-Campaign 01, Beginning ReachDestination
-Campaign 01, Beginning EnableReflector
-Campaign 01, Beginning FindWreck
-Campaign 01, Beginning ApproachWreck
-Campaign 01, Beginning SearchTheCargo
-Campaign 01, Beginning EquipDivingSuit
-Campaign 01, Beginning SendDiver
-Campaign 01, Beginning PullOutTheRadar
-Campaign 01, Beginning ObtainRadar
-Campaign 01, Beginning ObtainRadar2
-Campaign 01, Beginning MeetTheCaptain2
-Campaign 01, Beginning CutTheRope
-Campaign 01, Beginning Dive
-Campaign 01, Beginning Escape
-Campaign 01, Beginning EvacuateCompartment
-Campaign 01, Beginning RepairHatch1
-Campaign 01, Beginning RepairHatch2
-Campaign 01, Beginning EnablePump
-Campaign 01, Beginning Surface
-Campaign 01, Beginning EquipRebreather
-Campaign 01, Beginning OpenFloodedCompartment
-Campaign 01, Beginning RepairHullHole
-Campaign 01, Beginning RepairAirCompressor
-Campaign 01, Beginning RegenerateAirReserves
-Campaign 01, Beginning RepairElectricEngines
-Campaign 01, Beginning ShotDownTheAircraft
-Campaign 01, Beginning DetectTheCarrier
-Campaign 01, Beginning ApproachTheCarrier
-Campaign 01, Beginning SinkTheCarrier
-Campaign 01, Beginning Escape2
-Campaign 01, Beginning ReachThePort
+Campaign 01: Beginning,Beginnings
+Campaign 01: Beginning Description,
+Campaign 01: Beginning MeetTheCaptain,Meet the captain.
+Campaign 01: Beginning LeaveBaggage,Leave the baggage at your bunk.
+Campaign 01: Beginning OpenMap,Open the map in the control room.
+Campaign 01: Beginning SetDestination1,Set destination.
+Campaign 01: Beginning SetDestination2,Add a second destination.
+Campaign 01: Beginning SetDestination3,Add a third destination.
+Campaign 01: Beginning SetDestination4,Add a fourth destination.
+Campaign 01: Beginning Discipline,Find and discipline sailors that don't do their duties.
+Campaign 01: Beginning RestockFood,Restock food in the galley.
+Campaign 01: Beginning ReadMessageFromBdU,Read the message from BdU.
+Campaign 01: Beginning ReachDestination,Reach the destination.
+Campaign 01: Beginning EnableReflector,(Optional) Turn on the searchlight.
+Campaign 01: Beginning FindWreck,Find the wreck.
+Campaign 01: Beginning ApproachWreck,Approach the wreck.
+Campaign 01: Beginning SearchTheCargo,Search the cargo floating on the surface ({0}/{1})
+Campaign 01: Beginning EquipDivingSuit,Equip the character with a diving suit.
+Campaign 01: Beginning SendDiver,Send a diver.
+Campaign 01: Beginning PullOutTheRadar,Pull up the radar from the wreck.
+Campaign 01: Beginning ObtainRadar,Transport the radar to the main storage room.
+Campaign 01: Beginning ObtainRadar2,Transport the radar to the main storage room.
+Campaign 01: Beginning MeetTheCaptain2,Meet the captain.
+Campaign 01: Beginning CutTheRope,Cut the rope with the diver.
+Campaign 01: Beginning Dive,Flood the ballast tanks and dive.
+Campaign 01: Beginning Escape,Escape from the destroyer.
+Campaign 01: Beginning EvacuateCompartment,Evacuate the compartment.
+Campaign 01: Beginning RepairHatch1,Take replacement parts.
+Campaign 01: Beginning RepairHatch2,Repair the hatch.
+Campaign 01: Beginning EnablePump,Turn on the pump.
+Campaign 01: Beginning Surface,Blow the ballast tanks and surface.
+Campaign 01: Beginning EquipRebreather,Put on the breathing apparatus.
+Campaign 01: Beginning OpenFloodedCompartment,Open the flooded compartment.
+Campaign 01: Beginning RepairHullHole,Repair the hole in the pressure hull.
+Campaign 01: Beginning RepairAirCompressor,Repair the air compressor.
+Campaign 01: Beginning RegenerateAirReserves,Renew air reserves.
+Campaign 01: Beginning RepairElectricEngines,Repair electric engines.
+Campaign 01: Beginning ShotDownTheAircraft,Shoot down the aircraft.
+Campaign 01: Beginning DetectTheCarrier,Detect the nearby aircraft carrier.
+Campaign 01: Beginning ApproachTheCarrier,Attack the carrier.
+Campaign 01: Beginning SinkTheCarrier,Sink the carrier.
+Campaign 01: Beginning Escape2,Escape from the escort.
+Campaign 01: Beginning ReachThePort,Reach the port.
 LostShipMission,Lost ship
 LostShipMission Description,
 LostShipMission FindLostShip,"Find the lost ship.
@@ -61,10 +61,10 @@ SinkShipMission,Sink the ship.
 SinkShipMission Find,"Find ""{0}"" ship."
 SinkShipMission Sink,"Sink ""{0}""."
 GatherIntelMission,Gather intel on port defenses.
-GatherIntelMission ReachDestination,Priority
+GatherIntelMission ReachDestination,Priority: Reach {0}
 GatherIntelMission GatherIntel,Find AA guns ({1}/{2})
-Campaign 01, Beginning GoToTargetingSight
-PatrolAssignment,Patrol
+Campaign 01: Beginning GoToTargetingSight,Assign Kohler to the targeting sight.
+PatrolAssignment,Patrol: Sector {0}
 PatrolAssignmentShort,Sector {0}
 PatrolAssignment Description,"Your order will be to travel to sector {0} on {1} and travel {2} inside it to complete the patrol. You may receive additional orders after reaching the area.
 
@@ -79,7 +79,7 @@ PatrolAssignment Completion,"<size=20>Patrol of sector {0} completed!</size>
 
 Tonnage sunk: {1} GRT
 Time: {2}"
-EspionageAssignment,Espionage
+EspionageAssignment,Espionage: {0}
 EspionageAssignment Description,Your goal will be to transport a spy unharmed to coordinates {0} near {1}. You may get additional orders at this point to help spy with carrying out his mission.
 EspionageAssignment Transport,Transport spy to specified coordinates.
 EspionageAssignment TransportAtNight,(Optional) Complete your objective at night.
@@ -149,10 +149,10 @@ Intelligence,Intelligence
 WolfpackAttackMission ReachDestination,"Reach wolfpack gathering point.
 <color=#aaa>Remaining: {0}.</color>"
 WolfpackAttackMission WaitForConvoy,Wait for convoy.
-WolfpackAttackMission SinkGRT,Sink ships in a convoy
+WolfpackAttackMission SinkGRT,Sink ships in a convoy: {0} / {1} tons.
 Tutorial 00,Intro
 Tutorial 00 Talk,Talk to the highlighted officer.
-Tutorial 01,#1 - Training
+Tutorial 01,#1 - Training: Resupply
 Tutorial 01 Description,"This training assignment explains the basics of preparing the boat for a long range travel.
 
 Estimated duration: 5 minutes.
@@ -163,7 +163,7 @@ Tutorial 01 BuyFood,Buy at least 30 units of any type of food.
 Tutorial 01 BuyFuel,Completely refuel the ship.
 Tutorial 01 BuyTorpedoes,Buy at least 3 new torpedoes.
 Tutorial 01 SkipWaitTime,Skip the off duty time of your boat.
-Tutorial 02,#2 - Training
+Tutorial 02,#2 - Training: Travel and Diving
 Tutorial 02 Description,"This training assignment explains how to travel and the basics of diving the submarine.
 
 Estimated duration: 15 minutes.
@@ -174,7 +174,7 @@ Tutorial 02 SetDestination,Set destination.
 Tutorial 02 Arrive,Arrive at the target area.
 Tutorial 02 OpenMap,Open the map.
 Tutorial 02 ReturnToPort,Return to port.
-Tutorial 03,#3 - Training
+Tutorial 03,#3 - Training: Torpedo Attack
 Tutorial 03 Description,"This training assignment explains how to give orders to the officers and how to perform a successful torpedo attack. Explained topics include:
 
 - Giving direct orders to officers.
@@ -191,7 +191,7 @@ Tutorial 03 Undock,Undock from the port.
 Tutorial 03 Arrive,Arrive at the target area.
 Tutorial 03 GetCloseToFreighter,Get close to the freighter.
 Tutorial 03 ReturnToPort,Return to port.
-Tutorial 04,#4 - Training
+Tutorial 04,#4 - Training: Patrol
 Tutorial 04 Description,"This mission will guide you through a first patrol. It will explain these topics:
 
 - Patrolling marked area.
@@ -207,7 +207,7 @@ Tutorial 04 OpenMap,Open the map.
 Tutorial 04 AllyHelpPlotPath,Plot a path to the u-boat calling for help.
 Tutorial 04 Travel,Travel {0} inside a marked area
 Tutorial 04 Return,Return to {0}.
-Tutorial 05,#5 - Guide
+Tutorial 05,#5 - Guide: Recruitment
 Tutorial 05 Description,"This training will explain to you common tasks related to preparing your crew after a mission. Explained topics include:
 
 - Sailor and officer recruitment.
@@ -218,14 +218,14 @@ Estimated duration: 5 minutes.
 
 <color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings.</color>"
 Tutorial 05 Talk,Talk with the recruitment officer.
-Tutorial 06,#6 - Guide
+Tutorial 06,#6 - Guide: Ship upgrades
 Tutorial 06 Description,"This training mission explains how to upgrade your boat.
 
 Estimated duration: 5 minutes.
 
 <color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings."
 Tutorial 06 Talk,Talk with the warehouse worker.
-Tutorial 07,#7 - Guide
+Tutorial 07,#7 - Guide: Headquarters
 Tutorial 07 Description,"During this assignment you will learn how to assign your officers to tasks at Kriegsmarine headquarters.
 
 Estimated duration: 5 minutes.
@@ -243,7 +243,7 @@ Battle of the Mediterranean,Battle of the Mediterranean
 Battle of the Mediterranean Description,"We must aid Italian naval forces in the Mediterranean and stop the Allied supply ships headed to Alexandria, which are essential to their war effort in the African Campaign."
 Arctic Convoys,Arctic convoys
 Arctic Convoys Description,Military shipping to the USSR is growing each month. It must be stopped to lead our troops to victory on the eastern front.
-Sink Warships on Anchor,Attack
+Sink Warships on Anchor,Attack: Scapa Flow
 Sink Warships on Anchor Long Name,Attack on Scapa Flow
 Sink Warships on Anchor Description,"The u-boat command has prepared a plan to strike at Scapa Flow. It is one of the most heavily defended and important Royal Navy bases. If one of our u-boats manages to sneak in and sink a recognizable Royal Navy ship, it will be a signal that there is no safe place to hide from our u-boats."
 Recover Gold From Sunk Ship,Gold retaking
@@ -252,12 +252,12 @@ Recover Gold From Sunk Ship Description,"TOP SECRET: A German cargo ship was sun
 Retrieve Enigma from Sunk Submarine,Enigma recovery
 Retrieve Enigma from Sunk Submarine Long Name,Recovery of Enigma machine from {0}
 Retrieve Enigma from Sunk Submarine Description,U-boat command suspects that one of our u-boats was sunk by the enemy north of Ireland. There are many shallow areas in this region and thus recovery of sensitive equipment from the wreck by the enemy is a real possibility here. We cannot let it happen!
-Weather Station Deployment North Labrador,Weather station
+Weather Station Deployment North Labrador,Weather station: North Labrador
 Weather Station Deployment North Labrador Long Name,Weather station deployment in North Labrador
 Weather Station Deployment North Labrador Description,"Since wind over Atlantic usually travels from the west to the east, Allies keep the advantage over us by being able to predict the weather conditions on the sea and plan their operations accordingly.
 
 Headquarters has a plan to change that by setting up a weather station in North America."
-Weather Station Deployment Bear Island,Weather station
+Weather Station Deployment Bear Island,Weather station: Bear Island
 Weather Station Deployment Bear Island Long Name,Weather station deployment on Bear Island
 Weather Station Deployment Bear Island Description,"The Kriegsmarine as well as the Luftwaffe would find it immensely useful to have more accurate weather data at their disposal to plan upcoming operations. For this reason, we came up with a plan to set up automated weather stations on remote islands. Our meteorologists identified Bear Island as a promising target for such a deployment."
 Operation Drumbeat,Operation Drumbeat
@@ -271,7 +271,7 @@ Since the demand for oil by the Allies is increasing, a disruption of the supply
 
 Recognizing this, the Kriegsmarine after consultations with the best u-boat skippers, came up with a plan to strike at the oil industry located on these islands."
 OilInstallationsAttackAssignment Description,Destroy at least 3 oil tanks on land with the deck gun.
-Campaign Randomized Assignment Format,{0}
+Campaign Randomized Assignment Format,{0}: {1}
 WeatherStationDeploymentAssignment Description,Your order is to travel to the designated coordinates and set up a weather station on land.
 WeatherStationDeploymentAssignment FreeSpace,Free space in the storage for the weather station.
 WeatherStationDeploymentAssignment ReachDestination,Reach destination.

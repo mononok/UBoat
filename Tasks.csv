@@ -1,7 +1,13 @@
 Key,English
 Invade Poland,Invade Poland
-Build, La Rochelle Pen
-Build, La Rochelle Pen Description
+Build: La Rochelle Pen,Build: La Rochelle Pen
+Build: La Rochelle Pen Description,"Construction of a submarine pen in La Rochelle is progressing very slowly due to disorganized concrete supply and somebody needs to take an action to finally speed things up.
+
+It's a top priority for Kriegsmarine. We need more westbound bases to increase our presence and block enemy trade on the Atlantic.
+
+Effects:
+- La Rochelle will gain a dockable submarine base.
+- 3rd U-boat Flotilla will form there deploying up to 100 more u-boats on the Atlantic."
 Operation Weserubung,Operation Weserubung
 Operation Weserubung Description,"The German command was alerted by the information about the intention of the British taking over ports in Norway. The decision to invade Norway become fact.The core of the military landing on Narvik is the 3rd Mountain Division, whose individual units have been boarded on fast and heavily armed ships that give us a good chance to surprise the enemy.The area of the North and Norwegian Sea is in the immediate vicinity of large Royal Navy centers, which makes the whole operation very dangerous. We need the support of the best trained and most faithful officers. The Reich counts on you!
 
@@ -46,11 +52,11 @@ Research Accumulators III,Accumulators III
 Research Accumulators III Description,There is ongoing research in Hanover that could potentially improve the effective capacity of accumulators on our u-boats. Presence of an experienced officer would greatly speed this research up.
 Research Improved Toilets,Improved Toilets
 Research Improved Toilets Description,"While our u-boats are impressively capable of staying at large depths for a long time, there is one nagging issue that often leads our crews to irrationally move out of the safe depth. This issue is our current toilet design as it's functional only at a small depth. There are many ways to address this issue, but it was neglected so far. Presence of a veteran officer that would explain the weight of this improvement would help to allocate more resources for developing better hydraulic systems that would work on a greater depth."
-Research KDB,Hydrophone
+Research KDB,Hydrophone: KDB (T1)
 Research KDB Description,"While our current GHG hydrophones are very effective and outmatch enemy technologies, they don't ensure full direction coverage for listening.
 
 A group of engineers created a simple prototype device, that carries a set of microphones, able to rotate around one axis. It seems be a very promising project, but still needs work before being integrated on our u-boats."
-Research GHG-Balkon,Hydrophone
+Research GHG-Balkon,Hydrophone: GHG-Balkon (T2)
 Research GHG-Balkon Description,"A group of our engineers suggested that our current GHG design may be improved by mounting the microphones on a dome attached to the bottom part of the hull. This solution would increase direction coverage of GHG microphones and as addition the extra space in dome would be able to hold more microphones, increasing precision of the whole system."
 Research Turm I,Armoured Conning Towers (T1)
 Research Turm I Description,"Aircraft cause larger losses to our u-boat forces with each passing month. While preferred way to deal with them is to dive, in practice there is sometimes no choice or time for that.

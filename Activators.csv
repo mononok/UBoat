@@ -477,7 +477,7 @@ Manage Diving Planes Station Description,"Assigning an officer to the vertical s
 Manage Diving Planes Station Full Description,"<b>Improving depth keeping</b>
 
 Officer works on improving the depth keeping of the boat and prevents, for example, accidental broaching to the surface. Diving times are also improved."
-Status Required,Required
+Status Required,Required: {0}
 Control Room,Control Room
 Bow Torpedo Room,Bow Torpedo Room
 Stern Torpedo Room,Stern Torpedo Room
@@ -583,7 +583,7 @@ Trim pump enabled,"Pumps {0:0} liters per second
 {1:0} liters remaining"
 Trim pump enabled dry,"Pumps {0:0} liters per second
 Control Room is dry"
-Trim pump disabled,{1
+Trim pump disabled,{1:0} liters remaining
 Trim pump disabled dry,Control Room is dry
 Antenna not hidden,"Receives and sends radio messages
 Vulnerable under water"
@@ -602,12 +602,12 @@ Main Blowing Valve enabled,Opened - Venting air�c
 Flood Valves disabled,Closed
 Flood Valves enabled,Opened - Flooding�c
 Compartment Evacuated,<color=red>Compartment was ordered to be evacuated.</color>
-Hatch Pressure Durability,This hatch is watertight at up to {0
-Hatch Pressure,<color=red>Currently exposed to a pressure of {0
+Hatch Pressure Durability,This hatch is watertight at up to {0:0} atmospheres of fluid pressure.
+Hatch Pressure,<color=red>Currently exposed to a pressure of {0:0} atmospheres.</color>
 Pump - Compartments Dry,All compartments are dry.
-Pump - Compartments Flooded,{0
+Pump - Compartments Flooded,{0:0.0} m<sup>3</sup> of water remain in the compartments.
 Pump - Compartments Pump Time,All compartments will be dry in {0}.
-Pump - Pressure,External pressure equals to {0
+Pump - Pressure,External pressure equals to {0:0} atmospheres. Pump's performance is decreased by {1:0}%.
 Kitchen - Header,<u><pos=0>Name<pos=100>Weight<pos=175>Consumption time</u>
 Kitchen - Summary,Food stored in the kitchen will last for {0}.
 Kitchen - Summary Extended,Food stored in the kitchen will last for {0} ({1} with storage reserves).
@@ -618,67 +618,67 @@ Kitchen - Extra Ingredients Not Last,"{0}, {1}"
 Kitchen - Extra Ingredients Last,{0} and {1}
 Kitchen - Empty,<color=red>We've run out of food.</color>
 Radio - Perfect Weather,Weather outside is perfect and doesn't affect signal quality.
-Radio - Weather Signal Quality,Current weather lowers signal quality by {0
-Radio - Water Signal Quality,<color=red>Antenna is currently below water. Received signal is blocked in {0
+Radio - Weather Signal Quality,Current weather lowers signal quality by {0:0}%.
+Radio - Water Signal Quality,<color=red>Antenna is currently below water. Received signal is blocked in {0:0}%.</color>
 Listening Room - Radar Detector,Radioman currently operates radar detector. Hydrophone isn't operational on the surface.
-Listening Room - Radar Detector Range,Direct detection range
-Listening Room - Radar Detector Range Groups,Group detection range
-Listening Room - Hydrophone Detection Range,Direct detection range
-Listening Room - Hydrophone Detection Range Groups,Group detection range
-Listening Room - Depth Charges Modifier,<color=red>Nearby explosions decrease performance of the hydrophone by {0
-Listening Room - Engines Modifier,<color=orange>Engines working on our ship decrease detection range by {0
-Listening Room - Surface Modifier,<color=red>Noise from the surface decreases detection range by {0
+Listening Room - Radar Detector Range,Direct detection range: {0}
+Listening Room - Radar Detector Range Groups,Group detection range: up to {0}
+Listening Room - Hydrophone Detection Range,Direct detection range: {0}
+Listening Room - Hydrophone Detection Range Groups,Group detection range: up to {0}
+Listening Room - Depth Charges Modifier,<color=red>Nearby explosions decrease performance of the hydrophone by {0:0}%.</color>
+Listening Room - Engines Modifier,<color=orange>Engines working on our ship decrease detection range by {0:0}%.</color>
+Listening Room - Surface Modifier,<color=red>Noise from the surface decreases detection range by {0:0}%. Our ship has to submerge deeper to use hydrophone effectively.</color>
 Listening Room - Surface Modifier Full,<color=red>Our ship has to submerge to use hydrophone effectively.</color>
-Compressor - Tanks Status,Compressed air flasks pressure
+Compressor - Tanks Status,Compressed air flasks pressure: {0:0} / {1:0} atm.
 Compressor - Tanks Full,All compressed air flasks are full at above 240 atmospheres.
 Compressor - Uses Interior Air,<color=red>Our ship currently isn't ventilated with the fresh air. Compressor uses up the air remaining in our ship.</color>
 Ventilation - Air Quality,"Ventilation is currently effective in {0:0}%. The longer we reuse the same air, the more ventilation effectiveness will decrease."
 Ventilation - Air Quality Warning,"<color=red>Ventilation is no longer able to effectively improve air quality, but placing potassium absorbers into the ventilation system may still help.</color>"
 Ventilation - Air Quality Warning With Absorbers,<color=red>Ventilation is no longer able to effectively improve air quality.</color>
-Periscope - Detection Range,Observation range
-Periscope - Detection Range Groups,Group observation range
+Periscope - Detection Range,Observation range: {0}
+Periscope - Detection Range Groups,Group observation range: up to {0}
 Depth Steers Station - Electric,Electric steering is currently used. Depth keeping is more accurate.
 Depth Steers Station - Manual,Manual steering is currently used. Depth keeping is less accurate.
-Leak - Flow Rate,Flow rate
-Leak - Pressure,External pressure
+Leak - Flow Rate,Flow rate: {0:0} l/min
+Leak - Pressure,External pressure: {0:0} atmospheres
 Gyrocompass - Operational,Gyrocompass is operational and all compasses on board point north. This information decreases our chance to get lost by {0}%.
 Gyrocompass - Operational In,Gyrocompass will be operational in {0}.
 Navigation Table - We are Lost,We are currently lost and don't know our current position.
 Navigation Table - Known Area,We are currently in a known area and there is no risk of getting lost.
-Navigation Table - Navigation Increases High Accuracy,Navigator is on the station and our position is determined in <color=#00ff00>{0
-Navigation Table - Navigation Increases Normal Accuracy,Navigator is on the station and our position is determined in {0
-Navigation Table - Navigation Increases Low Accuracy,Navigator is on the station and our position is determined in <color=#ff4c11>{0
+Navigation Table - Navigation Increases High Accuracy,Navigator is on the station and our position is determined in <color=#00ff00>{0:0}%</color>.
+Navigation Table - Navigation Increases Normal Accuracy,Navigator is on the station and our position is determined in {0:0}%.
+Navigation Table - Navigation Increases Low Accuracy,Navigator is on the station and our position is determined in <color=#ff4c11>{0:0}%</color>.
 Navigation Table - Navigation Decreases High Accuracy,"Our current position is determined in <color=#00ff00>{0:0}%</color>. If it falls to zero, we may get lost."
 Navigation Table - Navigation Decreases Normal Accuracy,"Our current position is determined in {0:0}%. If it falls to zero, we may get lost."
 Navigation Table - Navigation Decreases Low Accuracy,"Our current position is determined in <color=#ff4c11>{0:0}%</color>. If it falls to zero, we may get lost."
 Navigation Table - Unsure,<color=orange>We are on the open sea and navigator didn't update our position for a while. We may become lost.</color>
-Engines - RPM,Propellers currently operate at {0
-Engines - Speed,Our ship travels with a velocity of {0
-Workshop - Remaining Replacement Parts,There are {0
+Engines - RPM,Propellers currently operate at {0:0} RPM.
+Engines - Speed,Our ship travels with a velocity of {0:0}.
+Workshop - Remaining Replacement Parts,There are {0:0} kg of scrap metal remaining in our storage from which we can recover {1:0} replacement parts for repairs.
 Workshop - No Replacement Parts,We don't have any scrap metal in our storage.
 Diver Spot - Nothing Below,There is nothing interesting below our ship.
-Diver Spot - Ship,We are directly above a shipwreck that lies at the depth of {0
+Diver Spot - Ship,We are directly above a shipwreck that lies at the depth of {0:0} meters.
 General - Unused,<color=#999>This station is currently unused.</color>
 General - Disabled,<color=#999>This device is disabled.</color>
-Torpedo Launchers - Loadout,Loadout
+Torpedo Launchers - Loadout,Loadout:
 Torpedo Launchers - Empty,<color=#999>(empty)</color>
 Valves - Flooded,All ballast tanks are flooded.
 Valves - Flooding,Flooding...
 Valves - Empty,All ballast tanks are empty.
 Valves - Blowing,Blowing tanks...
 Valves - Not Enough Compressed Air,<color=red>Our compressed air reserves are at a very low level. We can't fully blow the tanks.</color>
-Gun - Ammunition,Ammunition
+Gun - Ammunition,Ammunition:
 Social Table - In Use,Sailors have a good time here.
 Social Table - Officer Waits,Officer waits for sailors to join him.
-Storage - Mass,Stored goods
-Container - Item,Contains
+Storage - Mass,Stored goods: <color={2}>{0:0} kg / {1:0} kg</color>.
+Container - Item,Contains:<size=15>{1} x {0}</size>
 Container - Empty,<color=#999>(empty)</color>
-Bilges - Mass,This compartment contains {0
-Bilges - Buoyancy,Buoyancy impact
+Bilges - Mass,This compartment contains {0:0.0} m<sup>3</sup> of water.
+Bilges - Buoyancy,Buoyancy impact: {0:0}%.
 Bilges - Dry,Bilges are dry.
-Ballast Tank - Water,Filled with water in {0
+Ballast Tank - Water,Filled with water in {0:0}%.
 Ballast Tank - Empty,This tank is empty.
-Fuel Tank - Fuel,Filled with fuel in {0
+Fuel Tank - Fuel,Filled with fuel in {0:0}%.
 Fuel Tank - Empty,This tank is empty.
 Power Control Room,Power - Control Room
 Power Conning Tower,Power - Conning Tower
@@ -739,8 +739,8 @@ TMB Mine x3,TMB mine x3
 ,
 Bleeding,Injured
 Resupply Ammunition,Resupply Ammunition
-Disallow Sailor Work,Sailors
-Allow Sailor Work,Sailors
+Disallow Sailor Work,Sailors: Disallow
+Allow Sailor Work,Sailors: Allow
 Work At Helmsman Station,Using Helmsman Station
 Helmsman Station,Helmsman Station
 Cleaning Station,Cleaning Station

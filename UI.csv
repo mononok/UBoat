@@ -36,7 +36,7 @@ Capture Course Impossible,Interception not possible
 Start,Start
 Stop,Stop
 Set,Set
-Acquired Data Label,Collected data
+Acquired Data Label,Collected data: {0:0}%
 Identification Book Data,"Displacement: {0} t<pos=150>Speed: {3}
 Length: {1} m<pos=150>Range: {4} mi
 Beam: {2} m<pos=150>Masts height: {5} m
@@ -124,7 +124,7 @@ Level Up,Level up!
 ,
 /Journal,English
 Empty Report,(Nothing to report)
-Report Value,Report value
+Report Value,Report value: {0}
 Messages Header,Messages
 Header,Ship log
 Subjects Header,Subjects
@@ -249,7 +249,7 @@ Off Duty Duration Total,{0} will be needed to load all queued goods.
 Moving X,Moving...{0} / {1}
 Moving,Moving...
 Total Transport Time Long,"Total time to transport all goods: {0:%d} days, {0:hh} h : {0:mm} min"
-Total Transport Time,Total time to transport all goods
+Total Transport Time,Total time to transport all goods: {0:hh} h : {0:mm} min
 ,
 /MainMenuUI,English
 Continue,Continue
@@ -348,7 +348,7 @@ Speaker 5 Speakers,5 speakers
 Speaker 5.1 Speakers,5.1 surround
 Speaker 7.1 Speakers,7.1 surround
 Resolution Change Confirmation,Would you like to keep this resolution?
-Resolution Change Countdown,({0
+Resolution Change Countdown,({0:0} seconds to confirm)
 No,No
 Yes,Yes
 Post-processing,Post-processing
@@ -432,10 +432,10 @@ Classic: Coordinates will be presented in degrees, minutes and sometimes seconds
 Decimal: Coordinates will be displayed with a decimal fraction instead, for example 46.1591N 1.1517W."
 Classic,Classic
 Decimal,Decimal
-Preset,Preset
+Preset,Preset: {0}
 Entertaining,Entertaining
 Balanced,Balanced
-Realism Label,Realism
+Realism Label,Realism: 
 Realism X,{0}%
 Cache Size,Cache Size
 Map Skin,Map Skin
@@ -499,15 +499,15 @@ Note: If you pursue realism we recommend the average setting, but each of these 
 /CampaignSetupUI,English
 Back,Back
 Next,Next
-Difficulty,Difficulty
+Difficulty,Difficulty: {0}
 Difficulty Normal,<color=green>Normal</color>
 Difficulty High,<color=yellow>Hard</color>
 Difficulty VeryHigh,<color=red>Very hard</color>
-Port,Port
-Date,Date
-Unit Type,Unit type
-Unit Name,Name
-Unit Flotilla,Flotilla
+Port,Port: <color=#ac9968>{0}</color>
+Date,Date: <color=#ac9968>{0}</color>
+Unit Type,Unit type: <color=#ac9968>{0}</color>
+Unit Name,Name: <color=#ac9968>{0}</color>
+Unit Flotilla,Flotilla: <color=#ac9968>{0}</color>
 1st U-boat Flotilla,1st U-boat Flotilla
 7th U-boat Flotilla,7th U-boat Flotilla
 9th U-boat Flotilla,9th U-boat Flotilla
@@ -559,9 +559,9 @@ Full realism Description,You know everything about submarine warfare and want ve
 Select,Select
 Skip,Skip
 Loading,Loading...
-Summary,Summary
+Summary,Summary:
 Main Settings,Main Settings
-Advanced Settings,Advanced Settings - Summary
+Advanced Settings,Advanced Settings - Summary:
 ,
 /EscapeMenuUI,English
 Resume,Resume
@@ -796,14 +796,14 @@ Officer watches for targets increasing u-boat's sight range. If ordered, he can 
 
 Additional sailors.
 1 sailor: The range of the observation and the speed of targeting towards set targets will increase by 40%."
-Follower Tooltips/Load Torpedoes,<b>Torpedo loading ({0}/{1})
-Follower Tooltips/Manage Diesel Engines,<b> Diesel engine ({0}/{1})
-Follower Tooltips/Manage Electric Engines,<b>Electric engine ({0}/{1})
-Follower Tooltips/Hydrophone Listen,<b>Listening room ({0}/{1})
+Follower Tooltips/Load Torpedoes,<b>Torpedo loading ({0}/{1}):</b> Significantly shorter loading time.
+Follower Tooltips/Manage Diesel Engines,<b> Diesel engine ({0}/{1}):</b> Added sailor will unlock the next gear.
+Follower Tooltips/Manage Electric Engines,<b>Electric engine ({0}/{1}):</b> Added sailor will unlock the next gear.
+Follower Tooltips/Hydrophone Listen,<b>Listening room ({0}/{1}):</b> The listening range and the aiming speed will be increased.
 Follower Tooltips/Radio Listen,"<b>Radio room ({0}/{1}):</b> The speed of radio message reception and decoding will increase.  Time needed to sending reports will be reduced, thus reducing the risk of being tracked by the enemy."
-Follower Tooltips/Use Flak,<b>Weapons ({0}/{1})
-Follower Tooltips/Use Deck Gun,<b>Deck canon ({0}/{1})
-Follower Tooltips/Carry Items,<b>Carrying
+Follower Tooltips/Use Flak,<b>Weapons ({0}/{1}):</b> Additional weapons will be manned if more than one is mounted.
+Follower Tooltips/Use Deck Gun,<b>Deck canon ({0}/{1}):</b> The reloading rate will increase and the recoil will be reduced.
+Follower Tooltips/Carry Items,<b>Carrying:</b> Sailors will help with carrying.
 No Role,Unassigned
 Chief Engineer,Chief Engineer
 Chief Engineer/Tooltip,"The Chief Engineer will be the first to deal with repairs on the boat. When everything works as it should, he will maintain the diesel engines, increasing their maximal speed."
@@ -864,9 +864,9 @@ Difficulty Hard,"Difficulty
 Assignments,Assignments
 Mission Select,Mission Select
 Tutorial,Tutorial
-Objective,Objective
-Reward,Reward
-Campaign Header,Contribution towards the campaign
+Objective,Objective:
+Reward,Reward:
+Campaign Header,Contribution towards the campaign:
 Very Large,very large
 Large,large
 Medium,medium
@@ -907,7 +907,7 @@ Undocked Blockade,<color=red>Game state can only be saved when u-boat is docked 
 /UpgradeModeUI,English
 Header,Upgrades
 Total Time to Install Long,"Total time to install all upgrades: {0:%d} days, {0:hh} h : {0:mm} min"
-Total Time to Install,Total time to install all upgrades
+Total Time to Install,Total time to install all upgrades: {0:hh} h : {0:mm} min
 ,
 /UpgradeUI,English
 Header,Upgrades
@@ -967,8 +967,8 @@ Task Completed,"TASK
 COMPLETED!"
 EMPTY,EMPTY
 ClickToStartNewOperation,Click to start new operation
-Requires,Requires
-Early Research Warning,<color=orange>Warning
+Requires,Requires:
+Early Research Warning,<color=orange>Warning: This work is still at early stages of development. Attempts to complete it before {0} will take twice more time.</color>
 Target Area,Target area
 ,
 /RecruitmentUI/Backgrounds,English
@@ -1010,17 +1010,17 @@ Story 27,"Born in Munich, he helped his parents on the farm at an early age as a
 Skill Token Modifier,from {0} thanks to the {1} skill.
 Skill Token Equipment Modifier,from {0} carried by {1}.
 Wait Info,"You can leave this screen at any time, until the wait is over."
-Available tokens,Available tokens
+Available tokens,Available tokens:
 Select Item,Select Item
 Select Character,Select Character
 Remove Item,Remove Item
 Remove Character,Remove Character
 Ranks,Ranks
-Decision Requirement,(Requirement
+Decision Requirement,(Requirement: {0})
 Time Skip Label,"<line-height=110%><color=#aaa><size=22>Waiting...</size></color>
 {0}"
-Performance,Performance
-Progress,Progress
+Performance,Performance:
+Progress,Progress:
 Performance Very Low,<color=red>Very slow</color>
 Performance Low,<color=orange>Slow</color>
 Performance Average,<color=yellow>Average</color>
@@ -1028,14 +1028,14 @@ Performance Fast,<color=#99ff99>Fast</color>
 Performance Very Fast,<color=#22ff22>Very fast</color>
 ,
 /CharacterUI,English
-Class,Class
-Level,Level
-XP,XP
+Class,Class:
+Level,Level:
+XP,XP:
 XP Label,XP
-Status,Status
-Role,Role
-Decorations,Decorations
-Statistics,Statistics
+Status,Status:
+Role,Role:
+Decorations,Decorations:
+Statistics,Statistics:
 Skills,Skills
 Customize,Customize
 Promote,Promote
@@ -1065,8 +1065,8 @@ Customize Skipper Label,Customize the skipper
 Reputation Point Required,This promotion will consume 1 reputation point.
 Reputation Point Required Missing,<color=red>This promotion requires 1 reputation point.</color>
 Promotion Possible Only in Port,<color=red>Promotions are possible only at ports.</color>
-Captain Name,Captain Name
-Remaining Skill Points,Remaining skill points
+Captain Name,Captain Name:
+Remaining Skill Points,Remaining skill points: {0}
 Thin,Thin
 Slightly Muscular,Slightly Muscular
 Muscular,Muscular
@@ -1088,8 +1088,8 @@ Red Lighting,Red lighting
 Blue Lighting,Blue lighting
 Keep Bulkheads Open,Open bulkheads
 Close Bulkheads,Close bulkheads
-Electric Steering,Dive planes
-Manual Steering,Dive planes
+Electric Steering,Dive planes: electric
+Manual Steering,Dive planes: manual
 Devices,Devices
 Lighting,Lighting
 Orders,Orders
@@ -1125,7 +1125,7 @@ Eagle's Nest,The Eagle's Nest
 Eagle's Nest Description,"The Eagle's nest. A birthday gift for Adolf Hitler's 50th birthday. A hostel at the top of the Kehlstein mountain. The building is residence of Hitler, Bormann and G?ring. A meeting place for personalities. Eva Braun often stays there. The perfect place for rest but also to gain contacts. Here Officers can settle their matters with the influential personalities of the Third Reich in a less official atmosphere."
 ,
 /InputSettingsUI,English
-Already Used Confirmation,This key is already used for such actions
+Already Used Confirmation,This key is already used for such actions: {0}.Do you want to continue?
 Hydrophone,Hydrophone
 Hydrophone - Adjust Bearing,Bearing - Left
 Hydrophone - Adjust Bearing Negative,Bearing - Right
@@ -1205,11 +1205,11 @@ Bug Report,Bug reporting tool
 Reload,Reload
 ,
 /Rewards,English
-Reputation,{0
-Budget,{0
+Reputation,{0:+0.#%;-0.#%;0%}
+Budget,{0:+0.#;-0.#;0}
 Research Boost,{0}
 Milk Cow,Milk Cow
-Captive Released,Survivor released
+Captive Released,Survivor released: {0}
 ,
 /Accomplishments,English
 Assignment Completed,Completed assignment.
@@ -1245,15 +1245,15 @@ Time: {1}
 Traveled distance: {2}"
 Mission Summary,Mission Summary
 Sunk Ship GRT Suffix,<color=#C8C1A5>({0} GRT)</color>
-Rewards Header,Rewards
-Statistics Header,Statistics
-Sunken Ships Header,Units sunk
-Objectives Header,Objectives
-Messages List Header,Messages List
+Rewards Header,Rewards:
+Statistics Header,Statistics:
+Sunken Ships Header,Units sunk:
+Objectives Header,Objectives:
+Messages List Header,Messages List:
 GRT Progress Bar,{0} / {1} GRT
-Rewards,Rewards
-Additional Rewards,Additional rewards
-Punishments,Punishments
+Rewards,Rewards:
+Additional Rewards,Additional rewards:
+Punishments,Punishments:
 Sunk Ship Format String,{0} {1}
 ,
 /Mod Warning UI,English
@@ -1406,8 +1406,8 @@ Description,Configure work schedules for sailor shifts and officers.
 Details,Details
 ,
 /EntityTooltips,English
-Imported Goods,Imported goods
-Exported Goods,Exported goods
+Imported Goods,Imported goods:
+Exported Goods,Exported goods:
 Goods Separator,","
 Paragraph Ending,.
 Unit Tooltip Name Known,"<align=""center""><b>�g{6}�h</b></align>
@@ -1475,7 +1475,7 @@ Decorations,Sailors serving on {0} collected {1} Iron Cross decorations.
 Casualties,They suffered {1} casualties during the service.
 Zero Casualties,They suffered no casualties during the entire service.
 Patrol Summary,{0} completed {1} patrols during its service.
-Patrol Summary With Special Missions,{0} completed {1} patrols during its service and special missions such as
+Patrol Summary With Special Missions,{0} completed {1} patrols during its service and special missions such as:
 Sunk Ships Summary Intro,"It's documented that during its service, {0} sunk at least the following ships:"
 Sunk Ships Merchants,- {0} merchant ships that totalled to {1} GRT.
 Sunk Ships Merchants Single,- 1 merchant ship of {1} GRT.
@@ -1486,15 +1486,15 @@ Sunk Ships Destroyers,- {0} destroyers.
 Sunk Ships Corvettes Single,- 1 corvette.
 Sunk Ships Corvettes,- {0} corvettes.
 Sunk Ships Battleship,"- ""{0}"" {1} battleship."
-Sunk Ships Battleships Many,- {0} battleships including
+Sunk Ships Battleships Many,- {0} battleships including: {1}.
 Sunk Ships Battleships Without Names,- {0} battleships.
 Sunk Ships Battleships Without Names Single,- 1 battleship.
 Sunk Ships Aircraft Carrier,"- ""{0}"" {1} aircraft carrier."
-Sunk Ships Aircraft Carriers Many,- {0} aircraft carriers including
+Sunk Ships Aircraft Carriers Many,- {0} aircraft carriers including: {1}.
 Sunk Ships Aircraft Carriers Without Names,- {0} aircraft carriers.
 Sunk Ships Aircraft Carriers Without Names Single,- 1 aircraft carrier.
 Sunk Ships Cruiser,"- ""{0}"" {1} cruiser."
-Sunk Ships Cruisers Many,- {0} cruisers including
+Sunk Ships Cruisers Many,- {0} cruisers including: {1}.
 Sunk Ships Cruisers Without Names,- {0} cruisers.
 Sunk Ships Cruisers Without Names Single,- 1 cruiser.
 Sunk Ships Generic,"""{0}"""

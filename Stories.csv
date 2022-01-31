@@ -166,7 +166,7 @@ Intro Title,Radio
 PlayMusicStation,Play music station ({0} available).
 ChangeMusicStation,Change music station ({0} available).
 PlayMusicStationX,{0}.
-DecodeTransmission,Receive
+DecodeTransmission,Receive: {0}.
 LeaveStation,Leave station.
 PlayMusicStationStopPlaying,Stop music.
 ReceivingMessageCancel,Cancel.

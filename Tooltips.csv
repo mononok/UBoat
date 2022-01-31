@@ -1,6 +1,6 @@
 Key,English
 Disease,Sickness
-Disease Description,Sickness is spreading on your boat! Treat it with a radioman that has medical training or return to port. Affected sailors
+Disease Description,Sickness is spreading on your boat! Treat it with a radioman that has medical training or return to port. Affected sailors:
 Disease Increase,Sickness is spreading!
 Disease Decrease,The sickness is cured�c
 Bleeding,The sailors are in critical state!
@@ -71,11 +71,11 @@ Leak Increase,Leak on board!
 Leak Decrease,Leak fixed!
 Radio Transmission,Radio transmissions
 Radio Transmission Description,We picked up active radio transmissions nearby.
-Radio Transmission Increase,Incoming
-Radio Transmission Decrease,Transmission lost
+Radio Transmission Increase,Incoming: {0}.
+Radio Transmission Decrease,Transmission lost: {0}.
 Indirect Detection,Group detected!
 Indirect Detection Description,We managed to detect a group of units nearby.
-Indirect Detection Increase,New contact
+Indirect Detection Increase,New contact: {0}!
 Indirect Detection Decrease,Contact lost!
 Visual,"<b>Visually detected</b>
 We have a visual bearing on this vessel."
@@ -138,7 +138,7 @@ Buoyancy Negative 1 Description,"Our boat has negative buoyancy, but for the mos
 Buoyancy Negative 0 Description,Our boat has negative buoyancy and is sinking!
 Buoyancy Sink,The boat is sinking!
 Buoyancy Loose of Buoyancy,The boat is losing buoyancy!
-Postprocessing Notification,Post-processing
+Postprocessing Notification,Post-processing: {0}
 Postprocessing - Recommended,Lively (Default)
 Postprocessing - Dark,Dark
 Postprocessing - Desaturated,Desaturated
@@ -202,18 +202,18 @@ Ensure that a cleaner is assigned to work in the Management screen to eliminate 
 Dirtiness Increase,Neglected interiors
 Dirtiness Decrease,Interiors are clean
 Missing Workers,Stations are empty
-Missing Workers Description,We don't have any sailors working at vital places of the boat
+Missing Workers Description,We don't have any sailors working at vital places of the boat:
 Engines Description,? Engines are currently not manned. We won't be able to move.
-Engines Increase,Missing workers
+Engines Increase,Missing workers: engines
 Engines Decrease,Engines are manned
 Observation Spot Description,? Sailors performing observations at the conning tower are missing despite our boat being surfaced. We won't see anything around us.
-Observation Spot Increase,Missing workers
+Observation Spot Increase,Missing workers: conning tower
 Observation Spot Decrease,Conning tower is manned
 Diving Planes Description,? Missing sailors at the depth steers station. We won't be able to dive or intentionally change our depth.
-Diving Planes Increase,Missing workers
+Diving Planes Increase,Missing workers: diving planes station
 Diving Planes Decrease,Diving planes station is manned
 Helmsman Description,? We don't have any sailor working at the helmsman station. We won't be able to turn our boat around.
-Helmsman Increase,Missing worker
+Helmsman Increase,Missing worker: helmsman station
 Helmsman Decrease,Helmsman station is manned
 Electric Engines Preferred,Electric engines are now preferred over diesel engines
 Electric Engines Preferred Description,"They will be used even on the sea surface until this order is dismissed. You can do that by opening the telegraph from the top bar and clicking a button labelled as ""Diesel Motors""."

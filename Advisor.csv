@@ -1,31 +1,31 @@
 Key,English
 Hydrophone Surface,The hydrophone doesn't work on the surface.
-Hydrophone Submerged,Tip
-Radar Detector,Tip
-Restock Food,Tip
-Restock Ammo,Tip
-Salvage Replacement Parts,Tip
-Navigation Positive,Tip
+Hydrophone Submerged,Tip: send this officer to the listening room to operate the hydrophone.
+Radar Detector,Tip: send this officer to the listening room to operate the radar detector.
+Restock Food,Tip: send this officer to the storage and replenish the supplies in the kitchen.
+Restock Ammo,Tip: send this officer to the storage and restock ammunition for the deck guns.
+Salvage Replacement Parts,Tip: send this officer to salvage replacement parts from scrap in the workshop.
+Navigation Positive,Tip: send this officer to the navigation table to determine our coordinates. We are pretty much lost at this point.
 Navigation Negative,Our position is well determined.
-Radio Positive,Tip
+Radio Positive,Tip: send this officer to the radio room to listen for new transmissions that we pick up.
 Radio Negative,"Currently, the range of the radio is very weak."
-Observe Targeting Sight,Tip
-Observe Attack Periscope,Tip
-Observe Observation Periscope,Tip
-Use Gun - Artillery - 8.8 cm,Tip
-Use Gun - MG C30,Tip
+Observe Targeting Sight,Tip: send this officer to the targeting sight on the conning tower to watch for targets.
+Observe Attack Periscope,Tip: send this officer to the attack periscope to watch for targets.
+Observe Observation Periscope,Tip: send this officer to the observation periscope to watch for targets.
+Use Gun - Artillery - 8.8 cm,Tip: send this officer to the deck gun.
+Use Gun - MG C30,Tip: send this officer to flak gun.
 Gun No Enemies Nearby, There are no enemies nearby.
-Enable Air Compressor,Tip
-Enable Ventilation,Tip
-Repair Leak,Tip
-Repair Damages,Tip
-Block Leak,Tip
-Medical Aid,Tip
-Manage Engines,Tip
-Inspect,Tip
-Talk,Tip
-Play Cards,Tip
-Sleep Positive,Tip
+Enable Air Compressor,Tip: send this officer to turn on the air compressor. Our air reserves are too low.
+Enable Ventilation,Tip: send this officer to turn on the ventilation system. The air quality is very low.
+Repair Leak,Tip: send this officer to repair leaks on board.
+Repair Damages,Tip: send this officer to repair damages on board.
+Block Leak,Tip: send this officer to block leaks on board.
+Medical Aid,Tip: send this officer to help injured sailors.
+Manage Engines,Tip: send this officer to manage the engines.
+Inspect,Tip: send this officer to inspect neglected devices on board.
+Talk,Tip: send this officer to solve crew problems on board.
+Play Cards,Tip: send this officer to socialize with the crew. The discipline on the ship could use some improvement.
+Sleep Positive,Tip: send this officer to socialize with the crew. The discipline on the ship could use some improvement.
 Sleep Negative,The officer is now rested.
 Tutorial Route Mouse 1,"Good! Now set the ship�fs course by clicking the right mouse button on the <sprite name=""MissionDot""> target."
 Tutorial Route Controller 1,
