@@ -2,7 +2,7 @@ Key,English
 Disease,Sickness
 Disease Description,Sickness is spreading on your boat! Treat it with a radioman that has medical training or return to port. Affected sailors:
 Disease Increase,Sickness is spreading!
-Disease Decrease,The sickness is cured�c
+Disease Decrease,The sickness is cured…
 Bleeding,The sailors are in critical state!
 Bleeding Description,The sailors are dying on board. Stabilize them with a radioman that has medical training as soon as possible.
 Bleeding Increase,The sailor is in critical state!
@@ -118,15 +118,15 @@ Direct Detection Description,We managed to detect some vessels nearby.
 Direct Detection Increase,Detection!
 Direct Detection Decrease,Contact lost!
 Buoyancy,Boat's buoyancy
-Buoyancy Positive 2 Description,"Our boat has positive buoyancy at this time and will float on the water�fs surface during normal conditions.
+Buoyancy Positive 2 Description,"Our boat has positive buoyancy at this time and will float on the water’s surface during normal conditions.
 
 <color=#ff4c11>Warning: the displayed buoyancy doesn't account for the volume between the hulls that usually slows down submerging for a short time.</color>"
-Buoyancy Positive 1 Description,"Our boat has positive buoyancy at this time and will float on the water�fs surface during normal conditions.
+Buoyancy Positive 1 Description,"Our boat has positive buoyancy at this time and will float on the water’s surface during normal conditions.
 
 The displacement is too low to walk on the upper deck since it is partially or fully under the water.
 
 <color=#ff4c11>Warning: the displayed buoyancy doesn't account for the volume between the hulls that usually slows down submerging for a short time.</color>"
-Buoyancy Positive 0 Description,"Our boat has positive buoyancy at this time and will float on the water�fs surface during normal conditions.
+Buoyancy Positive 0 Description,"Our boat has positive buoyancy at this time and will float on the water’s surface during normal conditions.
 
 The displacement is too low to go outside. Most of the boat is under the water and it would be dangerous for the crew to be outside and for the boat itself.
 
@@ -168,7 +168,7 @@ Dangerous Depth Description,Our boat is currently at a depth that poses some dan
 Dangerous Depth Enter,Dangerous depth
 Dangerous Depth Leave,Safe depth
 Crush Depth,Crushing depth
-Crush Depth Description,Our boat is currently at a depth for which the boat�fs hull was not designed. Move closer to the surface as the hull might be crushed at any moment!
+Crush Depth Description,Our boat is currently at a depth for which the boat’s hull was not designed. Move closer to the surface as the hull might be crushed at any moment!
 Crush Depth Enter,Crushing depth
 Crush Depth Leave,The danger has passed
 Travel Mode,Long distance travel
@@ -184,7 +184,7 @@ Task Notification Complete Description,This task was completed! Visit Headquarte
 Lost on the Sea,We are lost!
 Lost on the Sea Description,"We are not sure about our boat's current location. Our boat's position won't be dynamically updated on the map. Send officer to the navigator's station to make him determine our current position back again. 
 Note: You can keep officer at the navigator's station when travelling long distances on the open sea to prevent this."
-Notification X More,{0} <color=#ccce>({1} more�c)</color>
+Notification X More,{0} <color=#ccce>({1} more…)</color>
 Mine Triggered,We triggered a mine!
 Checkpoint Travel Alarm,Cannot travel to a checkpoint during alarm.
 Checkpoint Travel Lost,Cannot travel to a checkpoint when u-boat's position isn't known.

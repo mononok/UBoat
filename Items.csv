@@ -25,14 +25,14 @@ G7e Torpedo (T3) Prototype (Warmed) Description,Electric torpedo.
 "G7es ""Zaunk?nig"" Torpedo (T5) Prototype (Warmed) Description",Electric homing torpedo.
 TMB Mine x3,TMB mine x3
 TMB Mine x3 Description,Mine
-FuMB 26 ?Tunis�h,"FuMB 26 ""Tunis"""
-FuMB 26 ?Tunis�h Description,"Tunis is the latest anti-radar technology that can detect 3 cm radars. Allies haven't yet developed their radar technology that far, but Tunis also has the best range among all radar detectors and also can indicate the direction of incoming signal."
-FuMB 10 ?Borkum�h,"FuMB 10 ""Borkum"""
-FuMB 10 ?Borkum�h Description,"Borkum is a radar detector that can detect Allied centimetric radars that are invisible to Metox, yet it has a limited range and cannot indicate the direction of incoming signal."
-FuMB 7 ?Naxos I�h,"FuMB 7 ""Naxos I"""
-FuMB 7 ?Naxos I�h Description,Naxos I is a reliable device that can detect Allied centimetric radars with a bit better range than Borkum and ability to indicate the direction of incoming signal.
-FuMB 1 ?Metox�h,"FuMB 1 ""Metox"""
-FuMB 1 ?Metox�h Description,"Metox is a device consisting of a rudimentary wooden antenna, yet very effective. It's tuned to pick up British ASV radar and alert the crew of incoming danger."
+FuMB 26 ?Tunis”,"FuMB 26 ""Tunis"""
+FuMB 26 ?Tunis” Description,"Tunis is the latest anti-radar technology that can detect 3 cm radars. Allies haven't yet developed their radar technology that far, but Tunis also has the best range among all radar detectors and also can indicate the direction of incoming signal."
+FuMB 10 ?Borkum”,"FuMB 10 ""Borkum"""
+FuMB 10 ?Borkum” Description,"Borkum is a radar detector that can detect Allied centimetric radars that are invisible to Metox, yet it has a limited range and cannot indicate the direction of incoming signal."
+FuMB 7 ?Naxos I”,"FuMB 7 ""Naxos I"""
+FuMB 7 ?Naxos I” Description,Naxos I is a reliable device that can detect Allied centimetric radars with a bit better range than Borkum and ability to indicate the direction of incoming signal.
+FuMB 1 ?Metox”,"FuMB 1 ""Metox"""
+FuMB 1 ?Metox” Description,"Metox is a device consisting of a rudimentary wooden antenna, yet very effective. It's tuned to pick up British ASV radar and alert the crew of incoming danger."
 Netzabweiser Antenne,Netzabweiser Antenne
 Netzabweiser Antenne Description,Basic antenna used for long range communication and direction finding.
 Potassium Absorbers,Potassium Absorbers
@@ -45,10 +45,10 @@ MedKit,Medkit
 MedKit Description,A medkit for wounded or sick people. It's best used by an officer with proper medical training.
 Ammo Large Calibre HE,Large Caliber HE Ammo
 Ammo Large Calibre HE/Code,HE
-Ammo Large Calibre HE Description,"HE ammunition causing standard damage to ship�fs hulls and crew, having a large damage radius and increased ability to cause a fire."
+Ammo Large Calibre HE Description,"HE ammunition causing standard damage to ship’s hulls and crew, having a large damage radius and increased ability to cause a fire."
 Ammo Small Calibre HE,Small Caliber HE Ammo
 Ammo Small Calibre HE/Code,HE
-Ammo Small Calibre HE Description,"HE ammunition causing standard damage to ship�fs hulls and crew, having a large damage radius and increased ability to cause a fire."
+Ammo Small Calibre HE Description,"HE ammunition causing standard damage to ship’s hulls and crew, having a large damage radius and increased ability to cause a fire."
 Ammo Large Calibre AP,Large Caliber AP Ammo
 Ammo Large Calibre AP/Code,AP
 Ammo Large Calibre AP Description,AP ammunition causing high damage to hulls.

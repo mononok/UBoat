@@ -129,7 +129,7 @@ Messages Header,Messages
 Header,Ship log
 Subjects Header,Subjects
 Report Header,Report
-Enter Text,Enter contents�c
+Enter Text,Enter contents…
 Create,Create
 ,
 /Travel Confirmation,English
@@ -217,8 +217,8 @@ Description,"<size=24>{0}</size>
 ,
 ,
 /TutorialUI,English
-Close Legend,Click anywhere to close�c
-Close Legend Controller,"Press <sprite name=""JoystickButton0""> to close�c"
+Close Legend,Click anywhere to close…
+Close Legend Controller,"Press <sprite name=""JoystickButton0""> to close…"
 ,
 ,
 /StageViewUI,English
@@ -576,8 +576,8 @@ QuitNo,No
 ,
 ,
 /AreaEnterNotificationUI,English
-Entering Area,Entering area�c
-Loading,Loading�c
+Entering Area,Entering area…
+Loading,Loading…
 ,
 ,
 /HintUI,English
@@ -586,7 +586,7 @@ Skip Tutorials,Skip tutorials
 ,
 ,
 /LoadingUI,English
-Loading,Loading�c
+Loading,Loading…
 Hint 1,"<space=55>The ocean is a vast and empty space, hence encountering other ships by a pure luck is very rare. Always use hydrophone to find your prey."
 Hint 2,"<space=55>If the discipline on your boat is low, use it as an opportunity to identify sea wolves among your crew and those who are not fit for the service."
 Hint 3,"<space=55>If you are ordered to patrol a square on the Atlantic, plot a patrol path with as much longditudinal movement as possible. All convoys cross the Atlantic from west to east or vice versa, so you will increase your chances of crossing the path of a convoy this way."
@@ -818,11 +818,11 @@ Chief Boatswain/Tooltip,The Chief Boatswain always tries to handle crew issues a
 Technician Officer,Technician Officer
 Technician Officer/Tooltip,"The Technician Officer operates equipment such as the hydrophone, sonar or radar detector."
 Gunner,Gunner
-Gunner/Tooltip,The Gunners will man the ship�fs weaponry as needed in order to provide efficient gunfire against enemy ships and planes.
+Gunner/Tooltip,The Gunners will man the ship’s weaponry as needed in order to provide efficient gunfire against enemy ships and planes.
 Medic,Medic
 Medic/Tooltip,The Medic only provides first aid to the wounded.
 Quartermaster,Quartermaster
-Quartermaster/Tooltip,The Quartermaster is responsible for providing ammunition for the ship�fs weapons and food supplies for the kitchen.
+Quartermaster/Tooltip,The Quartermaster is responsible for providing ammunition for the ship’s weapons and food supplies for the kitchen.
 LeaderFollower,Leader's helper
 EngineerFollower,Engineers's helper
 RadiomanFollower,Radioman's helper
@@ -837,8 +837,8 @@ Section View,Section view
 Orbit View,Orbit view
 ,
 /ActionQueueUI,English
-Adding to Queue,+ Adding to queue�c
-Idle,Idle�c
+Adding to Queue,+ Adding to queue…
+Idle,Idle…
 Locked Action Tooltip,This order cannot be stopped.
 External Action Tooltip,This order doesn't belong to this order queue.
 Automated Schedule Action,This order is coming from an automated schedule.
@@ -895,7 +895,7 @@ Header,Save
 Save,Save
 Cancel,Cancel
 Accept,Accept
-Saving,Saving�c
+Saving,Saving…
 Saving Error,"Couldn't save a game state.
 Please report this problem (F11 key)."
 NEW GAME STATE FILE,NEW GAME STATE FILE
@@ -1058,7 +1058,7 @@ Hair color,Hair Color
 Complexion,Complexion
 Face type,Face Type
 Eye color,Eye Color
-Enter text,Enter text�c
+Enter text,Enter text…
 Cancel,Cancel
 Accept,Accept
 Customize Skipper Label,Customize the skipper
@@ -1410,7 +1410,7 @@ Imported Goods,Imported goods:
 Exported Goods,Exported goods:
 Goods Separator,","
 Paragraph Ending,.
-Unit Tooltip Name Known,"<align=""center""><b>�g{6}�h</b></align>
+Unit Tooltip Name Known,"<align=""center""><b>“{6}”</b></align>
 <align=""center"">{0}</align>
 
 Country: {1}

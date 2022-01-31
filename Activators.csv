@@ -9,7 +9,7 @@ Deck Cannon,Deck cannon
 Flak,AA gun
 Storage,Storage room
 Listening Room,Listening room
-Listening Room Description,The listening room contains equipment that allows our crew to use the hydrophones when submerged and radar detector on the water�fs surface.
+Listening Room Description,The listening room contains equipment that allows our crew to use the hydrophones when submerged and radar detector on the water’s surface.
 Ladder,Ladder
 Diesel Engine,Diesel engine
 Trim Pump,Pump
@@ -19,7 +19,7 @@ Gyrocompass,Gyrocompass
 Gyrocompass Short Description,An operating gyrocompass reduces navigation errors by four times.
 Gyrocompass Description,An operating gyrocompass reduces navigation errors by four times.
 Ventilation,Ventilation
-Ventilation Description,Working ventilation is able to effectively increase air�fs suitability for breathing for a limited time.
+Ventilation Description,Working ventilation is able to effectively increase air’s suitability for breathing for a limited time.
 Evacuation Hatch,Evacuation hatch
 Evacuation Hatch Description,The hatch leading outside the ship through a narrow passage.
 Control Room,Control Room
@@ -81,7 +81,7 @@ Electric Compressor Description,It regenerates the supplies of compressed air in
 Use electrical steering,Switch to electrical steering
 Use manual steering,Switch to manual steering
 Depth Steers Station,Depth steers station
-Depth Steers Station Description,"A station which allows the rotation of ship�fs vertical steers on the bow and stern. The operation of the steers can be manual or automatic using an electric engine which rotates the steers. The first method is less accurate and might make it impossible to maintain periscope depth during poor weather, whereas in the second one, the working engines emit a sound which may make it easier for enemies to detect your ship."
+Depth Steers Station Description,"A station which allows the rotation of ship’s vertical steers on the bow and stern. The operation of the steers can be manual or automatic using an electric engine which rotates the steers. The first method is less accurate and might make it impossible to maintain periscope depth during poor weather, whereas in the second one, the working engines emit a sound which may make it easier for enemies to detect your ship."
 Snorkel Control Lever,Snorkel control lever
 Main Blowing Valve,Main blowing valve
 Flood the ballast tanks,Flood the tanks
@@ -91,7 +91,7 @@ Adjust ballast,Adjust ballast
 Snorkel raise,Raise snorkels mast
 Snorkel hide,Hide snorkels mast
 Flood valves,Flood valves
-FuMB 26 ?Tunis�h,Radar detector
+FuMB 26 ?Tunis”,Radar detector
 Mount detector,Mount detector
 Unmount detector,Unmount detector
 Climb up,Climb up
@@ -269,9 +269,9 @@ Officer constantly updates our position, eliminating risk to get lost when our s
 Additional sailors:"
 Use Navigation Table Full Description 1,Thanks to better navigation we will save 10% more fuel and energy.
 Use Navigation Table Full Description 2,Thanks to better navigation we will save 20% more fuel and energy.
-Fix Ship Position, Fixing ship position�c
-Fix Ship Position Task,Work - Navigator's station - Fixing ship position�c
-Fix Ship Position Full Description,"<b>Fixing ship position�c</b>
+Fix Ship Position, Fixing ship position…
+Fix Ship Position Task,Work - Navigator's station - Fixing ship position…
+Fix Ship Position Full Description,"<b>Fixing ship position…</b>
 
 We are lost. Officer is determining our position on the map back again.
 
@@ -298,12 +298,12 @@ Officer's Bed 3,Officer's bunk
 Officer's Bed 4,Officer's bunk
 Skipper's Bed,Skipper's bunk
 ReturningTo,Returning to {0}
-PreparingToReturn,Preparing to return�c
+PreparingToReturn,Preparing to return…
 TravellingTo,Travelling to {0}
-Radio Listen State,Scanning radio frequencies�c
+Radio Listen State,Scanning radio frequencies…
 Receiving Transmission,Receiving {0}
-Investigating,Investigating {0}�c
-StoppingTheShip,Stopping {0}�c
+Investigating,Investigating {0}…
+StoppingTheShip,Stopping {0}…
 Manage Diesel Engines,Managing diesel engines
 Manage Diesel Engines Task,Work - Diesel engines
 Manage Diesel Engines Full Description,"<b>Managing diesel engines</b>
@@ -322,10 +322,10 @@ Officer manages Electric engines, unlocking 4. gear forward and 3. gear backward
 Additional sailors:"
 Manage Electric Engines Full Description 1,All gears are unlocked. Energy usage drops by 5%.
 Manage Electric Engines Full Description 2,All gears are unlocked. Energy usage drops by 15%.
-Open Details,View details�c
+Open Details,View details…
 Open Details Description,Open the window containing details about your current target.
 Put on Deck,Place on deck
-Putting on Deck,Placing {0} on deck�c
+Putting on Deck,Placing {0} on deck…
 DivingTo,Diving to {0}
 DiverReturningTo,Returning to {0}
 Enable Trim Pump,Turn on the pump
@@ -488,7 +488,7 @@ Galley,Galley
 Deck,Deck
 Used by Somebody Else Warning,It's being used by somebody else.
 Compartment Flooded Warning,Compartment is flooded.
-Take Items Task,Taking items�c
+Take Items Task,Taking items…
 Turn On Electricity,{0} - OFF
 Turn Off Electricity,{0} - ON
 Select Assignment,"Are there any orders from the admiralty?
@@ -532,14 +532,14 @@ Snorkel,Snorkel
 Snorkel Description,Pipe system that may be set above the sea surface to ventillate the ship with fresh air and keep using diesel engines while remaining under water. Works only at the periscope depth.
 Anti-Radar Coated Snorkel,Anti-Radar Coated Snorkel
 Anti-Radar Coated Snorkel Description,Snorkel coated with material that disperses incoming radar waves.
-FuMB 1 ?Metox�h,"FuMB 1 ""Metox"""
-FuMB 1 ?Metox�h Description,Tier I radar detector that is able to detect radar waves and play loud warning on ship's speakers. It's controlled from the listening room and works only on the water surface.
-FuMB 10 ?Borkum�h,"FuMB 10 ""Borkum"""
-FuMB 10 ?Borkum�h Description,"Tier II radar detector. Doesn't emit any radiation detectable for the enemy, but at the cost of detection range."
-FuMB 7 ?Naxos I�h,"FuMB 7 ""Naxos I"""
-FuMB 7 ?Naxos I�h Description,Tier III radar detector. It's able to detect latest radars using 10 cm waves that are used by the enemy.
-FuMB 26 ?Tunis�h,"FuMB 26 ""Tunis"""
-FuMB 26 ?Tunis�h Description,Tier IV radar detector with vastly improved range of detection.
+FuMB 1 ?Metox”,"FuMB 1 ""Metox"""
+FuMB 1 ?Metox” Description,Tier I radar detector that is able to detect radar waves and play loud warning on ship's speakers. It's controlled from the listening room and works only on the water surface.
+FuMB 10 ?Borkum”,"FuMB 10 ""Borkum"""
+FuMB 10 ?Borkum” Description,"Tier II radar detector. Doesn't emit any radiation detectable for the enemy, but at the cost of detection range."
+FuMB 7 ?Naxos I”,"FuMB 7 ""Naxos I"""
+FuMB 7 ?Naxos I” Description,Tier III radar detector. It's able to detect latest radars using 10 cm waves that are used by the enemy.
+FuMB 26 ?Tunis”,"FuMB 26 ""Tunis"""
+FuMB 26 ?Tunis” Description,Tier IV radar detector with vastly improved range of detection.
 Improved Toilets,Improved Toilets
 Improved Toilets Description,Improved hydraulic system that opens up the possibility to use toilets deep under water. Helps for morale.
 Accumulators I,Accumulators I
@@ -590,7 +590,7 @@ Vulnerable under water"
 Antenna hidden,Antenna is hidden
 Gyrocompass enabled,Points north - Required for exploration mode
 Gyrocompass disabled,North direction is undetermined - Cannot enter exploration mode
-Gyrocompass enabling,Starting�c - Cannot enter exploration mode
+Gyrocompass enabling,Starting… - Cannot enter exploration mode
 Hatch closed,Hatch is closed - Watertight
 Hatch open,Hatch is open
 Depth steers station manual,Steering engines are disabled - Less accurate depth control
@@ -598,9 +598,9 @@ Depth steers station electric,Steering engines are enabled - Enhanced depth cont
 Snorkel mast raised,Snorkel mast is raised
 Snorkel mast hidden,Snorkel mast is hidden
 Main Blowing Valve disabled,Closed
-Main Blowing Valve enabled,Opened - Venting air�c
+Main Blowing Valve enabled,Opened - Venting air…
 Flood Valves disabled,Closed
-Flood Valves enabled,Opened - Flooding�c
+Flood Valves enabled,Opened - Flooding…
 Compartment Evacuated,<color=red>Compartment was ordered to be evacuated.</color>
 Hatch Pressure Durability,This hatch is watertight at up to {0:0} atmospheres of fluid pressure.
 Hatch Pressure,<color=red>Currently exposed to a pressure of {0:0} atmospheres.</color>

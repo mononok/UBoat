@@ -27,7 +27,7 @@ Talk,Tip: send this officer to solve crew problems on board.
 Play Cards,Tip: send this officer to socialize with the crew. The discipline on the ship could use some improvement.
 Sleep Positive,Tip: send this officer to socialize with the crew. The discipline on the ship could use some improvement.
 Sleep Negative,The officer is now rested.
-Tutorial Route Mouse 1,"Good! Now set the ship�fs course by clicking the right mouse button on the <sprite name=""MissionDot""> target."
+Tutorial Route Mouse 1,"Good! Now set the ship’s course by clicking the right mouse button on the <sprite name=""MissionDot""> target."
 Tutorial Route Controller 1,
 Tutorial Route Mouse 2,"To add more points to the route press SHIFT and like previously, click right mouse button on the next <sprite name=""MissionDot""> target."
 Tutorial Route Controller 2,
@@ -58,10 +58,10 @@ Tutorial Skip Travel Controller,When you are in a friendly or neutral area there
 Tutorial Reflector,"Considering that it's pretty dark, I suggest you turn on the searchlight mounted on the conning tower. I don't think that we will be able to spot the wreck otherwise."
 Tutorial Targeting Sight,Send officer Kohler to the targeting sight on the conning tower to look for the wreck in the area.
 Tutorial Diver,"In this game, you won't be controlling just a single character, but all the officers. Officer Sommer is in front of you, he is an officer like Kohler and will be a playable character from now on. Considering that we found the wreck, equip him a diving suit and send to the wreck to explore."
-Tutorial Storage,Hmm�c there is nothing worth our time in this box. Let's check two more.
-Tutorial Storage Controller, Hmm�c there is nothing worth our time in this box. Let's check two more.
+Tutorial Storage,Hmm… there is nothing worth our time in this box. Let's check two more.
+Tutorial Storage Controller, Hmm… there is nothing worth our time in this box. Let's check two more.
 Tutorial Depth,They will shoot us like ducks on the water surface! Click the highlighted button and set the depth of 50 meters.
-Tutorial Depth FPP,"They will shoot us like ducks on the water�fs surface! Press CTRL to show the full interface, then click the highlighted button and set the depth for 50 meters."
+Tutorial Depth FPP,"They will shoot us like ducks on the water’s surface! Press CTRL to show the full interface, then click the highlighted button and set the depth for 50 meters."
 Tutorial Pause,"The hull has been breached! Fast, press the space button on the keyboard!"
 Tutorial Pause Controller," The hull has been breached! Quickly, press <sprite name=""JoystickButton1"">!"
 Tutorial Lock Compartment,"In such a situation always stop the game and carefully plan what to do as each second matters.
@@ -78,11 +78,11 @@ Tutorial Pump,Now select and send Kohler to turn on the pump to pump out the wat
 Tutorial Carry Water,"The pump can pump out water from all compartments on board, but because of the resistance of the pipes, it is most efficient to do this from the central compartment.
 
 Although there is no need now, at deeper depths you may be forced to carry water with buckets to the central compartment to pump it outside."
-Tutorial Dry Compartment,"We have used most of our compressed air reserves for the emergency blowing. We have to use the air compressor to regenerate them�c but it's located in the flooded compartment.
+Tutorial Dry Compartment,"We have used most of our compressed air reserves for the emergency blowing. We have to use the air compressor to regenerate them… but it's located in the flooded compartment.
 
 It's time to dry the stern compartment. Open the bulkhead leading to it and start repairs. Remember to repair the hole at the top of the hull first. After that, take the air compressor and turn it on."
-Tutorial Rebreather,"One more thing! Before you open the bulkhead, I suggest you equip the engineer with an oxygen mask from the storage room. Without it, he won't be able to perform eventual repairs under the water�fs surface in the compartment."
-Tutorial Aircraft Carrier,Hmm�c that aircraft flew too fast after our boat was detected by the destroyer. There has to be an aircraft carrier nearby!
+Tutorial Rebreather,"One more thing! Before you open the bulkhead, I suggest you equip the engineer with an oxygen mask from the storage room. Without it, he won't be able to perform eventual repairs under the water’s surface in the compartment."
+Tutorial Aircraft Carrier,Hmm… that aircraft flew too fast after our boat was detected by the destroyer. There has to be an aircraft carrier nearby!
 Tutorial Hydrophone,"There is a hydrophone mounted on your boat. If the aircraft carrier is moving, we may be able to detect it.
 
 Select Adam Neumann, our radio officer, and assign him to the listening room at the hydrophone."
@@ -95,7 +95,7 @@ One thing at a time though - stop the engines so that we won't pass the wreckage
 Tutorial Boxes,"We can now check the contents of the crates floating from the wreckage.
 
 You can activate all objects floating on the sea's surface in the same way as the stations on your boat. It's easiest to look for them in the first person perspective."
-Tutorial Escort Carrier Area,"We are in the area where we detected the aircraft carrier earlier. Visibility is very low�c send Kohler to the conning tower to the targeting sight so he can help look for the enemy.
+Tutorial Escort Carrier Area,"We are in the area where we detected the aircraft carrier earlier. Visibility is very low… send Kohler to the conning tower to the targeting sight so he can help look for the enemy.
 
 Considering that u-boats on the surface are harder to spot than the average ship - night and bad weather work for us, and allow us to get close to the enemy without detection."
 Tutorial Disable Reflector,"Although the searchlight increases our vision range, it reveals our location to the enemy. I suggest you send any officer to turn it off."

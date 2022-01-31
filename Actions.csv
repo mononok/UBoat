@@ -39,8 +39,8 @@ Put down briefcase,Put down the briefcase
 Not Enough Space Warning,There is not enough free space on the deck for loading.
 ,
 /CarryItemsAction,English
-Carrying Items,Carrying items�c
-Carrying Water,Carrying water�c
+Carrying Items,Carrying items…
+Carrying Water,Carrying water…
 ,
 /InvestigateWreckAction,English
 Missing Wreck,There are no wrecks under the boat.

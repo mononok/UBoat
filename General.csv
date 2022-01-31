@@ -263,9 +263,9 @@ JoystickButton7,Menu (Start)
 JoystickButton8,Left Stick Button
 JoystickButton9,Right Stick Button
 JoystickButton10,"Left Stick ""Horizontal"""
-JoystickButton11,Left Stick �gVertical�h
-JoystickButton12,Right Stick �gHorizontalTurn�h
-JoystickButton13,Right Stick �gVerticalTurn�h
+JoystickButton11,Left Stick “Vertical”
+JoystickButton12,Right Stick “HorizontalTurn”
+JoystickButton13,Right Stick “VerticalTurn”
 JoystickButton14,DPAD ? Horizontal
 JoystickButton15,DPAD ? Vertical
 JoystickButton16,Left Trigger

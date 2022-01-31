@@ -4,7 +4,7 @@ EpidemicStory,"Skipper! Maybe I am not a doctor, but I recognize tuberculosis wi
 EpidemicStory.Accept,Damn it!
 EpidemicStory.Accept Tooltip,- {0} becomes ill with tuberculosis. - Send a medic to start treatment.
 CookFaultStory Title,Burned scrambled eggs
-CookFaultStory,"Several sailors have complained about meals prepared by {0}. The ship�fs cook shakes with fear aware of the purpose of my visit. After all, he wasted a large part of the rations. What punishment would be appropriate for him?"
+CookFaultStory,"Several sailors have complained about meals prepared by {0}. The ship’s cook shakes with fear aware of the purpose of my visit. After all, he wasted a large part of the rations. What punishment would be appropriate for him?"
 CookFaultStory.Pardon,Warning
 CookFaultStory.Pardon Tooltip,- No effect.
 CookFaultStory.ToiletCleaning,Toilet cleaning
@@ -624,7 +624,7 @@ InvestigatedIntro Title,Lost ship
 InvestigatedIntro,Your crew is back to the lost ship.
 Investigate,Investigate.
 Investigating Title,Lost ship
-Investigating,Your crew is investigating the lost ship�c
+Investigating,Your crew is investigating the lost ship…
 Result Title,Lost ship
 Result,"{1} went to the conning tower and carefully opened the closed hatch, then quickly ran to the barriers on the conning tower, clearly choking. He reported that inside are the corpses of sailors, with dried blood flowing out of their eyes and lips. {1} had no doubt - the ship was damaged by a mine which led to flooding of the batteries on the boat, which in turn released chlorine gas and resulted in the death of the entire crew."
 Accept,Accept.
