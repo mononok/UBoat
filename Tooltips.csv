@@ -281,3 +281,15 @@ Inspection Reminder Title,Inspection required
 Inspection Reminder Description,"Skipper, our boat was recently damaged by the enemy. There may be some damages on the boat of which we are not aware.
 
 You can assign an engineer or a radioman to the command station in the control room along with a few sailors to perform a full check of the boat."
+Alarm Notification,"<b>Alarm!</b>
+The crew works harder at a cost of increased stress."
+Alarm Notification Title,Alarm
+Alarm Notification Description,"Skipper, there is an active alarm on our ship. You can disable it at any time using the telegraph. When the alarm is active, it has the following effects:
+? Crew's work performance is increased.
+? Officers have new activities available at the command station in the control room.
+? Officers will continue to work, even if their energy drops to zero and will refuse to rest.
+? Stress is growing among the crew and discipline falls.
+
+For the last reason, alarms are not sustainable for the long periods of time. Use them wisely, skipper!"
+Loading Notification Title,Loading
+Loading Notification Description,Something is being loaded in the background...

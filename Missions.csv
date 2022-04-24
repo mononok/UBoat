@@ -189,6 +189,11 @@ Tutorial 03 OpenMap,Open the map.
 Tutorial 03 SetDestination,Set destination.
 Tutorial 03 Undock,Undock from the port.
 Tutorial 03 Arrive,Arrive at the target area.
+Tutorial 03 Submerge,Wait until u-boat submerges.
+Tutorial 03 Hydrophone Wait,Wait until officer detects a ship with the hydrophone.
+Tutorial 03 Approach the Freighter,Approach the freighter.
+Tutorial 03 Aim Wait,Wait until officer computes a good torpedo solution.
+Tutorial 03 Torpedo Wait,Wait until torpedoes reach their target.
 Tutorial 03 GetCloseToFreighter,Get close to the freighter.
 Tutorial 03 ReturnToPort,Return to port.
 Tutorial 04,#4 - Training: Patrol
