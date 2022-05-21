@@ -86,7 +86,7 @@ Snorkel Control Lever,Snorkel control lever
 Main Blowing Valve,Main blowing valve
 Flood the ballast tanks,Flood the tanks
 Blow the ballast tanks,Blow the tanks
-Blow the ballast tanks (emergency)	,Blow the tanks (emergency)	
+"Blow the ballast tanks (emergency)	","Blow the tanks (emergency)	"
 Adjust ballast,Adjust ballast
 Snorkel raise,Raise snorkels mast
 Snorkel hide,Hide snorkels mast
@@ -291,7 +291,7 @@ Officer is resting in his bunk and recovers lost energy."
 Consume Food,Eat
 Flood the ballast tanks Description,"<align=""center"">The flooding of the ballast tanks will increase the overall mass of the u-boat and push it under the surface of the water."
 Blow the ballast tanks Description,"<align=""center"">By blowing water from the ballast tanks the overall mass of the u-boat will decrease and push it above the surface of the water."
-Blow the ballast tanks (emergency) Description		,"<align=""center"">By blowing water from the ballast tanks the overall mass of the u-boat will decrease and push it above the surface of the water."
+"Blow the ballast tanks (emergency) Description		","<align=""center"">By blowing water from the ballast tanks the overall mass of the u-boat will decrease and push it above the surface of the water."
 Officer's Bed 1,Officer's bunk
 Officer's Bed 2,Officer's bunk
 Officer's Bed 3,Officer's bunk

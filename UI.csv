@@ -720,10 +720,21 @@ Right,Right
 FAT settings,FAT settings
 LUT settings,LUT settings
 Torpedo Avoidance Maneuvers,Torpedo avoidance maneuvers!
-Torpedo Hit Angle,Estimated hit angle: {0}
-Torpedo Hit Angle Warning,"Estimated hit angle: {0} <sprite name=""Warning"">"
+Torpedo Hit Angle,Estimated hit angle: {0} °
+Torpedo Hit Angle Warning,"Estimated hit angle: {0} ° <sprite name=""Warning"">"
+Torpedo Hit Angle Tooltip,Estimated impact angle of the torpedo against the target ship's hull. This estimation is three dimensional and includes a simple estimation of the target ship's hull curvature as well as a geometric two dimensional impact angle.
+Torpedo Hit Angle Warning Tooltip,"Estimated impact angle of the torpedo against the target ship's hull. This estimation is three dimensional and includes a simple estimation of the target ship's hull curvature as well as a geometric two dimensional impact angle.
+
+Warning: This angle seems to be quite high for the currently used torpedoes with a contact detonator. It's possible that they won't explode on hit."
 Torpedo Target Distance,Estimated impact distance: {0}
-Torpedo Target Distance Warning,"Estimated target distance: {0} <sprite name=""Warning"">"
+Torpedo Target Distance Warning,"Estimated impact distance: {0} <sprite name=""Warning"">"
+Torpedo Target Distance Tooltip,Estimated run distance of the torpedoes.
+Torpedo Target Distance Tooltip Too Close,"Estimated run distance of the torpedoes.
+
+Warning: The estimated run distance is too low. Torpedoes may not arm at such a distance and as a result they may not detonate."
+Torpedo Target Distance Tooltip Too Far,"Estimated run distance of the torpedoes.
+
+Warning: The estimated run distance is quite high. It may be difficult to score a hit at such a distance."
 ,
 /DefeatSummaryUI,English
 Header,Defeat
@@ -970,9 +981,9 @@ Time to Complete,"Time to complete:
 Task Completed,"TASK
 COMPLETED!"
 EMPTY,EMPTY
-ClickToStartNewOperation,Click to start new operation
+ClickToStartNewOperation,Click to start a new operation
 Requires,Requires:
-Early Research Warning,<color=orange>Warning: This work is still at early stages of development. Attempts to complete it before {0} will take twice more time.</color>
+Early Research Warning,<color=#C05418>Warning: This work is still at early stages of development. Attempts to complete it before {0} will take twice more time.</color>
 Target Area,Target area
 ,
 /RecruitmentUI/Backgrounds,English
@@ -1030,7 +1041,7 @@ Performance Low,<color=orange>Slow</color>
 Performance Average,<color=yellow>Average</color>
 Performance Fast,<color=#99ff99>Fast</color>
 Performance Very Fast,<color=#22ff22>Very fast</color>
-,
+Selection Warning,"Sending your crew outside may be dangerous! In the worst case scenario, the entire group may be lost. Assess the situation and tread carefully."
 /CharacterUI,English
 Class,Class:
 Level,Level:
@@ -1057,7 +1068,7 @@ Accessory 1,Accessory 1
 Accessory 2,Accessory 2
 Cap,Cap
 Hairstyle,Hairstyle
-Beard,Beard
+Beard,Facial hair
 Hair color,Hair Color
 Complexion,Complexion
 Face type,Face Type
@@ -1267,78 +1278,78 @@ Are you sure that you want to continue with the bug reporting tool?"
 Confirm,Confirm
 ,
 /Customization,English
-Cotton Shirt 01 Blue,Cotton Shirt 01 Blue
-Cotton Shirt 01 Blue 2,Cotton Shirt 01 Blue 2
-Cotton Shirt 01 Blue 3,Cotton Shirt 01 Blue 3
-Cotton Shirt 01 Burgundy,Cotton Shirt 01 Burgundy
-Cotton Shirt 01 Gray,Cotton Shirt 01 Gray
-Cotton Shirt 01 Red,Cotton Shirt 01 Red
-Cotton Shirt 01 Red 2,Cotton Shirt 01 Red 2
-Cotton Shirt 01 Turquise,Cotton Shirt 01 Turquise
-Cotton Shirt 02 Brown,Cotton Shirt 02 Brown
-Cotton Shirt 02 Gray,Cotton Shirt 02 Gray
-Cotton Shirt 02 Green,Cotton Shirt 02 Green
-Cotton Shirt 03 Blue,Cotton Shirt 03 Blue
-Cotton Shirt 03 Blue 2,Cotton Shirt 03 Blue 2
-Cotton Shirt 03 Brown,Cotton Shirt 03 Brown
-Cotton Shirt 03 Green,Cotton Shirt 03 Green
-Cotton Shirt 03 Orange,Cotton Shirt 03 Orange
-Cotton Shirt 03 Red,Cotton Shirt 03 Red
-Cotton Shirt 03 Red 2,Cotton Shirt 03 Red 2
-Cotton Shirt 04 Blue,Cotton Shirt 04 Blue
-Cotton Shirt 04 Blue 2,Cotton Shirt 04 Blue 2
-Cotton Shirt 04 Green,Cotton Shirt 04 Green
-Cotton Shirt 04 Red,Cotton Shirt 04 Red
-Cotton Shirt 04 Red 2,Cotton Shirt 04 Red 2
-Cotton Shirt 04 Stripes,Cotton Shirt 04 Stripes
-Jacket 01,Jacket 01
-Jacket 02,Jacket 02
-Jacket 03,Jacket 03
-Jacket 04 Black,Jacket 04 Black
-Jacket 04 Gray,Jacket 04 Gray
-Jacket 05,Jacket 05
-Jacket 06,Jacket 06
-Shirt 01,Shirt 01
-Shirt 02 Black,Shirt 02 Black
-Shirt 02 Black-Blue,Shirt 02 Black-Blue
-Shirt 02 Blue-White,Shirt 02 Blue-White
-Shirt 02 Gray,Shirt 02 Gray
-Shirt 03 Black,Shirt 03 Black
-Shirt 03 Blue,Shirt 03 Blue
-Shirt 03 Brown,Shirt 03 Brown
-Shirt 03 Gray,Shirt 03 Gray
-Shirt 04 Blue,Shirt 04 Blue
-Shirt 04 Gray,Shirt 04 Gray
-Shirt 04 Red,Shirt 04 Red
-Sweater,Sweater
-Sweater 02,Sweater 02
+Cotton Shirt 01 Blue,Buttoned blue striped shirt
+Cotton Shirt 01 Blue 2,Buttoned worn blue shirt
+Cotton Shirt 01 Blue 3,Buttoned turquoise striped shirt
+Cotton Shirt 01 Burgundy,Buttoned burgundy striped shirt
+Cotton Shirt 01 Gray,Buttoned gray checkered shirt
+Cotton Shirt 01 Red,Buttoned red checkered shirt
+Cotton Shirt 01 Red 2,Buttoned worn red shirt
+Cotton Shirt 01 Turquise,Buttoned yellow checkered shirt
+Cotton Shirt 02 Brown,Unbuttoned brown checkered shirt
+Cotton Shirt 02 Gray,Unbuttoned blue shirt
+Cotton Shirt 02 Green,Unbuttoned green checkered shirt
+Cotton Shirt 03 Blue,Buttoned purple checkered shirt
+Cotton Shirt 03 Blue 2,Buttoned dark blue checkered shirt
+Cotton Shirt 03 Brown,Buttoned brown checkered shirt
+Cotton Shirt 03 Green,Buttoned green shirt
+Cotton Shirt 03 Orange,Buttoned brown shirt
+Cotton Shirt 03 Red,Buttoned claret shirt
+Cotton Shirt 03 Red 2,Buttoned claret checkered shirt
+Cotton Shirt 04 Blue,Casual blue checkered shirt
+Cotton Shirt 04 Blue 2,Casual blue shirt
+Cotton Shirt 04 Green,Casual green shirt
+Cotton Shirt 04 Red,Casual brown shirt
+Cotton Shirt 04 Red 2,Casual red checkered shirt
+Cotton Shirt 04 Stripes,Casual striped shirt
+Jacket 01,Green jacket
+Jacket 02,Navy blue jacket with a belt
+Jacket 03,Blue leather coat with a sweater
+Jacket 04 Black,Black leather coat
+Jacket 04 Gray,Blue leather coat
+Jacket 05,Black jacket with blue shirt
+Jacket 06,Denim battledress
+Shirt 01,Black half-zip sweater
+Shirt 02 Black,Black longsleeved shirt
+Shirt 02 Black-Blue,Black-blue longsleeved shirt
+Shirt 02 Blue-White,Blue-white longsleeved shirt
+Shirt 02 Gray,Gray longsleeved shirt
+Shirt 03 Black,Dark gray half-zip sweater
+Shirt 03 Blue,Blue half-zip sweater
+Shirt 03 Brown,Brown half-zip sweater
+Shirt 03 Gray,Light gray half-zip sweater
+Shirt 04 Blue,Blue polo shirt
+Shirt 04 Gray,Gray polo shirt
+Shirt 04 Red,Red polo shirt
+Sweater,Turtleneck sweater
+Sweater 02,Sleeveless sweater
 Binoculars,Binoculars
-Eye Patch 01,Eye Patch 01
-Eye Patch 02,Eye Patch 02
-Glasses 01,Glasses 01
-Glasses 02,Glasses 02
+Eye Patch 01,Brown eye patch
+Eye Patch 02,Black eye patch
+Glasses 01,Aviator glasses
+Glasses 02,Round glasses
 None,None
 Pipe,Pipe
-Sunglasses 01,Sunglasses 01
-Cap 01 Blue,Cap 01 Blue
-Cap 01 Green,Cap 01 Green
-Cap 01 Stripes,Cap 01 Stripes
-Cap 02 Black,Cap 02 Black
-Cap 02 Blue,Cap 02 Blue
-Cap 02 Red,Cap 02 Red
-Cap 03 Black,Cap 03 Black
-Cap 03 Gray,Cap 03 Gray
-Cap 03 Stripes,Cap 03 Stripes
-Cap 05 Black,Cap 05 Black
-Cap 05 Red,Cap 05 Red
-Cap 05 Yellow,Cap 05 Yellow
-Cap 06 Alternate,Cap 06 Alternate
-Cap 06 Black,Cap 06 Black
-Cap 06 Red,Cap 06 Red
-Cap NCO,Cap NCO
-Cap NCO 02,Cap NCO 02
-Captain's Cap,Captain's Cap
-Officer's Cap,Officer's Cap
+Sunglasses 01,Sunglasses
+Cap 01 Blue,Gray beanie
+Cap 01 Green,Green beanie
+Cap 01 Stripes,Gray striped beanie
+Cap 02 Black,Black beanie
+Cap 02 Blue,Blue beanie
+Cap 02 Red,Brown beanie
+Cap 03 Black,Black bobble hat
+Cap 03 Gray,Gray bobble hat
+Cap 03 Stripes,Black striped bobble hat
+Cap 05 Black,Fastened black aviator hat
+Cap 05 Red,Fastened dark brown aviator hat
+Cap 05 Yellow,Fastened brown aviator hat
+Cap 06 Alternate,Light brown aviator hat
+Cap 06 Black,Black aviator hat
+Cap 06 Red,Brown aviator hat
+Cap NCO,Side cap
+Cap NCO 02,Sailor's cap
+Captain's Cap,Skipper's visor cap
+Officer's Cap,Officer's visor cap
 Complexion I,Complexion I
 Complexion II,Complexion II
 Complexion III,Complexion III
@@ -1361,18 +1372,18 @@ Type XI,Type XI
 Type XII,Type XII
 Type XIII,Type XIII
 Bald,Bald
-Hair 01,Hair 01
-Hair 02,Hair 02
-Hair 03,Hair 03
-Hair 04,Hair 04
-Hair 05,Hair 05
-Hair 06,Hair 06
-Pants 01,Pants 01
-Pants 02,Pants 02
-Basic Beard I,Basic Beard I
-Basic Beard II,Basic Beard II
-Basic Beard III,Basic Beard III
-Basic Beard IV,Basic Beard IV
+Hair 01,Middle part
+Hair 02,Short
+Hair 03,Comb over
+Hair 04,French crop
+Hair 05,Side part
+Hair 06,Curly hair
+Pants 01,Trousers with belt
+Pants 02,Trousers with braces
+Basic Beard I,Shaved
+Basic Beard II,Slight stubble
+Basic Beard III,Heavy stubble
+Basic Beard IV,Beard
 Voice I,Voice 1
 ,
 /Management UI,English

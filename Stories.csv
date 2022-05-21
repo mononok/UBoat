@@ -617,7 +617,7 @@ Intro_Investigated Title,Lost ship
 Intro_Investigated,{0} is floating on the surface without a living soul on its deck. What do you want to do?
 SendTeam,Send a team to investigate.
 DelegationSelect Title,Lost ship
-DelegationSelect,Select crew that will be the part of the delegation.
+DelegationSelect,Pick a team that will investigate the ship.
 NotInvestigatedIntro Title,Lost ship
 NotInvestigatedIntro,"Your team cautiously boarded {0}, reporting that they cannot hear any sounds from inside the ship. What do you want to do?"
 InvestigatedIntro Title,Lost ship

@@ -1,13 +1,17 @@
 Key,English
 Invade Poland,Invade Poland
-Build: La Rochelle Pen,Build: La Rochelle Pen
-Build: La Rochelle Pen Description,"Construction of a submarine pen in La Rochelle is progressing very slowly due to disorganized concrete supply and somebody needs to take an action to finally speed things up.
+Build La Rochelle Submarine Pen 1,Build: La Rochelle Pens
+Build La Rochelle Submarine Pen 1 Description,"La Rochelle is an attractive spot to setup a base for our u-boats, but its proximity to British mainland makes it vulnerable to surprise air raids.
 
-It's a top priority for Kriegsmarine. We need more westbound bases to increase our presence and block enemy trade on the Atlantic.
+For this reason, building submarine pens to protect the stationing u-boats should be our top priority."
+Build La Rochelle Submarine Pen 2,Build: La Rochelle Pens
+Build La Rochelle Submarine Pen 2 Description,"La Rochelle u-boat base could be further developed by adding more pens.
 
-Effects:
-- La Rochelle will gain a dockable submarine base.
-- 3rd U-boat Flotilla will form there deploying up to 100 more u-boats on the Atlantic."
+One of the locks could be also covered to protect the departing and incoming u-boats from the air raids."
+Build Helgoland Submarine Pen,Build: Helgoland Pens
+Build Helgoland Submarine Pen Description,"Helgoland island is an useful spot for our u-boats to resupply without going all the way to the German mainland, but its proximity to Great Britain makes the stationing u-boats vulnerable to the incoming air raids.
+
+We could build a bunker that would protect our u-boats from this danger."
 Operation Weserubung,Operation Weserubung
 Operation Weserubung Description,"The German command was alerted by the information about the intention of the British taking over ports in Norway. The decision to invade Norway become fact.The core of the military landing on Narvik is the 3rd Mountain Division, whose individual units have been boarded on fast and heavily armed ships that give us a good chance to surprise the enemy.The area of the North and Norwegian Sea is in the immediate vicinity of large Royal Navy centers, which makes the whole operation very dangerous. We need the support of the best trained and most faithful officers. The Reich counts on you!
 
@@ -19,11 +23,11 @@ Summary:
 Research Rewards,"Research has been completed. Visit port, if you would like to refit your u-boat."
 ItemsProduction Rewards,"Equipment was successfully passed to production. Visit port, if you would like to refit your u-boat."
 Research Snorkels,Snorkels
-Research Snorkels Description,"Some of the Dutch submarines that we captured use a curious device called by them a <i>sniffer</i>. It's a pipe system that allows them to use diesel engines while staying at periscope depth.
+Research Snorkels Description,"Some of the Dutch submarines that we captured use a curious device called by them a <i>sniffer</i>. It's a pipe system that allows them to use diesel engines while staying at a periscope depth.
 
 As the danger from allied aircrafts increases with each passing month and surface of the seas becomes too dangerous to operate for the u-boats, this technology may prove to be vital. Our submarines wouldn't have too surface that often.
 
-We are already working on the adaptation of this technology to our u-boats, but advice from experienced officer serving on the u-boat would help to develop it much faster."
+We are already working on the adaptation of this technology to our u-boats, but an advice from an experienced officer serving on the u-boat would help to develop it much faster."
 Research Anti-Radar Coated Snorkel,Anti-Radar Coating for Snorkels
 Research Anti-Radar Coated Snorkel Description,"It's possible that enemy radars may be able to detect retracted snorkels, when the boat is submerged. There are some ways to counter that, by coating our snorkels with materials that disperse radar waves."
 Research FuMB 1 ?Metox”,"""Metox"" Radar Detector (T1)"
@@ -31,7 +35,7 @@ Research FuMB 1 ?Metox” Description,"After Rommel's troops captured British We
 
 Metox & Grandin company in Paris is working on a device that would be able to detect these radars from large distances and give our u-boats early warning. Our u-boats would be much safer from air patrols with this technology as they would simply submerge long before aircrafts would arrive at their location.
 
-While there are already working prototypes of such detector, a help from experienced officer would speed up its practical integration on our u-boats."
+While there are already working prototypes of such detector, a help from an experienced officer would speed up its practical integration on our u-boats."
 Research FuMB 10 ?Borkum”,"""Borkum"" Radar Detector (T2)"
 Research FuMB 10 ?Borkum” Description,"There are growing reports of surprise aircraft attacks despite careful use of ?Metox” radar detector. Interrogations give us a clue that enemy may have a technology to detect ?Metox” radar detectors themselves from much larger range than is normally possible. Our tests indeed suggest that this detector creates some own emissions, so this is possible.
 
@@ -59,7 +63,7 @@ A group of engineers created a simple prototype device, that carries a set of mi
 Research GHG-Balkon,Hydrophone: GHG-Balkon (T2)
 Research GHG-Balkon Description,"A group of our engineers suggested that our current GHG design may be improved by mounting the microphones on a dome attached to the bottom part of the hull. This solution would increase direction coverage of GHG microphones and as addition the extra space in dome would be able to hold more microphones, increasing precision of the whole system."
 Research Turm I,Armoured Conning Towers (T1)
-Research Turm I Description,"Aircraft cause larger losses to our u-boat forces with each passing month. While preferred way to deal with them is to dive, in practice there is sometimes no choice or time for that.
+Research Turm I Description,"Aircraft cause larger losses to our u-boat forces with each passing month. While the preferred way to deal with them is to dive, in practice there is sometimes no choice or time for that.
 
 Our engineers have ideas how to improve anti-aircraft capabilities of our u-boats. Thanks to this research, we would create more armoured conning towers and also equip them with better AA guns."
 Research Turm II,Armoured Conning Towers (T2)
@@ -86,6 +90,8 @@ Locate Military Storage - Nantes Description,Our intel suggests that the French 
 Locate Military Storage - Nantes Rewards,"Investigation was successful. We located the stash.
 
 Budget +{0}"
+Send Officer To Naval Academy,Naval academy
+Send Officer To Naval Academy Description,Naval Academy at M?rwik is inviting officers from the u-boats to lead various courses for the cadets. The officers may also learn a few things in the process by meeting the other veteran officers and exchanging experiences with them.
 Ammunition Factory I,Ammunition Production I
 Ammunition Factory I Description,"Our ammunition production has to increase in order to match growing needs of the navy. There was a talk of increasing production output in Fahrenkrug Navy Arsenal, but things progress slowly and motivated officer may speed things up.
 
@@ -116,7 +122,7 @@ Rewards:
 Torpedo Pistol - Pi1.1,Improved torpedo pistols
 Torpedo Pistol - Pi1.1 Description,"Our current pistol design turned out to be faulty and we must prioritize fixing it above other things. Pistols with magnetic (MZ) setting often tend to explode on their own before reaching the target, while impact (AZ) setting works correctly only close to the right angle.
 
-There are many theories why things are this way and different branches shift responsibility to one another. Presence of experienced engineer from one of our u-boats would help to move things forward and potentially find some solutions."
+There are many theories why things are this way and different branches shift responsibility to one another. Presence of an experienced engineer from one of our u-boats would help to move things forward and potentially find some solutions."
 G7e Torpedo T3 - Pi2,G7e Torpedo (T3)
 G7e Torpedo T3 - Pi2 Description,"Our current G7e T2 electric torpedoes have some technical limitations that noticeably limit their use like a low range, speed and despite our earlier efforts there are still many pistol issues left, especially with the magnetic (MZ) setting.
 
@@ -129,13 +135,23 @@ Torpedo Control Program - LUT Description,"We consider our FAT torpedo programs 
 There is a new idea of upgrading it with additional setting that would make the pattern independent from the initial firing angle."
 "G7es ""Zaunk?nig"" Torpedo (T5)","G7es ""Zaunk?nig"" Torpedo (T5)"
 "G7es ""Zaunk?nig"" Torpedo (T5) Description","Our engineers are designing a new type of torpedo - T5. These new torpedoes are acoustically homing at nearby targets, turning many missed shots into perfect hits. It's a complicated design though and experienced engineer would definitely be helpful in addressing its remaining issues."
-LocateDefenses Rewards,Reconaissance completed. Port defenses are now marked on the map.
-Identify Defense - Scapa Flow,Aerial reconaissance
-Identify Defense - Scapa Flow Description,We can send one of our officers to Luftwaffe to organize aerial reconaissance and recognize defense in the area.
-Identify Defense - Cardiff,Aerial reconaissance
-Identify Defense - Cardiff Description,We can send one of our officers to Luftwaffe to organize aerial reconaissance and recognize defense in the area.
+LocateDefenses Rewards,reconnaissance completed. Port defenses are now marked on the map.
+Identify Defense - Scapa Flow,Aerial reconnaissance
+Identify Defense - Scapa Flow Description,We can send an officer to the Luftwaffe headquarters to explain which areas around Scapa Flow are of special importance to Kriegsmarine. This will ensure that upcoming aerial reconnaissances will include more useful intelligence to us and will help to identify potential anti-submarine defence measures in the vicinity.
+Identify Defense - Cardiff,Aerial reconnaissance
+Identify Defense - Cardiff Description,We can send an officer to the Luftwaffe headquarters to explain which areas around Cardiff are of special importance to Kriegsmarine. This will ensure that upcoming aerial reconnaissances will include more useful intelligence to us and will help to identify potential anti-submarine defence measures in the vicinity.
+Identify Defense - Portsmouth,Aerial reconnaissance
+Identify Defense - Portsmouth Description,We can send an officer to the Luftwaffe headquarters to explain which areas around Portsmouth are of special importance to Kriegsmarine. This will ensure that upcoming aerial reconnaissances will include more useful intelligence to us and will help to identify potential anti-submarine defence measures in the vicinity.
+Identify Defense - Belfast,Aerial reconnaissance
+Identify Defense - Belfast Description,We can send an officer to the Luftwaffe headquarters to explain which areas around Belfast are of special importance to Kriegsmarine. This will ensure that upcoming aerial reconnaissances will include more useful intelligence to us and will help to identify potential anti-submarine defence measures in the vicinity.
+Identify Defense - Malta,Aerial reconnaissance
+Identify Defense - Malta Description,We can send an officer to the Luftwaffe headquarters to explain which areas around Malta are of special importance to Kriegsmarine. This will ensure that upcoming aerial reconnaissances will include more useful intelligence to us and will help to identify potential anti-submarine defence measures in the vicinity.
+Identify Defense - Alexandria,Aerial reconnaissance
+Identify Defense - Alexandria Description,We can send an officer to the Luftwaffe headquarters to explain which areas around Alexandria are of special importance to Kriegsmarine. This will ensure that upcoming aerial reconnaissances will include more useful intelligence to us and will help to identify potential anti-submarine defence measures in the vicinity.
+Identify Defense - Gibraltar,Aerial reconnaissance
+Identify Defense - Gibraltar Description,We can send an officer to the Luftwaffe headquarters to explain which areas around Gibraltar are of special importance to Kriegsmarine. This will ensure that upcoming aerial reconnaissances will include more useful intelligence to us and will help to identify potential anti-submarine defence measures in the vicinity.
 Research Sonar Decoys,Sonar decoys
-Research Sonar Decoys Description,"Advancing sonar technologies became one of the greatest threats to the u-boats. Technically it should be easy to deceive them with simple, chemical devices."
+Research Sonar Decoys Description,"Advancing Allied sonar technologies became one of the greatest threats to our u-boats. Technically it may be possible to deceive them with simple, chemical devices."
 Milk Cow I,Milk Cow
 Milk Cow I Description,We can assign one of our leaders to convince the admiralty that this milk cow will be more useful in a different area.
 Milk Cow II,Milk Cow

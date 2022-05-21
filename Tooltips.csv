@@ -293,3 +293,31 @@ Alarm Notification Description,"Skipper, there is an active alarm on our ship. Y
 For the last reason, alarms are not sustainable for the long periods of time. Use them wisely, skipper!"
 Loading Notification Title,Loading
 Loading Notification Description,Something is being loaded in the background...
+Command Station - Header,"<align=center><size=17><b>Command station</b></size></align>
+<line-height=40%>
+<line-height=100%>Officers present here provide various ship-wide benefits, depending on their commanding skills and a number of assigned sailors to them. This station is available only during an alarm."
+Command Station - None,- no gains -
+Command Station - Leader,"<b>? Leader (officer's class)</b>:
+<sprite name=""pCommand"">Work performance +{0}%."
+Command Station - Leader Inactive,"<color=#999><b>? Leader (officer's class)</b>:
+<sprite name=""pCommand"">Add sailors to the officer to increase work performance on the ship.</color>"
+Command Station - Engineer,"<b>? Engineer (officer's class)</b>:
+<sprite name=""pDamageControl"">Assigned sailors search for hidden flaws. Damage done to the internal devices -{0}%."
+Command Station - Engineer Inactive,"<color=#999><b>? Engineer (officer's class)</b>:
+<sprite name=""pDamageControl"">Add sailors to the officer to search for hidden flaws and protect the internal equipment from an incoming damage.</color>"
+Command Station - Radioman,"<b>? Radioman (officer's class)</b>:
+<sprite name=""pDamageControl"">Assigned sailors search for hidden flaws."
+Command Station - Radioman Inactive,"<color=#999><b>? Radioman (officer's class)</b>:
+<sprite name=""pDamageControl"">Add sailors to the officer to search for hidden flaws.</color>"
+Command Station - Iron Fist,"<b>? Iron Fist (skill)</b>:
+Crew and torpedo loading noise -{0}%."
+Command Station - Personal Skills,"<b>? Personal Skills (skill)</b>:
+Stress accumulation -{0}%."
+Command Station - Pyrotechnic,"<b>? Sapper (skill)</b>:
+Torpedo damage +6%."
+Command Station - Thrifty,"<b>? Mechanic (skill)</b>:
+<sprite name=""pDamageControl"">Damage done to the internal devices -{0}%."
+Command Station - Thrifty Inactive,"<color=#999><b>? Mechanic (skill)</b>:
+<sprite name=""pDamageControl"">Add sailors to the officer to protect the internal equipment from an incoming damage.</color>"
+Command Station - Specialist,"<b>? Expert (skill)</b>:
+<sprite name=""pCommand"">Work performance +5%."
