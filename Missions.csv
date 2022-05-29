@@ -1,180 +1,180 @@
-Key,English,,,,,,,,,,,
-ReportEnemyPositionType,The enemy {0} has been spotted in the vicinity of position {1}.,,,,,,,,,,,
-ReportEnemyPositionDirectionType,"The enemy {0} has been spotted in the vicinity of position {1}, bearing {2}.",,,,,,,,,,,
-ReportAlliedPositionType,An ally {0} is near your location in the vicinity of position {1}.,,,,,,,,,,,
-Situation Update,Situation Update,,,,,,,,,,,
-Campaign 01: Beginning,Beginnings,,,,,,,,,,,
-Campaign 01: Beginning Description,,,,,,,,,,,,
-Campaign 01: Beginning MeetTheCaptain,Meet the captain.,,,,,,,,,,,
-Campaign 01: Beginning LeaveBaggage,Leave the baggage at your bunk.,,,,,,,,,,,
-Campaign 01: Beginning OpenMap,Open the map in the control room.,,,,,,,,,,,
-Campaign 01: Beginning SetDestination1,Set destination.,,,,,,,,,,,
-Campaign 01: Beginning SetDestination2,Add a second destination.,,,,,,,,,,,
-Campaign 01: Beginning SetDestination3,Add a third destination.,,,,,,,,,,,
-Campaign 01: Beginning SetDestination4,Add a fourth destination.,,,,,,,,,,,
-Campaign 01: Beginning Discipline,Find and discipline sailors that don't do their duties.,,,,,,,,,,,
-Campaign 01: Beginning RestockFood,Restock food in the galley.,,,,,,,,,,,
-Campaign 01: Beginning ReadMessageFromBdU,Read the message from BdU.,,,,,,,,,,,
-Campaign 01: Beginning ReachDestination,Reach the destination.,,,,,,,,,,,
-Campaign 01: Beginning EnableReflector,(Optional) Turn on the searchlight.,,,,,,,,,,,
-Campaign 01: Beginning FindWreck,Find the wreck.,,,,,,,,,,,
-Campaign 01: Beginning ApproachWreck,Approach the wreck.,,,,,,,,,,,
-Campaign 01: Beginning SearchTheCargo,Search the cargo floating on the surface ({0}/{1}),,,,,,,,,,,
-Campaign 01: Beginning EquipDivingSuit,Equip the character with a diving suit.,,,,,,,,,,,
-Campaign 01: Beginning SendDiver,Send a diver.,,,,,,,,,,,
-Campaign 01: Beginning PullOutTheRadar,Pull up the radar from the wreck.,,,,,,,,,,,
-Campaign 01: Beginning ObtainRadar,Transport the radar to the main storage room.,,,,,,,,,,,
-Campaign 01: Beginning ObtainRadar2,Transport the radar to the main storage room.,,,,,,,,,,,
-Campaign 01: Beginning MeetTheCaptain2,Meet the captain.,,,,,,,,,,,
-Campaign 01: Beginning CutTheRope,Cut the rope with the diver.,,,,,,,,,,,
-Campaign 01: Beginning Dive,Flood the ballast tanks and dive.,,,,,,,,,,,
-Campaign 01: Beginning Escape,Escape from the destroyer.,,,,,,,,,,,
-Campaign 01: Beginning EvacuateCompartment,Evacuate the compartment.,,,,,,,,,,,
-Campaign 01: Beginning RepairHatch1,Take replacement parts.,,,,,,,,,,,
-Campaign 01: Beginning RepairHatch2,Repair the hatch.,,,,,,,,,,,
-Campaign 01: Beginning EnablePump,Turn on the pump.,,,,,,,,,,,
-Campaign 01: Beginning Surface,Blow the ballast tanks and surface.,,,,,,,,,,,
-Campaign 01: Beginning EquipRebreather,Put on the breathing apparatus.,,,,,,,,,,,
-Campaign 01: Beginning OpenFloodedCompartment,Open the flooded compartment.,,,,,,,,,,,
-Campaign 01: Beginning RepairHullHole,Repair the hole in the pressure hull.,,,,,,,,,,,
-Campaign 01: Beginning RepairAirCompressor,Repair the air compressor.,,,,,,,,,,,
-Campaign 01: Beginning RegenerateAirReserves,Renew air reserves.,,,,,,,,,,,
-Campaign 01: Beginning RepairElectricEngines,Repair electric engines.,,,,,,,,,,,
-Campaign 01: Beginning ShotDownTheAircraft,Shoot down the aircraft.,,,,,,,,,,,
-Campaign 01: Beginning DetectTheCarrier,Detect the nearby aircraft carrier.,,,,,,,,,,,
-Campaign 01: Beginning ApproachTheCarrier,Attack the carrier.,,,,,,,,,,,
-Campaign 01: Beginning SinkTheCarrier,Sink the carrier.,,,,,,,,,,,
-Campaign 01: Beginning Escape2,Escape from the escort.,,,,,,,,,,,
-Campaign 01: Beginning ReachThePort,Reach the port.,,,,,,,,,,,
-LostShipMission,Lost ship,,,,,,,,,,,
-LostShipMission Description,,,,,,,,,,,,
+Key,English
+ReportEnemyPositionType,The enemy {0} has been spotted in the vicinity of position {1}.
+ReportEnemyPositionDirectionType,"The enemy {0} has been spotted in the vicinity of position {1}, bearing {2}."
+ReportAlliedPositionType,An ally {0} is near your location in the vicinity of position {1}.
+Situation Update,Situation Update
+Campaign 01: Beginning,Beginnings
+Campaign 01: Beginning Description,
+Campaign 01: Beginning MeetTheCaptain,Meet the captain.
+Campaign 01: Beginning LeaveBaggage,Leave the baggage at your bunk.
+Campaign 01: Beginning OpenMap,Open the map in the control room.
+Campaign 01: Beginning SetDestination1,Set destination.
+Campaign 01: Beginning SetDestination2,Add a second destination.
+Campaign 01: Beginning SetDestination3,Add a third destination.
+Campaign 01: Beginning SetDestination4,Add a fourth destination.
+Campaign 01: Beginning Discipline,Find and discipline sailors that don't do their duties.
+Campaign 01: Beginning RestockFood,Restock food in the galley.
+Campaign 01: Beginning ReadMessageFromBdU,Read the message from BdU.
+Campaign 01: Beginning ReachDestination,Reach the destination.
+Campaign 01: Beginning EnableReflector,(Optional) Turn on the searchlight.
+Campaign 01: Beginning FindWreck,Find the wreck.
+Campaign 01: Beginning ApproachWreck,Approach the wreck.
+Campaign 01: Beginning SearchTheCargo,Search the cargo floating on the surface ({0}/{1})
+Campaign 01: Beginning EquipDivingSuit,Equip the character with a diving suit.
+Campaign 01: Beginning SendDiver,Send a diver.
+Campaign 01: Beginning PullOutTheRadar,Pull up the radar from the wreck.
+Campaign 01: Beginning ObtainRadar,Transport the radar to the main storage room.
+Campaign 01: Beginning ObtainRadar2,Transport the radar to the main storage room.
+Campaign 01: Beginning MeetTheCaptain2,Meet the captain.
+Campaign 01: Beginning CutTheRope,Cut the rope with the diver.
+Campaign 01: Beginning Dive,Flood the ballast tanks and dive.
+Campaign 01: Beginning Escape,Escape from the destroyer.
+Campaign 01: Beginning EvacuateCompartment,Evacuate the compartment.
+Campaign 01: Beginning RepairHatch1,Take replacement parts.
+Campaign 01: Beginning RepairHatch2,Repair the hatch.
+Campaign 01: Beginning EnablePump,Turn on the pump.
+Campaign 01: Beginning Surface,Blow the ballast tanks and surface.
+Campaign 01: Beginning EquipRebreather,Put on the breathing apparatus.
+Campaign 01: Beginning OpenFloodedCompartment,Open the flooded compartment.
+Campaign 01: Beginning RepairHullHole,Repair the hole in the pressure hull.
+Campaign 01: Beginning RepairAirCompressor,Repair the air compressor.
+Campaign 01: Beginning RegenerateAirReserves,Renew air reserves.
+Campaign 01: Beginning RepairElectricEngines,Repair electric engines.
+Campaign 01: Beginning ShotDownTheAircraft,Shoot down the aircraft.
+Campaign 01: Beginning DetectTheCarrier,Detect the nearby aircraft carrier.
+Campaign 01: Beginning ApproachTheCarrier,Attack the carrier.
+Campaign 01: Beginning SinkTheCarrier,Sink the carrier.
+Campaign 01: Beginning Escape2,Escape from the escort.
+Campaign 01: Beginning ReachThePort,Reach the port.
+LostShipMission,Lost ship
+LostShipMission Description,
 LostShipMission FindLostShip,"Find the lost ship.
-<color=#aaa>Remaining: {0}.</color>",,,,,,,,,,,
-LostShipMission FindLostShip TimeLimitOff,Find the lost ship.,,,,,,,,,,,
-LostShipMission Investigate,Investigate the ship.,,,,,,,,,,,
-LostShipMission Sink,Sink the ship.,,,,,,,,,,,
-AllyNeedsHelpMission,Help request,,,,,,,,,,,
+<color=#aaa>Remaining: {0}.</color>"
+LostShipMission FindLostShip TimeLimitOff,Find the lost ship.
+LostShipMission Investigate,Investigate the ship.
+LostShipMission Sink,Sink the ship.
+AllyNeedsHelpMission,Help request
 AllyNeedsHelpMission MeetAlly,"Help ally.
-<color=#aaa>Remaining: {0}.</color>",,,,,,,,,,,
-AllyNeedsHelpMission MeetAlly TimeLimitOff,Help ally.,,,,,,,,,,,
-SinkShipMission,Sink the ship.,,,,,,,,,,,
-SinkShipMission Find,"Find ""{0}"" ship.",,,,,,,,,,,
-SinkShipMission Sink,"Sink ""{0}"".",,,,,,,,,,,
-GatherIntelMission,Gather intel on port defenses.,,,,,,,,,,,
-GatherIntelMission ReachDestination,Priority: Reach {0},,,,,,,,,,,
-GatherIntelMission GatherIntel,Find AA guns ({1}/{2}),,,,,,,,,,,
-Campaign 01: Beginning GoToTargetingSight,Assign Kohler to the targeting sight.,,,,,,,,,,,
-PatrolAssignment,Patrol: Sector {0},,,,,,,,,,,
-PatrolAssignmentShort,Sector {0},,,,,,,,,,,
+<color=#aaa>Remaining: {0}.</color>"
+AllyNeedsHelpMission MeetAlly TimeLimitOff,Help ally.
+SinkShipMission,Sink the ship.
+SinkShipMission Find,"Find ""{0}"" ship."
+SinkShipMission Sink,"Sink ""{0}""."
+GatherIntelMission,Gather intel on port defenses.
+GatherIntelMission ReachDestination,Priority: Reach {0}
+GatherIntelMission GatherIntel,Find AA guns ({1}/{2})
+Campaign 01: Beginning GoToTargetingSight,Assign Kohler to the targeting sight.
+PatrolAssignment,Patrol: Sector {0}
+PatrolAssignmentShort,Sector {0}
 PatrolAssignment Description,"Your order will be to travel to sector {0} on {1} and travel {2} inside it to complete the patrol. You may receive additional orders after reaching the area.
 
-<color=#AC9A68>Anticipated number of vessels in the area: {3}.</color>",,,,,,,,,,,
-PatrolAssignment Additional Objective,Sink enemy trade ships with a total gross register tonnage of {0} tons.,,,,,,,,,,,
-PatrolAssignment Travel,Travel {0} inside a marked area,,,,,,,,,,,
-PatrolAssignment SinkGRT,Sink enemy trade ships with a total gross register tonnage of {0} / {1} tons.,,,,,,,,,,,
+<color=#AC9A68>Anticipated number of vessels in the area: {3}.</color>"
+PatrolAssignment Additional Objective,Sink enemy trade ships with a total gross register tonnage of {0} tons.
+PatrolAssignment Travel,Travel {0} inside a marked area
+PatrolAssignment SinkGRT,Sink enemy trade ships with a total gross register tonnage of {0} / {1} tons.
 PatrolAssignment Completion,"<size=20>Patrol of sector {0} completed!</size>
 
 <i>We are genuinely impressed by the scope of success of this assignment. We wish you and your crew all the best.
 <align=right>Headquarters</align></i>
 
 Tonnage sunk: {1} GRT
-Time: {2}",,,,,,,,,,,
-EspionageAssignment,Espionage: {0},,,,,,,,,,,
-EspionageAssignment Description,Your goal will be to transport a spy unharmed to coordinates {0} near {1}. You may get additional orders at this point to help spy with carrying out his mission.,,,,,,,,,,,
-EspionageAssignment Transport,Transport spy to specified coordinates.,,,,,,,,,,,
-EspionageAssignment TransportAtNight,(Optional) Complete your objective at night.,,,,,,,,,,,
-EspionageAssignment SendReport,Leave area and send report to headquarters.,,,,,,,,,,,
-EspionageAssignment FirstAid,Meet {0} at specified coordinates and give him medical assistance.,,,,,,,,,,,
-EspionageAssignment BombMaking,Meet {0} at specified coordinates and help him prepare explosives.,,,,,,,,,,,
-EspionageAssignment Diversion,Attract attention of port defenses in {0}.,,,,,,,,,,,
-EspionageAssignment KeepSpySafe,Maintain {0}'s cover.,,,,,,,,,,,
-EspionageAssignment ListenForOrders,Listen to radio for new orders.,,,,,,,,,,,
-DiversionMission TravelToPort,Travel to {0}.,,,,,,,,,,,
-DiversionMission PrepareDiversion,Draw attention of port defenses.,,,,,,,,,,,
+Time: {2}"
+EspionageAssignment,Espionage: {0}
+EspionageAssignment Description,Your goal will be to transport a spy unharmed to coordinates {0} near {1}. You may get additional orders at this point to help spy with carrying out his mission.
+EspionageAssignment Transport,Transport spy to specified coordinates.
+EspionageAssignment TransportAtNight,(Optional) Complete your objective at night.
+EspionageAssignment SendReport,Leave area and send report to headquarters.
+EspionageAssignment FirstAid,Meet {0} at specified coordinates and give him medical assistance.
+EspionageAssignment BombMaking,Meet {0} at specified coordinates and help him prepare explosives.
+EspionageAssignment Diversion,Attract attention of port defenses in {0}.
+EspionageAssignment KeepSpySafe,Maintain {0}'s cover.
+EspionageAssignment ListenForOrders,Listen to radio for new orders.
+DiversionMission TravelToPort,Travel to {0}.
+DiversionMission PrepareDiversion,Draw attention of port defenses.
 EspionageAssignment Completion,"<size=20>{0} infiltration completed!</size>
 
 <i>We are genuinely impressed by the scope of success of this assignment. We wish you and your crew all the best.
 <align=right>Headquarters</align></i>
 
 Tonnage sunk: {1} GRT
-Time: {2}",,,,,,,,,,,
-DiversionMission,Diversion,,,,,,,,,,,
-PortAttackAssignment,Attack at {0},,,,,,,,,,,
-PortAttackAssignment Description,Your order is to sneak into {0} and sink {1} ships that are corvette-sized or larger. Use intelligence collected recently in HQ to avoid port defences.,,,,,,,,,,,
-PortAttackAssignment TravelToPort,Reach {0},,,,,,,,,,,
-PortAttackAssignment StayUndetected,Stay undetected in the direct neighbourhood of the port,,,,,,,,,,,
-PortAttackAssignment SinkShips,Sink {0} corvette-sized or larger ships,,,,,,,,,,,
-PortAttackAssignment Escape,Escape from {0},,,,,,,,,,,
+Time: {2}"
+DiversionMission,Diversion
+PortAttackAssignment,Attack at {0}
+PortAttackAssignment Description,Your order is to sneak into {0} and sink {1} ships that are corvette-sized or larger. Use intelligence collected recently in HQ to avoid port defences.
+PortAttackAssignment TravelToPort,Reach {0}
+PortAttackAssignment StayUndetected,Stay undetected in the direct neighbourhood of the port
+PortAttackAssignment SinkShips,Sink {0} corvette-sized or larger ships
+PortAttackAssignment Escape,Escape from {0}
 PortAttackAssignment Completion,"<size=20>Mission completed!</size>
 
 <i>We are genuinely impressed by the scope of success of this assignment. We wish you and your crew all the best.
 <align=right>Headquarters</align></i>
 
 Tonnage sunk: {1} GRT
-Time: {2}",,,,,,,,,,,
-JoinFlotillaAssignment,Join {0} Flotilla,,,,,,,,,,,
-JoinFlotillaAssignment Description,Travel to {0} and report to your new leading officer.,,,,,,,,,,,
-JoinFlotillaAssignment TravelToPort,Travel to {0},,,,,,,,,,,
-JoinFlotillaAssignment ReportToOfficer,Report to officer,,,,,,,,,,,
+Time: {2}"
+JoinFlotillaAssignment,Join {0} Flotilla
+JoinFlotillaAssignment Description,Travel to {0} and report to your new leading officer.
+JoinFlotillaAssignment TravelToPort,Travel to {0}
+JoinFlotillaAssignment ReportToOfficer,Report to officer
 JoinFlotillaAssignment Completion,"<size=20>Mission completed!</size>
 
 <i>We are genuinely impressed by the scope of success of this assignment. We wish you and your crew all the best.
 <align=right>Headquarters</align></i>
 
 Tonnage sunk: {1} GRT
-Time: {2}",,,,,,,,,,,
-FreeRoamAssignment,Patrol,,,,,,,,,,,
+Time: {2}"
+FreeRoamAssignment,Patrol
 FreeRoamAssignment Completion,"<size=20>Patrol summary</size>
 
 Tonnage sunk: {1} GRT
-Time: {2}",,,,,,,,,,,
-BattleshipMissionModifier Intelligence,Battleship {0} was recently seen in this area.,,,,,,,,,,,
-WarCorrespondentMissionModifier,War Correspondent,,,,,,,,,,,
-WarCorrespondentMissionModifier Description,War correspondent {0} will join you on board to write an article about your u-boat. Make a good impression and ensure his safety.,,,,,,,,,,,
-WarCorrespondentMissionModifier ArticleQuality,Allow war correspondent to collect material for his publication.,,,,,,,,,,,
-AircraftActivityMissionModifier,Aircraft Activity,,,,,,,,,,,
-AircraftActivityMissionModifier Intelligence,Increased activity of enemy aircraft was recently noticed in this area.,,,,,,,,,,,
-WarshipActivityMissionModifier,Warship Activity,,,,,,,,,,,
-WarshipActivityMissionModifier Intelligence,Increased presence of enemy escort ships was recently noticed in this area.,,,,,,,,,,,
-ExperimentalTorpedoMissionModifier,Experimental Torpedoes,,,,,,,,,,,
-ExperimentalTorpedoMissionModifier Description,"Experimental torpedoes, {0}, will be loaded on your ship. Test them in action, but beware that they are still prototypes and need to be handled with an extra care.",,,,,,,,,,,
-ExperimentalTorpedoMissionModifier FreeSpace,Free space for {0} more torpedoes before undocking.,,,,,,,,,,,
-ExperimentalTorpedoMissionModifier TestPrototype,{0} / {1} hits with prototype torpedoes.,,,,,,,,,,,
-FoggyWeatherMissionModifier Intelligence,Foggy weather is expected in this area.,,,,,,,,,,,
-StormyWeatherMissionModifier Intelligence,Strong winds are forecasted in the target area.,,,,,,,,,,,
-CalmWeatherMissionModifier Intelligence,Weather is expected to be calm in this area.,,,,,,,,,,,
-Objectives,Objectives,,,,,,,,,,,
-Additional Objectives,Additional Objectives,,,,,,,,,,,
-Intelligence,Intelligence,,,,,,,,,,,
+Time: {2}"
+BattleshipMissionModifier Intelligence,Battleship {0} was recently seen in this area.
+WarCorrespondentMissionModifier,War Correspondent
+WarCorrespondentMissionModifier Description,War correspondent {0} will join you on board to write an article about your u-boat. Make a good impression and ensure his safety.
+WarCorrespondentMissionModifier ArticleQuality,Allow war correspondent to collect material for his publication.
+AircraftActivityMissionModifier,Aircraft Activity
+AircraftActivityMissionModifier Intelligence,Increased activity of enemy aircraft was recently noticed in this area.
+WarshipActivityMissionModifier,Warship Activity
+WarshipActivityMissionModifier Intelligence,Increased presence of enemy escort ships was recently noticed in this area.
+ExperimentalTorpedoMissionModifier,Experimental Torpedoes
+ExperimentalTorpedoMissionModifier Description,"Experimental torpedoes, {0}, will be loaded on your ship. Test them in action, but beware that they are still prototypes and need to be handled with an extra care."
+ExperimentalTorpedoMissionModifier FreeSpace,Free space for {0} more torpedoes before undocking.
+ExperimentalTorpedoMissionModifier TestPrototype,{0} / {1} hits with prototype torpedoes.
+FoggyWeatherMissionModifier Intelligence,Foggy weather is expected in this area.
+StormyWeatherMissionModifier Intelligence,Strong winds are forecasted in the target area.
+CalmWeatherMissionModifier Intelligence,Weather is expected to be calm in this area.
+Objectives,Objectives
+Additional Objectives,Additional Objectives
+Intelligence,Intelligence
 WolfpackAttackMission ReachDestination,"Reach wolfpack gathering point.
-<color=#aaa>Remaining: {0}.</color>",,,,,,,,,,,
-WolfpackAttackMission WaitForConvoy,Wait for convoy.,,,,,,,,,,,
-WolfpackAttackMission SinkGRT,Sink ships in a convoy: {0} / {1} tons.,,,,,,,,,,,
-Tutorial 00,Intro,,,,,,,,,,,
-Tutorial 00 Talk,Talk to the highlighted officer.,,,,,,,,,,,
-Tutorial 01,#1 - Training: Resupply,,,,,,,,,,,
+<color=#aaa>Remaining: {0}.</color>"
+WolfpackAttackMission WaitForConvoy,Wait for convoy.
+WolfpackAttackMission SinkGRT,Sink ships in a convoy: {0} / {1} tons.
+Tutorial 00,Intro
+Tutorial 00 Talk,Talk to the highlighted officer.
+Tutorial 01,#1 - Training: Resupply
 Tutorial 01 Description,"This training assignment explains the basics of preparing the boat for a long range travel.
 
 Estimated duration: 5 minutes.
 
-<color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings.</color>",,,,,,,,,,,
-Tutorial 01 Talk,Talk with the warehouse worker.,,,,,,,,,,,
-Tutorial 01 BuyFood,Buy at least 30 units of any type of food.,,,,,,,,,,,
-Tutorial 01 BuyFuel,Completely refuel the ship.,,,,,,,,,,,
-Tutorial 01 BuyTorpedoes,Buy at least 3 new torpedoes.,,,,,,,,,,,
-Tutorial 01 SkipWaitTime,Skip the off duty time of your boat.,,,,,,,,,,,
-Tutorial 02,#2 - Training: Travel and Diving,,,,,,,,,,,
+<color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings.</color>"
+Tutorial 01 Talk,Talk with the warehouse worker.
+Tutorial 01 BuyFood,Buy at least 30 units of any type of food.
+Tutorial 01 BuyFuel,Completely refuel the ship.
+Tutorial 01 BuyTorpedoes,Buy at least 3 new torpedoes.
+Tutorial 01 SkipWaitTime,Skip the off duty time of your boat.
+Tutorial 02,#2 - Training: Travel and Diving
 Tutorial 02 Description,"This training assignment explains how to travel and the basics of diving the submarine.
 
 Estimated duration: 15 minutes.
 
-<color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings.</color>",,,,,,,,,,,
-Tutorial 02 Undock,Undock from the port.,,,,,,,,,,,
-Tutorial 02 SetDestination,Set destination.,,,,,,,,,,,
-Tutorial 02 Arrive,Arrive at the target area.,,,,,,,,,,,
-Tutorial 02 OpenMap,Open the map.,,,,,,,,,,,
-Tutorial 02 ReturnToPort,Return to port.,,,,,,,,,,,
-Tutorial 03,#3 - Training: Torpedo Attack,,,,,,,,,,,
+<color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings.</color>"
+Tutorial 02 Undock,Undock from the port.
+Tutorial 02 SetDestination,Set destination.
+Tutorial 02 Arrive,Arrive at the target area.
+Tutorial 02 OpenMap,Open the map.
+Tutorial 02 ReturnToPort,Return to port.
+Tutorial 03,#3 - Training: Torpedo Attack
 Tutorial 03 Description,"This training assignment explains how to give orders to the officers and how to perform a successful torpedo attack. Explained topics include:
 
 - Giving direct orders to officers.
@@ -184,19 +184,19 @@ Tutorial 03 Description,"This training assignment explains how to give orders to
 
 Estimated duration: 20 minutes.
 
-<color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings.</color>",,,,,,,,,,,
-Tutorial 03 OpenMap,Open the map.,,,,,,,,,,,
-Tutorial 03 SetDestination,Set destination.,,,,,,,,,,,
-Tutorial 03 Undock,Undock from the port.,,,,,,,,,,,
-Tutorial 03 Arrive,Arrive at the target area.,,,,,,,,,,,
-Tutorial 03 Submerge,Wait until u-boat submerges.,,,,,,,,,,,
-Tutorial 03 Hydrophone Wait,Wait until officer detects a ship with the hydrophone.,,,,,,,,,,,
-Tutorial 03 Approach the Freighter,Approach the freighter.,,,,,,,,,,,
-Tutorial 03 Aim Wait,Wait until officer computes a good torpedo solution.,,,,,,,,,,,
-Tutorial 03 Torpedo Wait,Wait until torpedoes reach their target.,,,,,,,,,,,
-Tutorial 03 GetCloseToFreighter,Get close to the freighter.,,,,,,,,,,,
-Tutorial 03 ReturnToPort,Return to port.,,,,,,,,,,,
-Tutorial 04,#4 - Training: Patrol,,,,,,,,,,,
+<color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings.</color>"
+Tutorial 03 OpenMap,Open the map.
+Tutorial 03 SetDestination,Set destination.
+Tutorial 03 Undock,Undock from the port.
+Tutorial 03 Arrive,Arrive at the target area.
+Tutorial 03 Submerge,Wait until u-boat submerges.
+Tutorial 03 Hydrophone Wait,Wait until officer detects a ship with the hydrophone.
+Tutorial 03 Approach the Freighter,Approach the freighter.
+Tutorial 03 Aim Wait,Wait until officer computes a good torpedo solution.
+Tutorial 03 Torpedo Wait,Wait until torpedoes reach their target.
+Tutorial 03 GetCloseToFreighter,Get close to the freighter.
+Tutorial 03 ReturnToPort,Return to port.
+Tutorial 04,#4 - Training: Patrol
 Tutorial 04 Description,"This mission will guide you through a first patrol. It will explain these topics:
 
 - Patrolling marked area.
@@ -204,15 +204,15 @@ Tutorial 04 Description,"This mission will guide you through a first patrol. It 
 
 Estimated duration: 25 minutes.
 
-<color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings.</color>",,,,,,,,,,,
-Tutorial 04 SetDestination,Set destination.,,,,,,,,,,,
-Tutorial 04 Undock,Undock from the port.,,,,,,,,,,,
-Tutorial 04 Arrive,Arrive at the patrol area.,,,,,,,,,,,
-Tutorial 04 OpenMap,Open the map.,,,,,,,,,,,
-Tutorial 04 AllyHelpPlotPath,Plot a path to the u-boat calling for help.,,,,,,,,,,,
-Tutorial 04 Travel,Travel {0} inside a marked area,,,,,,,,,,,
-Tutorial 04 Return,Return to {0}.,,,,,,,,,,,
-Tutorial 05,#5 - Guide: Recruitment,,,,,,,,,,,
+<color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings.</color>"
+Tutorial 04 SetDestination,Set destination.
+Tutorial 04 Undock,Undock from the port.
+Tutorial 04 Arrive,Arrive at the patrol area.
+Tutorial 04 OpenMap,Open the map.
+Tutorial 04 AllyHelpPlotPath,Plot a path to the u-boat calling for help.
+Tutorial 04 Travel,Travel {0} inside a marked area
+Tutorial 04 Return,Return to {0}.
+Tutorial 05,#5 - Guide: Recruitment
 Tutorial 05 Description,"This training will explain to you common tasks related to preparing your crew after a mission. Explained topics include:
 
 - Sailor and officer recruitment.
@@ -221,866 +221,115 @@ Tutorial 05 Description,"This training will explain to you common tasks related 
 
 Estimated duration: 5 minutes.
 
-<color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings.</color>",,,,,,,,,,,
-Tutorial 05 Talk,Talk with the recruitment officer.,,,,,,,,,,,
-Tutorial 06,#6 - Guide: Ship upgrades,,,,,,,,,,,
+<color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings.</color>"
+Tutorial 05 Talk,Talk with the recruitment officer.
+Tutorial 06,#6 - Guide: Ship upgrades
 Tutorial 06 Description,"This training mission explains how to upgrade your boat.
 
 Estimated duration: 5 minutes.
 
-<color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings.",,,,,,,,,,,
-Tutorial 06 Talk,Talk with the warehouse worker.,,,,,,,,,,,
-Tutorial 07,#7 - Guide: Headquarters,,,,,,,,,,,
+<color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings."
+Tutorial 06 Talk,Talk with the warehouse worker.
+Tutorial 07,#7 - Guide: Headquarters
 Tutorial 07 Description,"During this assignment you will learn how to assign your officers to tasks at Kriegsmarine headquarters.
 
 Estimated duration: 5 minutes.
 
-<color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings.</color>",,,,,,,,,,,
-Battle of the Atlantic II,The Black Pit,,,,,,,,,,,
-Battle of the Atlantic II Description,"Allied defence is currently weak in the middle of the Atlantic, since it's out of the range of aircraft bases. U-boat skippers call this area the Black Pit. We have to exploit this weakness as much as possible before Allies improve their defence measures.",,,,,,,,,,,
-Battle of the Atlantic III,The Last Stand,,,,,,,,,,,
-Battle of the Atlantic III Description,"After Black May in 1943, it's now clear that the Allies managed to extend the range of aircraft defences over most of the Atlantic and introduced more advanced weapons. Our U-boat losses increased dramatically and the use of wolfpacks no longer seem to be an effective tactic. But the tide will turn. Our engineers are working on a new wonder weapon, a revolutionary generation of electric u-boats that will let us regain the initiative. U-boats must revert back to lone wolf attacks on the Atlantic to gain us the time needed for that to happen.",,,,,,,,,,,
-Southern Routes,Southern routes,,,,,,,,,,,
+<color=#bbb>This tutorial uses section view to explain various subjects. As such, section view will be allowed for the duration of this tutorial, even if it's currently disabled in the realism settings.</color>"
+Battle of the Atlantic II,The Black Pit
+Battle of the Atlantic II Description,"Allied defence is currently weak in the middle of the Atlantic, since it's out of the range of aircraft bases. U-boat skippers call this area the Black Pit. We have to exploit this weakness as much as possible before Allies improve their defence measures."
+Battle of the Atlantic III,The Last Stand
+Battle of the Atlantic III Description,"After Black May in 1943, it's now clear that the Allies managed to extend the range of aircraft defences over most of the Atlantic and introduced more advanced weapons. Our U-boat losses increased dramatically and the use of wolfpacks no longer seem to be an effective tactic. But the tide will turn. Our engineers are working on a new wonder weapon, a revolutionary generation of electric u-boats that will let us regain the initiative. U-boats must revert back to lone wolf attacks on the Atlantic to gain us the time needed for that to happen."
+Southern Routes,Southern routes
 Southern Routes Description,"High command suspects that many ships flying neutral flags, but supporting Allied war effort, started to cross Atlantic to the south. Some of them are enemy ships using a false flag to disguise themselves, while others are private ships from neutral countries trading with the blockaded ports of the enemy.
 
-For this reason, high command orders u-boat skippers to inspect all neutral ships passing through this area to clarify their status.",,,,,,,,,,,
-Battle of the Mediterranean,Battle of the Mediterranean,,,,,,,,,,,
-Battle of the Mediterranean Description,"We must aid Italian naval forces in the Mediterranean and stop the Allied supply ships headed to Alexandria, which are essential to their war effort in the African Campaign.",,,,,,,,,,,
-Arctic Convoys,Arctic convoys,,,,,,,,,,,
-Arctic Convoys Description,Military shipping to the USSR is growing each month. It must be stopped to lead our troops to victory on the eastern front.,,,,,,,,,,,
-Sink Warships on Anchor,Attack: Scapa Flow,,,,,,,,,,,
-Sink Warships on Anchor Long Name,Attack on Scapa Flow,,,,,,,,,,,
-Sink Warships on Anchor Description,"The u-boat command has prepared a plan to strike at Scapa Flow. It is one of the most heavily defended and important Royal Navy bases. If one of our u-boats manages to sneak in and sink a recognizable Royal Navy ship, it will be a signal that there is no safe place to hide from our u-boats.",,,,,,,,,,,
-Recover Gold From Sunk Ship,Gold retaking,,,,,,,,,,,
-Recover Gold From Sunk Ship Long Name,Recovery of gold from a German merchant ship,,,,,,,,,,,
-Recover Gold From Sunk Ship Description,"TOP SECRET: A German cargo ship was sunk on its way from North Africa to Corsica. The cargo holds on that ship were loaded with gold and valuables. Due to the value of the cargo, military commanders involved in the transport asked the Kriegsmarine to come up with a plan to recover it. Considering that the area is frequently patrolled by allied warships, only a u-boat stands a chance to complete this mission. This task is suitable only for the bravest and most skilled skippers in our u-boat forces.",,,,,,,,,,,
-Retrieve Enigma from Sunk Submarine,Enigma recovery,,,,,,,,,,,
-Retrieve Enigma from Sunk Submarine Long Name,Recovery of Enigma machine from {0},,,,,,,,,,,
-Retrieve Enigma from Sunk Submarine Description,U-boat command suspects that one of our u-boats was sunk by the enemy north of Ireland. There are many shallow areas in this region and thus recovery of sensitive equipment from the wreck by the enemy is a real possibility here. We cannot let it happen!,,,,,,,,,,,
-Weather Station Deployment North Labrador,Weather station: North Labrador,,,,,,,,,,,
-Weather Station Deployment North Labrador Long Name,Weather station deployment in North Labrador,,,,,,,,,,,
+For this reason, high command orders u-boat skippers to inspect all neutral ships passing through this area to clarify their status."
+Battle of the Mediterranean,Battle of the Mediterranean
+Battle of the Mediterranean Description,"We must aid Italian naval forces in the Mediterranean and stop the Allied supply ships headed to Alexandria, which are essential to their war effort in the African Campaign."
+Arctic Convoys,Arctic convoys
+Arctic Convoys Description,Military shipping to the USSR is growing each month. It must be stopped to lead our troops to victory on the eastern front.
+Sink Warships on Anchor,Attack: Scapa Flow
+Sink Warships on Anchor Long Name,Attack on Scapa Flow
+Sink Warships on Anchor Description,"The u-boat command has prepared a plan to strike at Scapa Flow. It is one of the most heavily defended and important Royal Navy bases. If one of our u-boats manages to sneak in and sink a recognizable Royal Navy ship, it will be a signal that there is no safe place to hide from our u-boats."
+Recover Gold From Sunk Ship,Gold retaking
+Recover Gold From Sunk Ship Long Name,Recovery of gold from a German merchant ship
+Recover Gold From Sunk Ship Description,"TOP SECRET: A German cargo ship was sunk on its way from North Africa to Corsica. The cargo holds on that ship were loaded with gold and valuables. Due to the value of the cargo, military commanders involved in the transport asked the Kriegsmarine to come up with a plan to recover it. Considering that the area is frequently patrolled by allied warships, only a u-boat stands a chance to complete this mission. This task is suitable only for the bravest and most skilled skippers in our u-boat forces."
+Retrieve Enigma from Sunk Submarine,Enigma recovery
+Retrieve Enigma from Sunk Submarine Long Name,Recovery of Enigma machine from {0}
+Retrieve Enigma from Sunk Submarine Description,U-boat command suspects that one of our u-boats was sunk by the enemy north of Ireland. There are many shallow areas in this region and thus recovery of sensitive equipment from the wreck by the enemy is a real possibility here. We cannot let it happen!
+Weather Station Deployment North Labrador,Weather station: North Labrador
+Weather Station Deployment North Labrador Long Name,Weather station deployment in North Labrador
 Weather Station Deployment North Labrador Description,"Since wind over Atlantic usually travels from the west to the east, Allies keep the advantage over us by being able to predict the weather conditions on the sea and plan their operations accordingly.
 
-Headquarters has a plan to change that by setting up a weather station in North America.",,,,,,,,,,,
-Weather Station Deployment Bear Island,Weather station: Bear Island,,,,,,,,,,,
-Weather Station Deployment Bear Island Long Name,Weather station deployment on Bear Island,,,,,,,,,,,
-Weather Station Deployment Bear Island Description,"The Kriegsmarine as well as the Luftwaffe would find it immensely useful to have more accurate weather data at their disposal to plan upcoming operations. For this reason, we came up with a plan to set up automated weather stations on remote islands. Our meteorologists identified Bear Island as a promising target for such a deployment.",,,,,,,,,,,
-Operation Drumbeat,Operation Drumbeat,,,,,,,,,,,
+Headquarters has a plan to change that by setting up a weather station in North America."
+Weather Station Deployment Bear Island,Weather station: Bear Island
+Weather Station Deployment Bear Island Long Name,Weather station deployment on Bear Island
+Weather Station Deployment Bear Island Description,"The Kriegsmarine as well as the Luftwaffe would find it immensely useful to have more accurate weather data at their disposal to plan upcoming operations. For this reason, we came up with a plan to set up automated weather stations on remote islands. Our meteorologists identified Bear Island as a promising target for such a deployment."
+Operation Drumbeat,Operation Drumbeat
 Operation Drumbeat Description,"The day after the declaration of war on the USA on 11th December 1941, the extension of U-Boat warfare against America was ordered. Admiral D?nitz declared the operation ""Paukenschlag"" and sent several submarines to the east coast of America.
 
-Because of the great distance, strategic planning of milk cows positions is necessary.",,,,,,,,,,,
-Attack on Aruba,Attack on Aruba,,,,,,,,,,,
+Because of the great distance, strategic planning of milk cows positions is necessary."
+Attack on Aruba,Attack on Aruba
 Attack on Aruba Description,"The small islands of Aruba and Cura?ao, about 27 km north of Venezuela, host one of the world's largest Allied oil refineries.
 
 Since the demand for oil by the Allies is increasing, a disruption of the supply would force them to limit their operations and would become a vital victory for our u-boat forces.
 
-Recognizing this, the Kriegsmarine after consultations with the best u-boat skippers, came up with a plan to strike at the oil industry located on these islands.",,,,,,,,,,,
-OilInstallationsAttackAssignment Description,Destroy at least 3 oil tanks on land with the deck gun.,,,,,,,,,,,
-Campaign Randomized Assignment Format,{0}: {1},,,,,,,,,,,
-WeatherStationDeploymentAssignment Description,Your order is to travel to the designated coordinates and set up a weather station on land.,,,,,,,,,,,
-WeatherStationDeploymentAssignment FreeSpace,Free space in the storage for the weather station.,,,,,,,,,,,
-WeatherStationDeploymentAssignment ReachDestination,Reach destination.,,,,,,,,,,,
-WeatherStationDeploymentAssignment SendExpedition,Send a group to land.,,,,,,,,,,,
-WeatherStationDeploymentAssignment ScoutArea,Scout the area.,,,,,,,,,,,
-WeatherStationDeploymentAssignment BuildStation,Build the weather station.,,,,,,,,,,,
-WeatherStationDeploymentAssignment TestSignal,Receive the radio transmission from the weather station.,,,,,,,,,,,
-WeatherStationDeploymentAssignment ReturnToPort,Return to port.,,,,,,,,,,,
-North Labrador Weather Station Deployment,Weather station deployment area,,,,,,,,,,,
-SearchWreckAssignment Description,"Find a wreck, send a diver and recover the cargo.",,,,,,,,,,,
-SearchWreckAssignment,Search wreck ,,,,,,,,,,,
-SearchWreckAssignment ReachDestination,Reach destination.,,,,,,,,,,,
-SearchWreckAssignment SendDiver,Send diver.,,,,,,,,,,,
-SearchWreckAssignment LocateCargo,Locate cargo.,,,,,,,,,,,
-SearchWreckAssignment RecoverCargo,Recover at least {0} units of gold.,,,,,,,,,,,
-SearchWreckAssignment ReturnToPort,Return to port.,,,,,,,,,,,
-OilInstallationsAttackAssignment ReachDestination,Arrive at {0}.,,,,,,,,,,,
-OilInstallationsAttackAssignment AttackOilInstallations,Destroy oil tanks on land ({0}/{1}).,,,,,,,,,,,
-OilInstallationsAttackAssignment Escape,Escape from the area.,,,,,,,,,,,
-OilInstallationsAttackAssignment ReturnToPort,Return to port.,,,,,,,,,,,
+Recognizing this, the Kriegsmarine after consultations with the best u-boat skippers, came up with a plan to strike at the oil industry located on these islands."
+OilInstallationsAttackAssignment Description,Destroy at least 3 oil tanks on land with the deck gun.
+Campaign Randomized Assignment Format,{0}: {1}
+WeatherStationDeploymentAssignment Description,Your order is to travel to the designated coordinates and set up a weather station on land.
+WeatherStationDeploymentAssignment FreeSpace,Free space in the storage for the weather station.
+WeatherStationDeploymentAssignment ReachDestination,Reach destination.
+WeatherStationDeploymentAssignment SendExpedition,Send a group to land.
+WeatherStationDeploymentAssignment ScoutArea,Scout the area.
+WeatherStationDeploymentAssignment BuildStation,Build the weather station.
+WeatherStationDeploymentAssignment TestSignal,Receive the radio transmission from the weather station.
+WeatherStationDeploymentAssignment ReturnToPort,Return to port.
+North Labrador Weather Station Deployment,Weather station deployment area
+SearchWreckAssignment Description,"Find a wreck, send a diver and recover the cargo."
+SearchWreckAssignment,Search wreck 
+SearchWreckAssignment ReachDestination,Reach destination.
+SearchWreckAssignment SendDiver,Send diver.
+SearchWreckAssignment LocateCargo,Locate cargo.
+SearchWreckAssignment RecoverCargo,Recover at least {0} units of gold.
+SearchWreckAssignment ReturnToPort,Return to port.
+OilInstallationsAttackAssignment ReachDestination,Arrive at {0}.
+OilInstallationsAttackAssignment AttackOilInstallations,Destroy oil tanks on land ({0}/{1}).
+OilInstallationsAttackAssignment Escape,Escape from the area.
+OilInstallationsAttackAssignment ReturnToPort,Return to port.
 "PassGibraltarAssignment Description
-",Pass through Gibraltar strait and reach La Spezia.,,,,,,,,,,,
-PassGibraltarAssignment ReachGibraltar,Reach Gibraltar Strait.,,,,,,,,,,,
-PassGibraltarAssignment PassThrough,Pass through the strait.,,,,,,,,,,,
-PassGibraltarAssignment AvoidDetection,(Optional) Avoid being detected by the enemy.,,,,,,,,,,,
-PassGibraltarAssignment DockAtDestinationPort,Dock at {0}.,,,,,,,,,,,
-Join Battle of Arctic,Join Battle of Arctic,,,,,,,,,,,
-Join Battle of Arctic Description,"Norway was attacked by German forces in April 1940.  After several battles, the nation finally fell to Germany in the spring. U-boats began operating from a number of ports as early as April 1940 and continued to do so until early May 1945.",,,,,,,,,,,
-Join French Flotillas,Join French Flotillas,,,,,,,,,,,
+",Pass through Gibraltar strait and reach La Spezia.
+PassGibraltarAssignment ReachGibraltar,Reach Gibraltar Strait.
+PassGibraltarAssignment PassThrough,Pass through the strait.
+PassGibraltarAssignment AvoidDetection,(Optional) Avoid being detected by the enemy.
+PassGibraltarAssignment DockAtDestinationPort,Dock at {0}.
+Join Battle of Arctic,Join Battle of Arctic
+Join Battle of Arctic Description,"Norway was attacked by German forces in April 1940.  After several battles, the nation finally fell to Germany in the spring. U-boats began operating from a number of ports as early as April 1940 and continued to do so until early May 1945."
+Join French Flotillas,Join French Flotillas
 Join French Flotillas Description,"After a successful campaign against allied forces in May-June 1940, the German army took over ports on the west coast of France.
 
-These bases gave the Kriegsmarine a significant advantage in the war in the Atlantic. Reach one of the ports to support your allies in even more effective operation and expansion.",,,,,,,,,,,
-Pass Gibraltar,Passage through Strait of Gibraltar,,,,,,,,,,,
+These bases gave the Kriegsmarine a significant advantage in the war in the Atlantic. Reach one of the ports to support your allies in even more effective operation and expansion."
+Pass Gibraltar,Passage through Gibraltar
 "Pass Gibraltar Description
-","The Battle of the Mediterranean is in full swing and our success in Africa depends on the outcome. Headquarters has decided to create Mediterranean u-boat flotillas, but joining u-boats must get through the heavily guarded Gibraltar strait.",,,,,,,,,,,
-SinkAnchoredBattleshipAssignment Description,Your orders are to sneak into Scapa Flow and sink the most prominent target that you find.,,,,,,,,,,,
-SinkAnchoredBattleshipAssignment TravelToDestination,Enter Scapa Flow using the eastern passage.,,,,,,,,,,,
-SinkAnchoredBattleshipAssignment EnterAnchorage,Get close to the main anchorage area.,,,,,,,,,,,
-SinkAnchoredBattleshipAssignment StayUndetected,Stay undetected.,,,,,,,,,,,
-SinkAnchoredBattleshipAssignment Escape,Escape from Scapa Flow.,,,,,,,,,,,
-SinkAnchoredBattleshipAssignment SinkBattleship,"Sink ""{0}"".",,,,,,,,,,,
-EnigmaRecoveryAssignment Description,"Find an u-boat's wreck, send a diver and recover the Enigma machine.",,,,,,,,,,,
-EnigmaRecoveryAssignment ReachDestination,Reach destination.,,,,,,,,,,,
-EnigmaRecoveryAssignment FreeSpaceForDivingSuit,Free space for a diving suit in the items storage.,,,,,,,,,,,
-EnigmaRecoveryAssignment SendDiver,Send diver.,,,,,,,,,,,
-EnigmaRecoveryAssignment FindEnigma,Find Enigma machine.,,,,,,,,,,,
-EnigmaRecoveryAssignment OpenTheMainHatch,Open the main hatch.,,,,,,,,,,,
-EnigmaRecoveryAssignment ReturnToPort,Return to port.,,,,,,,,,,,
-ScuttleOrSurrenderAssignment,The war is over,,,,,,,,,,,
-ScuttleOrSurrenderAssignment ReceiveTransmission,Receive transmission from the headquarters.,,,,,,,,,,,
-ScuttleOrSurrenderAssignment Surrender,Surrender to the closest enemy warship...,,,,,,,,,,,
-ScuttleOrSurrenderAssignment Scuttle,OR scuttle your ship near any coast.,,,,,,,,,,,
-EscortDutyAssignment,Escort duty,,,,,,,,,,,
-EscortDutyAssignment Description,"Our troopships travelling towards the Africa need protection from enemy forces. They will be escorted by destroyers, but an u-boat's presence will allow for a swifter location of incoming enemies thanks to GHG hydrophones that are much more effective than on the surface vessels. The convoy will depart immediately after you accept this mission, skipper. Make sure that you are also ready to depart before accepting it.",,,,,,,,,,,
-EscortDutyAssignment ProtectTarget,Protect the troopships.,,,,,,,,,,,
-EscortDutyAssignment GainDistanceFromConvoy,Leave a direct convoy's vicinity.,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+","The Battle of the Mediterranean is in full swing and our success in Africa depends on the outcome. Headquarters has decided to create Mediterranean u-boat flotillas, but joining u-boats must get through the heavily guarded Gibraltar strait."
+SinkAnchoredBattleshipAssignment Description,Your orders are to sneak into Scapa Flow and sink the most prominent target that you find.
+SinkAnchoredBattleshipAssignment TravelToDestination,Enter Scapa Flow using the eastern passage.
+SinkAnchoredBattleshipAssignment EnterAnchorage,Get close to the main anchorage area.
+SinkAnchoredBattleshipAssignment StayUndetected,Stay undetected.
+SinkAnchoredBattleshipAssignment Escape,Escape from Scapa Flow.
+SinkAnchoredBattleshipAssignment SinkBattleship,"Sink ""{0}""."
+EnigmaRecoveryAssignment Description,"Find an u-boat's wreck, send a diver and recover the Enigma machine."
+EnigmaRecoveryAssignment ReachDestination,Reach destination.
+EnigmaRecoveryAssignment FreeSpaceForDivingSuit,Free space for a diving suit in the items storage.
+EnigmaRecoveryAssignment SendDiver,Send diver.
+EnigmaRecoveryAssignment FindEnigma,Find Enigma machine.
+EnigmaRecoveryAssignment OpenTheMainHatch,Open the main hatch.
+EnigmaRecoveryAssignment ReturnToPort,Return to port.
+ScuttleOrSurrenderAssignment,The war is over
+ScuttleOrSurrenderAssignment ReceiveTransmission,Receive transmission from the headquarters.
+ScuttleOrSurrenderAssignment Surrender,Surrender to the closest enemy warship...
+ScuttleOrSurrenderAssignment Scuttle,OR scuttle your ship near any coast.
+EscortDutyAssignment,Escort duty
+EscortDutyAssignment Description,"Our troopships travelling towards the Africa need protection from enemy forces. They will be escorted by destroyers, but an u-boat's presence will allow for a swifter location of incoming enemies thanks to GHG hydrophones that are much more effective than on the surface vessels. The convoy will depart immediately after you accept this mission, skipper. Make sure that you are also ready to depart before accepting it."
+EscortDutyAssignment ProtectTarget,Protect the troopships.
+EscortDutyAssignment GainDistanceFromConvoy,Leave a direct convoy's vicinity.

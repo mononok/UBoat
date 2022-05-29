@@ -1,1032 +1,275 @@
-Key,English,,,,,,,,,,,
-G7a Torpedo (T1),G7a torpedo (T1),,,,,,,,,,,
-G7a Torpedo (T1) Description,Steam propelled torpedo.,,,,,,,,,,,
-G7e Torpedo (T2),G7e torpedo (T2),,,,,,,,,,,
-G7e Torpedo (T2) Description,Electric torpedo.,,,,,,,,,,,
-G7e Torpedo (T3),G7e torpedo (T3),,,,,,,,,,,
-G7e Torpedo (T3) Description,Electric torpedo.,,,,,,,,,,,
-G7es Zaunk?nig Torpedo (T5),"G7es ""Zaunk?nig"" torpedo (T5)",,,,,,,,,,,
-G7es Zaunk?nig Torpedo (T5) Description,Electric homing torpedo.,,,,,,,,,,,
-G7e Torpedo (T3) Prototype,G7e torpedo prototype (T3),,,,,,,,,,,
-G7e Torpedo (T3) Prototype Description,Electric torpedo.,,,,,,,,,,,
-"G7es ""Zaunk?nig"" Torpedo (T5) Prototype","G7es ""Zaunk?nig"" torpedo prototype (T5)",,,,,,,,,,,
-"G7es ""Zaunk?nig"" Torpedo (T5) Prototype Description",Electric homing torpedo.,,,,,,,,,,,
-G7a Torpedo (T1) (Warmed),G7a torpedo (T1),,,,,,,,,,,
-G7a Torpedo (T1) (Warmed) Description,Steam propelled torpedo.,,,,,,,,,,,
-G7e Torpedo (T2) (Warmed),G7e torpedo (T2),,,,,,,,,,,
-G7e Torpedo (T2) (Warmed) Description,Electric torpedo.,,,,,,,,,,,
-G7e Torpedo (T3) (Warmed),G7e torpedo (T3),,,,,,,,,,,
-G7e Torpedo (T3) (Warmed) Description,Electric torpedo.,,,,,,,,,,,
-G7es Zaunk?nig Torpedo (T5) (Warmed),"G7es ""Zaunk?nig"" torpedo (T5)",,,,,,,,,,,
-G7es Zaunk?nig Torpedo (T5) (Warmed) Description,Electric homing torpedo.,,,,,,,,,,,
-G7e Torpedo (T3) Prototype (Warmed),G7e torpedo prototype (T3),,,,,,,,,,,
-G7e Torpedo (T3) Prototype (Warmed) Description,Electric torpedo.,,,,,,,,,,,
-"G7es ""Zaunk?nig"" Torpedo (T5) Prototype (Warmed)","G7es ""Zaunk?nig"" torpedo prototype (T5)",,,,,,,,,,,
-"G7es ""Zaunk?nig"" Torpedo (T5) Prototype (Warmed) Description",Electric homing torpedo.,,,,,,,,,,,
-TMB Mine x3,TMB mine x3,,,,,,,,,,,
-TMB Mine x3 Description,Mine,,,,,,,,,,,
-FuMB 26 ?TunisÅh,"FuMB 26 ""Tunis""",,,,,,,,,,,
-FuMB 26 ?TunisÅh Description,"Tunis is the latest anti-radar technology that can detect 3 cm radars. Allies haven't yet developed their radar technology that far, but Tunis also has the best range among all radar detectors and also can indicate the direction of incoming signal.",,,,,,,,,,,
-FuMB 10 ?BorkumÅh,"FuMB 10 ""Borkum""",,,,,,,,,,,
-FuMB 10 ?BorkumÅh Description,"Borkum is a radar detector that can detect Allied centimetric radars that are invisible to Metox, yet it has a limited range and cannot indicate the direction of incoming signal.",,,,,,,,,,,
-FuMB 7 ?Naxos IÅh,"FuMB 7 ""Naxos I""",,,,,,,,,,,
-FuMB 7 ?Naxos IÅh Description,Naxos I is a reliable device that can detect Allied centimetric radars with a bit better range than Borkum and ability to indicate the direction of incoming signal.,,,,,,,,,,,
-FuMB 1 ?MetoxÅh,"FuMB 1 ""Metox""",,,,,,,,,,,
-FuMB 1 ?MetoxÅh Description,"Metox is a device consisting of a rudimentary wooden antenna, yet very effective. It's tuned to pick up British ASV radar and alert the crew of incoming danger.",,,,,,,,,,,
-Netzabweiser Antenne,Netzabweiser Antenne,,,,,,,,,,,
-Netzabweiser Antenne Description,Basic antenna used for long range communication and direction finding.,,,,,,,,,,,
-Potassium Absorbers,Potassium Absorbers,,,,,,,,,,,
-Potassium Absorbers Description,Potassium permanganate in the absorbers reacts with carbon dioxide and effectively clears it from air extending the time of its usefulness for breathing.,,,,,,,,,,,
-Cheese,Cheese,,,,,,,,,,,
-Cheese Description,A common food ration. Put it in the kitchen to use it for cooking.,,,,,,,,,,,
-Exotic Fruits,Exotic fruits,,,,,,,,,,,
-Exotic Fruits Description,A luxury food ration. Put it in the kitchen to use it for cooking.,,,,,,,,,,,
-MedKit,Medkit,,,,,,,,,,,
-MedKit Description,A medkit for wounded or sick people. It's best used by an officer with proper medical training.,,,,,,,,,,,
-Ammo Large Calibre HE,Large Caliber HE Ammo,,,,,,,,,,,
-Ammo Large Calibre HE/Code,HE,,,,,,,,,,,
-Ammo Large Calibre HE Description,"HE ammunition causing standard damage to shipÅfs hulls and crew, having a large damage radius and increased ability to cause a fire.",,,,,,,,,,,
-Ammo Small Calibre HE,Small Caliber HE Ammo,,,,,,,,,,,
-Ammo Small Calibre HE/Code,HE,,,,,,,,,,,
-Ammo Small Calibre HE Description,"HE ammunition causing standard damage to shipÅfs hulls and crew, having a large damage radius and increased ability to cause a fire.",,,,,,,,,,,
-Ammo Large Calibre AP,Large Caliber AP Ammo,,,,,,,,,,,
-Ammo Large Calibre AP/Code,AP,,,,,,,,,,,
-Ammo Large Calibre AP Description,AP ammunition causing high damage to hulls.,,,,,,,,,,,
-Ammo Small Calibre AP,Small Caliber AP Ammo,,,,,,,,,,,
-Ammo Small Calibre AP/Code,AP,,,,,,,,,,,
-Ammo Small Calibre AP Description,AP ammunition causing high damage to hulls.,,,,,,,,,,,
-Ammo Large Calibre AA,Large Caliber AA Ammo,,,,,,,,,,,
-Ammo Large Calibre AA/Code,AA,,,,,,,,,,,
-Ammo Large Calibre AA Description,"AA ammo is set to detonate after a specified period of time, thus increasing the chances of including a plane in its damage radius.",,,,,,,,,,,
-Ammo Small Calibre AA,Small Caliber AA Ammo,,,,,,,,,,,
-Ammo Small Calibre AA/Code,AA,,,,,,,,,,,
-Ammo Small Calibre AADescription,"AA ammo is set to detonate after a specified period of time, thus increasing the chances of including a plane in its damage radius.",,,,,,,,,,,
-Ammo Large Calibre SS,Large Caliber SS Ammo,,,,,,,,,,,
-Ammo Large Calibre SS/Code,SS,,,,,,,,,,,
-Ammo Large Calibre SS Description,Flares designed to be fired from large caliber guns.,,,,,,,,,,,
-Ammo Small Calibre SS,Small Caliber SS Ammo,,,,,,,,,,,
-Ammo Small Calibre SS/Code,SS,,,,,,,,,,,
-Ammo Small Calibre SS Description,Flares designed to be fired from small caliber guns.,,,,,,,,,,,
-Replacement Parts,Replacement parts,,,,,,,,,,,
-Replacement Parts Description,The engineers need these to repair broken equipment and water leaks on board.,,,,,,,,,,,
-Large Wooden Chest,Large wooden box,,,,,,,,,,,
-Large Wooden Chest Target,large wooden box,,,,,,,,,,,
-Pontoon,Pontoon,,,,,,,,,,,
-Pontoon Target,pontoon,,,,,,,,,,,
-Diving Suit,Diving suit,,,,,,,,,,,
-Diving Suit Description,It's required to dive to a wreck.,,,,,,,,,,,
-Rebreather,Breathing apparatus,,,,,,,,,,,
-Rebreather Description,"It allows a sailor to stay and work in compartments underwater or with toxic air. It's equipped automatically when needed, but it wears out in time.",,,,,,,,,,,
-Combat Helmet,Combat helmet,,,,,,,,,,,
-Combat Helmet Description,"Protects from some damage that would normally be inflicted to the officer, but wears out in that process.",,,,,,,,,,,
-Briefcase,Briefcase,,,,,,,,,,,
-Briefcase Description,Personal briefcase of officer Kohler.,,,,,,,,,,,
-Water,Water,,,,,,,,,,,
-Water Description,Residual water in the compartment.,,,,,,,,,,,
-Radar Prototype,Radar prototype,,,,,,,,,,,
-Radar Prototype Description,Prototype of the experimental radar that we need to obtain for headquarters.,,,,,,,,,,,
-Dried Fish,Dried Fish,,,,,,,,,,,
-Dried Fish Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.,,,,,,,,,,,
-Vegetables,Vegetables,,,,,,,,,,,
-Vegetables Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.,,,,,,,,,,,
-Canned Bread,Canned Bread,,,,,,,,,,,
-Canned Bread Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.,,,,,,,,,,,
-Dried Potatoes,Dried Potatoes,,,,,,,,,,,
-Dried Potatoes Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.,,,,,,,,,,,
-Sausages,Sausages,,,,,,,,,,,
-Sausages Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.,,,,,,,,,,,
-Meatballs,Meatballs,,,,,,,,,,,
-Meatballs Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.,,,,,,,,,,,
-Preserved Pork,Preserved Pork,,,,,,,,,,,
-Preserved Pork Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.,,,,,,,,,,,
-Canned Meat,Canned Meat,,,,,,,,,,,
-Canned Meat Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.,,,,,,,,,,,
-Canned Fish,Canned Fish,,,,,,,,,,,
-Canned Fish Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.,,,,,,,,,,,
-Fuel,Fuel,,,,,,,,,,,
-Scrap,Scrap metal,,,,,,,,,,,
-Scrap Description,Engineers can salvage spare parts from it at a ratio of 2:1.,,,,,,,,,,,
-Coffee,Coffee,,,,,,,,,,,
-Coffee Description,Drinking coffee recovers officer's energy by about 20%.,,,,,,,,,,,
-Small Arms,Small Arms,,,,,,,,,,,
-Small Arms Description,Small arms may be useful for officers going on dangerous missions outside.,,,,,,,,,,,
-Sonar Decoy,"Sonar Decoy ""Bold""",,,,,,,,,,,
-Sonar Decoy Description,"This decoy can be ejected through the ""pills launcher"" in the stern torpedo room to create a false target for enemy sonars.",,,,,,,,,,,
-Iron Cross 2nd Class,Iron Cross 2nd Class,,,,,,,,,,,
-Iron Cross 2nd Class Description,Iron Cross decoration was established in 1813 by King Friedrich Wilhelm III of Prussia. It has a long tradition in German military. It's awarded for a single act of bravery in the battle. The black core is made of solid iron and the frame is made of alloy called German silver.,,,,,,,,,,,
-Iron Cross 1st Class,Iron Cross 1st Class,,,,,,,,,,,
-Iron Cross 1st Class Description,Iron Cross 1st Class is awarded for repeated acts of bravery in the battle. It's a higher tier of Iron Cross decoration and comes with a pin at the back instead of ribbon.,,,,,,,,,,,
-German Cross in Silver,German Cross in Silver,,,,,,,,,,,
-German Cross in Silver Description,German Cross in Silver,,,,,,,,,,,
-German Cross in Gold,German Cross in Gold,,,,,,,,,,,
-German Cross in Gold Description,"German Cross in Gold is a newly established decoration awarded for repeated acts of bravery in combat. It's ranked higher than Iron Cross and paves the way to reputable Knight's Cross decoration. Crews commonly call this decoration a ""fried egg"" due to the shape it has.",,,,,,,,,,,
-Knight's Cross,Knight's Cross,,,,,,,,,,,
-Knight's Cross Description,Knight's Cross is a very respectable decoration granted for exceptional acts of bravery. It's the highest type of decoration in German military. Core of this award is made of iron and the frame is 800 grade silver.,,,,,,,,,,,
-Knight's Cross with Oak Leaves,Knight's Cross with Oak Leaves,,,,,,,,,,,
-Knight's Cross with Oak Leaves Description,Oak Leaves on the Knight's Cross decoration were awarded to only the best skippers with exceptional skills. It's a very respectable decoration.,,,,,,,,,,,
-Knight's Cross with Oak Leaves and Crossed Swords,Knight's Cross with Oak Leaves and Crossed Swords,,,,,,,,,,,
-Knight's Cross with Oak Leaves and Crossed Swords Description,Crossed Swords on the Knight's Cross are the next addition to the Knight's Cross meant for recipients of Oak Leaves. It's a very respectable decoration and only a few Kriegsmarine officers received it.,,,,,,,,,,,
-"Knight's Cross with Oak Leaves, Crossed Swords and Diamonds","Knight's Cross with Oak Leaves, Crossed Swords and Diamonds",,,,,,,,,,,
-"Knight's Cross with Oak Leaves, Crossed Swords and Diamonds Description",Diamonds are the last addition to the Knight's Cross. Very few Kriegsmarine officers received such high award.,,,,,,,,,,,
-"Knight's Cross with Golden Oak Leaves, Swords, and Diamonds","Knight's Cross with Golden Oak Leaves, Swords, and Diamonds",,,,,,,,,,,
-"Knight's Cross with Golden Oak Leaves, Swords, and Diamonds Description",This is the highest grade of Knight's Cross decoration in the German military received only by a single other recipient from Luftwaffe. It's the highest honor to be a recipient of such decoration.,,,,,,,,,,,
-U-boat War Badge,U-boat War Badge,,,,,,,,,,,
-U-boat War Badge Description,U-boat War Badge is awarded to crew members that participated in 2 war patrols. It was originally instituted during World War I.,,,,,,,,,,,
-U-boat War Badge with Diamonds,U-boat War Badge with Diamonds,,,,,,,,,,,
-U-boat War Badge with Diamonds Description,This decoration is awarded to crew members that participated in 8 war patrols. This decoration was instituted from the personal initiative of admiral D?nitz.,,,,,,,,,,,
-U-boat Front Clasp in Bronze,U-boat Front Clasp in Bronze,,,,,,,,,,,
-U-boat Front Clasp in Bronze Description,It's an exclusive decoration for U-boat force members that recognizes continued valor in combat. It's awarded to crew members that participated in 15 war patrols.,,,,,,,,,,,
-U-boat Front Clasp in Silver,U-boat Front Clasp in Silver,,,,,,,,,,,
-U-boat Front Clasp in Silver Description,It's an exclusive decoration for U-boat force members that recognizes continued valor in combat. It's awarded to crew members that participated in 25 war patrols.,,,,,,,,,,,
-U-boat Front Clasp in Gold,U-boat Front Clasp in Gold,,,,,,,,,,,
-U-boat Front Clasp in Gold Description,It's an exclusive decoration for U-boat force members that recognizes continued valor in combat. It's awarded to crew members that participated in 40 war patrols.,,,,,,,,,,,
-Wound Badge in Black,Wound Badge in Black,,,,,,,,,,,
-Wound Badge in Black Description,It's a token of appreciation for those wounded at least twice in action.,,,,,,,,,,,
-Wound Badge in Silver,Wound Badge in Silver,,,,,,,,,,,
-Wound Badge in Silver Description,It's a token of appreciation for those wounded at least four times in action.,,,,,,,,,,,
-Wound Badge in Gold,Wound Badge in Gold,,,,,,,,,,,
-Wound Badge in Gold Description,It's a token of appreciation for those wounded at least six times in action.,,,,,,,,,,,
-Weather Station,Weather Station,,,,,,,,,,,
-Weather Station Description,Automatic weather station,,,,,,,,,,,
-Karabiner 98k,Karabiner 98k,,,,,,,,,,,
-Karabiner 98k Description,Bolt-action rifle,,,,,,,,,,,
-Fresh Bread,Fresh Bread,,,,,,,,,,,
-Fresh Bread Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.,,,,,,,,,,,
-G7a Torpedo T1 - Pi1,G7a torpedo T1 - Pi1,,,,,,,,,,,
+Key,English
+G7a Torpedo (T1),G7a torpedo (T1)
+G7a Torpedo (T1) Description,Steam propelled torpedo.
+G7e Torpedo (T2),G7e torpedo (T2)
+G7e Torpedo (T2) Description,Electric torpedo.
+G7e Torpedo (T3),G7e torpedo (T3)
+G7e Torpedo (T3) Description,Electric torpedo.
+G7es Zaunk?nig Torpedo (T5),"G7es ""Zaunk?nig"" torpedo (T5)"
+G7es Zaunk?nig Torpedo (T5) Description,Electric homing torpedo.
+G7e Torpedo (T3) Prototype,G7e torpedo prototype (T3)
+G7e Torpedo (T3) Prototype Description,Electric torpedo.
+"G7es ""Zaunk?nig"" Torpedo (T5) Prototype","G7es ""Zaunk?nig"" torpedo prototype (T5)"
+"G7es ""Zaunk?nig"" Torpedo (T5) Prototype Description",Electric homing torpedo.
+G7a Torpedo (T1) (Warmed),G7a torpedo (T1)
+G7a Torpedo (T1) (Warmed) Description,Steam propelled torpedo.
+G7e Torpedo (T2) (Warmed),G7e torpedo (T2)
+G7e Torpedo (T2) (Warmed) Description,Electric torpedo.
+G7e Torpedo (T3) (Warmed),G7e torpedo (T3)
+G7e Torpedo (T3) (Warmed) Description,Electric torpedo.
+G7es Zaunk?nig Torpedo (T5) (Warmed),"G7es ""Zaunk?nig"" torpedo (T5)"
+G7es Zaunk?nig Torpedo (T5) (Warmed) Description,Electric homing torpedo.
+G7e Torpedo (T3) Prototype (Warmed),G7e torpedo prototype (T3)
+G7e Torpedo (T3) Prototype (Warmed) Description,Electric torpedo.
+"G7es ""Zaunk?nig"" Torpedo (T5) Prototype (Warmed)","G7es ""Zaunk?nig"" torpedo prototype (T5)"
+"G7es ""Zaunk?nig"" Torpedo (T5) Prototype (Warmed) Description",Electric homing torpedo.
+TMB Mine x3,TMB mine x3
+TMB Mine x3 Description,Mine
+FuMB 26 ?Tunis‚Äù,"FuMB 26 ""Tunis"""
+FuMB 26 ?Tunis‚Äù Description,"Tunis is the latest anti-radar technology that can detect 3 cm radars. Allies haven't yet developed their radar technology that far, but Tunis also has the best range among all radar detectors and also can indicate the direction of incoming signal."
+FuMB 10 ?Borkum‚Äù,"FuMB 10 ""Borkum"""
+FuMB 10 ?Borkum‚Äù Description,"Borkum is a radar detector that can detect Allied centimetric radars that are invisible to Metox, yet it has a limited range and cannot indicate the direction of incoming signal."
+FuMB 7 ?Naxos I‚Äù,"FuMB 7 ""Naxos I"""
+FuMB 7 ?Naxos I‚Äù Description,Naxos I is a reliable device that can detect Allied centimetric radars with a bit better range than Borkum and ability to indicate the direction of incoming signal.
+FuMB 1 ?Metox‚Äù,"FuMB 1 ""Metox"""
+FuMB 1 ?Metox‚Äù Description,"Metox is a device consisting of a rudimentary wooden antenna, yet very effective. It's tuned to pick up British ASV radar and alert the crew of incoming danger."
+Netzabweiser Antenne,Netzabweiser Antenne
+Netzabweiser Antenne Description,Basic antenna used for long range communication and direction finding.
+Potassium Absorbers,Potassium Absorbers
+Potassium Absorbers Description,Potassium permanganate in the absorbers reacts with carbon dioxide and effectively clears it from air extending the time of its usefulness for breathing.
+Cheese,Cheese
+Cheese Description,A common food ration. Put it in the kitchen to use it for cooking.
+Exotic Fruits,Exotic fruits
+Exotic Fruits Description,A luxury food ration. Put it in the kitchen to use it for cooking.
+MedKit,Medkit
+MedKit Description,A medkit for wounded or sick people. It's best used by an officer with proper medical training.
+Ammo Large Calibre HE,Large Caliber HE Ammo
+Ammo Large Calibre HE/Code,HE
+Ammo Large Calibre HE Description,"HE ammunition causing standard damage to ship‚Äôs hulls and crew, having a large damage radius and increased ability to cause a fire."
+Ammo Small Calibre HE,Small Caliber HE Ammo
+Ammo Small Calibre HE/Code,HE
+Ammo Small Calibre HE Description,"HE ammunition causing standard damage to ship‚Äôs hulls and crew, having a large damage radius and increased ability to cause a fire."
+Ammo Large Calibre AP,Large Caliber AP Ammo
+Ammo Large Calibre AP/Code,AP
+Ammo Large Calibre AP Description,AP ammunition causing high damage to hulls.
+Ammo Small Calibre AP,Small Caliber AP Ammo
+Ammo Small Calibre AP/Code,AP
+Ammo Small Calibre AP Description,AP ammunition causing high damage to hulls.
+Ammo Large Calibre AA,Large Caliber AA Ammo
+Ammo Large Calibre AA/Code,AA
+Ammo Large Calibre AA Description,"AA ammo is set to detonate after a specified period of time, thus increasing the chances of including a plane in its damage radius."
+Ammo Small Calibre AA,Small Caliber AA Ammo
+Ammo Small Calibre AA/Code,AA
+Ammo Small Calibre AADescription,"AA ammo is set to detonate after a specified period of time, thus increasing the chances of including a plane in its damage radius."
+Ammo Large Calibre SS,Large Caliber SS Ammo
+Ammo Large Calibre SS/Code,SS
+Ammo Large Calibre SS Description,Flares designed to be fired from large caliber guns.
+Ammo Small Calibre SS,Small Caliber SS Ammo
+Ammo Small Calibre SS/Code,SS
+Ammo Small Calibre SS Description,Flares designed to be fired from small caliber guns.
+Replacement Parts,Replacement parts
+Replacement Parts Description,The engineers need these to repair broken equipment and water leaks on board.
+Large Wooden Chest,Large wooden box
+Large Wooden Chest Target,large wooden box
+Pontoon,Pontoon
+Pontoon Target,pontoon
+Diving Suit,Diving suit
+Diving Suit Description,It's required to dive to a wreck.
+Rebreather,Breathing apparatus
+Rebreather Description,"It allows a sailor to stay and work in compartments underwater or with toxic air. It's equipped automatically when needed, but it wears out in time."
+Combat Helmet,Combat helmet
+Combat Helmet Description,"Protects from some damage that would normally be inflicted to the officer, but wears out in that process."
+Briefcase,Briefcase
+Briefcase Description,Personal briefcase of officer Kohler.
+Water,Water
+Water Description,Residual water in the compartment.
+Radar Prototype,Radar prototype
+Radar Prototype Description,Prototype of the experimental radar that we need to obtain for headquarters.
+Dried Fish,Dried Fish
+Dried Fish Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.
+Vegetables,Vegetables
+Vegetables Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.
+Canned Bread,Canned Bread
+Canned Bread Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.
+Dried Potatoes,Dried Potatoes
+Dried Potatoes Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.
+Sausages,Sausages
+Sausages Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.
+Meatballs,Meatballs
+Meatballs Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.
+Preserved Pork,Preserved Pork
+Preserved Pork Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.
+Canned Meat,Canned Meat
+Canned Meat Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.
+Canned Fish,Canned Fish
+Canned Fish Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.
+Fuel,Fuel
+Scrap,Scrap metal
+Scrap Description,Engineers can salvage spare parts from it at a ratio of 2:1.
+Coffee,Coffee
+Coffee Description,Drinking coffee recovers officer's energy by about 20%.
+Small Arms,Small Arms
+Small Arms Description,Small arms may be useful for officers going on dangerous missions outside.
+Sonar Decoy,"Sonar Decoy ""Bold"""
+Sonar Decoy Description,"This decoy can be ejected through the ""pills launcher"" in the stern torpedo room to create a false target for enemy sonars."
+Iron Cross 2nd Class,Iron Cross 2nd Class
+Iron Cross 2nd Class Description,Iron Cross decoration was established in 1813 by King Friedrich Wilhelm III of Prussia. It has a long tradition in German military. It's awarded for a single act of bravery in the battle. The black core is made of solid iron and the frame is made of alloy called German silver.
+Iron Cross 1st Class,Iron Cross 1st Class
+Iron Cross 1st Class Description,Iron Cross 1st Class is awarded for repeated acts of bravery in the battle. It's a higher tier of Iron Cross decoration and comes with a pin at the back instead of ribbon.
+German Cross in Silver,German Cross in Silver
+German Cross in Silver Description,German Cross in Silver
+German Cross in Gold,German Cross in Gold
+German Cross in Gold Description,"German Cross in Gold is a newly established decoration awarded for repeated acts of bravery in combat. It's ranked higher than Iron Cross and paves the way to reputable Knight's Cross decoration. Crews commonly call this decoration a ""fried egg"" due to the shape it has."
+Knight's Cross,Knight's Cross
+Knight's Cross Description,Knight's Cross is a very respectable decoration granted for exceptional acts of bravery. It's the highest type of decoration in German military. Core of this award is made of iron and the frame is 800 grade silver.
+Knight's Cross with Oak Leaves,Knight's Cross with Oak Leaves
+Knight's Cross with Oak Leaves Description,Oak Leaves on the Knight's Cross decoration were awarded to only the best skippers with exceptional skills. It's a very respectable decoration.
+Knight's Cross with Oak Leaves and Crossed Swords,Knight's Cross with Oak Leaves and Crossed Swords
+Knight's Cross with Oak Leaves and Crossed Swords Description,Crossed Swords on the Knight's Cross are the next addition to the Knight's Cross meant for recipients of Oak Leaves. It's a very respectable decoration and only a few Kriegsmarine officers received it.
+"Knight's Cross with Oak Leaves, Crossed Swords and Diamonds","Knight's Cross with Oak Leaves, Crossed Swords and Diamonds"
+"Knight's Cross with Oak Leaves, Crossed Swords and Diamonds Description",Diamonds are the last addition to the Knight's Cross. Very few Kriegsmarine officers received such high award.
+"Knight's Cross with Golden Oak Leaves, Swords, and Diamonds","Knight's Cross with Golden Oak Leaves, Swords, and Diamonds"
+"Knight's Cross with Golden Oak Leaves, Swords, and Diamonds Description",This is the highest grade of Knight's Cross decoration in the German military received only by a single other recipient from Luftwaffe. It's the highest honor to be a recipient of such decoration.
+U-boat War Badge,U-boat War Badge
+U-boat War Badge Description,U-boat War Badge is awarded to crew members that participated in 2 war patrols. It was originally instituted during World War I.
+U-boat War Badge with Diamonds,U-boat War Badge with Diamonds
+U-boat War Badge with Diamonds Description,This decoration is awarded to crew members that participated in 8 war patrols. This decoration was instituted from the personal initiative of admiral D?nitz.
+U-boat Front Clasp in Bronze,U-boat Front Clasp in Bronze
+U-boat Front Clasp in Bronze Description,It's an exclusive decoration for U-boat force members that recognizes continued valor in combat. It's awarded to crew members that participated in 15 war patrols.
+U-boat Front Clasp in Silver,U-boat Front Clasp in Silver
+U-boat Front Clasp in Silver Description,It's an exclusive decoration for U-boat force members that recognizes continued valor in combat. It's awarded to crew members that participated in 25 war patrols.
+U-boat Front Clasp in Gold,U-boat Front Clasp in Gold
+U-boat Front Clasp in Gold Description,It's an exclusive decoration for U-boat force members that recognizes continued valor in combat. It's awarded to crew members that participated in 40 war patrols.
+Wound Badge in Black,Wound Badge in Black
+Wound Badge in Black Description,It's a token of appreciation for those wounded at least twice in action.
+Wound Badge in Silver,Wound Badge in Silver
+Wound Badge in Silver Description,It's a token of appreciation for those wounded at least four times in action.
+Wound Badge in Gold,Wound Badge in Gold
+Wound Badge in Gold Description,It's a token of appreciation for those wounded at least six times in action.
+Weather Station,Weather Station
+Weather Station Description,Automatic weather station
+Karabiner 98k,Karabiner 98k
+Karabiner 98k Description,Bolt-action rifle
+Fresh Bread,Fresh Bread
+Fresh Bread Description,A standard food ration. Place it in the galley so the cook can use it to make dishes.
+G7a Torpedo T1 - Pi1,G7a torpedo T1 - Pi1
 G7a Torpedo T1 - Pi1 Description,"A standard issue, steam-powered Kriegsmarine torpedo with Pi1 pistol. We are aware of some issues with this pistol design:
 - Torpedoes on the impact (AZ) setting must hit the target at an angle close to 90 degrees to explode.
-- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target.",,,,,,,,,,,
-G7a Torpedo T1 - Pi1.1,G7a torpedo T1 - Pi1/v2,,,,,,,,,,,
+- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target."
+G7a Torpedo T1 - Pi1.1,G7a torpedo T1 - Pi1/v2
 G7a Torpedo T1 - Pi1.1 Description,"A standard issue, steam-powered Kriegsmarine torpedo with a revised version of Pi1 pistol.
 - The revised version of the pistol has a reliable impact (AZ) setting that works well at impact angles below 60 degrees, although it may occasionally trigger even at angle reaching 84 degrees.
-- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target.",,,,,,,,,,,
-G7a Torpedo T1 - Pi3,G7a torpedo T1 - Pi3,,,,,,,,,,,
-G7a Torpedo T1 - Pi3 Description,"A standard issue, steam-powered Kriegsmarine torpedo with a very reliable pistol design - Pi3.",,,,,,,,,,,
-G7a Torpedo T1 - Pi3 - FAT,G7a torpedo T1 - Pi3 - FAT,,,,,,,,,,,
+- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target."
+G7a Torpedo T1 - Pi3,G7a torpedo T1 - Pi3
+G7a Torpedo T1 - Pi3 Description,"A standard issue, steam-powered Kriegsmarine torpedo with a very reliable pistol design - Pi3."
+G7a Torpedo T1 - Pi3 - FAT,G7a torpedo T1 - Pi3 - FAT
 G7a Torpedo T1 - Pi3 - FAT Description,"A standard issue, steam-powered Kriegsmarine torpedo with a very reliable pistol design - Pi3.
 
-This torpedo has a control mechanism for the FAT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy.",,,,,,,,,,,
-G7a Torpedo T1 - Pi3 - LUT,G7a torpedo T1 - Pi3 - LUT,,,,,,,,,,,
+This torpedo has a control mechanism for the FAT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy."
+G7a Torpedo T1 - Pi3 - LUT,G7a torpedo T1 - Pi3 - LUT
 G7a Torpedo T1 - Pi3 - LUT Description,"A standard issue, steam-powered Kriegsmarine torpedo with a very reliable pistol design - Pi3.
 
-This torpedo has a control mechanism for the LUT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy.",,,,,,,,,,,
-G7e Torpedo T2 - Pi1,G7e torpedo T2 - Pi1,,,,,,,,,,,
+This torpedo has a control mechanism for the LUT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy."
+G7e Torpedo T2 - Pi1,G7e torpedo T2 - Pi1
 G7e Torpedo T2 - Pi1 Description,"A standard issue, electric Kriegsmarine torpedo with Pi1 pistol. We are aware of some issues with this pistol design:
 - Torpedoes on the impact (AZ) setting must hit the target at an angle close to 90 degrees to explode.
-- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target.",,,,,,,,,,,
-G7e Torpedo T2 - Pi1.1,G7e torpedo T2 - Pi1/v2,,,,,,,,,,,
+- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target."
+G7e Torpedo T2 - Pi1.1,G7e torpedo T2 - Pi1/v2
 G7e Torpedo T2 - Pi1.1 Description,"A standard issue, electric Kriegsmarine torpedo with a revised version of Pi1 pistol.
 - The revised version of the pistol has a reliable impact (AZ) setting that works well at impact angles below 60 degrees, although it may occasionally trigger even at angle reaching 84 degrees.
-- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target.",,,,,,,,,,,
-G7e Torpedo T3 - Pi2,G7e torpedo T3 - Pi2,,,,,,,,,,,
-G7e Torpedo T3 - Pi2 Description,T3 torpedo design has increased range over its T2 predecessors and uses a new Pi2 pistol design that is considered to be very reliable among u-boat skippers.,,,,,,,,,,,
-G7e Torpedo T3 - Pi2 - FAT,G7e torpedo T3 - Pi2 - FAT,,,,,,,,,,,
+- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target."
+G7e Torpedo T3 - Pi2,G7e torpedo T3 - Pi2
+G7e Torpedo T3 - Pi2 Description,T3 torpedo design has increased range over its T2 predecessors and uses a new Pi2 pistol design that is considered to be very reliable among u-boat skippers.
+G7e Torpedo T3 - Pi2 - FAT,G7e torpedo T3 - Pi2 - FAT
 G7e Torpedo T3 - Pi2 - FAT Description,"T3 torpedo design has increased range over its T2 predecessors and uses a new Pi2 pistol design that is considered to be very reliable among u-boat skippers.
 
-This torpedo has a control mechanism for the FAT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy.",,,,,,,,,,,
-G7e Torpedo T3 - Pi2 - LUT,G7e torpedo T3 - Pi2 - LUT,,,,,,,,,,,
+This torpedo has a control mechanism for the FAT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy."
+G7e Torpedo T3 - Pi2 - LUT,G7e torpedo T3 - Pi2 - LUT
 G7e Torpedo T3 - Pi2 - LUT Description,"T3 torpedo design has increased range over its T2 predecessors and uses a new Pi2 pistol design that is considered to be very reliable among u-boat skippers.
 
-This torpedo has a control mechanism for the LUT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy.",,,,,,,,,,,
-G7e Torpedo T3 - Pi2 - Prototype,G7e torpedo T3 prototype - Pi2,,,,,,,,,,,
-G7e Torpedo T3 - Pi2 - Prototype Description,T3 torpedo design has increased range over its T2 predecessors and uses a new Pi2 pistol design that is considered to be very reliable among u-boat skippers.,,,,,,,,,,,
-G7es Zaunk?nig Torpedo T5 - Pi4,"G7es ""Zaunk?nig"" torpedo T5 - Pi4",,,,,,,,,,,
-G7es Zaunk?nig Torpedo T5 - Pi4 Description,T5 torpedoes use a novel technology of homing on the nearby propeller sounds and also use a very reliable pistol design. The homing mechanism is most sensitive to the propeller sounds emitted by the merchant ships.,,,,,,,,,,,
-G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype,"G7es ""Zaunk?nig"" torpedo T5 prototype - Pi4",,,,,,,,,,,
-G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype Description,T5 torpedoes use a novel technology of homing on the nearby propeller sounds and also use a very reliable pistol design. The homing mechanism is most sensitive to the propeller sounds emitted by the merchant ships.,,,,,,,,,,,
-G7a Torpedo T1 - Pi1 (Warmed),G7a torpedo T1 - Pi1,,,,,,,,,,,
+This torpedo has a control mechanism for the LUT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy."
+G7e Torpedo T3 - Pi2 - Prototype,G7e torpedo T3 prototype - Pi2
+G7e Torpedo T3 - Pi2 - Prototype Description,T3 torpedo design has increased range over its T2 predecessors and uses a new Pi2 pistol design that is considered to be very reliable among u-boat skippers.
+G7es Zaunk?nig Torpedo T5 - Pi4,"G7es ""Zaunk?nig"" torpedo T5 - Pi4"
+G7es Zaunk?nig Torpedo T5 - Pi4 Description,T5 torpedoes use a novel technology of homing on the nearby propeller sounds and also use a very reliable pistol design. The homing mechanism is most sensitive to the propeller sounds emitted by the merchant ships.
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype,"G7es ""Zaunk?nig"" torpedo T5 prototype - Pi4"
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype Description,T5 torpedoes use a novel technology of homing on the nearby propeller sounds and also use a very reliable pistol design. The homing mechanism is most sensitive to the propeller sounds emitted by the merchant ships.
+G7a Torpedo T1 - Pi1 (Warmed),G7a torpedo T1 - Pi1
 G7a Torpedo T1 - Pi1 (Warmed) Description,"A standard issue, steam-powered Kriegsmarine torpedo with Pi1 pistol. We are aware of some issues with this pistol design:
 - Torpedoes on the impact (AZ) setting must hit the target at an angle close to 90 degrees to explode.
-- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target.",,,,,,,,,,,
-G7a Torpedo T1 - Pi1.1 (Warmed),G7a torpedo T1 - Pi1/v2,,,,,,,,,,,
+- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target."
+G7a Torpedo T1 - Pi1.1 (Warmed),G7a torpedo T1 - Pi1/v2
 G7a Torpedo T1 - Pi1.1 (Warmed) Description,"A standard issue, steam-powered Kriegsmarine torpedo with a revised version of Pi1 pistol.
 - The revised version of the pistol has a reliable impact (AZ) setting that works well at impact angles below 60 degrees counting from the right angle, although it may occasionally trigger even at angle reaching 84 degrees.
-- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target.",,,,,,,,,,,
-G7a Torpedo T1 - Pi3 (Warmed),G7a torpedo T1 - Pi3,,,,,,,,,,,
-G7a Torpedo T1 - Pi3 (Warmed) Description,"A standard issue, steam-powered Kriegsmarine torpedo with a very reliable pistol design - Pi3.",,,,,,,,,,,
-G7a Torpedo T1 - Pi3 - FAT (Warmed),G7a torpedo T1 - Pi3 - FAT,,,,,,,,,,,
+- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target."
+G7a Torpedo T1 - Pi3 (Warmed),G7a torpedo T1 - Pi3
+G7a Torpedo T1 - Pi3 (Warmed) Description,"A standard issue, steam-powered Kriegsmarine torpedo with a very reliable pistol design - Pi3."
+G7a Torpedo T1 - Pi3 - FAT (Warmed),G7a torpedo T1 - Pi3 - FAT
 G7a Torpedo T1 - Pi3 - FAT (Warmed) Description,"A standard issue, steam-powered Kriegsmarine torpedo with a very reliable pistol design - Pi3.
 
-This torpedo has a control mechanism for the FAT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy.",,,,,,,,,,,
-G7a Torpedo T1 - Pi3 - LUT (Warmed),G7a torpedo T1 - Pi3 - LUT,,,,,,,,,,,
+This torpedo has a control mechanism for the FAT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy."
+G7a Torpedo T1 - Pi3 - LUT (Warmed),G7a torpedo T1 - Pi3 - LUT
 G7a Torpedo T1 - Pi3 - LUT (Warmed) Description,"A standard issue, steam-powered Kriegsmarine torpedo with a very reliable pistol design - Pi3.
 
-This torpedo has a control mechanism for the LUT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy.",,,,,,,,,,,
-G7e Torpedo T2 - Pi1 (Warmed),G7e torpedo T2 - Pi1,,,,,,,,,,,
+This torpedo has a control mechanism for the LUT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy."
+G7e Torpedo T2 - Pi1 (Warmed),G7e torpedo T2 - Pi1
 G7e Torpedo T2 - Pi1 (Warmed) Description,"A standard issue, electric Kriegsmarine torpedo with Pi1 pistol. We are aware of some issues with this pistol design:
 - Torpedoes on the impact (AZ) setting must hit the target at an angle close to 90 degrees to explode.
-- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target.",,,,,,,,,,,
-G7e Torpedo T2 - Pi1.1 (Warmed),G7e torpedo T2 - Pi1/v2,,,,,,,,,,,
+- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target."
+G7e Torpedo T2 - Pi1.1 (Warmed),G7e torpedo T2 - Pi1/v2
 G7e Torpedo T2 - Pi1.1 (Warmed) Description,"A standard issue, electric Kriegsmarine torpedo with a revised version of Pi1 pistol.
 - The revised version of the pistol has a reliable impact (AZ) setting that works well at impact angles below 60 degrees counting from the right angle, although it may occasionally trigger even at angle reaching 84 degrees.
-- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target.",,,,,,,,,,,
-G7e Torpedo T3 - Pi2 (Warmed),G7e torpedo T3 - Pi2,,,,,,,,,,,
-G7e Torpedo T3 - Pi2 (Warmed) Description,T3 torpedo design has increased range over its T2 predecessors and uses a new Pi2 pistol design that is considered to be very reliable among u-boat skippers.,,,,,,,,,,,
-G7e Torpedo T3 - Pi2 - FAT (Warmed),G7e torpedo T3 - Pi2 - FAT,,,,,,,,,,,
+- Launched torpedoes on magnetic (MZ) setting may explode on their own before they reach the target."
+G7e Torpedo T3 - Pi2 (Warmed),G7e torpedo T3 - Pi2
+G7e Torpedo T3 - Pi2 (Warmed) Description,T3 torpedo design has increased range over its T2 predecessors and uses a new Pi2 pistol design that is considered to be very reliable among u-boat skippers.
+G7e Torpedo T3 - Pi2 - FAT (Warmed),G7e torpedo T3 - Pi2 - FAT
 G7e Torpedo T3 - Pi2 - FAT (Warmed) Description,"T3 torpedo design has increased range over its T2 predecessors and uses a new Pi2 pistol design that is considered to be very reliable among u-boat skippers.
 
-This torpedo has a control mechanism for the FAT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy.",,,,,,,,,,,
-G7e Torpedo T3 - Pi2 - LUT (Warmed),G7e torpedo T3 - Pi2 - LUT,,,,,,,,,,,
+This torpedo has a control mechanism for the FAT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy."
+G7e Torpedo T3 - Pi2 - LUT (Warmed),G7e torpedo T3 - Pi2 - LUT
 G7e Torpedo T3 - Pi2 - LUT (Warmed) Description,"T3 torpedo design has increased range over its T2 predecessors and uses a new Pi2 pistol design that is considered to be very reliable among u-boat skippers.
 
-This torpedo has a control mechanism for the LUT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy.",,,,,,,,,,,
-G7e Torpedo T3 - Pi2 - Prototype (Warmed),G7e torpedo T3 prototype - Pi2,,,,,,,,,,,
-G7e Torpedo T3 - Pi2 - Prototype (Warmed) Description,T3 torpedo design has increased range over its T2 predecessors and uses a new Pi2 pistol design that is considered to be very reliable among u-boat skippers.,,,,,,,,,,,
-G7es Zaunk?nig Torpedo T5 - Pi4 (Warmed),"G7es ""Zaunk?nig"" torpedo T5 - Pi4",,,,,,,,,,,
-G7es Zaunk?nig Torpedo T5 - Pi4 (Warmed) Description,T5 torpedoes use a novel technology of homing on the nearby propeller sounds and also use a very reliable pistol design. The homing mechanism is most sensitive to the propeller sounds emitted by the merchant ships.,,,,,,,,,,,
-G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype (Warmed),"G7es ""Zaunk?nig"" torpedo T5 - Pi4",,,,,,,,,,,
-G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype (Warmed) Description,T5 torpedoes use a novel technology of homing on the nearby propeller sounds and also use a very reliable pistol design. The homing mechanism is most sensitive to the propeller sounds emitted by the merchant ships.,,,,,,,,,,,
-Iron Ore,Iron Ore,,,,,,,,,,,
-Iron Ore Description,Rocks and minerals from which metallic iron can be extracted. Basic raw material in iron metallurgy.,,,,,,,,,,,
-Coal,Coal,,,,,,,,,,,
-Coal Description,"Hard coal is widely used mainly in energy and industry, but also as a fuel.",,,,,,,,,,,
-Lumber,Lumber,,,,,,,,,,,
-Lumber Description,"Wood that has been processed into beams and planks. Lumber is mainly used for structural purposes, but has many other uses as well.",,,,,,,,,,,
-Tea,Tea,,,,,,,,,,,
-Tea Description,Finest tea leaves from China that are used to make a hot infusion.  ,,,,,,,,,,,
-Grains,Grains,,,,,,,,,,,
-Grains Description,Seeds useful in the production of many types of food mainly in bakery. Also used as fodder for livestock.,,,,,,,,,,,
-Rubber,Rubber,,,,,,,,,,,
-Rubber Description,"Natural rubber is essential raw material used in the creation of many products, e.g. gas masks, life rafts, military wiring. It is intermediate for obtaining rubber by vulcanization.",,,,,,,,,,,
-Tire,Tire,,,,,,,,,,,
-Tire Description,Car tires.,,,,,,,,,,,
-Gold,Gold,,,,,,,,,,,
-Gold Description,Large tranche of gold bars.,,,,,,,,,,,
-Money,Money,,,,,,,,,,,
-Money Description,"Banknotes, coins and securities.",,,,,,,,,,,
-Valuables,Valuables,,,,,,,,,,,
-Valuables Description,"Precious items, jewellery, coins.",,,,,,,,,,,
-Tobacco,Tobacco,,,,,,,,,,,
-Tobacco Description,Top quality tobacco from Cuba.,,,,,,,,,,,
-Oil,Oil,,,,,,,,,,,
-Enigma Machine,Enigma Machine,,,,,,,,,,,
-Enigma Machine Description,A portable electromechanical encryption machine based on a mechanism of rotating rotors.,,,,,,,,,,,
-/Cargo,English,,,,,,,,,,,
-Food,food,,,,,,,,,,,
-Resources,raw resources,,,,,,,,,,,
-Utilities,utilities,,,,,,,,,,,
-Rubber,rubber,,,,,,,,,,,
-Valuables,valuables,,,,,,,,,,,
-Tea,tea,,,,,,,,,,,
-Tobacco,tobacco,,,,,,,,,,,
-Medical,medical supplies,,,,,,,,,,,
-DepthCharges,depth charges,,,,,,,,,,,
-Ammunition,ammunition,,,,,,,,,,,
-Oil,oil,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+This torpedo has a control mechanism for the LUT program. In case of a miss, this torpedo will follow a special pattern that increases the chance of scoring a random hit when fired inside a convoy."
+G7e Torpedo T3 - Pi2 - Prototype (Warmed),G7e torpedo T3 prototype - Pi2
+G7e Torpedo T3 - Pi2 - Prototype (Warmed) Description,T3 torpedo design has increased range over its T2 predecessors and uses a new Pi2 pistol design that is considered to be very reliable among u-boat skippers.
+G7es Zaunk?nig Torpedo T5 - Pi4 (Warmed),"G7es ""Zaunk?nig"" torpedo T5 - Pi4"
+G7es Zaunk?nig Torpedo T5 - Pi4 (Warmed) Description,T5 torpedoes use a novel technology of homing on the nearby propeller sounds and also use a very reliable pistol design. The homing mechanism is most sensitive to the propeller sounds emitted by the merchant ships.
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype (Warmed),"G7es ""Zaunk?nig"" torpedo T5 - Pi4"
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype (Warmed) Description,T5 torpedoes use a novel technology of homing on the nearby propeller sounds and also use a very reliable pistol design. The homing mechanism is most sensitive to the propeller sounds emitted by the merchant ships.
+Iron Ore,Iron Ore
+Iron Ore Description,Rocks and minerals from which metallic iron can be extracted. Basic raw material in iron metallurgy.
+Coal,Coal
+Coal Description,"Hard coal is widely used mainly in energy and industry, but also as a fuel."
+Lumber,Lumber
+Lumber Description,"Wood that has been processed into beams and planks. Lumber is mainly used for structural purposes, but has many other uses as well."
+Tea,Tea
+Tea Description,Finest tea leaves from China that are used to make a hot infusion.  
+Grains,Grains
+Grains Description,Seeds useful in the production of many types of food mainly in bakery. Also used as fodder for livestock.
+Rubber,Rubber
+Rubber Description,"Natural rubber is essential raw material used in the creation of many products, e.g. gas masks, life rafts, military wiring. It is intermediate for obtaining rubber by vulcanization."
+Tire,Tire
+Tire Description,Car tires.
+Gold,Gold
+Gold Description,Large tranche of gold bars.
+Money,Money
+Money Description,"Banknotes, coins and securities."
+Valuables,Valuables
+Valuables Description,"Precious items, jewellery, coins."
+Tobacco,Tobacco
+Tobacco Description,Top quality tobacco from Cuba.
+Oil,Oil
+Enigma Machine,Enigma Machine
+Enigma Machine Description,A portable electromechanical encryption machine based on a mechanism of rotating rotors.
+/Cargo,English
+Food,food
+Resources,raw resources
+Utilities,utilities
+Rubber,rubber
+Valuables,valuables
+Tea,tea
+Tobacco,tobacco
+Medical,medical supplies
+DepthCharges,depth charges
+Ammunition,ammunition
+Oil,oil
