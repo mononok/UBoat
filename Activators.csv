@@ -1,794 +1,1139 @@
-Key,English
-Kitchen,Galley
-Radio Room,Radio room
-Radio Room Description,Radiomen can use equipment in this room to receive transmissions that we receive or send our own reports to Command HQ (BdU).
-Hatch,Hatch
-Attack Periscope,Attack periscope
-Attack Periscope Description,"The attack periscope is, as the name suggests, used to locate enemy ships thanks to a stadimeter and better stability."
-Deck Cannon,Deck cannon
-Flak,AA gun
-Storage,Storage room
-Listening Room,Listening room
-Listening Room Description,The listening room contains equipment that allows our crew to use the hydrophones when submerged and radar detector on the water‚Äôs surface.
-Ladder,Ladder
-Diesel Engine,Diesel engine
-Trim Pump,Pump
-Trim Pump Short Description,The pump allows pumping water outside the ship from every compartment but it is the most effective from the central compartment.
-Trim Pump Description,The pump allows pumping water outside the ship from every compartment but it is the most effective from the central compartment.
-Gyrocompass,Gyrocompass
-Gyrocompass Short Description,An operating gyrocompass reduces navigation errors by four times.
-Gyrocompass Description,An operating gyrocompass reduces navigation errors by four times.
-Ventilation,Ventilation
-Ventilation Description,Working ventilation is able to effectively increase air‚Äôs suitability for breathing for a limited time.
-Evacuation Hatch,Evacuation hatch
-Evacuation Hatch Description,The hatch leading outside the ship through a narrow passage.
-Control Room,Control Room
-Electric Engines,Electric engine
-Electric Engines Description,"Electric engines are the only drive source under the water. They do not emit exhaust fumes and are much quieter than diesel engines, however, due to high power consumption, they are unfit for long-distance journeys."
-Bow Torpedo Launcher,Torpedo tubes
-Bow Torpedo Launcher Description,Four bow torpedo tubes
-Stern Torpedo Launcher,Torpedo tube
-Stern Torpedo Launcher Description,Single stern torpedo tube
-Observation Spot,Observation point
-Quarters,Quarters
-Manage Workers,Manage workers
-Listen,Listen for new messages
-Open,Open
-Close,Close
-Blow the tanks,Blow the tanks
-Open map,Open map
-Enable,Turn on
-Disable,Turn off
-Evacuate,Evacuate
-Use,Use
-Bulkhead,Bulkhead
-Pipes,Pipes
-Observation Periscope,Observation periscope
-Observation Periscope Description,"The observation periscope is designed for sky observation and quickly looking around a ship. It can be successfully used to locate an enemy, although it is not the most effective."
-Compressor,Compressor
-Manage Torpedoes,Manage torpedoes
-External Operation Meeting Point,Meeting point
-Mission,Mission
-Radio Listen,Listening on the radio
-Radio Listen Description,Listen for new transmissions we pick up.
-Radio Listen Task,Work - Radio room
+Key,English,,,,,,,,,,,
+Kitchen,Galley,,,,,,,,,,,
+Radio Room,Radio room,,,,,,,,,,,
+Radio Room Description,Radiomen can use equipment in this room to receive transmissions that we receive or send our own reports to Command HQ (BdU).,,,,,,,,,,,
+Hatch,Hatch,,,,,,,,,,,
+Attack Periscope,Attack periscope,,,,,,,,,,,
+Attack Periscope Description,"The attack periscope is, as the name suggests, used to locate enemy ships thanks to a stadimeter and better stability.",,,,,,,,,,,
+Deck Cannon,Deck cannon,,,,,,,,,,,
+Flak,AA gun,,,,,,,,,,,
+Storage,Storage room,,,,,,,,,,,
+Listening Room,Listening room,,,,,,,,,,,
+Listening Room Description,The listening room contains equipment that allows our crew to use the hydrophones when submerged and radar detector on the waterÅfs surface.,,,,,,,,,,,
+Ladder,Ladder,,,,,,,,,,,
+Diesel Engine,Diesel engine,,,,,,,,,,,
+Trim Pump,Pump,,,,,,,,,,,
+Trim Pump Short Description,The pump allows pumping water outside the ship from every compartment but it is the most effective from the central compartment.,,,,,,,,,,,
+Trim Pump Description,The pump allows pumping water outside the ship from every compartment but it is the most effective from the central compartment.,,,,,,,,,,,
+Gyrocompass,Gyrocompass,,,,,,,,,,,
+Gyrocompass Short Description,An operating gyrocompass reduces navigation errors by four times.,,,,,,,,,,,
+Gyrocompass Description,An operating gyrocompass reduces navigation errors by four times.,,,,,,,,,,,
+Ventilation,Ventilation,,,,,,,,,,,
+Ventilation Description,Working ventilation is able to effectively increase airÅfs suitability for breathing for a limited time.,,,,,,,,,,,
+Evacuation Hatch,Evacuation hatch,,,,,,,,,,,
+Evacuation Hatch Description,The hatch leading outside the ship through a narrow passage.,,,,,,,,,,,
+Control Room,Control Room,,,,,,,,,,,
+Electric Engines,Electric engine,,,,,,,,,,,
+Electric Engines Description,"Electric engines are the only drive source under the water. They do not emit exhaust fumes and are much quieter than diesel engines, however, due to high power consumption, they are unfit for long-distance journeys.",,,,,,,,,,,
+Bow Torpedo Launcher,Torpedo tubes,,,,,,,,,,,
+Bow Torpedo Launcher Description,Four bow torpedo tubes,,,,,,,,,,,
+Stern Torpedo Launcher,Torpedo tube,,,,,,,,,,,
+Stern Torpedo Launcher Description,Single stern torpedo tube,,,,,,,,,,,
+Observation Spot,Observation point,,,,,,,,,,,
+Quarters,Quarters,,,,,,,,,,,
+Manage Workers,Manage workers,,,,,,,,,,,
+Listen,Listen for new messages,,,,,,,,,,,
+Open,Open,,,,,,,,,,,
+Close,Close,,,,,,,,,,,
+Blow the tanks,Blow the tanks,,,,,,,,,,,
+Open map,Open map,,,,,,,,,,,
+Enable,Turn on,,,,,,,,,,,
+Disable,Turn off,,,,,,,,,,,
+Evacuate,Evacuate,,,,,,,,,,,
+Use,Use,,,,,,,,,,,
+Bulkhead,Bulkhead,,,,,,,,,,,
+Pipes,Pipes,,,,,,,,,,,
+Observation Periscope,Observation periscope,,,,,,,,,,,
+Observation Periscope Description,"The observation periscope is designed for sky observation and quickly looking around a ship. It can be successfully used to locate an enemy, although it is not the most effective.",,,,,,,,,,,
+Compressor,Compressor,,,,,,,,,,,
+Manage Torpedoes,Manage torpedoes,,,,,,,,,,,
+External Operation Meeting Point,Meeting point,,,,,,,,,,,
+Mission,Mission,,,,,,,,,,,
+Radio Listen,Listening on the radio,,,,,,,,,,,
+Radio Listen Description,Listen for new transmissions we pick up.,,,,,,,,,,,
+Radio Listen Task,Work - Radio room,,,,,,,,,,,
 Radio Listen Full Description,"<b>Listening on the radio</b>
 
 Officer scans frequencies for new transmissions. If ordered, he can decode incoming messages.
 
-Additional sailors:"
-Radio Listen Full Description 1,Receiving range increases by 20%. Time needed to receive and send messages is shortened by a factor of two.
-Enable Device,Turn on the device
-Disable Device,Turn off the device
-Extend Antenna,Extend antenna
-Hide Antenna,Hide antenna
-Hydrophone Listen,Listening
-Hydrophone Listen Task,Work - Listening room
+Additional sailors:",,,,,,,,,,,
+Radio Listen Full Description 1,Receiving range increases by 20%. Time needed to receive and send messages is shortened by a factor of two.,,,,,,,,,,,
+Enable Device,Turn on the device,,,,,,,,,,,
+Disable Device,Turn off the device,,,,,,,,,,,
+Extend Antenna,Extend antenna,,,,,,,,,,,
+Hide Antenna,Hide antenna,,,,,,,,,,,
+Hydrophone Listen,Listening,,,,,,,,,,,
+Hydrophone Listen Task,Work - Listening room,,,,,,,,,,,
 Hydrophone Listen Full Description,"<b>Using hydrophone</b>
 
 Officer tries to detect new new contacts. If ordered, he can aim torpedoes at a chosen target.
 
-Additional sailors:"
-Hydrophone Listen Full Description 1,Detection range increases by 25%.
-ManageTorpedoesAction,Manage torpedoes
-Targeting Sight,Targeting sight
-Targeting Sight Description,The targeting sight automatically sends a location to the torpedo room. It is the most efficient equipment for visual observation on the ship.
-Funkpeilrahmen Antenna,Radio antenna
-Junkers Diesel Compressor,Diesel compressor
-Junkers Diesel Compressor Description,It regenerates the supplies of compressed air in bottles located outside the pressure hull using the air from inside the ship.
-Electric Compressor,Electric compressor
-Electric Compressor Description,It regenerates the supplies of compressed air in bottles located outside the pressure hull using the air from inside the ship.
-Use electrical steering,Switch to electrical steering
-Use manual steering,Switch to manual steering
-Depth Steers Station,Depth steers station
-Depth Steers Station Description,"A station which allows the rotation of ship‚Äôs vertical steers on the bow and stern. The operation of the steers can be manual or automatic using an electric engine which rotates the steers. The first method is less accurate and might make it impossible to maintain periscope depth during poor weather, whereas in the second one, the working engines emit a sound which may make it easier for enemies to detect your ship."
-Snorkel Control Lever,Snorkel control lever
-Main Blowing Valve,Main blowing valve
-Flood the ballast tanks,Flood the tanks
-Blow the ballast tanks,Blow the tanks
-"Blow the ballast tanks (emergency)	","Blow the tanks (emergency)	"
-Adjust ballast,Adjust ballast
-Snorkel raise,Raise snorkels mast
-Snorkel hide,Hide snorkels mast
-Flood valves,Flood valves
-FuMB 26 ?Tunis‚Äù,Radar detector
-Mount detector,Mount detector
-Unmount detector,Unmount detector
-Climb up,Climb up
-Climb down,Climb down
-Open map,Open map
-Maps,Maps
-Repair,"Repair  (requires: <sprite name=""Replacement Parts"">)"
-Inspect,Inspect
-First Aid,First aid
-Repair (Requires Parts),Repair
-Discipline,Discipline
-Calm Down,Calm down
-Pardon,Pardon
-Toilet Cleaning,Toilet cleaning
-Arrest,Arrest
-Execute,Execute
-Knock Out,Knock out
-Pump out the water,Pump out the water
-Open storage,Open storage room
-Open torpedo storage,Manage torpedo loadout
-Open gun storage,Open ammunition storage
-Open kitchen storage,Open galley storage
-Open ventilation storage,Open
-Open compartment storage,Check bilges
-Boost Performance,Boost performance
-Diesel Engines,Diesel engines
-Diesel Engines Description,"Diesel engines require air for work but are very efficient and are the preferred drive source for long journeys. During operation, they generate electric energy."
-Use Deck Gun,Using Deck gun
-Use Deck Gun Task,Work - Deck gun
+Additional sailors:",,,,,,,,,,,
+Hydrophone Listen Full Description 1,Detection range increases by 25%.,,,,,,,,,,,
+ManageTorpedoesAction,Manage torpedoes,,,,,,,,,,,
+Targeting Sight,Targeting sight,,,,,,,,,,,
+Targeting Sight Description,The targeting sight automatically sends a location to the torpedo room. It is the most efficient equipment for visual observation on the ship.,,,,,,,,,,,
+Funkpeilrahmen Antenna,Radio antenna,,,,,,,,,,,
+Junkers Diesel Compressor,Diesel compressor,,,,,,,,,,,
+Junkers Diesel Compressor Description,It regenerates the supplies of compressed air in bottles located outside the pressure hull using the air from inside the ship.,,,,,,,,,,,
+Electric Compressor,Electric compressor,,,,,,,,,,,
+Electric Compressor Description,It regenerates the supplies of compressed air in bottles located outside the pressure hull using the air from inside the ship.,,,,,,,,,,,
+Use electrical steering,Switch to electrical steering,,,,,,,,,,,
+Use manual steering,Switch to manual steering,,,,,,,,,,,
+Depth Steers Station,Depth steers station,,,,,,,,,,,
+Depth Steers Station Description,"A station which allows the rotation of shipÅfs vertical steers on the bow and stern. The operation of the steers can be manual or automatic using an electric engine which rotates the steers. The first method is less accurate and might make it impossible to maintain periscope depth during poor weather, whereas in the second one, the working engines emit a sound which may make it easier for enemies to detect your ship.",,,,,,,,,,,
+Snorkel Control Lever,Snorkel control lever,,,,,,,,,,,
+Main Blowing Valve,Main blowing valve,,,,,,,,,,,
+Flood the ballast tanks,Flood the tanks,,,,,,,,,,,
+Blow the ballast tanks,Blow the tanks,,,,,,,,,,,
+"Blow the ballast tanks (emergency)	","Blow the tanks (emergency)	",,,,,,,,,,,
+Adjust ballast,Adjust ballast,,,,,,,,,,,
+Snorkel raise,Raise snorkels mast,,,,,,,,,,,
+Snorkel hide,Hide snorkels mast,,,,,,,,,,,
+Flood valves,Flood valves,,,,,,,,,,,
+FuMB 26 ?TunisÅh,Radar detector,,,,,,,,,,,
+Mount detector,Mount detector,,,,,,,,,,,
+Unmount detector,Unmount detector,,,,,,,,,,,
+Climb up,Climb up,,,,,,,,,,,
+Climb down,Climb down,,,,,,,,,,,
+Open map,Open map,,,,,,,,,,,
+Maps,Maps,,,,,,,,,,,
+Repair,"Repair  (requires: <sprite name=""Replacement Parts"">)",,,,,,,,,,,
+Inspect,Inspect,,,,,,,,,,,
+First Aid,First aid,,,,,,,,,,,
+Repair (Requires Parts),Repair,,,,,,,,,,,
+Discipline,Discipline,,,,,,,,,,,
+Calm Down,Calm down,,,,,,,,,,,
+Pardon,Pardon,,,,,,,,,,,
+Toilet Cleaning,Toilet cleaning,,,,,,,,,,,
+Arrest,Arrest,,,,,,,,,,,
+Execute,Execute,,,,,,,,,,,
+Knock Out,Knock out,,,,,,,,,,,
+Pump out the water,Pump out the water,,,,,,,,,,,
+Open storage,Open storage room,,,,,,,,,,,
+Open torpedo storage,Manage torpedo loadout,,,,,,,,,,,
+Open gun storage,Open ammunition storage,,,,,,,,,,,
+Open kitchen storage,Open galley storage,,,,,,,,,,,
+Open ventilation storage,Open,,,,,,,,,,,
+Open compartment storage,Check bilges,,,,,,,,,,,
+Boost Performance,Boost performance,,,,,,,,,,,
+Diesel Engines,Diesel engines,,,,,,,,,,,
+Diesel Engines Description,"Diesel engines require air for work but are very efficient and are the preferred drive source for long journeys. During operation, they generate electric energy.",,,,,,,,,,,
+Use Deck Gun,Using Deck gun,,,,,,,,,,,
+Use Deck Gun Task,Work - Deck gun,,,,,,,,,,,
 Use Deck Gun Full Description,"<b>Deck gun</b>
 
 Officer is handling the deck gun.
 
-Additional sailors:"
-Use Deck Gun Full Description 1,Rate of fire increases by 33%. Recoil recovery rate increases by 15%.
-Use Deck Gun Full Description 2,Rate of fire increases by 66%. Recoil recovery rate increases by 35%.
-Use Deck Gun Full Description 3,Rate of fire increases by 100%. Recoil recovery rate increases by 60%.
-MG C30,MG C/30
-MG C30 Description,20 mm anti-aircraft gun.
-Play Cards,Playing cards
+Additional sailors:",,,,,,,,,,,
+Use Deck Gun Full Description 1,Rate of fire increases by 33%. Recoil recovery rate increases by 15%.,,,,,,,,,,,
+Use Deck Gun Full Description 2,Rate of fire increases by 66%. Recoil recovery rate increases by 35%.,,,,,,,,,,,
+Use Deck Gun Full Description 3,Rate of fire increases by 100%. Recoil recovery rate increases by 60%.,,,,,,,,,,,
+MG C30,MG C/30,,,,,,,,,,,
+MG C30 Description,20 mm anti-aircraft gun.,,,,,,,,,,,
+Play Cards,Playing cards,,,,,,,,,,,
 Play Cards Full Description,"<b>Playing cards</b>
 
-Officer is playing cards with the crew to improve morale."
-Valves,Valves
-Valves Description,The valve column allows for blowing and flooding the ballast tanks on our ship.
-Warm up the torpedo,Perform a maintenance
-Warm up the torpedo Progressing Description,Maintenance of a torpedo
+Officer is playing cards with the crew to improve morale.",,,,,,,,,,,
+Valves,Valves,,,,,,,,,,,
+Valves Description,The valve column allows for blowing and flooding the ballast tanks on our ship.,,,,,,,,,,,
+Warm up the torpedo,Perform a maintenance,,,,,,,,,,,
+Warm up the torpedo Progressing Description,Maintenance of a torpedo,,,,,,,,,,,
 Warm up the torpedo Full Description,"<b>Torpedo maintenance</b>
 
-Officer is performing maintenance work on the torpedo to eliminate the risk of a dud."
-Warm up the torpedo Full Description 1,Maintenance speed will increase by about 100%.
-Warm up the torpedo Full Description 2,Maintenance speed will increase by about 200%.
-Load Torpedoes,Loading torpedoes
-Load Torpedoes 1,Loading torpedoes
-Load Torpedoes 2,Loading torpedoes
-Load Torpedoes 3,Loading torpedoes
-Load Torpedoes 4,Loading torpedoes
-Load Torpedoes 5,Loading torpedoes
+Officer is performing maintenance work on the torpedo to eliminate the risk of a dud.",,,,,,,,,,,
+Warm up the torpedo Full Description 1,Maintenance speed will increase by about 100%.,,,,,,,,,,,
+Warm up the torpedo Full Description 2,Maintenance speed will increase by about 200%.,,,,,,,,,,,
+Load Torpedoes,Loading torpedoes,,,,,,,,,,,
+Load Torpedoes 1,Loading torpedoes,,,,,,,,,,,
+Load Torpedoes 2,Loading torpedoes,,,,,,,,,,,
+Load Torpedoes 3,Loading torpedoes,,,,,,,,,,,
+Load Torpedoes 4,Loading torpedoes,,,,,,,,,,,
+Load Torpedoes 5,Loading torpedoes,,,,,,,,,,,
 Load Torpedoes Full Description,"<b>Loading Torpedoes</b>
 
 Officer loads torpedoes to the tubes.
 
-Additional sailors:"
-Load Torpedoes Full Description 1,Loading speed will increase by about 300%.
-Load Torpedoes Full Description 2,Loading speed will increase by about 500%.
+Additional sailors:",,,,,,,,,,,
+Load Torpedoes Full Description 1,Loading speed will increase by about 300%.,,,,,,,,,,,
+Load Torpedoes Full Description 2,Loading speed will increase by about 500%.,,,,,,,,,,,
 Load Torpedoes 1 Full Description,"<b>Loading Torpedoes</b>
 
 Officer loads torpedoes to the tubes.
 
-Additional sailors:"
-Load Torpedoes 1 Full Description 1,Loading speed will increase by about 300%.
-Load Torpedoes 1 Full Description 2,Loading speed will increase by about 500%.
+Additional sailors:",,,,,,,,,,,
+Load Torpedoes 1 Full Description 1,Loading speed will increase by about 300%.,,,,,,,,,,,
+Load Torpedoes 1 Full Description 2,Loading speed will increase by about 500%.,,,,,,,,,,,
 Load Torpedoes 2 Full Description,"<b>Loading Torpedoes</b>
 
 Officer loads torpedoes to the tubes.
 
-Additional sailors:"
-Load Torpedoes 2 Full Description 1,Loading speed will increase by about 300%.
-Load Torpedoes 2 Full Description 2,Loading speed will increase by about 500%.
+Additional sailors:",,,,,,,,,,,
+Load Torpedoes 2 Full Description 1,Loading speed will increase by about 300%.,,,,,,,,,,,
+Load Torpedoes 2 Full Description 2,Loading speed will increase by about 500%.,,,,,,,,,,,
 Load Torpedoes 3 Full Description,"<b>Loading Torpedoes</b>
 
 Officer loads torpedoes to the tubes.
 
-Additional sailors:"
-Load Torpedoes 3 Full Description 1,Loading speed will increase by about 300%.
-Load Torpedoes 3 Full Description 2,Loading speed will increase by about 500%.
+Additional sailors:",,,,,,,,,,,
+Load Torpedoes 3 Full Description 1,Loading speed will increase by about 300%.,,,,,,,,,,,
+Load Torpedoes 3 Full Description 2,Loading speed will increase by about 500%.,,,,,,,,,,,
 Load Torpedoes 4 Full Description,"<b>Loading Torpedoes</b>
 
 Officer loads torpedoes to the tubes.
 
-Additional sailors:"
-Load Torpedoes 4 Full Description 1,Loading speed will increase by about 300%.
-Load Torpedoes 4 Full Description 2,Loading speed will increase by about 500%.
+Additional sailors:",,,,,,,,,,,
+Load Torpedoes 4 Full Description 1,Loading speed will increase by about 300%.,,,,,,,,,,,
+Load Torpedoes 4 Full Description 2,Loading speed will increase by about 500%.,,,,,,,,,,,
 Load Torpedoes 5 Full Description,"<b>Loading Torpedoes</b>
 
 Officer loads torpedoes to the tubes.
 
-Additional sailors:"
-Load Torpedoes 5 Full Description 1,Loading speed will increase by about 300%.
-Load Torpedoes 5 Full Description 2,Loading speed will increase by about 500%.
-Load and Warm Torpedoes,Maintenance and loading torpedoes
-Load and Warm Torpedoes 1,Maintenance and loading torpedoes
-Load and Warm Torpedoes 2,Maintenance and loading torpedoes
-Load and Warm Torpedoes 3,Maintenance and loading torpedoes
-Load and Warm Torpedoes 4,Maintenance and loading torpedoes
-Load and Warm Torpedoes 5,Maintenance and loading torpedoes
+Additional sailors:",,,,,,,,,,,
+Load Torpedoes 5 Full Description 1,Loading speed will increase by about 300%.,,,,,,,,,,,
+Load Torpedoes 5 Full Description 2,Loading speed will increase by about 500%.,,,,,,,,,,,
+Load and Warm Torpedoes,Maintenance and loading torpedoes,,,,,,,,,,,
+Load and Warm Torpedoes 1,Maintenance and loading torpedoes,,,,,,,,,,,
+Load and Warm Torpedoes 2,Maintenance and loading torpedoes,,,,,,,,,,,
+Load and Warm Torpedoes 3,Maintenance and loading torpedoes,,,,,,,,,,,
+Load and Warm Torpedoes 4,Maintenance and loading torpedoes,,,,,,,,,,,
+Load and Warm Torpedoes 5,Maintenance and loading torpedoes,,,,,,,,,,,
 Load and Warm Torpedoes Full Description,"<b>Loading Torpedoes</b>
 
 Officer performs a full maintenance of the torpedoes and loads them to the tubes.
 
-Additional sailors:"
-Load and Warm Torpedoes Full Description 1,Loading speed will increase by about 300%.
-Load and Warm Torpedoes Full Description 2,Loading speed will increase by about 500%.
+Additional sailors:",,,,,,,,,,,
+Load and Warm Torpedoes Full Description 1,Loading speed will increase by about 300%.,,,,,,,,,,,
+Load and Warm Torpedoes Full Description 2,Loading speed will increase by about 500%.,,,,,,,,,,,
 Load and Warm Torpedoes 1 Full Description,"<b>Loading Torpedoes</b>
 
 Officer performs a full maintenance of the torpedoes and loads them to the tubes.
 
-Additional sailors:"
-Load and Warm Torpedoes 1 Full Description 1,Loading speed will increase by about 300%.
-Load and Warm Torpedoes 1 Full Description 2,Loading speed will increase by about 500%.
+Additional sailors:",,,,,,,,,,,
+Load and Warm Torpedoes 1 Full Description 1,Loading speed will increase by about 300%.,,,,,,,,,,,
+Load and Warm Torpedoes 1 Full Description 2,Loading speed will increase by about 500%.,,,,,,,,,,,
 Load and Warm Torpedoes 2 Full Description,"<b>Loading Torpedoes</b>
 
 Officer performs a full maintenance of the torpedoes and loads them to the tubes.
 
-Additional sailors:"
-Load and Warm Torpedoes 2 Full Description 1,Loading speed will increase by about 300%.
-Load and Warm Torpedoes 2 Full Description 2,Loading speed will increase by about 500%.
+Additional sailors:",,,,,,,,,,,
+Load and Warm Torpedoes 2 Full Description 1,Loading speed will increase by about 300%.,,,,,,,,,,,
+Load and Warm Torpedoes 2 Full Description 2,Loading speed will increase by about 500%.,,,,,,,,,,,
 Load and Warm Torpedoes 3 Full Description,"<b>Loading Torpedoes</b>
 
 Officer performs a full maintenance of the torpedoes and loads them to the tubes.
 
-Additional sailors:"
-Load and Warm Torpedoes 3 Full Description 1,Loading speed will increase by about 300%.
-Load and Warm Torpedoes 3 Full Description 2,Loading speed will increase by about 500%.
+Additional sailors:",,,,,,,,,,,
+Load and Warm Torpedoes 3 Full Description 1,Loading speed will increase by about 300%.,,,,,,,,,,,
+Load and Warm Torpedoes 3 Full Description 2,Loading speed will increase by about 500%.,,,,,,,,,,,
 Load and Warm Torpedoes 4 Full Description,"<b>Loading Torpedoes</b>
 
 Officer performs a full maintenance of the torpedoes and loads them to the tubes.
 
-Additional sailors:"
-Load and Warm Torpedoes 4 Full Description 1,Loading speed will increase by about 300%.
-Load and Warm Torpedoes 4 Full Description 2,Loading speed will increase by about 500%.
+Additional sailors:",,,,,,,,,,,
+Load and Warm Torpedoes 4 Full Description 1,Loading speed will increase by about 300%.,,,,,,,,,,,
+Load and Warm Torpedoes 4 Full Description 2,Loading speed will increase by about 500%.,,,,,,,,,,,
 Load and Warm Torpedoes 5 Full Description,"<b>Loading Torpedoes</b>
 
 Officer performs a full maintenance of the torpedoes and loads them to the tubes.
 
-Additional sailors:"
-Load and Warm Torpedoes 5 Full Description 1,Loading speed will increase by about 300%.
-Load and Warm Torpedoes 5 Full Description 2,Loading speed will increase by about 500%.
-Use Attack Periscope,Observation
-Use Attack Periscope Task,Work - Attack periscope
+Additional sailors:",,,,,,,,,,,
+Load and Warm Torpedoes 5 Full Description 1,Loading speed will increase by about 300%.,,,,,,,,,,,
+Load and Warm Torpedoes 5 Full Description 2,Loading speed will increase by about 500%.,,,,,,,,,,,
+Use Attack Periscope,Observation,,,,,,,,,,,
+Use Attack Periscope Task,Work - Attack periscope,,,,,,,,,,,
 Use Attack Periscope Full Description,"<b>Attack Periscope Observation</b>
 
 Officer watches for targets increasing u-boat's sight range. If ordered, he can aim torpedoes at a chosen target.
 
-Additional sailors:"
-Use Attack Periscope Full Description 1,The sailor operates a torpedo data computer and allows officer to focus on observation. The range of observation increases by 15% and the aiming speed by 25%.
-Use Attack Periscope Full Description 2,The sailor uses an observation periscope and supports the officer. The overall sight range increases by 20% and the aiming speed by 20%.
-Use Observation Periscope,Observation
-Use Observation Periscope Task,Work - Observation periscope
-Use Targeting Sight,Observation
-Use Targeting Sight Task,Work - UZO
+Additional sailors:",,,,,,,,,,,
+Use Attack Periscope Full Description 1,The sailor operates a torpedo data computer and allows officer to focus on observation. The range of observation increases by 15% and the aiming speed by 25%.,,,,,,,,,,,
+Use Attack Periscope Full Description 2,The sailor uses an observation periscope and supports the officer. The overall sight range increases by 20% and the aiming speed by 20%.,,,,,,,,,,,
+Use Observation Periscope,Observation,,,,,,,,,,,
+Use Observation Periscope Task,Work - Observation periscope,,,,,,,,,,,
+Use Targeting Sight,Observation,,,,,,,,,,,
+Use Targeting Sight Task,Work - UZO,,,,,,,,,,,
 Use Targeting Sight Full Description,"<b>Targeting Sight Observation</b>
 
 Officer watches for targets increasing u-boat's sight range. If ordered, he can aim torpedoes at a chosen target.
 
-Additional sailors:"
-Use Targeting Sight Full Description 1,The range of the observation and the aiming speed increases by 25%.
-Use Targeting Sight Full Description 2,The range of the observation and the aiming speed increases by 50%.
-Use Navigation Table,Navigation
-Use Navigation Table Task,Work - Navigator's station
+Additional sailors:",,,,,,,,,,,
+Use Targeting Sight Full Description 1,The range of the observation and the aiming speed increases by 25%.,,,,,,,,,,,
+Use Targeting Sight Full Description 2,The range of the observation and the aiming speed increases by 50%.,,,,,,,,,,,
+Use Navigation Table,Navigation,,,,,,,,,,,
+Use Navigation Table Task,Work - Navigator's station,,,,,,,,,,,
 Use Navigation Table Full Description,"<b>Navigation</b>
 
 Officer constantly updates our position, eliminating risk to get lost when our ship is on the open sea.
 
-Additional sailors:"
-Use Navigation Table Full Description 1,Thanks to better navigation we will save 10% more fuel and energy.
-Use Navigation Table Full Description 2,Thanks to better navigation we will save 20% more fuel and energy.
-Fix Ship Position, Fixing ship position‚Ä¶
-Fix Ship Position Task,Work - Navigator's station - Fixing ship position‚Ä¶
-Fix Ship Position Full Description,"<b>Fixing ship position‚Ä¶</b>
+Additional sailors:",,,,,,,,,,,
+Use Navigation Table Full Description 1,Thanks to better navigation we will save 10% more fuel and energy.,,,,,,,,,,,
+Use Navigation Table Full Description 2,Thanks to better navigation we will save 20% more fuel and energy.,,,,,,,,,,,
+Fix Ship Position, Fixing ship positionÅc,,,,,,,,,,,
+Fix Ship Position Task,Work - Navigator's station - Fixing ship positionÅc,,,,,,,,,,,
+Fix Ship Position Full Description,"<b>Fixing ship positionÅc</b>
 
 We are lost. Officer is determining our position on the map back again.
 
-Additional sailors:"
-Fix Ship Position Full Description 1,Fixing ship position is 100% faster.
-Fix Ship Position Full Description 2,Fixing ship position is 200% faster.
-Control Room Ladder,Ladder
-Conning Tower Ladder,Ladder
-Deck Ladder 1,Ladder
-Deck Ladder 2,Ladder
-Play Cards Description,"<align=""center"">Playing cards with the crew will recover their morale over time."
-Use Navigation Table Description,"<align=""center"">The officer assigned to the navigator's table will determine the boat's position in the world by measuring the positions of celestial objects and taking into account ocean currents. Neglecting that may lead to major uncertainty where the boat is located at a given time."
-Sleep,Rest
+Additional sailors:",,,,,,,,,,,
+Fix Ship Position Full Description 1,Fixing ship position is 100% faster.,,,,,,,,,,,
+Fix Ship Position Full Description 2,Fixing ship position is 200% faster.,,,,,,,,,,,
+Control Room Ladder,Ladder,,,,,,,,,,,
+Conning Tower Ladder,Ladder,,,,,,,,,,,
+Deck Ladder 1,Ladder,,,,,,,,,,,
+Deck Ladder 2,Ladder,,,,,,,,,,,
+Play Cards Description,"<align=""center"">Playing cards with the crew will recover their morale over time.",,,,,,,,,,,
+Use Navigation Table Description,"<align=""center"">The officer assigned to the navigator's table will determine the boat's position in the world by measuring the positions of celestial objects and taking into account ocean currents. Neglecting that may lead to major uncertainty where the boat is located at a given time.",,,,,,,,,,,
+Sleep,Rest,,,,,,,,,,,
 Sleep Full Description,"<b>Rest</b>
 
-Officer is resting in his bunk and recovers lost energy."
-Consume Food,Eat
-Flood the ballast tanks Description,"<align=""center"">The flooding of the ballast tanks will increase the overall mass of the u-boat and push it under the surface of the water."
-Blow the ballast tanks Description,"<align=""center"">By blowing water from the ballast tanks the overall mass of the u-boat will decrease and push it above the surface of the water."
-"Blow the ballast tanks (emergency) Description		","<align=""center"">By blowing water from the ballast tanks the overall mass of the u-boat will decrease and push it above the surface of the water."
-Officer's Bed 1,Officer's bunk
-Officer's Bed 2,Officer's bunk
-Officer's Bed 3,Officer's bunk
-Officer's Bed 4,Officer's bunk
-Skipper's Bed,Skipper's bunk
-ReturningTo,Returning to {0}
-PreparingToReturn,Preparing to return‚Ä¶
-TravellingTo,Travelling to {0}
-Radio Listen State,Scanning radio frequencies‚Ä¶
-Receiving Transmission,Receiving {0}
-Investigating,Investigating {0}‚Ä¶
-StoppingTheShip,Stopping {0}‚Ä¶
-Manage Diesel Engines,Managing diesel engines
-Manage Diesel Engines Task,Work - Diesel engines
+Officer is resting in his bunk and recovers lost energy.",,,,,,,,,,,
+Consume Food,Eat,,,,,,,,,,,
+Flood the ballast tanks Description,"<align=""center"">The flooding of the ballast tanks will increase the overall mass of the u-boat and push it under the surface of the water.",,,,,,,,,,,
+Blow the ballast tanks Description,"<align=""center"">By blowing water from the ballast tanks the overall mass of the u-boat will decrease and push it above the surface of the water.",,,,,,,,,,,
+"Blow the ballast tanks (emergency) Description		","<align=""center"">By blowing water from the ballast tanks the overall mass of the u-boat will decrease and push it above the surface of the water.",,,,,,,,,,,
+Officer's Bed 1,Officer's bunk,,,,,,,,,,,
+Officer's Bed 2,Officer's bunk,,,,,,,,,,,
+Officer's Bed 3,Officer's bunk,,,,,,,,,,,
+Officer's Bed 4,Officer's bunk,,,,,,,,,,,
+Skipper's Bed,Skipper's bunk,,,,,,,,,,,
+ReturningTo,Returning to {0},,,,,,,,,,,
+PreparingToReturn,Preparing to returnÅc,,,,,,,,,,,
+TravellingTo,Travelling to {0},,,,,,,,,,,
+Radio Listen State,Scanning radio frequenciesÅc,,,,,,,,,,,
+Receiving Transmission,Receiving {0},,,,,,,,,,,
+Investigating,Investigating {0}Åc,,,,,,,,,,,
+StoppingTheShip,Stopping {0}Åc,,,,,,,,,,,
+Manage Diesel Engines,Managing diesel engines,,,,,,,,,,,
+Manage Diesel Engines Task,Work - Diesel engines,,,,,,,,,,,
 Manage Diesel Engines Full Description,"<b>Managing diesel engines</b>
 
 Officer manages Diesel engines, unlocking 4. gear forward and 3. gear backwards.
 
-Additional sailors:"
-Manage Diesel Engines Full Description 1,All gears are unlocked. Fuel usage drops by 10%. Ordered speed change is executed in at most 6 seconds.
-Manage Diesel Engines Full Description 2,All gears are unlocked. Fuel usage drops by 30%. Ordered speed change is executed in at most 2 seconds.
-Manage Electric Engines,Managing  electric engines
-Manage Electric Engines Task,Work - Electric engines
+Additional sailors:",,,,,,,,,,,
+Manage Diesel Engines Full Description 1,All gears are unlocked. Fuel usage drops by 10%. Ordered speed change is executed in at most 6 seconds.,,,,,,,,,,,
+Manage Diesel Engines Full Description 2,All gears are unlocked. Fuel usage drops by 30%. Ordered speed change is executed in at most 2 seconds.,,,,,,,,,,,
+Manage Electric Engines,Managing  electric engines,,,,,,,,,,,
+Manage Electric Engines Task,Work - Electric engines,,,,,,,,,,,
 Manage Electric Engines Full Description,"<b>Managing electric engines</b>
 
 Officer manages Electric engines, unlocking 4. gear forward and 3. gear backwards.
 
-Additional sailors:"
-Manage Electric Engines Full Description 1,All gears are unlocked. Energy usage drops by 5%.
-Manage Electric Engines Full Description 2,All gears are unlocked. Energy usage drops by 15%.
-Open Details,View details‚Ä¶
-Open Details Description,Open the window containing details about your current target.
-Put on Deck,Place on deck
-Putting on Deck,Placing {0} on deck‚Ä¶
-DivingTo,Diving to {0}
-DiverReturningTo,Returning to {0}
-Enable Trim Pump,Turn on the pump
-Disable Trim Pump,Turn off the pump
-Switch Light,Switch color
-Light Switch,Light switch
-Control Room Water,Bilges
-Control Room Water Description,"The bilges located under the floor in the central compartment are the lowest point on the ship. Water flowing, for example, through propellers and periscopes is transferred there."
-Bow Torpedo Room Water,Water
-Stern Torpedo Room Water,Water
-Battery Room no. 1 Water,Water
-Battery Room no. 2 Water,Water
-Engine Room Water,Water
-Galley Water,Water
-Control Room Water StorageUI,Control room
-Bow Torpedo Room Water StorageUI,Bow torpedo room
-Stern Torpedo Room Water StorageUI,Stern torpedo room
-Battery Room no. 1 Water StorageUI,Battery room No. 1
-Battery Room no. 2 Water StorageUI,Battery room No. 2
-Engine Room Compartment StorageUI,Engine room
-Galley Compartment StorageUI,Galley
-Sea (Cargo dump),Throw overboard
-Bulb 1,Light bulb
-Bulb 2,Light bulb
-"Bulb 3 (Red, Blue)",Light bulb
-Bulb 4,Light bulb
-Bulb,Light bulb
-Bulb (White),Light bulb
-Distribution Board Door,Door
-Distribution Board Door (2),Door
-Distribution Board Door (3),Door
-Navigation Table,Navigator's station
-Navigation Table Description,Officer assigned to the navigator's table will determine boat's position in world by measuring celestial objects positions and considering ocean currents. Neglecting that may lead to major uncertainty where the boat is located at a given time.
-Pipe,Pipe
-Exterior Hatch,Exterior hatch
-Hatch 06,Hatch
-Hole Starboard,Hole in the starboard side
-Hole Starboard Description,Hole in the pressure hull.
-Hole Port,Hole in the port side
-Hole Port Description,Hole in the pressure hull.
-Hole Top,Hole in the hull
-Hole Top Description,Hole in the pressure hull.
-Power Distribution Board,Power distribution board
-Table,Table
-Toilet Pipe,Pipe
-Toilet Pipe Description,Pipe
-Flood Valves,Flood valves
-Main Storage,Storage room
-Main Storage Description,Main storage on our boat.
-Item Storage,Cabinet
-Item Storage Description, A cabinet for smaller items of officers.
-Torpedo Loading Hatch,Torpedo loading hatch
-Torpedo Loading Hatch Description,Hatch for loading torpedoes.
-Cheese,Cheese
-G7e Torpedo (T2),G7e torpedo (T2)
-Put Down Briefcase,Put down the briefcase
-Open Journal,Open the ship log
-Talk,Talk
-Reflector,Searchlight
-Reflector Description,An operating searchlight increases our sight range at night and during bad weather conditions.
-Block Leak,Block leak
-Block Leak Description,Blocking a leak by a sailor slows down the water leakage rate by 80%.
-Take Command,Take command
-Take Command Description,{0} will be helping the officer in carrying out the tasks.
-Release From Duty,Release from duty
-Enable Gyrocompass,Turn on the gyrocompass
-Disable Gyrocompass,Turn off the gyrocompass
-Enable Ventilation,Turn on the ventilation
-Disable Ventilation,Turn off the ventilation
-Evacuate Compartment,Evacuate the compartment
-Stop Evacuation,Cancel evacuation
-Enable Junkers Diesel Compressor,Turn on the air compressor
-Disable Junkers Diesel Compressor,Turn off the air compressor
-Enable Electric Compressor,Turn on the air compressor
-Disable Electric Compressor,Turn off the air compressor
-Skipper's Desk,Skipper's desk
-Use Flak,Using Flak gun
-Use Flak Task,Work - Flak gun
+Additional sailors:",,,,,,,,,,,
+Manage Electric Engines Full Description 1,All gears are unlocked. Energy usage drops by 5%.,,,,,,,,,,,
+Manage Electric Engines Full Description 2,All gears are unlocked. Energy usage drops by 15%.,,,,,,,,,,,
+Open Details,View detailsÅc,,,,,,,,,,,
+Open Details Description,Open the window containing details about your current target.,,,,,,,,,,,
+Put on Deck,Place on deck,,,,,,,,,,,
+Putting on Deck,Placing {0} on deckÅc,,,,,,,,,,,
+DivingTo,Diving to {0},,,,,,,,,,,
+DiverReturningTo,Returning to {0},,,,,,,,,,,
+Enable Trim Pump,Turn on the pump,,,,,,,,,,,
+Disable Trim Pump,Turn off the pump,,,,,,,,,,,
+Switch Light,Switch color,,,,,,,,,,,
+Light Switch,Light switch,,,,,,,,,,,
+Control Room Water,Bilges,,,,,,,,,,,
+Control Room Water Description,"The bilges located under the floor in the central compartment are the lowest point on the ship. Water flowing, for example, through propellers and periscopes is transferred there.",,,,,,,,,,,
+Bow Torpedo Room Water,Water,,,,,,,,,,,
+Stern Torpedo Room Water,Water,,,,,,,,,,,
+Battery Room no. 1 Water,Water,,,,,,,,,,,
+Battery Room no. 2 Water,Water,,,,,,,,,,,
+Engine Room Water,Water,,,,,,,,,,,
+Galley Water,Water,,,,,,,,,,,
+Control Room Water StorageUI,Control room,,,,,,,,,,,
+Bow Torpedo Room Water StorageUI,Bow torpedo room,,,,,,,,,,,
+Stern Torpedo Room Water StorageUI,Stern torpedo room,,,,,,,,,,,
+Battery Room no. 1 Water StorageUI,Battery room No. 1,,,,,,,,,,,
+Battery Room no. 2 Water StorageUI,Battery room No. 2,,,,,,,,,,,
+Engine Room Compartment StorageUI,Engine room,,,,,,,,,,,
+Galley Compartment StorageUI,Galley,,,,,,,,,,,
+Sea (Cargo dump),Throw overboard,,,,,,,,,,,
+Bulb 1,Light bulb,,,,,,,,,,,
+Bulb 2,Light bulb,,,,,,,,,,,
+"Bulb 3 (Red, Blue)",Light bulb,,,,,,,,,,,
+Bulb 4,Light bulb,,,,,,,,,,,
+Bulb,Light bulb,,,,,,,,,,,
+Bulb (White),Light bulb,,,,,,,,,,,
+Distribution Board Door,Door,,,,,,,,,,,
+Distribution Board Door (2),Door,,,,,,,,,,,
+Distribution Board Door (3),Door,,,,,,,,,,,
+Navigation Table,Navigator's station,,,,,,,,,,,
+Navigation Table Description,Officer assigned to the navigator's table will determine boat's position in world by measuring celestial objects positions and considering ocean currents. Neglecting that may lead to major uncertainty where the boat is located at a given time.,,,,,,,,,,,
+Pipe,Pipe,,,,,,,,,,,
+Exterior Hatch,Exterior hatch,,,,,,,,,,,
+Hatch 06,Hatch,,,,,,,,,,,
+Hole Starboard,Hole in the starboard side,,,,,,,,,,,
+Hole Starboard Description,Hole in the pressure hull.,,,,,,,,,,,
+Hole Port,Hole in the port side,,,,,,,,,,,
+Hole Port Description,Hole in the pressure hull.,,,,,,,,,,,
+Hole Top,Hole in the hull,,,,,,,,,,,
+Hole Top Description,Hole in the pressure hull.,,,,,,,,,,,
+Power Distribution Board,Power distribution board,,,,,,,,,,,
+Table,Table,,,,,,,,,,,
+Toilet Pipe,Pipe,,,,,,,,,,,
+Toilet Pipe Description,Pipe,,,,,,,,,,,
+Flood Valves,Flood valves,,,,,,,,,,,
+Main Storage,Storage room,,,,,,,,,,,
+Main Storage Description,Main storage on our boat.,,,,,,,,,,,
+Item Storage,Cabinet,,,,,,,,,,,
+Item Storage Description, A cabinet for smaller items of officers.,,,,,,,,,,,
+Torpedo Loading Hatch,Torpedo loading hatch,,,,,,,,,,,
+Torpedo Loading Hatch Description,Hatch for loading torpedoes.,,,,,,,,,,,
+Cheese,Cheese,,,,,,,,,,,
+G7e Torpedo (T2),G7e torpedo (T2),,,,,,,,,,,
+Put Down Briefcase,Put down the briefcase,,,,,,,,,,,
+Open Journal,Open the ship log,,,,,,,,,,,
+Talk,Talk,,,,,,,,,,,
+Reflector,Searchlight,,,,,,,,,,,
+Reflector Description,An operating searchlight increases our sight range at night and during bad weather conditions.,,,,,,,,,,,
+Block Leak,Block leak,,,,,,,,,,,
+Block Leak Description,Blocking a leak by a sailor slows down the water leakage rate by 80%.,,,,,,,,,,,
+Take Command,Take command,,,,,,,,,,,
+Take Command Description,{0} will be helping the officer in carrying out the tasks.,,,,,,,,,,,
+Release From Duty,Release from duty,,,,,,,,,,,
+Enable Gyrocompass,Turn on the gyrocompass,,,,,,,,,,,
+Disable Gyrocompass,Turn off the gyrocompass,,,,,,,,,,,
+Enable Ventilation,Turn on the ventilation,,,,,,,,,,,
+Disable Ventilation,Turn off the ventilation,,,,,,,,,,,
+Evacuate Compartment,Evacuate the compartment,,,,,,,,,,,
+Stop Evacuation,Cancel evacuation,,,,,,,,,,,
+Enable Junkers Diesel Compressor,Turn on the air compressor,,,,,,,,,,,
+Disable Junkers Diesel Compressor,Turn off the air compressor,,,,,,,,,,,
+Enable Electric Compressor,Turn on the air compressor,,,,,,,,,,,
+Disable Electric Compressor,Turn off the air compressor,,,,,,,,,,,
+Skipper's Desk,Skipper's desk,,,,,,,,,,,
+Use Flak,Using Flak gun,,,,,,,,,,,
+Use Flak Task,Work - Flak gun,,,,,,,,,,,
 Use Flak Full Description,"<b>AA gun</b>
 
 Officer is handling the AA gun.
 
-Additional sailors:"
-Use Flak Full Description 1,Sailor handles an additional gun.
-Use Flak Full Description 2,Sailors handle two additional guns.
-Use Flak Full Description 3,Sailors handle three additional guns.
-Use Flak Full Description 4,Sailors handle four additional guns.
-Switch Light to Surface,Turn on the white light
-Switch Light to Alarm,Turn on the red light
-Switch Light to SilentRun,Turn on the blue light
-Conning Tower,Conning tower
-Deck Storage,Deck storage
-Carry Items,Carry items
-Carry Items Task,Carry {2} to {1}
-Investigate Wreck,Investigate wreck
-Diver Spot,Winch
-Diver Spot Description,The winch allows pulling back up a diver or things that he finds at the sea bottom.
-Control Room Water StorageUI,Control Room
-Bow Torpedo Room Water StorageUI,Bow Torpedo Room
-Stern Torpedo Room Water StorageUI,Stern Torpedo Room
-Battery Room no. 1 Water StorageUI,Battery Room No. 1
-Battery Room no. 2 Water StorageUI,Battery Room No. 2
-Engine Room Water StorageUI,Engine Room
-Galley Water StorageUI,Galley
-Large Wooden Chest,Wooden chest
-Pontoon,Pontoon
-Open Container,Open
-Cut The Rope,Cut the rope
-Enable Reflector,Turn on
-Disable Reflector,Turn off
-Investigate,Investigate
-Inspection,Inspection
-Artillery - 8.8 cm,Gun - 8.8 cm
-Artillery - 8.8 cm Description,The deck gun is designed to sink less armed or abandoned vessels. It can also be used as an anti-aircraft gun with limited efficiency.
-Removed Deck Gun,Removed deck gun
-Removed Deck Gun Description,Uninstalling the deck gun will increase the underwater speed of the u-boat by decreasing the overall hydrodynamic drag.
-Access Ammo Storage,Open the ammo storage
-Idle,Idle
-Stern Torpedo Storage,Stern torpedo storage
-Bow Torpedo Storage,Bow torpedo storage
-Small Calibre Ammunition Storage,Flak
-Large Calibre Ammunition Storage,Deck gun
-Busy Warning,The character is busy.
-Carrying Blocking Item,The character already has something in his hands.
-Goods Depository,Equipment
-Food Depository,Food
-Ammunition Depository,Ammunition
-Torpedo Depository,Torpedoes
-Fuel Depository,Fuel
-Items Depository,Items
-Fuel Tank,Fuel tank
-Workshop,Workshop
-Salvage Replacement Parts,Salvage replacement parts
+Additional sailors:",,,,,,,,,,,
+Use Flak Full Description 1,Sailor handles an additional gun.,,,,,,,,,,,
+Use Flak Full Description 2,Sailors handle two additional guns.,,,,,,,,,,,
+Use Flak Full Description 3,Sailors handle three additional guns.,,,,,,,,,,,
+Use Flak Full Description 4,Sailors handle four additional guns.,,,,,,,,,,,
+Switch Light to Surface,Turn on the white light,,,,,,,,,,,
+Switch Light to Alarm,Turn on the red light,,,,,,,,,,,
+Switch Light to SilentRun,Turn on the blue light,,,,,,,,,,,
+Conning Tower,Conning tower,,,,,,,,,,,
+Deck Storage,Deck storage,,,,,,,,,,,
+Carry Items,Carry items,,,,,,,,,,,
+Carry Items Task,Carry {2} to {1},,,,,,,,,,,
+Investigate Wreck,Investigate wreck,,,,,,,,,,,
+Diver Spot,Winch,,,,,,,,,,,
+Diver Spot Description,The winch allows pulling back up a diver or things that he finds at the sea bottom.,,,,,,,,,,,
+Control Room Water StorageUI,Control Room,,,,,,,,,,,
+Bow Torpedo Room Water StorageUI,Bow Torpedo Room,,,,,,,,,,,
+Stern Torpedo Room Water StorageUI,Stern Torpedo Room,,,,,,,,,,,
+Battery Room no. 1 Water StorageUI,Battery Room No. 1,,,,,,,,,,,
+Battery Room no. 2 Water StorageUI,Battery Room No. 2,,,,,,,,,,,
+Engine Room Water StorageUI,Engine Room,,,,,,,,,,,
+Galley Water StorageUI,Galley,,,,,,,,,,,
+Large Wooden Chest,Wooden chest,,,,,,,,,,,
+Pontoon,Pontoon,,,,,,,,,,,
+Open Container,Open,,,,,,,,,,,
+Cut The Rope,Cut the rope,,,,,,,,,,,
+Enable Reflector,Turn on,,,,,,,,,,,
+Disable Reflector,Turn off,,,,,,,,,,,
+Investigate,Investigate,,,,,,,,,,,
+Inspection,Inspection,,,,,,,,,,,
+Artillery - 8.8 cm,Gun - 8.8 cm,,,,,,,,,,,
+Artillery - 8.8 cm Description,The deck gun is designed to sink less armed or abandoned vessels. It can also be used as an anti-aircraft gun with limited efficiency.,,,,,,,,,,,
+Removed Deck Gun,Removed deck gun,,,,,,,,,,,
+Removed Deck Gun Description,Uninstalling the deck gun will increase the underwater speed of the u-boat by decreasing the overall hydrodynamic drag.,,,,,,,,,,,
+Access Ammo Storage,Open the ammo storage,,,,,,,,,,,
+Idle,Idle,,,,,,,,,,,
+Stern Torpedo Storage,Stern torpedo storage,,,,,,,,,,,
+Bow Torpedo Storage,Bow torpedo storage,,,,,,,,,,,
+Small Calibre Ammunition Storage,Flak,,,,,,,,,,,
+Large Calibre Ammunition Storage,Deck gun,,,,,,,,,,,
+Busy Warning,The character is busy.,,,,,,,,,,,
+Carrying Blocking Item,The character already has something in his hands.,,,,,,,,,,,
+Goods Depository,Equipment,,,,,,,,,,,
+Food Depository,Food,,,,,,,,,,,
+Ammunition Depository,Ammunition,,,,,,,,,,,
+Torpedo Depository,Torpedoes,,,,,,,,,,,
+Fuel Depository,Fuel,,,,,,,,,,,
+Items Depository,Items,,,,,,,,,,,
+Fuel Tank,Fuel tank,,,,,,,,,,,
+Workshop,Workshop,,,,,,,,,,,
+Salvage Replacement Parts,Salvage replacement parts,,,,,,,,,,,
 Salvage Replacement Parts Full Description,"<b>Salvaging</b>
 
-Officer prepares replacement parts from parts recovered from previous repairs."
-Hide Flag,Hide flag
-Unfold Flag,Unfold flag
-Flag Mast,Mast
-Drink Coffee,Drink
-Echosounder,Echosounder
-Echosounder Description,A device whose purpose is to measure the depth at which the seabed is located.
-Ping Shallow,Ping (shallow)
-Ping Shallow Description,"Depth measurement by supersonic impulse. Undetectable to the enemy, however, it is unable to detect the seabed at over 125 meters."
-Ping Deep,Ping (deep)
-Ping Deep Description,Depth measurement by sonic impulse. It is detectable for nearby enemies. It has a measurement limit of 1000 meters.
-Manage Diving Planes Station,Improve depth keeping
-Manage Diving Planes Station Description,"Assigning an officer to the vertical steers station improves the depth keeping of the boat and prevents, for example, accidental broaching to the surface. Diving times are also improved."
+Officer prepares replacement parts from parts recovered from previous repairs.",,,,,,,,,,,
+Hide Flag,Hide flag,,,,,,,,,,,
+Unfold Flag,Unfold flag,,,,,,,,,,,
+Flag Mast,Mast,,,,,,,,,,,
+Drink Coffee,Drink,,,,,,,,,,,
+Echosounder,Echosounder,,,,,,,,,,,
+Echosounder Description,A device whose purpose is to measure the depth at which the seabed is located.,,,,,,,,,,,
+Ping Shallow,Ping (shallow),,,,,,,,,,,
+Ping Shallow Description,"Depth measurement by supersonic impulse. Undetectable to the enemy, however, it is unable to detect the seabed at over 125 meters.",,,,,,,,,,,
+Ping Deep,Ping (deep),,,,,,,,,,,
+Ping Deep Description,Depth measurement by sonic impulse. It is detectable for nearby enemies. It has a measurement limit of 1000 meters.,,,,,,,,,,,
+Manage Diving Planes Station,Improve depth keeping,,,,,,,,,,,
+Manage Diving Planes Station Description,"Assigning an officer to the vertical steers station improves the depth keeping of the boat and prevents, for example, accidental broaching to the surface. Diving times are also improved.",,,,,,,,,,,
 Manage Diving Planes Station Full Description,"<b>Improving depth keeping</b>
 
-Officer works on improving the depth keeping of the boat and prevents, for example, accidental broaching to the surface. Diving times are also improved."
-Status Required,Required: {0}
-Control Room,Control Room
-Bow Torpedo Room,Bow Torpedo Room
-Stern Torpedo Room,Stern Torpedo Room
-Battery Room no. 1,Battery Room No. 1
-Battery Room no. 2,Battery Room No. 2
-Engine Room,Engine Room
-Galley,Galley
-Deck,Deck
-Used by Somebody Else Warning,It's being used by somebody else.
-Compartment Flooded Warning,Compartment is flooded.
-Take Items Task,Taking items‚Ä¶
-Turn On Electricity,{0} - OFF
-Turn Off Electricity,{0} - ON
+Officer works on improving the depth keeping of the boat and prevents, for example, accidental broaching to the surface. Diving times are also improved.",,,,,,,,,,,
+Status Required,Required: {0},,,,,,,,,,,
+Control Room,Control Room,,,,,,,,,,,
+Bow Torpedo Room,Bow Torpedo Room,,,,,,,,,,,
+Stern Torpedo Room,Stern Torpedo Room,,,,,,,,,,,
+Battery Room no. 1,Battery Room No. 1,,,,,,,,,,,
+Battery Room no. 2,Battery Room No. 2,,,,,,,,,,,
+Engine Room,Engine Room,,,,,,,,,,,
+Galley,Galley,,,,,,,,,,,
+Deck,Deck,,,,,,,,,,,
+Used by Somebody Else Warning,It's being used by somebody else.,,,,,,,,,,,
+Compartment Flooded Warning,Compartment is flooded.,,,,,,,,,,,
+Take Items Task,Taking itemsÅc,,,,,,,,,,,
+Turn On Electricity,{0} - OFF,,,,,,,,,,,
+Turn Off Electricity,{0} - ON,,,,,,,,,,,
 Select Assignment,"Are there any orders from the admiralty?
-<size=16><color=#ddd>[Opens up Assignment Selection menu]</color></size>"
+<size=16><color=#ddd>[Opens up Assignment Selection menu]</color></size>",,,,,,,,,,,
 Select Tutorial,"My crew needs training.
-<size=16><color=#ddd>[Opens up Tutorial menu]</color></size>"
+<size=16><color=#ddd>[Opens up Tutorial menu]</color></size>",,,,,,,,,,,
 Select Tutorial Blocked By Survivors,"My crew needs training.
-<size=16><color=#fc4d08>[Release survivors first to start a tutorial!]</color></size>"
+<size=16><color=#fc4d08>[Release survivors first to start a tutorial!]</color></size>",,,,,,,,,,,
 Abandon Assignment,"I have to ask for a different assignment...
-<size=16><color=#ddd>[Cancel current assignment, loose 1 reputation point]</color></size>"
+<size=16><color=#ddd>[Cancel current assignment, loose 1 reputation point]</color></size>",,,,,,,,,,,
 Reputation Purchases,"I would like to ask for a few favors...
-<size=16><color=#ddd>[Opens up Reputation Purchases menu]</color></size>"
+<size=16><color=#ddd>[Opens up Reputation Purchases menu]</color></size>",,,,,,,,,,,
 Open depository,"Show me what you've got.
-<size=16><color=#ddd>[Opens up Resupply menu]</color></size>"
+<size=16><color=#ddd>[Opens up Resupply menu]</color></size>",,,,,,,,,,,
 Enter upgrade mode,"I want to upgrade my ship.
-<size=16><color=#ddd>[Enters ship upgrade mode]</color></size>"
+<size=16><color=#ddd>[Enters ship upgrade mode]</color></size>",,,,,,,,,,,
 Recruitment,"Show me their files.
-<size=16><color=#ddd>[Opens up Recruitment menu]</color></size>"
+<size=16><color=#ddd>[Opens up Recruitment menu]</color></size>",,,,,,,,,,,
 Open Crew List,"I will choose crew for the next assignment.
-<size=16><color=#ddd>[Opens up Crew Management menu]</color></size>"
+<size=16><color=#ddd>[Opens up Crew Management menu]</color></size>",,,,,,,,,,,
 Release Captives,"I brought survivors from a sunk ship.
-<size=16><color=#ddd>[Release survivors for a reward]</color></size>"
+<size=16><color=#ddd>[Release survivors for a reward]</color></size>",,,,,,,,,,,
 Open Vacation List,"My crew needs a break.
-<size=16><color=#ddd>[Opens up Vacation menu]</color></size>"
+<size=16><color=#ddd>[Opens up Vacation menu]</color></size>",,,,,,,,,,,
 Open Vacation List (Time Limit),"My crew needs a break.
-<size=16><color=#ddd>[Available in {0} days]</color></size>"
+<size=16><color=#ddd>[Available in {0} days]</color></size>",,,,,,,,,,,
 Open Headquarters Screen,"What's new in the headquarters?
-<size=16><color=#ddd>[Opens up HQ screen]</color></size>"
+<size=16><color=#ddd>[Opens up HQ screen]</color></size>",,,,,,,,,,,
 Open Training Missions List,"My crew needs additional training...
-<size=16><color=#ddd>[Opens up Training Missions menu]</color></size>"
-Exit Dialogue,Goodbye.
+<size=16><color=#ddd>[Opens up Training Missions menu]</color></size>",,,,,,,,,,,
+Exit Dialogue,Goodbye.,,,,,,,,,,,
 Klaus Schmid,"<line-height=110%><color=#ddd><size=13>Klaus Schmid</size></color>
-<size=16>Leading officer</size>"
+<size=16>Leading officer</size>",,,,,,,,,,,
 Wolfgang Mayer,"<line-height=110%><color=#ddd><size=13>Wolfgang Mayer</size></color>
-<size=16>Recruitment</size>"
+<size=16>Recruitment</size>",,,,,,,,,,,
 Hans Fischer,"<line-height=110%><color=#ddd><size=13>Hans Fischer</size></color>
-<size=16>Warehouse</size>"
+<size=16>Warehouse</size>",,,,,,,,,,,
 Erich Kuhn,"<line-height=110%><color=#ddd><size=13>Erich Kuhn</size></color>
-<size=16>Warehouse</size>"
-Snorkel,Snorkel
-Snorkel Description,Pipe system that may be set above the sea surface to ventillate the ship with fresh air and keep using diesel engines while remaining under water. Works only at the periscope depth.
-Anti-Radar Coated Snorkel,Anti-Radar Coated Snorkel
-Anti-Radar Coated Snorkel Description,Snorkel coated with material that disperses incoming radar waves.
-FuMB 1 ?Metox‚Äù,"FuMB 1 ""Metox"""
-FuMB 1 ?Metox‚Äù Description,Tier I radar detector that is able to detect radar waves and play loud warning on ship's speakers. It's controlled from the listening room and works only on the water surface.
-FuMB 10 ?Borkum‚Äù,"FuMB 10 ""Borkum"""
-FuMB 10 ?Borkum‚Äù Description,"Tier II radar detector. Doesn't emit any radiation detectable for the enemy, but at the cost of detection range."
-FuMB 7 ?Naxos I‚Äù,"FuMB 7 ""Naxos I"""
-FuMB 7 ?Naxos I‚Äù Description,Tier III radar detector. It's able to detect latest radars using 10 cm waves that are used by the enemy.
-FuMB 26 ?Tunis‚Äù,"FuMB 26 ""Tunis"""
-FuMB 26 ?Tunis‚Äù Description,Tier IV radar detector with vastly improved range of detection.
-Improved Toilets,Improved Toilets
-Improved Toilets Description,Improved hydraulic system that opens up the possibility to use toilets deep under water. Helps for morale.
-Accumulators I,Accumulators I
-Accumulators I Description,Tier I accumulators that have their capacity increased by 25% when compared to the default ones.
-Accumulators II,Accumulators II
-Accumulators II Description,Tier II accumulators that have their capacity increased by 50% when compared to the default ones.
-Accumulators III,Accumulators III
-Accumulators III Description,Tier III accumulators that have their capacity increased by 75% when compared to the default ones.
-Turm 0,Turm 0
-Turm 0 Description,Default conning tower for Type VIIC u-boats.
-Turm I,Turm I
-Turm I Description,Tier I conning tower. It's heavier and more armoured than the default conning tower and is also equipped with two additional 13.2 mm Breda AA guns.
-Turm II,Turm II
-Turm II Description,"Tier II conning tower. It's fitted with two 20 mm AA guns, one on the conning tower and one more on a separate platform."
-Turm IV,Turm IV
-Turm IV Description,Tier III conning tower. It's fitted with two 20 mm AA guns on the conning tower and 37 mm automatic M42 U gun on a separate platform.
-GHG,GHG
-GHG Description,Standard hydrophone system mounted on Type VIIC u-boats. Consists of 24 hydrophones mounted on the sides of u-boat's bow. It has two dead zones - 20 degrees arc on the bow and 60 degrees on the stern - from which it cannot capture any sounds.
-KDB,KDB
-KDB Description,"Tier I hydrophone system. It's a set of 6 hydrophones that can be rotated around one axis. This simple solution allows for perfect triangulation, but placement of this device make it vulnerable."
-GHG-Balkon,GHG-Balkon
-GHG-Balkon Description,Tier II hydrophone system. Consists of 48 hydrophones mounted on a dome attached to the bottom part of u-boat's hull. It has only one dead zone that spans 60 degrees on the stern.
-Launch Sonar Decoy,Launch sonar decoy
-Launch Sonar Decoy Full Description,<b>Launching sonar decoy</b>
-Location Inaccessible,Destination is currently inaccessible.
-Torpedo Is Being Loaded Warning,Cannot access this device because torpedo is being loaded in this compartment.
-Buoyancy Too Low Conning Tower Warning,Buoyancy is too low to walk on the conning tower.
-Buoyancy Too Low Deck Warning,Buoyancy is too low to walk on the deck.
-Cook,Cook
+<size=16>Warehouse</size>",,,,,,,,,,,
+Snorkel,Snorkel,,,,,,,,,,,
+Snorkel Description,Pipe system that may be set above the sea surface to ventillate the ship with fresh air and keep using diesel engines while remaining under water. Works only at the periscope depth.,,,,,,,,,,,
+Anti-Radar Coated Snorkel,Anti-Radar Coated Snorkel,,,,,,,,,,,
+Anti-Radar Coated Snorkel Description,Snorkel coated with material that disperses incoming radar waves.,,,,,,,,,,,
+FuMB 1 ?MetoxÅh,"FuMB 1 ""Metox""",,,,,,,,,,,
+FuMB 1 ?MetoxÅh Description,Tier I radar detector that is able to detect radar waves and play loud warning on ship's speakers. It's controlled from the listening room and works only on the water surface.,,,,,,,,,,,
+FuMB 10 ?BorkumÅh,"FuMB 10 ""Borkum""",,,,,,,,,,,
+FuMB 10 ?BorkumÅh Description,"Tier II radar detector. Doesn't emit any radiation detectable for the enemy, but at the cost of detection range.",,,,,,,,,,,
+FuMB 7 ?Naxos IÅh,"FuMB 7 ""Naxos I""",,,,,,,,,,,
+FuMB 7 ?Naxos IÅh Description,Tier III radar detector. It's able to detect latest radars using 10 cm waves that are used by the enemy.,,,,,,,,,,,
+FuMB 26 ?TunisÅh,"FuMB 26 ""Tunis""",,,,,,,,,,,
+FuMB 26 ?TunisÅh Description,Tier IV radar detector with vastly improved range of detection.,,,,,,,,,,,
+Improved Toilets,Improved Toilets,,,,,,,,,,,
+Improved Toilets Description,Improved hydraulic system that opens up the possibility to use toilets deep under water. Helps for morale.,,,,,,,,,,,
+Accumulators I,Accumulators I,,,,,,,,,,,
+Accumulators I Description,Tier I accumulators that have their capacity increased by 25% when compared to the default ones.,,,,,,,,,,,
+Accumulators II,Accumulators II,,,,,,,,,,,
+Accumulators II Description,Tier II accumulators that have their capacity increased by 50% when compared to the default ones.,,,,,,,,,,,
+Accumulators III,Accumulators III,,,,,,,,,,,
+Accumulators III Description,Tier III accumulators that have their capacity increased by 75% when compared to the default ones.,,,,,,,,,,,
+Turm 0,Turm 0,,,,,,,,,,,
+Turm 0 Description,Default conning tower for Type VIIC u-boats.,,,,,,,,,,,
+Turm I,Turm I,,,,,,,,,,,
+Turm I Description,Tier I conning tower. It's heavier and more armoured than the default conning tower and is also equipped with two additional 13.2 mm Breda AA guns.,,,,,,,,,,,
+Turm II,Turm II,,,,,,,,,,,
+Turm II Description,"Tier II conning tower. It's fitted with two 20 mm AA guns, one on the conning tower and one more on a separate platform.",,,,,,,,,,,
+Turm IV,Turm IV,,,,,,,,,,,
+Turm IV Description,Tier III conning tower. It's fitted with two 20 mm AA guns on the conning tower and 37 mm automatic M42 U gun on a separate platform.,,,,,,,,,,,
+GHG,GHG,,,,,,,,,,,
+GHG Description,Standard hydrophone system mounted on Type VIIC u-boats. Consists of 24 hydrophones mounted on the sides of u-boat's bow. It has two dead zones - 20 degrees arc on the bow and 60 degrees on the stern - from which it cannot capture any sounds.,,,,,,,,,,,
+KDB,KDB,,,,,,,,,,,
+KDB Description,"Tier I hydrophone system. It's a set of 6 hydrophones that can be rotated around one axis. This simple solution allows for perfect triangulation, but placement of this device make it vulnerable.",,,,,,,,,,,
+GHG-Balkon,GHG-Balkon,,,,,,,,,,,
+GHG-Balkon Description,Tier II hydrophone system. Consists of 48 hydrophones mounted on a dome attached to the bottom part of u-boat's hull. It has only one dead zone that spans 60 degrees on the stern.,,,,,,,,,,,
+Launch Sonar Decoy,Launch sonar decoy,,,,,,,,,,,
+Launch Sonar Decoy Full Description,<b>Launching sonar decoy</b>,,,,,,,,,,,
+Location Inaccessible,Destination is currently inaccessible.,,,,,,,,,,,
+Torpedo Is Being Loaded Warning,Cannot access this device because torpedo is being loaded in this compartment.,,,,,,,,,,,
+Buoyancy Too Low Conning Tower Warning,Buoyancy is too low to walk on the conning tower.,,,,,,,,,,,
+Buoyancy Too Low Deck Warning,Buoyancy is too low to walk on the deck.,,,,,,,,,,,
+Cook,Cook,,,,,,,,,,,
 Cook Full Description,"<b>Cooking</b>
 
-Cooking is this officer's hobby. He is currently cooking at caboose to better integrate with the crew."
-Toilet,Toilet
-Exterior,Exterior
-Evacuation,Evacuation
-Carry Wounded,Carry to safety
-Warning Already Gets Help,This crewman already gets help.
-Warning No Free Beds,Not enough beds.
-Go To,Walking...
+Cooking is this officer's hobby. He is currently cooking at caboose to better integrate with the crew.",,,,,,,,,,,
+Toilet,Toilet,,,,,,,,,,,
+Exterior,Exterior,,,,,,,,,,,
+Evacuation,Evacuation,,,,,,,,,,,
+Carry Wounded,Carry to safety,,,,,,,,,,,
+Warning Already Gets Help,This crewman already gets help.,,,,,,,,,,,
+Warning No Free Beds,Not enough beds.,,,,,,,,,,,
+Go To,Walking...,,,,,,,,,,,
 Trim pump enabled,"Pumps {0:0} liters per second
-{1:0} liters remaining"
+{1:0} liters remaining",,,,,,,,,,,
 Trim pump enabled dry,"Pumps {0:0} liters per second
-Control Room is dry"
-Trim pump disabled,{1:0} liters remaining
-Trim pump disabled dry,Control Room is dry
+Control Room is dry",,,,,,,,,,,
+Trim pump disabled,{1:0} liters remaining,,,,,,,,,,,
+Trim pump disabled dry,Control Room is dry,,,,,,,,,,,
 Antenna not hidden,"Receives and sends radio messages
-Vulnerable under water"
-Antenna hidden,Antenna is hidden
-Gyrocompass enabled,Points north - Required for exploration mode
-Gyrocompass disabled,North direction is undetermined - Cannot enter exploration mode
-Gyrocompass enabling,Starting‚Ä¶ - Cannot enter exploration mode
-Hatch closed,Hatch is closed - Watertight
-Hatch open,Hatch is open
-Depth steers station manual,Steering engines are disabled - Less accurate depth control
-Depth steers station electric,Steering engines are enabled - Enhanced depth control
-Snorkel mast raised,Snorkel mast is raised
-Snorkel mast hidden,Snorkel mast is hidden
-Main Blowing Valve disabled,Closed
-Main Blowing Valve enabled,Opened - Venting air‚Ä¶
-Flood Valves disabled,Closed
-Flood Valves enabled,Opened - Flooding‚Ä¶
-Compartment Evacuated,<color=red>Compartment was ordered to be evacuated.</color>
-Hatch Pressure Durability,This hatch is watertight at up to {0:0} atmospheres of fluid pressure.
-Hatch Pressure,<color=red>Currently exposed to a pressure of {0:0} atmospheres.</color>
-Pump - Compartments Dry,All compartments are dry.
-Pump - Compartments Flooded,{0:0.0} m<sup>3</sup> of water remain in the compartments.
-Pump - Compartments Pump Time,All compartments will be dry in {0}.
-Pump - Pressure,External pressure equals to {0:0} atmospheres. Pump's performance is decreased by {1:0}%.
-Kitchen - Header,<u><pos=0>Name<pos=100>Weight<pos=175>Consumption time</u>
-Kitchen - Summary,Food stored in the kitchen will last for {0}.
-Kitchen - Summary Extended,Food stored in the kitchen will last for {0} ({1} with storage reserves).
+Vulnerable under water",,,,,,,,,,,
+Antenna hidden,Antenna is hidden,,,,,,,,,,,
+Gyrocompass enabled,Points north - Required for exploration mode,,,,,,,,,,,
+Gyrocompass disabled,North direction is undetermined - Cannot enter exploration mode,,,,,,,,,,,
+Gyrocompass enabling,StartingÅc - Cannot enter exploration mode,,,,,,,,,,,
+Hatch closed,Hatch is closed - Watertight,,,,,,,,,,,
+Hatch open,Hatch is open,,,,,,,,,,,
+Depth steers station manual,Steering engines are disabled - Less accurate depth control,,,,,,,,,,,
+Depth steers station electric,Steering engines are enabled - Enhanced depth control,,,,,,,,,,,
+Snorkel mast raised,Snorkel mast is raised,,,,,,,,,,,
+Snorkel mast hidden,Snorkel mast is hidden,,,,,,,,,,,
+Main Blowing Valve disabled,Closed,,,,,,,,,,,
+Main Blowing Valve enabled,Opened - Venting airÅc,,,,,,,,,,,
+Flood Valves disabled,Closed,,,,,,,,,,,
+Flood Valves enabled,Opened - FloodingÅc,,,,,,,,,,,
+Compartment Evacuated,<color=red>Compartment was ordered to be evacuated.</color>,,,,,,,,,,,
+Hatch Pressure Durability,This hatch is watertight at up to {0:0} atmospheres of fluid pressure.,,,,,,,,,,,
+Hatch Pressure,<color=red>Currently exposed to a pressure of {0:0} atmospheres.</color>,,,,,,,,,,,
+Pump - Compartments Dry,All compartments are dry.,,,,,,,,,,,
+Pump - Compartments Flooded,{0:0.0} m<sup>3</sup> of water remain in the compartments.,,,,,,,,,,,
+Pump - Compartments Pump Time,All compartments will be dry in {0}.,,,,,,,,,,,
+Pump - Pressure,External pressure equals to {0:0} atmospheres. Pump's performance is decreased by {1:0}%.,,,,,,,,,,,
+Kitchen - Header,<u><pos=0>Name<pos=100>Weight<pos=175>Consumption time</u>,,,,,,,,,,,
+Kitchen - Summary,Food stored in the kitchen will last for {0}.,,,,,,,,,,,
+Kitchen - Summary Extended,Food stored in the kitchen will last for {0} ({1} with storage reserves).,,,,,,,,,,,
 Kitchen - Extra Ingredients,"Ingredients: {0}.
 
-A cook will prepare dishes that increase morale by <color=green>{1}</color>/min, but also the overall consumption by <color=#ff4c11>{2:0}%</color>."
-Kitchen - Extra Ingredients Not Last,"{0}, {1}"
-Kitchen - Extra Ingredients Last,{0} and {1}
-Kitchen - Empty,<color=red>We've run out of food.</color>
-Radio - Perfect Weather,Weather outside is perfect and doesn't affect signal quality.
-Radio - Weather Signal Quality,Current weather lowers signal quality by {0:0}%.
-Radio - Water Signal Quality,<color=red>Antenna is currently below water. Received signal is blocked in {0:0}%.</color>
-Listening Room - Radar Detector,Radioman currently operates radar detector. Hydrophone isn't operational on the surface.
-Listening Room - Radar Detector Range,Direct detection range: {0}
-Listening Room - Radar Detector Range Groups,Group detection range: up to {0}
-Listening Room - Hydrophone Detection Range,Direct detection range: {0}
-Listening Room - Hydrophone Detection Range Groups,Group detection range: up to {0}
-Listening Room - Depth Charges Modifier,<color=red>Nearby explosions decrease performance of the hydrophone by {0:0}%.</color>
-Listening Room - Engines Modifier,<color=orange>Engines working on our ship decrease detection range by {0:0}%.</color>
-Listening Room - Surface Modifier,<color=red>Noise from the surface decreases detection range by {0:0}%. Our ship has to submerge deeper to use hydrophone effectively.</color>
-Listening Room - Surface Modifier Full,<color=red>Our ship has to submerge to use hydrophone effectively.</color>
-Compressor - Tanks Status,Compressed air flasks pressure: {0:0} / {1:0} atm.
-Compressor - Tanks Full,All compressed air flasks are full at above 240 atmospheres.
-Compressor - Uses Interior Air,<color=red>Our ship currently isn't ventilated with the fresh air. Compressor uses up the air remaining in our ship.</color>
-Ventilation - Air Quality,"Ventilation is currently effective in {0:0}%. The longer we reuse the same air, the more ventilation effectiveness will decrease."
-Ventilation - Air Quality Warning,"<color=red>Ventilation is no longer able to effectively improve air quality, but placing potassium absorbers into the ventilation system may still help.</color>"
-Ventilation - Air Quality Warning With Absorbers,<color=red>Ventilation is no longer able to effectively improve air quality.</color>
-Periscope - Detection Range,Observation range: {0}
-Periscope - Detection Range Groups,Group observation range: up to {0}
-Depth Steers Station - Electric,Electric steering is currently used. Depth keeping is more accurate.
-Depth Steers Station - Manual,Manual steering is currently used. Depth keeping is less accurate.
-Leak - Flow Rate,Flow rate: {0:0} l/min
-Leak - Pressure,External pressure: {0:0} atmospheres
-Gyrocompass - Operational,Gyrocompass is operational and all compasses on board point north. This information decreases our chance to get lost by {0}%.
-Gyrocompass - Operational In,Gyrocompass will be operational in {0}.
-Navigation Table - We are Lost,We are currently lost and don't know our current position.
-Navigation Table - Known Area,We are currently in a known area and there is no risk of getting lost.
-Navigation Table - Navigation Increases High Accuracy,Navigator is on the station and our position is determined in <color=#00ff00>{0:0}%</color>.
-Navigation Table - Navigation Increases Normal Accuracy,Navigator is on the station and our position is determined in {0:0}%.
-Navigation Table - Navigation Increases Low Accuracy,Navigator is on the station and our position is determined in <color=#ff4c11>{0:0}%</color>.
-Navigation Table - Navigation Decreases High Accuracy,"Our current position is determined in <color=#00ff00>{0:0}%</color>. If it falls to zero, we may get lost."
-Navigation Table - Navigation Decreases Normal Accuracy,"Our current position is determined in {0:0}%. If it falls to zero, we may get lost."
-Navigation Table - Navigation Decreases Low Accuracy,"Our current position is determined in <color=#ff4c11>{0:0}%</color>. If it falls to zero, we may get lost."
-Navigation Table - Unsure,<color=orange>We are on the open sea and navigator didn't update our position for a while. We may become lost.</color>
-Engines - RPM,Propellers currently operate at {0:0} RPM.
-Engines - Speed,Our ship travels with a velocity of {0:0}.
-Workshop - Remaining Replacement Parts,There are {0:0} kg of scrap metal remaining in our storage from which we can recover {1:0} replacement parts for repairs.
-Workshop - No Replacement Parts,We don't have any scrap metal in our storage.
-Diver Spot - Nothing Below,There is nothing interesting below our ship.
-Diver Spot - Ship,We are directly above a shipwreck that lies at the depth of {0:0} meters.
-General - Unused,<color=#999>This station is currently unused.</color>
-General - Disabled,<color=#999>This device is disabled.</color>
-Torpedo Launchers - Loadout,Loadout:
-Torpedo Launchers - Empty,<color=#999>(empty)</color>
-Valves - Flooded,All ballast tanks are flooded.
-Valves - Flooding,Flooding...
-Valves - Empty,All ballast tanks are empty.
-Valves - Blowing,Blowing tanks...
-Valves - Not Enough Compressed Air,<color=red>Our compressed air reserves are at a very low level. We can't fully blow the tanks.</color>
-Gun - Ammunition,Ammunition:
-Social Table - In Use,Sailors have a good time here.
-Social Table - Officer Waits,Officer waits for sailors to join him.
-Storage - Mass,Stored goods: <color={2}>{0:0} kg / {1:0} kg</color>.
-Container - Item,Contains:<size=15>{1} x {0}</size>
-Container - Empty,<color=#999>(empty)</color>
-Bilges - Mass,This compartment contains {0:0.0} m<sup>3</sup> of water.
-Bilges - Buoyancy,Buoyancy impact: {0:0}%.
-Bilges - Dry,Bilges are dry.
-Ballast Tank - Water,Filled with water in {0:0}%.
-Ballast Tank - Empty,This tank is empty.
-Fuel Tank - Fuel,Filled with fuel in {0:0}%.
-Fuel Tank - Empty,This tank is empty.
-Power Control Room,Power - Control Room
-Power Conning Tower,Power - Conning Tower
-Power Battery Room no. 1,Power - Battery Room no. 1
-Power Battery Room no. 2,Power - Battery Room no. 2
-Power Bow Torpedo Room,Power - Bow Torpedo Room
-Power Galley,Power - Galley
-Power Engine Room,Power - Engine Room
-Power Stern Torpedo Room,Power - Stern Torpedo Room
-Sailor Work Engines,Engines
-Sailor Work Observation,Observation
-Sailor Work Cleaning Station,Cleaning Station
-Sailor Work Galley,Galley
-Sailor Work Observation Periscope,Observation Periscope
-Sailor Work Helmsman Station,Helmsman Station
-Sailor Work Vertical Steers Station,Depth Steers Station
-Sailor Work Valve Watch,Valves
-Sailor Work Switch Power,Power Switch Tasks
-Sailor Work Radio Room,Radio room
-Sailor Work Open Close Hatch,Bulkheads
-Ballast Tank no. 1,Ballast Tank no. 1
-Ballast Tank no. 2,Ballast Tank no. 2
-Ballast Tank no. 3,Ballast Tank no. 3
-Ballast Tank no. 4,Ballast Tank no. 4
-Ballast Tank no. 5,Ballast Tank no. 5
-Conning Tower Interior,Conning Tower
-Fuel Tank no. 1,Fuel Tank no. 1
-Fuel Tank no. 2,Fuel Tank no. 2
-Pill Thrower,Pill Thrower
-,
-G7a Torpedo T1 - Pi1,G7a torpedo T1 - Pi1
-G7a Torpedo T1 - Pi1.1,G7a torpedo T1 - Pi1/v2
-G7a Torpedo T1 - Pi3,G7a torpedo T1 - Pi3
-G7a Torpedo T1 - Pi3 - FAT,G7a torpedo T1 - Pi3 - FAT
-G7a Torpedo T1 - Pi3 - LUT,G7a torpedo T1 - Pi3 - LUT
-G7e Torpedo T2 - Pi1,G7e torpedo T2 - Pi1
-G7e Torpedo T2 - Pi1.1,G7e torpedo T2 - Pi1/v2
-G7e Torpedo T3 - Pi2,G7e torpedo T3 - Pi2
-G7e Torpedo T3 - Pi2 - FAT,G7e torpedo T3 - Pi2 - FAT
-G7e Torpedo T3 - Pi2 - LUT,G7e torpedo T3 - Pi2 - LUT
-G7e Torpedo T3 - Pi2 - Prototype,G7e torpedo T3 prototype - Pi2
-G7es Zaunk?nig Torpedo T5 - Pi4,"G7es ""Zaunk?nig"" torpedo T5 - Pi4"
-G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype,"G7es ""Zaunk?nig"" torpedo T5 prototype - Pi4"
-G7a Torpedo T1 - Pi1 (Warmed),G7a torpedo T1 - Pi1
-G7a Torpedo T1 - Pi1.1 (Warmed),G7a torpedo T1 - Pi1/v2
-G7a Torpedo T1 - Pi3 (Warmed),G7a torpedo T1 - Pi3
-G7a Torpedo T1 - Pi3 - FAT (Warmed),G7a torpedo T1 - Pi3 - FAT
-G7a Torpedo T1 - Pi3 - LUT (Warmed),G7a torpedo T1 - Pi3 - LUT
-G7e Torpedo T2 - Pi1 (Warmed),G7e torpedo T2 - Pi1
-G7e Torpedo T2 - Pi1.1 (Warmed),G7e torpedo T2 - Pi1/v2
-G7e Torpedo T3 - Pi2 (Warmed),G7e torpedo T3 - Pi2
-G7e Torpedo T3 - Pi2 - FAT (Warmed),G7e torpedo T3 - Pi2 - FAT
-G7e Torpedo T3 - Pi2 - LUT (Warmed),G7e torpedo T3 - Pi2 - LUT
-G7e Torpedo T3 - Pi2 - Prototype (Warmed),G7e torpedo T3 prototype - Pi2
-G7es Zaunk?nig Torpedo T5 - Pi4 (Warmed),"G7es ""Zaunk?nig"" torpedo T5 - Pi4"
-G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype (Warmed),"G7es ""Zaunk?nig"" torpedo T5 prototype - Pi4"
-TMB Mine x3,TMB mine x3
-,
-Bleeding,Injured
-Resupply Ammunition,Resupply Ammunition
-Disallow Sailor Work,Sailors: Disallow
-Allow Sailor Work,Sailors: Allow
-Work At Helmsman Station,Using Helmsman Station
-Helmsman Station,Helmsman Station
-Cleaning Station,Cleaning Station
-Vacation,Vacation
-Turn ON,Turn ON
-Turn OFF,Turn OFF
-RunAtBowAction,Run to Bow Compartment
-Valve Watch,Valves
-Switch Power,Switch power
-Cargo Hold,Cargo Hold
-,
-Deck Gun,Deck gun
-Upgrade,Upgrade
-,
-Ammo Large Calibre HE,Large Caliber HE Ammo
-Ammo Large Calibre AP,Large Caliber AP Ammo
-Ammo Large Calibre AA,Large Caliber AA Ammo
-Ammo Large Calibre SS,Large Caliber SS Ammo
-,
-Surrender,Surrender
-Scuttle,Scuttle
-Decoration Control Room,Decoration
-Christmas Tree Control Room,Christmas Tree
-Christmas Tree Control Room Description,The Christmas tree will make the atmosphere on board more pleasant. The sailors will feel the Christmas spirit a little and won't miss their families so much.
-CommandAction,Commanding
+A cook will prepare dishes that increase morale by <color=green>{1}</color>/min, but also the overall consumption by <color=#ff4c11>{2:0}%</color>.",,,,,,,,,,,
+Kitchen - Extra Ingredients Not Last,"{0}, {1}",,,,,,,,,,,
+Kitchen - Extra Ingredients Last,{0} and {1},,,,,,,,,,,
+Kitchen - Empty,<color=red>We've run out of food.</color>,,,,,,,,,,,
+Radio - Perfect Weather,Weather outside is perfect and doesn't affect signal quality.,,,,,,,,,,,
+Radio - Weather Signal Quality,Current weather lowers signal quality by {0:0}%.,,,,,,,,,,,
+Radio - Water Signal Quality,<color=red>Antenna is currently below water. Received signal is blocked in {0:0}%.</color>,,,,,,,,,,,
+Listening Room - Radar Detector,Radioman currently operates radar detector. Hydrophone isn't operational on the surface.,,,,,,,,,,,
+Listening Room - Radar Detector Range,Direct detection range: {0},,,,,,,,,,,
+Listening Room - Radar Detector Range Groups,Group detection range: up to {0},,,,,,,,,,,
+Listening Room - Hydrophone Detection Range,Direct detection range: {0},,,,,,,,,,,
+Listening Room - Hydrophone Detection Range Groups,Group detection range: up to {0},,,,,,,,,,,
+Listening Room - Depth Charges Modifier,<color=red>Nearby explosions decrease performance of the hydrophone by {0:0}%.</color>,,,,,,,,,,,
+Listening Room - Engines Modifier,<color=orange>Engines working on our ship decrease detection range by {0:0}%.</color>,,,,,,,,,,,
+Listening Room - Surface Modifier,<color=red>Noise from the surface decreases detection range by {0:0}%. Our ship has to submerge deeper to use hydrophone effectively.</color>,,,,,,,,,,,
+Listening Room - Surface Modifier Full,<color=red>Our ship has to submerge to use hydrophone effectively.</color>,,,,,,,,,,,
+Compressor - Tanks Status,Compressed air flasks pressure: {0:0} / {1:0} atm.,,,,,,,,,,,
+Compressor - Tanks Full,All compressed air flasks are full at above 240 atmospheres.,,,,,,,,,,,
+Compressor - Uses Interior Air,<color=red>Our ship currently isn't ventilated with the fresh air. Compressor uses up the air remaining in our ship.</color>,,,,,,,,,,,
+Ventilation - Air Quality,"Ventilation is currently effective in {0:0}%. The longer we reuse the same air, the more ventilation effectiveness will decrease.",,,,,,,,,,,
+Ventilation - Air Quality Warning,"<color=red>Ventilation is no longer able to effectively improve air quality, but placing potassium absorbers into the ventilation system may still help.</color>",,,,,,,,,,,
+Ventilation - Air Quality Warning With Absorbers,<color=red>Ventilation is no longer able to effectively improve air quality.</color>,,,,,,,,,,,
+Periscope - Detection Range,Observation range: {0},,,,,,,,,,,
+Periscope - Detection Range Groups,Group observation range: up to {0},,,,,,,,,,,
+Depth Steers Station - Electric,Electric steering is currently used. Depth keeping is more accurate.,,,,,,,,,,,
+Depth Steers Station - Manual,Manual steering is currently used. Depth keeping is less accurate.,,,,,,,,,,,
+Leak - Flow Rate,Flow rate: {0:0} l/min,,,,,,,,,,,
+Leak - Pressure,External pressure: {0:0} atmospheres,,,,,,,,,,,
+Gyrocompass - Operational,Gyrocompass is operational and all compasses on board point north. This information decreases our chance to get lost by {0}%.,,,,,,,,,,,
+Gyrocompass - Operational In,Gyrocompass will be operational in {0}.,,,,,,,,,,,
+Navigation Table - We are Lost,We are currently lost and don't know our current position.,,,,,,,,,,,
+Navigation Table - Known Area,We are currently in a known area and there is no risk of getting lost.,,,,,,,,,,,
+Navigation Table - Navigation Increases High Accuracy,Navigator is on the station and our position is determined in <color=#00ff00>{0:0}%</color>.,,,,,,,,,,,
+Navigation Table - Navigation Increases Normal Accuracy,Navigator is on the station and our position is determined in {0:0}%.,,,,,,,,,,,
+Navigation Table - Navigation Increases Low Accuracy,Navigator is on the station and our position is determined in <color=#ff4c11>{0:0}%</color>.,,,,,,,,,,,
+Navigation Table - Navigation Decreases High Accuracy,"Our current position is determined in <color=#00ff00>{0:0}%</color>. If it falls to zero, we may get lost.",,,,,,,,,,,
+Navigation Table - Navigation Decreases Normal Accuracy,"Our current position is determined in {0:0}%. If it falls to zero, we may get lost.",,,,,,,,,,,
+Navigation Table - Navigation Decreases Low Accuracy,"Our current position is determined in <color=#ff4c11>{0:0}%</color>. If it falls to zero, we may get lost.",,,,,,,,,,,
+Navigation Table - Unsure,<color=orange>We are on the open sea and navigator didn't update our position for a while. We may become lost.</color>,,,,,,,,,,,
+Engines - RPM,Propellers currently operate at {0:0} RPM.,,,,,,,,,,,
+Engines - Speed,Our ship travels with a velocity of {0:0}.,,,,,,,,,,,
+Workshop - Remaining Replacement Parts,There are {0:0} kg of scrap metal remaining in our storage from which we can recover {1:0} replacement parts for repairs.,,,,,,,,,,,
+Workshop - No Replacement Parts,We don't have any scrap metal in our storage.,,,,,,,,,,,
+Diver Spot - Nothing Below,There is nothing interesting below our ship.,,,,,,,,,,,
+Diver Spot - Ship,We are directly above a shipwreck that lies at the depth of {0:0} meters.,,,,,,,,,,,
+General - Unused,<color=#999>This station is currently unused.</color>,,,,,,,,,,,
+General - Disabled,<color=#999>This device is disabled.</color>,,,,,,,,,,,
+Torpedo Launchers - Loadout,Loadout:,,,,,,,,,,,
+Torpedo Launchers - Empty,<color=#999>(empty)</color>,,,,,,,,,,,
+Valves - Flooded,All ballast tanks are flooded.,,,,,,,,,,,
+Valves - Flooding,Flooding...,,,,,,,,,,,
+Valves - Empty,All ballast tanks are empty.,,,,,,,,,,,
+Valves - Blowing,Blowing tanks...,,,,,,,,,,,
+Valves - Not Enough Compressed Air,<color=red>Our compressed air reserves are at a very low level. We can't fully blow the tanks.</color>,,,,,,,,,,,
+Gun - Ammunition,Ammunition:,,,,,,,,,,,
+Social Table - In Use,Sailors have a good time here.,,,,,,,,,,,
+Social Table - Officer Waits,Officer waits for sailors to join him.,,,,,,,,,,,
+Storage - Mass,Stored goods: <color={2}>{0:0} kg / {1:0} kg</color>.,,,,,,,,,,,
+Container - Item,Contains:<size=15>{1} x {0}</size>,,,,,,,,,,,
+Container - Empty,<color=#999>(empty)</color>,,,,,,,,,,,
+Bilges - Mass,This compartment contains {0:0.0} m<sup>3</sup> of water.,,,,,,,,,,,
+Bilges - Buoyancy,Buoyancy impact: {0:0}%.,,,,,,,,,,,
+Bilges - Dry,Bilges are dry.,,,,,,,,,,,
+Ballast Tank - Water,Filled with water in {0:0}%.,,,,,,,,,,,
+Ballast Tank - Empty,This tank is empty.,,,,,,,,,,,
+Fuel Tank - Fuel,Filled with fuel in {0:0}%.,,,,,,,,,,,
+Fuel Tank - Empty,This tank is empty.,,,,,,,,,,,
+Power Control Room,Power - Control Room,,,,,,,,,,,
+Power Conning Tower,Power - Conning Tower,,,,,,,,,,,
+Power Battery Room no. 1,Power - Battery Room no. 1,,,,,,,,,,,
+Power Battery Room no. 2,Power - Battery Room no. 2,,,,,,,,,,,
+Power Bow Torpedo Room,Power - Bow Torpedo Room,,,,,,,,,,,
+Power Galley,Power - Galley,,,,,,,,,,,
+Power Engine Room,Power - Engine Room,,,,,,,,,,,
+Power Stern Torpedo Room,Power - Stern Torpedo Room,,,,,,,,,,,
+Sailor Work Engines,Engines,,,,,,,,,,,
+Sailor Work Observation,Observation,,,,,,,,,,,
+Sailor Work Cleaning Station,Cleaning Station,,,,,,,,,,,
+Sailor Work Galley,Galley,,,,,,,,,,,
+Sailor Work Observation Periscope,Observation Periscope,,,,,,,,,,,
+Sailor Work Helmsman Station,Helmsman Station,,,,,,,,,,,
+Sailor Work Vertical Steers Station,Depth Steers Station,,,,,,,,,,,
+Sailor Work Valve Watch,Valves,,,,,,,,,,,
+Sailor Work Switch Power,Power Switch Tasks,,,,,,,,,,,
+Sailor Work Radio Room,Radio room,,,,,,,,,,,
+Sailor Work Open Close Hatch,Bulkheads,,,,,,,,,,,
+Ballast Tank no. 1,Ballast Tank no. 1,,,,,,,,,,,
+Ballast Tank no. 2,Ballast Tank no. 2,,,,,,,,,,,
+Ballast Tank no. 3,Ballast Tank no. 3,,,,,,,,,,,
+Ballast Tank no. 4,Ballast Tank no. 4,,,,,,,,,,,
+Ballast Tank no. 5,Ballast Tank no. 5,,,,,,,,,,,
+Conning Tower Interior,Conning Tower,,,,,,,,,,,
+Fuel Tank no. 1,Fuel Tank no. 1,,,,,,,,,,,
+Fuel Tank no. 2,Fuel Tank no. 2,,,,,,,,,,,
+Pill Thrower,Pill Thrower,,,,,,,,,,,
+,,,,,,,,,,,,
+G7a Torpedo T1 - Pi1,G7a torpedo T1 - Pi1,,,,,,,,,,,
+G7a Torpedo T1 - Pi1.1,G7a torpedo T1 - Pi1/v2,,,,,,,,,,,
+G7a Torpedo T1 - Pi3,G7a torpedo T1 - Pi3,,,,,,,,,,,
+G7a Torpedo T1 - Pi3 - FAT,G7a torpedo T1 - Pi3 - FAT,,,,,,,,,,,
+G7a Torpedo T1 - Pi3 - LUT,G7a torpedo T1 - Pi3 - LUT,,,,,,,,,,,
+G7e Torpedo T2 - Pi1,G7e torpedo T2 - Pi1,,,,,,,,,,,
+G7e Torpedo T2 - Pi1.1,G7e torpedo T2 - Pi1/v2,,,,,,,,,,,
+G7e Torpedo T3 - Pi2,G7e torpedo T3 - Pi2,,,,,,,,,,,
+G7e Torpedo T3 - Pi2 - FAT,G7e torpedo T3 - Pi2 - FAT,,,,,,,,,,,
+G7e Torpedo T3 - Pi2 - LUT,G7e torpedo T3 - Pi2 - LUT,,,,,,,,,,,
+G7e Torpedo T3 - Pi2 - Prototype,G7e torpedo T3 prototype - Pi2,,,,,,,,,,,
+G7es Zaunk?nig Torpedo T5 - Pi4,"G7es ""Zaunk?nig"" torpedo T5 - Pi4",,,,,,,,,,,
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype,"G7es ""Zaunk?nig"" torpedo T5 prototype - Pi4",,,,,,,,,,,
+G7a Torpedo T1 - Pi1 (Warmed),G7a torpedo T1 - Pi1,,,,,,,,,,,
+G7a Torpedo T1 - Pi1.1 (Warmed),G7a torpedo T1 - Pi1/v2,,,,,,,,,,,
+G7a Torpedo T1 - Pi3 (Warmed),G7a torpedo T1 - Pi3,,,,,,,,,,,
+G7a Torpedo T1 - Pi3 - FAT (Warmed),G7a torpedo T1 - Pi3 - FAT,,,,,,,,,,,
+G7a Torpedo T1 - Pi3 - LUT (Warmed),G7a torpedo T1 - Pi3 - LUT,,,,,,,,,,,
+G7e Torpedo T2 - Pi1 (Warmed),G7e torpedo T2 - Pi1,,,,,,,,,,,
+G7e Torpedo T2 - Pi1.1 (Warmed),G7e torpedo T2 - Pi1/v2,,,,,,,,,,,
+G7e Torpedo T3 - Pi2 (Warmed),G7e torpedo T3 - Pi2,,,,,,,,,,,
+G7e Torpedo T3 - Pi2 - FAT (Warmed),G7e torpedo T3 - Pi2 - FAT,,,,,,,,,,,
+G7e Torpedo T3 - Pi2 - LUT (Warmed),G7e torpedo T3 - Pi2 - LUT,,,,,,,,,,,
+G7e Torpedo T3 - Pi2 - Prototype (Warmed),G7e torpedo T3 prototype - Pi2,,,,,,,,,,,
+G7es Zaunk?nig Torpedo T5 - Pi4 (Warmed),"G7es ""Zaunk?nig"" torpedo T5 - Pi4",,,,,,,,,,,
+G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype (Warmed),"G7es ""Zaunk?nig"" torpedo T5 prototype - Pi4",,,,,,,,,,,
+TMB Mine x3,TMB mine x3,,,,,,,,,,,
+,,,,,,,,,,,,
+Bleeding,Injured,,,,,,,,,,,
+Resupply Ammunition,Resupply Ammunition,,,,,,,,,,,
+Disallow Sailor Work,Sailors: Disallow,,,,,,,,,,,
+Allow Sailor Work,Sailors: Allow,,,,,,,,,,,
+Work At Helmsman Station,Using Helmsman Station,,,,,,,,,,,
+Helmsman Station,Helmsman Station,,,,,,,,,,,
+Cleaning Station,Cleaning Station,,,,,,,,,,,
+Vacation,Vacation,,,,,,,,,,,
+Turn ON,Turn ON,,,,,,,,,,,
+Turn OFF,Turn OFF,,,,,,,,,,,
+RunAtBowAction,Run to Bow Compartment,,,,,,,,,,,
+Valve Watch,Valves,,,,,,,,,,,
+Switch Power,Switch power,,,,,,,,,,,
+Cargo Hold,Cargo Hold,,,,,,,,,,,
+,,,,,,,,,,,,
+Deck Gun,Deck gun,,,,,,,,,,,
+Upgrade,Upgrade,,,,,,,,,,,
+,,,,,,,,,,,,
+Ammo Large Calibre HE,Large Caliber HE Ammo,,,,,,,,,,,
+Ammo Large Calibre AP,Large Caliber AP Ammo,,,,,,,,,,,
+Ammo Large Calibre AA,Large Caliber AA Ammo,,,,,,,,,,,
+Ammo Large Calibre SS,Large Caliber SS Ammo,,,,,,,,,,,
+,,,,,,,,,,,,
+Surrender,Surrender,,,,,,,,,,,
+Scuttle,Scuttle,,,,,,,,,,,
+Decoration Control Room,Decoration,,,,,,,,,,,
+Christmas Tree Control Room,Christmas Tree,,,,,,,,,,,
+Christmas Tree Control Room Description,The Christmas tree will make the atmosphere on board more pleasant. The sailors will feel the Christmas spirit a little and won't miss their families so much.,,,,,,,,,,,
+CommandAction,Commanding,,,,,,,,,,,
 CommandAction Description,"This officer is currently monitoring the situation from the control room. He is ready to perform necessary tasks during the combat and can be freely assigned to any work.
 
-This officer will refuse to rest until the combat is over."
+This officer will refuse to rest until the combat is over.",,,,,,,,,,,
 CommandAction Full Description,"<b>Commanding</b>
 
 This officer is currently monitoring the situation from the control room. He will send sailors to other stations on the ship to carry his orders and bring back reports.
 
 This officer will refuse to rest until the combat is over.
 
-Additional sailors:"
-CommandAction Full Description 1,The sailor communicates the officer and various stations on the ship. All tasks on the ship are executed 5% faster or better.
-CommandAction Full Description 2,The sailor communicates the officer and various stations on the ship. All tasks on the ship are executed 10% faster or better.
-DamageControlAction,Damage control
+Additional sailors:",,,,,,,,,,,
+CommandAction Full Description 1,The sailor communicates the officer and various stations on the ship. All tasks on the ship are executed 5% faster or better.,,,,,,,,,,,
+CommandAction Full Description 2,The sailor communicates the officer and various stations on the ship. All tasks on the ship are executed 10% faster or better.,,,,,,,,,,,
+DamageControlAction,Damage control,,,,,,,,,,,
 DamageControlAction Description,"This officer is currently supervising damage control procedures on the ship from the control room. He will send sailors assigned to him to look for hidden damages around the ship and repair minor issues.
 
-This officer will refuse to rest until the combat is over."
+This officer will refuse to rest until the combat is over.",,,,,,,,,,,
 DamageControlAction Full Description,"<b>Damage control</b>
 
 This officer is currently supervising damage control procedures on the ship from the control room. He will send sailors assigned to him to look for hidden damages around the ship and repair minor issues.
 
 This officer will refuse to rest until the combat is over.
 
-Additional sailors:"
-DamageControlAction Full Description 1,"Due to maintaining devices in a good condition, the chance that they will become damaged in any occurrence decreases by 10%. The sailor also inspects compartments for hidden damages."
-DamageControlAction Full Description 2,"Due to maintaining devices in a good condition, the chance that they will become damaged in any occurrence decreases by 20%. The sailor also inspects compartments for hidden damages."
-Hull Weak Point,Weak point on the hull
+Additional sailors:",,,,,,,,,,,
+DamageControlAction Full Description 1,"Due to maintaining devices in a good condition, the chance that they will become damaged in any occurrence decreases by 10%. The sailor also inspects compartments for hidden damages.",,,,,,,,,,,
+DamageControlAction Full Description 2,"Due to maintaining devices in a good condition, the chance that they will become damaged in any occurrence decreases by 20%. The sailor also inspects compartments for hidden damages.",,,,,,,,,,,
+Hull Weak Point,Weak point on the hull,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

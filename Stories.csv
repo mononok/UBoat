@@ -1,678 +1,1089 @@
-Key,English
-EpidemicStory Title,Tuberculosis
-EpidemicStory,"Skipper! Maybe I am not a doctor, but I recognize tuberculosis without a shadow of a doubt. {0} requires medical attention, we need to be on our toes so that the disease does not spread."
-EpidemicStory.Accept,Damn it!
-EpidemicStory.Accept Tooltip,- {0} becomes ill with tuberculosis. - Send a medic to start treatment.
-CookFaultStory Title,Burned scrambled eggs
-CookFaultStory,"Several sailors have complained about meals prepared by {0}. The ship‚Äôs cook shakes with fear aware of the purpose of my visit. After all, he wasted a large part of the rations. What punishment would be appropriate for him?"
-CookFaultStory.Pardon,Warning
-CookFaultStory.Pardon Tooltip,- No effect.
-CookFaultStory.ToiletCleaning,Toilet cleaning
-CookFaultStory.ToiletCleaning Tooltip,- {0} will clean the toilets. During this time he will be unavailable. - Discipline grows by {1}%.
-CookFaultStory.Brig,Arrest
-CookFaultStory.Brig Tooltip,- {0} will be placed in the brig. He won't be available during this time. - Discipline grows by {1}%.
-CookFaultStory.Execution,Execution
-CookFaultStory.Execution Tooltip,- {0} will be executed. - Discipline grows by {1}%.
-ProcrastinatingSailorStory Title,Sleeping sailor
-ProcrastinatingSailorStory,It looks like {0} decided to take a nap while on his duty. We should react to such a blatant lack of discipline. What punishment would be appropriate for him?
-ProcrastinatingSailorStory.Pardon,Warning
-ProcrastinatingSailorStory.Pardon Tooltip,- No effect.
-ProcrastinatingSailorStory.ToiletCleaning,Toilet cleaning
-ProcrastinatingSailorStory.ToiletCleaning Tooltip,- {0} will clean the toilets. During this time he will be unavailable. - Discipline grows by {1}%.
-ProcrastinatingSailorStory.Brig,Arrest
-ProcrastinatingSailorStory.Brig Tooltip,- {0} will be placed in the brig. He won't be available during this time. - Discipline grows by {1}%.
-ProcrastinatingSailorStory.Execution,Execution
+Key,English,,,,,,,,,,,
+EpidemicStory Title,Tuberculosis,,,,,,,,,,,
+EpidemicStory,"Skipper! Maybe I am not a doctor, but I recognize tuberculosis without a shadow of a doubt. {0} requires medical attention, we need to be on our toes so that the disease does not spread.",,,,,,,,,,,
+EpidemicStory.Accept,Damn it!,,,,,,,,,,,
+EpidemicStory.Accept Tooltip,- {0} becomes ill with tuberculosis. - Send a medic to start treatment.,,,,,,,,,,,
+CookFaultStory Title,Burned scrambled eggs,,,,,,,,,,,
+CookFaultStory,"Several sailors have complained about meals prepared by {0}. The shipÅfs cook shakes with fear aware of the purpose of my visit. After all, he wasted a large part of the rations. What punishment would be appropriate for him?",,,,,,,,,,,
+CookFaultStory.Pardon,Warning,,,,,,,,,,,
+CookFaultStory.Pardon Tooltip,- No effect.,,,,,,,,,,,
+CookFaultStory.ToiletCleaning,Toilet cleaning,,,,,,,,,,,
+CookFaultStory.ToiletCleaning Tooltip,- {0} will clean the toilets. During this time he will be unavailable. - Discipline grows by {1}%.,,,,,,,,,,,
+CookFaultStory.Brig,Arrest,,,,,,,,,,,
+CookFaultStory.Brig Tooltip,- {0} will be placed in the brig. He won't be available during this time. - Discipline grows by {1}%.,,,,,,,,,,,
+CookFaultStory.Execution,Execution,,,,,,,,,,,
+CookFaultStory.Execution Tooltip,- {0} will be executed. - Discipline grows by {1}%.,,,,,,,,,,,
+ProcrastinatingSailorStory Title,Sleeping sailor,,,,,,,,,,,
+ProcrastinatingSailorStory,It looks like {0} decided to take a nap while on his duty. We should react to such a blatant lack of discipline. What punishment would be appropriate for him?,,,,,,,,,,,
+ProcrastinatingSailorStory.Pardon,Warning,,,,,,,,,,,
+ProcrastinatingSailorStory.Pardon Tooltip,- No effect.,,,,,,,,,,,
+ProcrastinatingSailorStory.ToiletCleaning,Toilet cleaning,,,,,,,,,,,
+ProcrastinatingSailorStory.ToiletCleaning Tooltip,- {0} will clean the toilets. During this time he will be unavailable. - Discipline grows by {1}%.,,,,,,,,,,,
+ProcrastinatingSailorStory.Brig,Arrest,,,,,,,,,,,
+ProcrastinatingSailorStory.Brig Tooltip,- {0} will be placed in the brig. He won't be available during this time. - Discipline grows by {1}%.,,,,,,,,,,,
+ProcrastinatingSailorStory.Execution,Execution,,,,,,,,,,,
 ProcrastinatingSailorStory.Execution Tooltip,"- {0} will be executed.
-- Discipline grows by {1}%."
-LostShipStoryA1 Title,Lost ship
-LostShipStoryA1,{0} is floating on the surface without a living soul on deck. Inspection from our boat makes it clear that the boat sustained major damage. It remains a mystery though what happened to the crew and why the enemy left it in such state while at sea
-LostShipStoryA1.Investigate,Go on board.
-LostShipStoryA1.Investigate Tooltip,- {1} goes to the ship deck to continue the story.
-LostShipStoryA1.Cancel,Cancel.
-LostShipStoryA1.Cancel Tooltip,Something is wrong. I won't be risking the lives of the crew.
-LostShipStoryA2 Title,Lost ship
-LostShipStoryA2,"{1} cautiously boarded {0}, reporting that he could not hear any sounds from inside the ship. He went to the conning tower and carefully opened the closed hatch, then quickly ran to the barriers on the conning tower, clearly choking. He reported that inside are the corpses of sailors, with dried blood flowing out of their eyes and lips. {1} had no doubt - the ship was damaged by a mine which led to flooding of the batteries on the boat, which in turn released chlorine gas and resulted in the death of the entire crew."
-LostShipStoryA2_Neutral,What do you want to do?
-LostShipStoryA2.Accept,Sink the ship.
-LostShipStoryA2.Accept Tooltip,- {1} returns to the boat - The boat must be sunk. It cannot fall into the hands of the enemy.
-LostShipStoryA2.Mine,Mine the ship.
-LostShipStoryA2.Mine Tooltip,"- {1} mines the ship. - Explosive charges will detonate after a few minutes, sinking the vessel. - The boat must be sunk. It must not fall into the hands of the enemy. - REQUIRED: Engineer."
-InspectFreighterStoryA1 Title,Freighter
-InspectFreighterStoryA1,{0} sails under a neutral flag without an escort. We can order them to stop using light signals and check the documents.
-InspectFreighterStoryA1.Inspect,Conduct an inspection.
-InspectFreighterStoryA1.Investigate Tooltip,- {1} order the ship to stop using light signals.
-InspectFreighterStoryA1.Cancel,Cancel.
-InspectFreighterStoryA1.Cancel Tooltip,We do not have time for that.
-InspectFreighterStoryA2 Title,Freighter
-InspectFreighterStoryA2,"Several nervous minutes after the ship had been stopped,  a hasty delegation on the freighter was organized.  After coming alongside our boat, the ship's captain tried to introduce himself in broken German and with sweaty hands, handed over the documents. It looks like the ship is sailing from {2} to {3}. What should we do?"
-InspectFreighterStoryA2.Sink,We'll sink the ship.
-InspectFreighterStoryA2.Investigate Tooltip,"- {1} it needs to be immediately evacuated by the crew, and then we will sink it."
-InspectFreighterStoryA2.Cancel,Cease.
-InspectFreighterStoryA2.Cancel Tooltip,Everything is correct. Let them go.
-SearchWreckStoryA1 Title,Wreck
-SearchWreckStoryA1,On the sea floor lies the wreck of {0}. What would you like to do skipper?
-SearchWreckStoryA1.Investigate,Go to the wreck.
-SearchWreckStoryA1.Investigate Tooltip,- {1} will dive to the wreck.
-SearchWreckStoryA1.Cancel,Cancel.
-SearchWreckStoryA1.Cancel Tooltip,We don't have a time for this.
-SearchWreckStoryA2 Title,Wreck
-SearchWreckStoryA2,On the sea floor lies the wreck of {0}. What would you like to do skipper?
-SearchWreckStoryA2.TakeBox,Take the box.
-SearchWreckStoryA2.TakeBox Tooltip,- {1} will connect the box to the winch and we will pull it  aboard.
-SearchWreckStoryA2.Return,Return.
-SearchWreckStoryA2.Return Tooltip,- {1} will return to the boat.
-Take Item,Pull up the {2}.
-AllyNeedsHelpStoryA1 ReplacementParts Title,Distress call
-AllyNeedsHelpStoryA1 MedicalSupplies Title,Distress call
-AllyNeedsHelpStoryA1 Food Title,Distress call
-AllyNeedsHelpStoryA1 ReplacementParts,"{0} called for help. According to the message, they need replacement parts from us. We should probably take them with us before meeting their crew - assuming that we want to share."
-AllyNeedsHelpStoryA1 MedicalSupplies,"{0} called for help. According to the message, they need medical supplies from us. We should probably take them with us before meeting their crew - assuming that we want to share."
-AllyNeedsHelpStoryA1 Food,"{0} called for help. According to the message, they need fresh vegetables and fruits from us. We should probably take them with us before meeting their crew - assuming that we want to share."
-AllyNeedsHelpStoryA1.Travel,Travel to {0}.
-AllyNeedsHelpStoryA1.Travel Tooltip,- {1} goes to the deck of {0}.
-AllyNeedsHelpStoryA1.Cancel,Cancel.
-AllyNeedsHelpStoryA1.Cancel Tooltip,We don't have a time for this.
-AllyNeedsHelpStoryA2 Title,Distress call
-AllyNeedsHelpStoryA2,"{1} was welcomed by the skipper of this vessel. After a short exchange of courtesy, the skipper got straight to the point asking about the resources he asked for in the radio message."
-AllyNeedsHelpStoryA2.GiveReplacementParts,Give the replacement parts.
-AllyNeedsHelpStoryA2.GiveReplacementParts Tooltip,"- We will share 1 unit of replacement parts, transported by {1}."
-AllyNeedsHelpStoryA2.GiveMedicalSupplies,Give medical supplies.
-AllyNeedsHelpStoryA2.GiveMedicalSupplies Tooltip,"- We will share 1 unit of medical supplies, transported by {1}."
-AllyNeedsHelpStoryA2.GiveFood,Give food.
+- Discipline grows by {1}%.",,,,,,,,,,,
+LostShipStoryA1 Title,Lost ship,,,,,,,,,,,
+LostShipStoryA1,{0} is floating on the surface without a living soul on deck. Inspection from our boat makes it clear that the boat sustained major damage. It remains a mystery though what happened to the crew and why the enemy left it in such state while at sea,,,,,,,,,,,
+LostShipStoryA1.Investigate,Go on board.,,,,,,,,,,,
+LostShipStoryA1.Investigate Tooltip,- {1} goes to the ship deck to continue the story.,,,,,,,,,,,
+LostShipStoryA1.Cancel,Cancel.,,,,,,,,,,,
+LostShipStoryA1.Cancel Tooltip,Something is wrong. I won't be risking the lives of the crew.,,,,,,,,,,,
+LostShipStoryA2 Title,Lost ship,,,,,,,,,,,
+LostShipStoryA2,"{1} cautiously boarded {0}, reporting that he could not hear any sounds from inside the ship. He went to the conning tower and carefully opened the closed hatch, then quickly ran to the barriers on the conning tower, clearly choking. He reported that inside are the corpses of sailors, with dried blood flowing out of their eyes and lips. {1} had no doubt - the ship was damaged by a mine which led to flooding of the batteries on the boat, which in turn released chlorine gas and resulted in the death of the entire crew.",,,,,,,,,,,
+LostShipStoryA2_Neutral,What do you want to do?,,,,,,,,,,,
+LostShipStoryA2.Accept,Sink the ship.,,,,,,,,,,,
+LostShipStoryA2.Accept Tooltip,- {1} returns to the boat - The boat must be sunk. It cannot fall into the hands of the enemy.,,,,,,,,,,,
+LostShipStoryA2.Mine,Mine the ship.,,,,,,,,,,,
+LostShipStoryA2.Mine Tooltip,"- {1} mines the ship. - Explosive charges will detonate after a few minutes, sinking the vessel. - The boat must be sunk. It must not fall into the hands of the enemy. - REQUIRED: Engineer.",,,,,,,,,,,
+InspectFreighterStoryA1 Title,Freighter,,,,,,,,,,,
+InspectFreighterStoryA1,{0} sails under a neutral flag without an escort. We can order them to stop using light signals and check the documents.,,,,,,,,,,,
+InspectFreighterStoryA1.Inspect,Conduct an inspection.,,,,,,,,,,,
+InspectFreighterStoryA1.Investigate Tooltip,- {1} order the ship to stop using light signals.,,,,,,,,,,,
+InspectFreighterStoryA1.Cancel,Cancel.,,,,,,,,,,,
+InspectFreighterStoryA1.Cancel Tooltip,We do not have time for that.,,,,,,,,,,,
+InspectFreighterStoryA2 Title,Freighter,,,,,,,,,,,
+InspectFreighterStoryA2,"Several nervous minutes after the ship had been stopped,  a hasty delegation on the freighter was organized.  After coming alongside our boat, the ship's captain tried to introduce himself in broken German and with sweaty hands, handed over the documents. It looks like the ship is sailing from {2} to {3}. What should we do?",,,,,,,,,,,
+InspectFreighterStoryA2.Sink,We'll sink the ship.,,,,,,,,,,,
+InspectFreighterStoryA2.Investigate Tooltip,"- {1} it needs to be immediately evacuated by the crew, and then we will sink it.",,,,,,,,,,,
+InspectFreighterStoryA2.Cancel,Cease.,,,,,,,,,,,
+InspectFreighterStoryA2.Cancel Tooltip,Everything is correct. Let them go.,,,,,,,,,,,
+SearchWreckStoryA1 Title,Wreck,,,,,,,,,,,
+SearchWreckStoryA1,On the sea floor lies the wreck of {0}. What would you like to do skipper?,,,,,,,,,,,
+SearchWreckStoryA1.Investigate,Go to the wreck.,,,,,,,,,,,
+SearchWreckStoryA1.Investigate Tooltip,- {1} will dive to the wreck.,,,,,,,,,,,
+SearchWreckStoryA1.Cancel,Cancel.,,,,,,,,,,,
+SearchWreckStoryA1.Cancel Tooltip,We don't have a time for this.,,,,,,,,,,,
+SearchWreckStoryA2 Title,Wreck,,,,,,,,,,,
+SearchWreckStoryA2,On the sea floor lies the wreck of {0}. What would you like to do skipper?,,,,,,,,,,,
+SearchWreckStoryA2.TakeBox,Take the box.,,,,,,,,,,,
+SearchWreckStoryA2.TakeBox Tooltip,- {1} will connect the box to the winch and we will pull it  aboard.,,,,,,,,,,,
+SearchWreckStoryA2.Return,Return.,,,,,,,,,,,
+SearchWreckStoryA2.Return Tooltip,- {1} will return to the boat.,,,,,,,,,,,
+Take Item,Pull up the {2}.,,,,,,,,,,,
+AllyNeedsHelpStoryA1 ReplacementParts Title,Distress call,,,,,,,,,,,
+AllyNeedsHelpStoryA1 MedicalSupplies Title,Distress call,,,,,,,,,,,
+AllyNeedsHelpStoryA1 Food Title,Distress call,,,,,,,,,,,
+AllyNeedsHelpStoryA1 ReplacementParts,"{0} called for help. According to the message, they need replacement parts from us. We should probably take them with us before meeting their crew - assuming that we want to share.",,,,,,,,,,,
+AllyNeedsHelpStoryA1 MedicalSupplies,"{0} called for help. According to the message, they need medical supplies from us. We should probably take them with us before meeting their crew - assuming that we want to share.",,,,,,,,,,,
+AllyNeedsHelpStoryA1 Food,"{0} called for help. According to the message, they need fresh vegetables and fruits from us. We should probably take them with us before meeting their crew - assuming that we want to share.",,,,,,,,,,,
+AllyNeedsHelpStoryA1.Travel,Travel to {0}.,,,,,,,,,,,
+AllyNeedsHelpStoryA1.Travel Tooltip,- {1} goes to the deck of {0}.,,,,,,,,,,,
+AllyNeedsHelpStoryA1.Cancel,Cancel.,,,,,,,,,,,
+AllyNeedsHelpStoryA1.Cancel Tooltip,We don't have a time for this.,,,,,,,,,,,
+AllyNeedsHelpStoryA2 Title,Distress call,,,,,,,,,,,
+AllyNeedsHelpStoryA2,"{1} was welcomed by the skipper of this vessel. After a short exchange of courtesy, the skipper got straight to the point asking about the resources he asked for in the radio message.",,,,,,,,,,,
+AllyNeedsHelpStoryA2.GiveReplacementParts,Give the replacement parts.,,,,,,,,,,,
+AllyNeedsHelpStoryA2.GiveReplacementParts Tooltip,"- We will share 1 unit of replacement parts, transported by {1}.",,,,,,,,,,,
+AllyNeedsHelpStoryA2.GiveMedicalSupplies,Give medical supplies.,,,,,,,,,,,
+AllyNeedsHelpStoryA2.GiveMedicalSupplies Tooltip,"- We will share 1 unit of medical supplies, transported by {1}.",,,,,,,,,,,
+AllyNeedsHelpStoryA2.GiveFood,Give food.,,,,,,,,,,,
 AllyNeedsHelpStoryA2.GiveFood Tooltip,"- We will share {2} units of food, transported here by {1}.
-- They are having scurvy outbreak on the boat. Only foods rich in vitamins like fruits and vegetables will work on their problem."
-AllyNeedsHelpStoryA2.Return,Return.
-AllyNeedsHelpStoryA2.Return Tooltip,We don't have a time for this.
-AllyNeedsHelpStoryA3 Title,Distress call
-AllyNeedsHelpStoryA3,The skipper thanked us for the help and promised to nicely mention us in his report to headquarters.
-AllyNeedsHelpStoryA3.Return,Return.
-AllyNeedsHelpStoryA3.Return Tooltip,It's time to head back.
-PhotoRequestStory,"War correspondent asks {1}, if he would like to pose him for a photo at {2}."
-PhotoRequestStory.Accept,Accept.
-PhotoRequestStory.Cancel,No time for that.
-InterviewRequestStory.Personal,"War correspondent asks {1}, if he would tell about himself for the article that he is writing."
-InterviewRequestStory.Engines,"War correspondent asks {1}, if he would tell him something about the engines installed on the boat."
-InterviewRequestStory.Leadership,"War correspondent asks {1}, if he would tell him about his service on {2} and leadership."
-InterviewRequestStory.Radio,"War correspondent asks {1}, if he would tell him about the hydrophones installed on the boat."
-InterviewRequestStory.Accept,Accept.
-InterviewRequestStory.Cancel,No time for that.
-SpyHello,{0} greets {1} in a very official fashion and explains that he received orders to join crew of {2} during this assignment. {1} confirms that they were waiting for him and proceeds to give him a tour around the boat.
-SpyHello Title,Spy
+- They are having scurvy outbreak on the boat. Only foods rich in vitamins like fruits and vegetables will work on their problem.",,,,,,,,,,,
+AllyNeedsHelpStoryA2.Return,Return.,,,,,,,,,,,
+AllyNeedsHelpStoryA2.Return Tooltip,We don't have a time for this.,,,,,,,,,,,
+AllyNeedsHelpStoryA3 Title,Distress call,,,,,,,,,,,
+AllyNeedsHelpStoryA3,The skipper thanked us for the help and promised to nicely mention us in his report to headquarters.,,,,,,,,,,,
+AllyNeedsHelpStoryA3.Return,Return.,,,,,,,,,,,
+AllyNeedsHelpStoryA3.Return Tooltip,It's time to head back.,,,,,,,,,,,
+PhotoRequestStory,"War correspondent asks {1}, if he would like to pose him for a photo at {2}.",,,,,,,,,,,
+PhotoRequestStory.Accept,Accept.,,,,,,,,,,,
+PhotoRequestStory.Cancel,No time for that.,,,,,,,,,,,
+InterviewRequestStory.Personal,"War correspondent asks {1}, if he would tell about himself for the article that he is writing.",,,,,,,,,,,
+InterviewRequestStory.Engines,"War correspondent asks {1}, if he would tell him something about the engines installed on the boat.",,,,,,,,,,,
+InterviewRequestStory.Leadership,"War correspondent asks {1}, if he would tell him about his service on {2} and leadership.",,,,,,,,,,,
+InterviewRequestStory.Radio,"War correspondent asks {1}, if he would tell him about the hydrophones installed on the boat.",,,,,,,,,,,
+InterviewRequestStory.Accept,Accept.,,,,,,,,,,,
+InterviewRequestStory.Cancel,No time for that.,,,,,,,,,,,
+SpyHello,{0} greets {1} in a very official fashion and explains that he received orders to join crew of {2} during this assignment. {1} confirms that they were waiting for him and proceeds to give him a tour around the boat.,,,,,,,,,,,
+SpyHello Title,Spy,,,,,,,,,,,
 WarCorrespondentHello,"War correspondent warmly thanks {1} for allowing him to join the crew during this assignment. {1} shakes his hand and after some small talk explains basic things about living on board of {2} and where his bunk is.
 
-{0} appreciates the help, adds that it's not his first time on a ship and confirms that he will be fine."
-WarCorrespondentHello Title,War correspondent
-WarCorrespondentHello.Welcome,Welcome on board.
-WarCorrespondentCorrectAnswer Title,War correspondent
+{0} appreciates the help, adds that it's not his first time on a ship and confirms that he will be fine.",,,,,,,,,,,
+WarCorrespondentHello Title,War correspondent,,,,,,,,,,,
+WarCorrespondentHello.Welcome,Welcome on board.,,,,,,,,,,,
+WarCorrespondentCorrectAnswer Title,War correspondent,,,,,,,,,,,
 WarCorrespondentCorrectAnswer,"The war correspondent thanks you. He seemed to be really curious about that.
 
-<b>Publication progress increases.</b>"
-WarCorrespondentWrongAnswer Title,War correspondent
-WarCorrespondentWrongAnswer,The war correspondent thanks you for the answer. He seems to be a bit confused about it though.
-WarCorrespondentThanks.Accept,Glad to help.
-WarCorrespondentQuestion.Classified,This information is classified.
-,
-/Weather Station,English
-SendExpedition_Confirm Wait Title,Team sent...
-SendExpedition_Confirm Wait,"Please wait, while the team arrives at the destination."
-SendExpedition_Intro Title,Weather station
-SendExpedition_Intro,That's the place. Your orders tell you to deploy a weather station near these coordinates.
-SendExpedition_Confirm,Send a team to the coast.
+<b>Publication progress increases.</b>",,,,,,,,,,,
+WarCorrespondentWrongAnswer Title,War correspondent,,,,,,,,,,,
+WarCorrespondentWrongAnswer,The war correspondent thanks you for the answer. He seems to be a bit confused about it though.,,,,,,,,,,,
+WarCorrespondentThanks.Accept,Glad to help.,,,,,,,,,,,
+WarCorrespondentQuestion.Classified,This information is classified.,,,,,,,,,,,
+,,,,,,,,,,,,
+/Weather Station,English,,,,,,,,,,,
+SendExpedition_Confirm Wait Title,Team sent...,,,,,,,,,,,
+SendExpedition_Confirm Wait,"Please wait, while the team arrives at the destination.",,,,,,,,,,,
+SendExpedition_Intro Title,Weather station,,,,,,,,,,,
+SendExpedition_Intro,That's the place. Your orders tell you to deploy a weather station near these coordinates.,,,,,,,,,,,
+SendExpedition_Confirm,Send a team to the coast.,,,,,,,,,,,
 SendExpedition_Confirm Tooltip,"Pick crew members that will travel to the coast to deploy the weather station.
 
-They may face some dangers, like being exposed by inhabitants or facing environmental challenges, so pick the team wisely and equip it accordingly."
-SendExpedition_Cancel,Leave it.
-TeamSelect Title,Team selection
-TeamSelect,Select a team that will travel to the land to deploy the weather station.
-ScoutingParty Title,Coast
+They may face some dangers, like being exposed by inhabitants or facing environmental challenges, so pick the team wisely and equip it accordingly.",,,,,,,,,,,
+SendExpedition_Cancel,Leave it.,,,,,,,,,,,
+TeamSelect Title,Team selection,,,,,,,,,,,
+TeamSelect,Select a team that will travel to the land to deploy the weather station.,,,,,,,,,,,
+ScoutingParty Title,Coast,,,,,,,,,,,
 ScoutingParty,"Your team arrived to the coast with no problems. There is no sign of human presence around.
 
-We should send a scouting party to search for a good spot to deploy the weather station."
-ScoutingParty_SendTeam,Scout the area.
-ScoutingParty_Sent Title,Reconnaissance
-ScoutingParty_Sent,The scouting party is searching for a suitable place to deploy the weather station.
-DeployWeatherStation Title,Deployment
-DeployWeatherStation,Our scouting team found a good location to deploy the weather station and carried all components there. We can start assemblying it.
-DeployWeatherStation_Start,Start building the weather station.
-DeployWeatherStation_Started Title,Deployment
+We should send a scouting party to search for a good spot to deploy the weather station.",,,,,,,,,,,
+ScoutingParty_SendTeam,Scout the area.,,,,,,,,,,,
+ScoutingParty_Sent Title,Reconnaissance,,,,,,,,,,,
+ScoutingParty_Sent,The scouting party is searching for a suitable place to deploy the weather station.,,,,,,,,,,,
+DeployWeatherStation Title,Deployment,,,,,,,,,,,
+DeployWeatherStation,Our scouting team found a good location to deploy the weather station and carried all components there. We can start assemblying it.,,,,,,,,,,,
+DeployWeatherStation_Start,Start building the weather station.,,,,,,,,,,,
+DeployWeatherStation_Started Title,Deployment,,,,,,,,,,,
 DeployWeatherStation_Started,"Engineering team works on deploying the weather station. Remaining crew performs guard duties and increases security in the case of unexpected events.
 
-Security: <color=yellow>Adequate</color>. Your guards should spot most security issues, but a small risk exists that something will surprise you during the deployment of the device."
-RunAndTestStation Title,Testing the station
-RunAndTestStation,"Weather station is now up and running. We just need to test, if it works to consider this mission complete. We can use our on-board radio to check, if the station correctly transmits the data from the installed sensors."
-MainChoices_Retreat,Retreat to ship.
-,
-/WarCorrespondentQuestion,English
-Periscopes,"{0} seems to be confused about something. Suddenly, he reaches out and asks {1}, why there is a second periscope in the control room?"
-Periscopes Title,War correspondent
-Periscopes.Observation,This periscope is better for spotting aircraft and for navigation.
-Periscopes.Attack,This periscope is used to calculate torpedo solutions. 
-Submerge,"{0} explains to {1} that he wants to tell the public a bit how well engineered u-boats are. He doesn't want to confuse his readers  though. He asks {1}, if he could explain him exactly how u-boats dive to match all the basic facts which he already knows."
-Submerge Title,War correspondent
-Submerge.BallastTanks,There are 5 ballast tanks on board that are flooded from the front to back during a normal dive.
-Submerge.Steers,U-boats have neutral buoyancy and can simply use dive planes to move vertically.
-CompressedAir,"{0} asks {1}, what the compressed air stored on the boat is used for"
-CompressedAir Title,War correspondent
-CompressedAir.Surfacing,The most important usage is to blow the ballast from the ballast tanks.
-CompressedAir.RefreshingAir,It helps to replenish breathable air during long periods under water.
-Food,"{0} chats a bit with {1} and mentions that the last meal was really tasty. Out of curiosity he asks, where the food is stored on the ship?"
-Food Title,War correspondent
-Food.Toilet,It's near the toilet.
-Food.OfficerRoom,It's in the officer's room.
-,
-/Radio,English
-Intro,{0} works in the radio room.
-Intro Title,Radio
-PlayMusicStation,Play music station ({0} available).
-ChangeMusicStation,Change music station ({0} available).
-PlayMusicStationX,{0}.
-DecodeTransmission,Receive: {0}.
-LeaveStation,Leave station.
-PlayMusicStationStopPlaying,Stop music.
-ReceivingMessageCancel,Cancel.
-MessageReceivedConfirm,Confirm.
-RequestResupply,Request resupply.
+Security: <color=yellow>Adequate</color>. Your guards should spot most security issues, but a small risk exists that something will surprise you during the deployment of the device.",,,,,,,,,,,
+RunAndTestStation Title,Testing the station,,,,,,,,,,,
+RunAndTestStation,"Weather station is now up and running. We just need to test, if it works to consider this mission complete. We can use our on-board radio to check, if the station correctly transmits the data from the installed sensors.",,,,,,,,,,,
+MainChoices_Retreat,Retreat to ship.,,,,,,,,,,,
+,,,,,,,,,,,,
+/WarCorrespondentQuestion,English,,,,,,,,,,,
+Periscopes,"{0} seems to be confused about something. Suddenly, he reaches out and asks {1}, why there is a second periscope in the control room?",,,,,,,,,,,
+Periscopes Title,War correspondent,,,,,,,,,,,
+Periscopes.Observation,This periscope is better for spotting aircraft and for navigation.,,,,,,,,,,,
+Periscopes.Attack,This periscope is used to calculate torpedo solutions. ,,,,,,,,,,,
+Submerge,"{0} explains to {1} that he wants to tell the public a bit how well engineered u-boats are. He doesn't want to confuse his readers  though. He asks {1}, if he could explain him exactly how u-boats dive to match all the basic facts which he already knows.",,,,,,,,,,,
+Submerge Title,War correspondent,,,,,,,,,,,
+Submerge.BallastTanks,There are 5 ballast tanks on board that are flooded from the front to back during a normal dive.,,,,,,,,,,,
+Submerge.Steers,U-boats have neutral buoyancy and can simply use dive planes to move vertically.,,,,,,,,,,,
+CompressedAir,"{0} asks {1}, what the compressed air stored on the boat is used for",,,,,,,,,,,
+CompressedAir Title,War correspondent,,,,,,,,,,,
+CompressedAir.Surfacing,The most important usage is to blow the ballast from the ballast tanks.,,,,,,,,,,,
+CompressedAir.RefreshingAir,It helps to replenish breathable air during long periods under water.,,,,,,,,,,,
+Food,"{0} chats a bit with {1} and mentions that the last meal was really tasty. Out of curiosity he asks, where the food is stored on the ship?",,,,,,,,,,,
+Food Title,War correspondent,,,,,,,,,,,
+Food.Toilet,It's near the toilet.,,,,,,,,,,,
+Food.OfficerRoom,It's in the officer's room.,,,,,,,,,,,
+,,,,,,,,,,,,
+/Radio,English,,,,,,,,,,,
+Intro,{0} works in the radio room.,,,,,,,,,,,
+Intro Title,Radio,,,,,,,,,,,
+PlayMusicStation,Play music station ({0} available).,,,,,,,,,,,
+ChangeMusicStation,Change music station ({0} available).,,,,,,,,,,,
+PlayMusicStationX,{0}.,,,,,,,,,,,
+DecodeTransmission,Receive: {0}.,,,,,,,,,,,
+LeaveStation,Leave station.,,,,,,,,,,,
+PlayMusicStationStopPlaying,Stop music.,,,,,,,,,,,
+ReceivingMessageCancel,Cancel.,,,,,,,,,,,
+MessageReceivedConfirm,Confirm.,,,,,,,,,,,
+RequestResupply,Request resupply.,,,,,,,,,,,
 RequestResupply_Sending,"{0} sends a resupply request by radio.
 
-Progress: {1}%."
-RequestResupply_Cancel,Cancel.
-MusicStationSelection,"There are few music radio stations that we receive. We can play them through the speakers on the ship, if we want, to boost the crew's morale a bit."
-PlayMusicStationCancel,Cancel.
+Progress: {1}%.",,,,,,,,,,,
+RequestResupply_Cancel,Cancel.,,,,,,,,,,,
+MusicStationSelection,"There are few music radio stations that we receive. We can play them through the speakers on the ship, if we want, to boost the crew's morale a bit.",,,,,,,,,,,
+PlayMusicStationCancel,Cancel.,,,,,,,,,,,
 ReceivingMessage,"{0} receives a message by the radio.
 
-Progress: {1}%."
-MessageReceived Title,Message Received
-MusicStationSelection Title,Radio
-ReceivingMessage Title,Radio
-RequestResupply_Sending Title,Resupply Request
-,
-/Rendezvous,English
-SendDelegation Wait Title,Team sent...
-SendDelegation Wait,"Please wait, while the team arrives at the destination."
-Intro_SupplyShip Title,Supply ship
-Intro_SupplyShip,"It's a friendly supply ship often called a ""milk cow"" by the u-boat crews. We can send our people to it, to communicate with its crew and order a resupply."
-SendDelegation,Send delegation.
-DelegationSelect Title,Supply ship
-DelegationSelect,Select crew that will be the part of the delegation.
-Welcome_SupplyShip Title,Supply ship
-Welcome_SupplyShip,Skipper of this supply ship warmly greets your delegation on board of {0}. He then starts with introducing himself as {2} and invites your crew to taste the freshly baked bread on their ship.
-Dashboard Title,Supply ship
-Dashboard,What do you want to do?
-SmallTalk,Ask how their service is going.
-SmallTalk_Answer1 Tooltip,Supply ship
+Progress: {1}%.",,,,,,,,,,,
+MessageReceived Title,Message Received,,,,,,,,,,,
+MusicStationSelection Title,Radio,,,,,,,,,,,
+ReceivingMessage Title,Radio,,,,,,,,,,,
+RequestResupply_Sending Title,Resupply Request,,,,,,,,,,,
+,,,,,,,,,,,,
+/Rendezvous,English,,,,,,,,,,,
+SendDelegation Wait Title,Team sent...,,,,,,,,,,,
+SendDelegation Wait,"Please wait, while the team arrives at the destination.",,,,,,,,,,,
+Intro_SupplyShip Title,Supply ship,,,,,,,,,,,
+Intro_SupplyShip,"It's a friendly supply ship often called a ""milk cow"" by the u-boat crews. We can send our people to it, to communicate with its crew and order a resupply.",,,,,,,,,,,
+SendDelegation,Send delegation.,,,,,,,,,,,
+DelegationSelect Title,Supply ship,,,,,,,,,,,
+DelegationSelect,Select crew that will be the part of the delegation.,,,,,,,,,,,
+Welcome_SupplyShip Title,Supply ship,,,,,,,,,,,
+Welcome_SupplyShip,Skipper of this supply ship warmly greets your delegation on board of {0}. He then starts with introducing himself as {2} and invites your crew to taste the freshly baked bread on their ship.,,,,,,,,,,,
+Dashboard Title,Supply ship,,,,,,,,,,,
+Dashboard,What do you want to do?,,,,,,,,,,,
+SmallTalk,Ask how their service is going.,,,,,,,,,,,
+SmallTalk_Answer1 Tooltip,Supply ship,,,,,,,,,,,
 SmallTalk_Answer1,"{2} makes a hard sigh and tells that it was a hard mission for them.
 
-They already managed to resupply two other u-boats. At the second try, they were attacked by the aircraft and two of his men died. He explains that they were still young men, great sailors and even better people. He stops there and suddenly becomes very sad."
-SmallTalk_Answer1_Continue,We are sorry for your loss.
-Trade,See their cargo.
-TransferCaptives,Transfer survivors.
-Recruitment,Recruitment.
-Return,Return to your ship.
-IntroCancel,Cancel.
-,
-/Freighter Inspection,English
-Intro Title,Freighter
-Intro,"This freighter is unarmed and seems to not be escorted. While it sails under a neutral flag, ideally, we should investigate what it is carrying and it's destination to ensure that they are not smugglers headed to an enemy port."
-SendDelegation,Send delegation to the freighter.
+They already managed to resupply two other u-boats. At the second try, they were attacked by the aircraft and two of his men died. He explains that they were still young men, great sailors and even better people. He stops there and suddenly becomes very sad.",,,,,,,,,,,
+SmallTalk_Answer1_Continue,We are sorry for your loss.,,,,,,,,,,,
+Trade,See their cargo.,,,,,,,,,,,
+TransferCaptives,Transfer survivors.,,,,,,,,,,,
+Recruitment,Recruitment.,,,,,,,,,,,
+Return,Return to your ship.,,,,,,,,,,,
+IntroCancel,Cancel.,,,,,,,,,,,
+,,,,,,,,,,,,
+/Freighter Inspection,English,,,,,,,,,,,
+Intro Title,Freighter,,,,,,,,,,,
+Intro,"This freighter is unarmed and seems to not be escorted. While it sails under a neutral flag, ideally, we should investigate what it is carrying and it's destination to ensure that they are not smugglers headed to an enemy port.",,,,,,,,,,,
+SendDelegation,Send delegation to the freighter.,,,,,,,,,,,
 SendDelegation Tooltip,"Sending a delegation has the highest chance of determining whether this ship is involved in the war effort or not and thus can be sunk.
 
-On the other hand, it also carries some risk for the sent crew. You may arm your men, if you want them to be able to protect themselves."
-CommunicateSinkDecision,Communicate that you intend to sink the ship.
-CommunicateSinkDecision Tooltip,Use light signalling to communicate to the freighter's crew that you intend to sink their ship to let them evacuate first.
-CommunicateSinkDecisionSuccess Title,Evacuation
-CommunicateSinkDecisionSuccess,After your crew sends the light signal that you are going to sink this ship a commotion is quickly seen on deck.  The crew is leaving the ship.
-CommunicateSinkDecisionSuccessConfirm,Good.
-CommunicateSinkDecisionIgnore Title,Evacuation
-CommunicateSinkDecisionIgnore,After your crew sends the light signal that you are going to sink this ship there is no immediate reaction among its crew. After a while you notice that the ship started to zig zag intensively to avoid incoming torpedoes. The crew does not evacuate the freighter.
-CommunicateSinkDecisionIgnoreConfirm,We tried.
-DelegationSelect Title,Inspection
-DelegationSelect,Select crew that will be the part of the delegation.
-SendDelegation Wait Title,Delegation sent...
-SendDelegation Wait,"Please wait, while the delegation travels to the destination."
-Welcome_1 Title,Merchant ship deck
-Welcome_1,"Captain of this freighter helps your crew to get to the deck and greets each member of your delegation with a ""willkommen"". He then introduces himself as {2}."
-WelcomeEnglish_1_Linguist Title,Merchant ship deck
-WelcomeEnglish_1_Linguist,"He knows only basics of the German speech, but luckily {4} from your group speaks fluently in {3}, so there is no language barrier."
-WelcomeEnglish_1_MissingLinguist Title,Merchant ship deck
-WelcomeEnglish_1_MissingLinguist,"He speaks {3} and knows only basics of German speech. Sadly, that turns out to be quite problematic, but nevertheless both parties manage to make a somewhat basic conversation."
-Welcome_2 Title,Merchant ship deck
-Welcome_2,"Your crew climbs the deck with some help from the cargo ship crew. After that you are welcomed by the ship's captain, but he tries to communicate in {3} and doesn't speak German too well."
-WelcomeEnglish_2_Linguist Title,Merchant ship deck
-WelcomeEnglish_2_Linguist,"Luckily {4} speaks fluently in {3}, so there is no language barrier."
-WelcomeEnglish_2_MissingLinguist Title,Merchant ship deck
-WelcomeEnglish_2_MissingLinguist,"Sadly, that turns out to be quite problematic, but nevertheless both parties manage to make a somewhat basic conversation."
-Welcome_3 Title,Merchant ship deck
+On the other hand, it also carries some risk for the sent crew. You may arm your men, if you want them to be able to protect themselves.",,,,,,,,,,,
+CommunicateSinkDecision,Communicate that you intend to sink the ship.,,,,,,,,,,,
+CommunicateSinkDecision Tooltip,Use light signalling to communicate to the freighter's crew that you intend to sink their ship to let them evacuate first.,,,,,,,,,,,
+CommunicateSinkDecisionSuccess Title,Evacuation,,,,,,,,,,,
+CommunicateSinkDecisionSuccess,After your crew sends the light signal that you are going to sink this ship a commotion is quickly seen on deck.  The crew is leaving the ship.,,,,,,,,,,,
+CommunicateSinkDecisionSuccessConfirm,Good.,,,,,,,,,,,
+CommunicateSinkDecisionIgnore Title,Evacuation,,,,,,,,,,,
+CommunicateSinkDecisionIgnore,After your crew sends the light signal that you are going to sink this ship there is no immediate reaction among its crew. After a while you notice that the ship started to zig zag intensively to avoid incoming torpedoes. The crew does not evacuate the freighter.,,,,,,,,,,,
+CommunicateSinkDecisionIgnoreConfirm,We tried.,,,,,,,,,,,
+DelegationSelect Title,Inspection,,,,,,,,,,,
+DelegationSelect,Select crew that will be the part of the delegation.,,,,,,,,,,,
+SendDelegation Wait Title,Delegation sent...,,,,,,,,,,,
+SendDelegation Wait,"Please wait, while the delegation travels to the destination.",,,,,,,,,,,
+Welcome_1 Title,Merchant ship deck,,,,,,,,,,,
+Welcome_1,"Captain of this freighter helps your crew to get to the deck and greets each member of your delegation with a ""willkommen"". He then introduces himself as {2}.",,,,,,,,,,,
+WelcomeEnglish_1_Linguist Title,Merchant ship deck,,,,,,,,,,,
+WelcomeEnglish_1_Linguist,"He knows only basics of the German speech, but luckily {4} from your group speaks fluently in {3}, so there is no language barrier.",,,,,,,,,,,
+WelcomeEnglish_1_MissingLinguist Title,Merchant ship deck,,,,,,,,,,,
+WelcomeEnglish_1_MissingLinguist,"He speaks {3} and knows only basics of German speech. Sadly, that turns out to be quite problematic, but nevertheless both parties manage to make a somewhat basic conversation.",,,,,,,,,,,
+Welcome_2 Title,Merchant ship deck,,,,,,,,,,,
+Welcome_2,"Your crew climbs the deck with some help from the cargo ship crew. After that you are welcomed by the ship's captain, but he tries to communicate in {3} and doesn't speak German too well.",,,,,,,,,,,
+WelcomeEnglish_2_Linguist Title,Merchant ship deck,,,,,,,,,,,
+WelcomeEnglish_2_Linguist,"Luckily {4} speaks fluently in {3}, so there is no language barrier.",,,,,,,,,,,
+WelcomeEnglish_2_MissingLinguist Title,Merchant ship deck,,,,,,,,,,,
+WelcomeEnglish_2_MissingLinguist,"Sadly, that turns out to be quite problematic, but nevertheless both parties manage to make a somewhat basic conversation.",,,,,,,,,,,
+Welcome_3 Title,Merchant ship deck,,,,,,,,,,,
 Welcome_3,"After climbing the deck, your crew faces a cold welcome from the cargo ship's crew:
 
-- What do you want? - asks the captain in German without exchanging any pleasantries - This is a neutral ship and you shouldn't be here."
-WelcomeBack_1 Title,Merchant ship deck
-WelcomeBack_1,You are back to the merchant ship's deck. Captain seems a bit worried what may be bringing you back.
-WelcomeBack_1_LanguageBarrier Title,Merchant ship deck
-WelcomeBack_1_LanguageBarrier,You are back to the merchant ship's deck. Captain speaks some questions in {3}. He seems worried what may be bringing you back.
-WelcomeEnglishInviteToDeckHouse Title,Merchant ship deck
-WelcomeEnglishInviteToDeckHouse,"After exchanging pleasantries, he invites you to a private room in the deck house."
-WelcomeEnglishInviteToDeckHouse_Accept,Accept.
-DeckHouseIntro Title,Deck house
-DeckHouseIntro,"Your officers sit with the captain in the ship's galley. After a short small talk, captain asks them to state what do they need."
-WelcomeEnglishInviteToDeckHouse_Decline,Decline.
-WelcomeEnglishInviteToTheOffice Title,Merchant ship deck
-WelcomeEnglishInviteToTheOffice,"After exchanging pleasantries, he invites you to his office, so that you will be able to comfortably talk in private and he will be able to show you the documents that may be needed."
-WelcomeEnglishInviteToTheOffice_Accept,Accept.
-OfficeIntro Title,Captain's office
+- What do you want? - asks the captain in German without exchanging any pleasantries - This is a neutral ship and you shouldn't be here.",,,,,,,,,,,
+WelcomeBack_1 Title,Merchant ship deck,,,,,,,,,,,
+WelcomeBack_1,You are back to the merchant ship's deck. Captain seems a bit worried what may be bringing you back.,,,,,,,,,,,
+WelcomeBack_1_LanguageBarrier Title,Merchant ship deck,,,,,,,,,,,
+WelcomeBack_1_LanguageBarrier,You are back to the merchant ship's deck. Captain speaks some questions in {3}. He seems worried what may be bringing you back.,,,,,,,,,,,
+WelcomeEnglishInviteToDeckHouse Title,Merchant ship deck,,,,,,,,,,,
+WelcomeEnglishInviteToDeckHouse,"After exchanging pleasantries, he invites you to a private room in the deck house.",,,,,,,,,,,
+WelcomeEnglishInviteToDeckHouse_Accept,Accept.,,,,,,,,,,,
+DeckHouseIntro Title,Deck house,,,,,,,,,,,
+DeckHouseIntro,"Your officers sit with the captain in the ship's galley. After a short small talk, captain asks them to state what do they need.",,,,,,,,,,,
+WelcomeEnglishInviteToDeckHouse_Decline,Decline.,,,,,,,,,,,
+WelcomeEnglishInviteToTheOffice Title,Merchant ship deck,,,,,,,,,,,
+WelcomeEnglishInviteToTheOffice,"After exchanging pleasantries, he invites you to his office, so that you will be able to comfortably talk in private and he will be able to show you the documents that may be needed.",,,,,,,,,,,
+WelcomeEnglishInviteToTheOffice_Accept,Accept.,,,,,,,,,,,
+OfficeIntro Title,Captain's office,,,,,,,,,,,
 OfficeIntro,"The Captain leads you into his office and offers to make yourself comfortable.
-- I take it that you want to have a look at our shipping documents? - asks."
-OfficeIntro_LanguageBarrier Title,Captain's office
-OfficeIntro_LanguageBarrier,"Captain leads you into his office and makes a gest to make yourself comfortable. He then looks around the desk and finds some papers that seem to be the shipping documents. He asks, if you would like to take a look."
-OfficeIntro_AskForDocuments,Confirm.
-OfficeIntro_SomethingElse,Something else.
-WelcomeEnglishInviteToTheOffice_Decline,Decline.
-WelcomeSpanish Title,Merchant ship deck
-WelcomeSpanish,The Captain of this freighter greets your crew in Spanish. After a few moments he is accompanied by another crew member that translates his words to German.
-MainChoices_Deck Title,Merchant ship deck
-MainChoices_Deck,What should we do next?
-MainChoices_DeckHouse Title,Deck house
-MainChoices_DeckHouse,What should we do next?
-MainChoices_CaptainOffice Title,Captain's office
-MainChoices_CaptainOffice,What should we do next?
-MainChoices_CargoHold Title,Cargo hold
-MainChoices_CargoHold,What should we do next?
-MainChoicesPrizeConfirmed,<color=green>We confirmed that this freighter is involved in military activities. We can sink it without risking an international incident.</color>
-AskForDocuments,Ask the captain for the shipping documents.
-AskForDocuments Tooltip,Ask the captain for documents that describe what type of cargo is loaded on this ship and where they are headed to.
+- I take it that you want to have a look at our shipping documents? - asks.",,,,,,,,,,,
+OfficeIntro_LanguageBarrier Title,Captain's office,,,,,,,,,,,
+OfficeIntro_LanguageBarrier,"Captain leads you into his office and makes a gest to make yourself comfortable. He then looks around the desk and finds some papers that seem to be the shipping documents. He asks, if you would like to take a look.",,,,,,,,,,,
+OfficeIntro_AskForDocuments,Confirm.,,,,,,,,,,,
+OfficeIntro_SomethingElse,Something else.,,,,,,,,,,,
+WelcomeEnglishInviteToTheOffice_Decline,Decline.,,,,,,,,,,,
+WelcomeSpanish Title,Merchant ship deck,,,,,,,,,,,
+WelcomeSpanish,The Captain of this freighter greets your crew in Spanish. After a few moments he is accompanied by another crew member that translates his words to German.,,,,,,,,,,,
+MainChoices_Deck Title,Merchant ship deck,,,,,,,,,,,
+MainChoices_Deck,What should we do next?,,,,,,,,,,,
+MainChoices_DeckHouse Title,Deck house,,,,,,,,,,,
+MainChoices_DeckHouse,What should we do next?,,,,,,,,,,,
+MainChoices_CaptainOffice Title,Captain's office,,,,,,,,,,,
+MainChoices_CaptainOffice,What should we do next?,,,,,,,,,,,
+MainChoices_CargoHold Title,Cargo hold,,,,,,,,,,,
+MainChoices_CargoHold,What should we do next?,,,,,,,,,,,
+MainChoicesPrizeConfirmed,<color=green>We confirmed that this freighter is involved in military activities. We can sink it without risking an international incident.</color>,,,,,,,,,,,
+AskForDocuments,Ask the captain for the shipping documents.,,,,,,,,,,,
+AskForDocuments Tooltip,Ask the captain for documents that describe what type of cargo is loaded on this ship and where they are headed to.,,,,,,,,,,,
 PresentDocuments,"You ask the captain for documents that state what cargo is loaded on his ship and where they are heading. He was ready for that since he has these documents already prepared and hands them  to you right away. He  looks a bit nervous when you carefully analyze the document contents.
 
-According to the documents, his ship is directed at {0} and transports {1}. If these documents are correct, this ship is not involved in a war effort and sinking it could lead to a diplomatic incident of some degree."
+According to the documents, his ship is directed at {0} and transports {1}. If these documents are correct, this ship is not involved in a war effort and sinking it could lead to a diplomatic incident of some degree.",,,,,,,,,,,
 PresentDocuments_LanguageBarrier,"You ask the captain for documents that state what cargo is loaded on his ship and where they are heading. He was ready for that since he has these documents already prepared and hands them right away to you. He is looking a bit nervous when you carefully analyze the document contents.
 
-You can't decipher much from these documents though since they are written in {3}. You only manage to spot some references about {0}, so it's probably where they are being headed at. If your interpretation is correct, this ship is not involved in a war effort and sinking it could lead to a diplomatic incident of some degree."
-UndermineDocumentsAuthenticity,Put the pressure and state that the documents seem to be false.
-UndermineDocumentsAuthenticity Tooltip,"If you have suspicions that something is wrong about the cargo or their claimed destination port, you can try to put some pressure on the captain to check his reaction."
-UndermineDocumentsAuthenticity_LanguageBarrier,Put the pressure and state that the documents seem to be false.
-UndermineDocumentsAuthenticity_LanguageBarrier Tooltip,"If you have suspicions that something is wrong about the cargo or their claimed destination port, you can try to put some pressure on the captain to check his reaction."
-CaptainDeniesAccusation Title,Documents
-CaptainDeniesAccusation,The Captain of the freighter raises an eyebrow and denies that anything is wrong. He asks you to be more specific.
-PutThePressureOnCaptain_Normal,Make up some claims.
-PutThePressureOnCaptain_Normal Tooltip,You will have 25% chance to hear the truth.
-PutThePressureOnCaptain_Armed,Make up some claims.
-PutThePressureOnCaptain_Armed Tooltip,You will have 35% (+10%) chance to hear the truth due to having armed officers.
-PutThePressureOnCaptain_PersonalSkills,Make up some claims.
-PutThePressureOnCaptain_PersonalSkills Tooltip,You will have 35% (+10%) chance to hear the truth due to having an officer with great personal skills.
-PutThePressureOnCaptain_Armed_PersonalSkills,Make up some claims.
-PutThePressureOnCaptain_Armed_PersonalSkills Tooltip,You will have 50% (+25%) chance to hear the truth due to having your officers armed and an officer with great personal skills.
+You can't decipher much from these documents though since they are written in {3}. You only manage to spot some references about {0}, so it's probably where they are being headed at. If your interpretation is correct, this ship is not involved in a war effort and sinking it could lead to a diplomatic incident of some degree.",,,,,,,,,,,
+UndermineDocumentsAuthenticity,Put the pressure and state that the documents seem to be false.,,,,,,,,,,,
+UndermineDocumentsAuthenticity Tooltip,"If you have suspicions that something is wrong about the cargo or their claimed destination port, you can try to put some pressure on the captain to check his reaction.",,,,,,,,,,,
+UndermineDocumentsAuthenticity_LanguageBarrier,Put the pressure and state that the documents seem to be false.,,,,,,,,,,,
+UndermineDocumentsAuthenticity_LanguageBarrier Tooltip,"If you have suspicions that something is wrong about the cargo or their claimed destination port, you can try to put some pressure on the captain to check his reaction.",,,,,,,,,,,
+CaptainDeniesAccusation Title,Documents,,,,,,,,,,,
+CaptainDeniesAccusation,The Captain of the freighter raises an eyebrow and denies that anything is wrong. He asks you to be more specific.,,,,,,,,,,,
+PutThePressureOnCaptain_Normal,Make up some claims.,,,,,,,,,,,
+PutThePressureOnCaptain_Normal Tooltip,You will have 25% chance to hear the truth.,,,,,,,,,,,
+PutThePressureOnCaptain_Armed,Make up some claims.,,,,,,,,,,,
+PutThePressureOnCaptain_Armed Tooltip,You will have 35% (+10%) chance to hear the truth due to having armed officers.,,,,,,,,,,,
+PutThePressureOnCaptain_PersonalSkills,Make up some claims.,,,,,,,,,,,
+PutThePressureOnCaptain_PersonalSkills Tooltip,You will have 35% (+10%) chance to hear the truth due to having an officer with great personal skills.,,,,,,,,,,,
+PutThePressureOnCaptain_Armed_PersonalSkills,Make up some claims.,,,,,,,,,,,
+PutThePressureOnCaptain_Armed_PersonalSkills Tooltip,You will have 50% (+25%) chance to hear the truth due to having your officers armed and an officer with great personal skills.,,,,,,,,,,,
 CaptainAdmitsTradeWithBritish4,"You try to undermine the authenticity of the documents to see how the captain of this freighter will react.
 
 He finds some explanations to some of your challenges, but after you repeat to cast the doubts, he breaks and admits that the documents are fake. It turns out that they smuggle various goods to Allies under a false flag.
 
-<color=green>From now on, this freighter is considered a fair prize. You can sink it without risking an international incident.</color>"
-CaptainAdmitsTradeWithBritish4Confirm,Continue.
-CaptainPressure_Deny,"Captain denies all accusations stated by your officers and asks, if they are done making claims out of the thin air."
-QuestionTargetPortImports,State with confidence that such cargo is not normally carried to {0}.
+<color=green>From now on, this freighter is considered a fair prize. You can sink it without risking an international incident.</color>",,,,,,,,,,,
+CaptainAdmitsTradeWithBritish4Confirm,Continue.,,,,,,,,,,,
+CaptainPressure_Deny,"Captain denies all accusations stated by your officers and asks, if they are done making claims out of the thin air.",,,,,,,,,,,
+QuestionTargetPortImports,State with confidence that such cargo is not normally carried to {0}.,,,,,,,,,,,
 CaptainAdmitsTradeWithBritish1,"You try to question the authenticity of the documents to see how the captain of the freighter will react.
 
 He finds some explanations to some of your challenges, but after you repeat to cast the doubts, he breaks and admits that the documents are fake. It turns out that they smuggle various goods to Britain under a false flag.
 
-<color=green>From now on, this freighter is considered a fair prize. You can sink it without risking an international incident.</color>"
-CaptainAdmitsTradeWithBritish1Confirm,Continue.
-CaptainExplainsImport,The Captain explains you that this cargo is actually completely common for freighters headed to {0}. He continues and tells you about companies that usually trade such goods and some of his ideas why there is a demand for them in the destination city.
-CaptainExplainsImportConfirm,He seems to be right.
-QuestionTargetPort,State that their course doesn't look like they are traveling to {0}.
+<color=green>From now on, this freighter is considered a fair prize. You can sink it without risking an international incident.</color>",,,,,,,,,,,
+CaptainAdmitsTradeWithBritish1Confirm,Continue.,,,,,,,,,,,
+CaptainExplainsImport,The Captain explains you that this cargo is actually completely common for freighters headed to {0}. He continues and tells you about companies that usually trade such goods and some of his ideas why there is a demand for them in the destination city.,,,,,,,,,,,
+CaptainExplainsImportConfirm,He seems to be right.,,,,,,,,,,,
+QuestionTargetPort,State that their course doesn't look like they are traveling to {0}.,,,,,,,,,,,
 CaptainAdmitsTradeWithBritish2,"You try to question the authenticity of the documents to see how the captain of this freighter will react.
 
 He finds some explanations to some of your challenges, but after you repeat to cast the doubts, he breaks and admits that the documents are fake. It turns out that they smuggle various goods to Britain under a false flag.
 
-<color=green>From now on, this freighter is considered a fair prize. You can sink it without risking an international incident.</color>"
-CaptainAdmitsTradeWithBritish2Confirm,Continue.
-CaptainExplainsTarget,The Captain is surprised that you make such claim and without any sign of hesitation goes for a map and shows you that this course is actually correct.
-CaptainExplainsTargetConfirm,He seems to be right.
-QuestionCargoTea,There is no mention of tea in this document.
+<color=green>From now on, this freighter is considered a fair prize. You can sink it without risking an international incident.</color>",,,,,,,,,,,
+CaptainAdmitsTradeWithBritish2Confirm,Continue.,,,,,,,,,,,
+CaptainExplainsTarget,The Captain is surprised that you make such claim and without any sign of hesitation goes for a map and shows you that this course is actually correct.,,,,,,,,,,,
+CaptainExplainsTargetConfirm,He seems to be right.,,,,,,,,,,,
+QuestionCargoTea,There is no mention of tea in this document.,,,,,,,,,,,
 CaptainAdmitsTradeWithBritish3,"The Captain curses in the air and confirms that United Kingdom government representatives bought all of the tea from his employer's business partner a year ago. Since then he is continuously being assigned to ship it to Britain. He looks at you and tells that this is the third time that he has been caught with it . He knows that Germans sink all ships carrying tea so he attempted to hide it this time.
 
 Your officer lets him finish, but orders are orders. You should probably sink this freighter, since you now know that it travels to Britain.
 
-<color=green>From now on, this freighter is considered a fair prize. You can sink it without risking an international incident.</color>"
-CaptainAdmitsTradeWithBritish3Confirm,Continue.
+<color=green>From now on, this freighter is considered a fair prize. You can sink it without risking an international incident.</color>",,,,,,,,,,,
+CaptainAdmitsTradeWithBritish3Confirm,Continue.,,,,,,,,,,,
 CaptainExplainsTea,"The Captain sighs and explains you that they were worried to include it in the documentation, since u-boat skippers tend to sink any vessel carrying tea.
 
-He ensures you that they are transporting it to {0}, not Britain just like it's stated in the documents."
-CaptainExplainsTeaConfirm,Continue.
-CaptainDeniesAccusationConfirm,Leave it.
-PresentDocumentsAccept,Accept.
-QuestionCargoTeaTopChoice,There is no mention of tea in the shipping document.
-GoToCargoHold,Go to cargo hold.
-RequestAccessToCargoHold,Search the cargo hold.
-RequestAccessToCargoHold_Agreed Title,Cargo hold
+He ensures you that they are transporting it to {0}, not Britain just like it's stated in the documents.",,,,,,,,,,,
+CaptainExplainsTeaConfirm,Continue.,,,,,,,,,,,
+CaptainDeniesAccusationConfirm,Leave it.,,,,,,,,,,,
+PresentDocumentsAccept,Accept.,,,,,,,,,,,
+QuestionCargoTeaTopChoice,There is no mention of tea in the shipping document.,,,,,,,,,,,
+GoToCargoHold,Go to cargo hold.,,,,,,,,,,,
+RequestAccessToCargoHold,Search the cargo hold.,,,,,,,,,,,
+RequestAccessToCargoHold_Agreed Title,Cargo hold,,,,,,,,,,,
 RequestAccessToCargoHold_Agreed,"Captain confirms that you can have a look, if that's needed. He invites you to follow him and after a short walk, you are in the ship's cargo hold.
 
-Your crew is searching the cargo hold for a potential contraband."
-RequestAccessToCargoHold_Agreed_Cancel,Cancel.
-SearchCargoHold,Search the cargo hold.
-MoveBackToCaptain,Meet the captain at his office.
+Your crew is searching the cargo hold for a potential contraband.",,,,,,,,,,,
+RequestAccessToCargoHold_Agreed_Cancel,Cancel.,,,,,,,,,,,
+SearchCargoHold,Search the cargo hold.,,,,,,,,,,,
+MoveBackToCaptain,Meet the captain at his office.,,,,,,,,,,,
 Search_NothingFound,"An officer from your group looked around the freighter accompanied by a talkative sailor who speaks some German. He shared his view on the war and told about his uncle that married a woman from Hamburg.
 
-Regarding the search, nothing suspicious was found. Officer looked at some of the cargo, but haven't found anything unusual."
-Search_NothingFoundConfirm,Continue.
-Search_Cargo_Ammunition,Our team has completed the search and reports that the cargo hold is filled with ammunition. The equipment carried here is commonly employed by both the enemy military as well as the neutral countries.
-Search_Cargo_Ammunition_Confirm,Accept.
+Regarding the search, nothing suspicious was found. Officer looked at some of the cargo, but haven't found anything unusual.",,,,,,,,,,,
+Search_NothingFoundConfirm,Continue.,,,,,,,,,,,
+Search_Cargo_Ammunition,Our team has completed the search and reports that the cargo hold is filled with ammunition. The equipment carried here is commonly employed by both the enemy military as well as the neutral countries.,,,,,,,,,,,
+Search_Cargo_Ammunition_Confirm,Accept.,,,,,,,,,,,
 Search_SecretCargo_Tea,"After a thorough search of the freighter, one of our officers has found out that basically the whole freighter is filled with the tea. Each crate has other goods on top to conceal the tea.
 
 Considering that United Kingdom is currently by far the largest importer of tea overseas and that it's carefully hidden in each crate, it seems likely that this ship is smuggling it there contrary to the shipping documents.
 
-<color=yellow>It seems very likely that this ship is headed at the United Kingdom, but there is still a small chance that it's some confusion. The decision, if you are going to sink this ship is up to you.</color>"
-Search_SecretCargo_Tea_Confirm,Accept.
-Search_SoldiersAttack Title,Soldiers
-Search_SoldiersAttack,"While searching the freighter one of the officers heard a muffled sound of somebody screaming ""we are here"" in German. He instantly started to look for the source of the sound and out of nowhere was attacked by  enemy soldiers hidden on the ship!"
-Search_SoldiersAttack_Counter,Fight!
-Search_SoldiersAttack_Counter Tooltip,Your crew is armed and has a 90% chance to win this fight.
-Search_SoldiersAttack_Counter_Success Title,Soldiers
+<color=yellow>It seems very likely that this ship is headed at the United Kingdom, but there is still a small chance that it's some confusion. The decision, if you are going to sink this ship is up to you.</color>",,,,,,,,,,,
+Search_SecretCargo_Tea_Confirm,Accept.,,,,,,,,,,,
+Search_SoldiersAttack Title,Soldiers,,,,,,,,,,,
+Search_SoldiersAttack,"While searching the freighter one of the officers heard a muffled sound of somebody screaming ""we are here"" in German. He instantly started to look for the source of the sound and out of nowhere was attacked by  enemy soldiers hidden on the ship!",,,,,,,,,,,
+Search_SoldiersAttack_Counter,Fight!,,,,,,,,,,,
+Search_SoldiersAttack_Counter Tooltip,Your crew is armed and has a 90% chance to win this fight.,,,,,,,,,,,
+Search_SoldiersAttack_Counter_Success Title,Soldiers,,,,,,,,,,,
 Search_SoldiersAttack_Counter_Success,"After a long gunfight our officers managed to defeat the enemy.
 
-After the fight was over we searched for the compartment from which our officer heard somebody calling for help in german. It turned out that this ship was carrying a few german prisoners of war."
-Search_SoldiersAttack_Counter_SuccessAccept,Take these men to our ship!
-Search_SoldiersAttack_Counter_Failure,"The gunfight didn't go as we would like it to go. After firing all the ammunition we had at hand, the enemy was still returning fire and started to surround our soldiers. The officer leading this delegation reacted quickly and called a retreat order. The u-boat crew jumped straight into the sea, leaving the dinghy behind and evading enemy fire."
-Search_SoldiersAttack_Counter_FailureAccept,Continue.
-Search_SoldiersAttack_CounterNoWeapon,Fight!
+After the fight was over we searched for the compartment from which our officer heard somebody calling for help in german. It turned out that this ship was carrying a few german prisoners of war.",,,,,,,,,,,
+Search_SoldiersAttack_Counter_SuccessAccept,Take these men to our ship!,,,,,,,,,,,
+Search_SoldiersAttack_Counter_Failure,"The gunfight didn't go as we would like it to go. After firing all the ammunition we had at hand, the enemy was still returning fire and started to surround our soldiers. The officer leading this delegation reacted quickly and called a retreat order. The u-boat crew jumped straight into the sea, leaving the dinghy behind and evading enemy fire.",,,,,,,,,,,
+Search_SoldiersAttack_Counter_FailureAccept,Continue.,,,,,,,,,,,
+Search_SoldiersAttack_CounterNoWeapon,Fight!,,,,,,,,,,,
 Search_SoldiersAttack_CounterNoWeapon Tooltip,"You have 25% chance to win this fight.
 
-Note: You can take weapons with the party to increase fight chances."
-Search_SoldiersAttack_Escape,Cover fire and leave the freighter immediately.
-FoundSuspiciousDocuments Title,Crew compartment
+Note: You can take weapons with the party to increase fight chances.",,,,,,,,,,,
+Search_SoldiersAttack_Escape,Cover fire and leave the freighter immediately.,,,,,,,,,,,
+FoundSuspiciousDocuments Title,Crew compartment,,,,,,,,,,,
 FoundSuspiciousDocuments,"After looking around the freighter for a while, your officer found a forgotten letter sent from England to one of the sailors. It was written by his sister and from the content, it seems that she expects him to arrive there soon.
 
-<color=yellow>It's very likely that this ship is headed at the United Kingdom, but there is still a small chance that it's some confusion. You may question the mentioned sailor to be sure.</color>"
-FoundSuspiciousDocumentsQuestion,Question the sailor.
-FoundSuspiciousDocumentsQuestionDialogue Title,Crew compartment
+<color=yellow>It's very likely that this ship is headed at the United Kingdom, but there is still a small chance that it's some confusion. You may question the mentioned sailor to be sure.</color>",,,,,,,,,,,
+FoundSuspiciousDocumentsQuestion,Question the sailor.,,,,,,,,,,,
+FoundSuspiciousDocumentsQuestionDialogue Title,Crew compartment,,,,,,,,,,,
 FoundSuspiciousDocumentsQuestionDialogue,"After you asked the captain for the sailor mentioned in the letter, he nods that he will bring him there in a second and leaves. After a few minutes you meet him and ask about the letter.
 
-He is clearly stressed that you've seen his personal correspondence, but quickly starts to explain himself. Apparently the ship that he was initially going to work on was indeed headed at the United Kingdom, but it had to undergo some unexpected repairs before the departure. For that reason he joined the crew of this freighter instead to earn some money in the meantime."
-FoundSuspiciousDocumentsQuestionDialoguePressure,Don't believe him.
-FoundSuspiciousDocumentsQuestionDialoguePressureSuccess Title,Crew compartment
+He is clearly stressed that you've seen his personal correspondence, but quickly starts to explain himself. Apparently the ship that he was initially going to work on was indeed headed at the United Kingdom, but it had to undergo some unexpected repairs before the departure. For that reason he joined the crew of this freighter instead to earn some money in the meantime.",,,,,,,,,,,
+FoundSuspiciousDocumentsQuestionDialoguePressure,Don't believe him.,,,,,,,,,,,
+FoundSuspiciousDocumentsQuestionDialoguePressureSuccess Title,Crew compartment,,,,,,,,,,,
 FoundSuspiciousDocumentsQuestionDialoguePressureSuccess,"You realize some inconsistencies in the sailor's explanations and exert some pressure on him to find out the truth. You state that the letter mentions a captain who seems to perfectly match the current captain of this freighter.
 
 Sailor tries to find some explanations to that, telling that this captain is a sibling of his previous employer, but these explanations are definitely made up. They must travel to England.
 
-<color=green>From now on, this freighter is considered a fair prize. You can sink it without risking an international incident.</color>"
-FoundSuspiciousDocumentsQuestionDialoguePressureSuccessContinue,Continue.
-FoundSuspiciousDocumentsQuestionDialogueConfirm,Leave it.
-FoundSuspiciousDocumentsConfirm,Continue.
-LockedCompartment Title,Locked compartment
+<color=green>From now on, this freighter is considered a fair prize. You can sink it without risking an international incident.</color>",,,,,,,,,,,
+FoundSuspiciousDocumentsQuestionDialoguePressureSuccessContinue,Continue.,,,,,,,,,,,
+FoundSuspiciousDocumentsQuestionDialogueConfirm,Leave it.,,,,,,,,,,,
+FoundSuspiciousDocumentsConfirm,Continue.,,,,,,,,,,,
+LockedCompartment Title,Locked compartment,,,,,,,,,,,
 LockedCompartment,"One of your crew members uses some excuse to look around the ship a bit. Using this opportunity he finds a suspicious, locked compartment on the ship. It may be nothing, but if they are carrying some war-related cargo that's almost certainly the place to find it.
 
-After you ask the captain of this freighter about this compartment, he tells it's nothing and that the bulkhead jammed during loading in the port. He is going to hire an ironworker to fix that problem when they reach the destination port."
-ThreatLockedDoors,Threaten the captain.
-BreakThroughDoors,Break through the bulkhead.
-DetonateDoors,Set and detonate charges on the doors.
-LockedCompartmentLeave,Leave it.
-UnlockedCompartment Title,Compartment
-UnlockedCompartment,"When you enter the compartment, it turns out that there is indeed nothing worth your attention inside. There is some cargo which matches the documentation, but it's mostly empty."
-UnlockedCompartmentConfirm,Continue.
-ReviewGoods,View transported goods.
-ScuttleFreighterExplosives,Scuttle freighter using the explosives.
-OrderEvacuation,Order evacuation.
-OrderedEvacuationValidPrize Title,Evacuation
+After you ask the captain of this freighter about this compartment, he tells it's nothing and that the bulkhead jammed during loading in the port. He is going to hire an ironworker to fix that problem when they reach the destination port.",,,,,,,,,,,
+ThreatLockedDoors,Threaten the captain.,,,,,,,,,,,
+BreakThroughDoors,Break through the bulkhead.,,,,,,,,,,,
+DetonateDoors,Set and detonate charges on the doors.,,,,,,,,,,,
+LockedCompartmentLeave,Leave it.,,,,,,,,,,,
+UnlockedCompartment Title,Compartment,,,,,,,,,,,
+UnlockedCompartment,"When you enter the compartment, it turns out that there is indeed nothing worth your attention inside. There is some cargo which matches the documentation, but it's mostly empty.",,,,,,,,,,,
+UnlockedCompartmentConfirm,Continue.,,,,,,,,,,,
+ReviewGoods,View transported goods.,,,,,,,,,,,
+ScuttleFreighterExplosives,Scuttle freighter using the explosives.,,,,,,,,,,,
+OrderEvacuation,Order evacuation.,,,,,,,,,,,
+OrderedEvacuationValidPrize Title,Evacuation,,,,,,,,,,,
 OrderedEvacuationValidPrize,"You tell the captain that your orders obligate you to sink this freighter and that they must evacuate it immediately.
 
-Captain isn't happy about this outcome, but clearly accepted that there is nothing he can do to avoid this from happening. He doesn't respond to you, but instead starts to shout out to his crew and organizes evacuation of the freighter."
-OrderedEvacuationValidPrizeConfirm,Continue.
-OrderedEvacuationNotValidPrize Title,Evacuation
+Captain isn't happy about this outcome, but clearly accepted that there is nothing he can do to avoid this from happening. He doesn't respond to you, but instead starts to shout out to his crew and organizes evacuation of the freighter.",,,,,,,,,,,
+OrderedEvacuationValidPrizeConfirm,Continue.,,,,,,,,,,,
+OrderedEvacuationNotValidPrize Title,Evacuation,,,,,,,,,,,
 OrderedEvacuationNotValidPrize,"You tell the captain that your orders obligate you to sink this freighter and that they must evacuate it immediately.
 
-Captain is clearly angry about this outcome and angrily responds that you don't have the right to do that as this is a neutral vessel headed to a country that doesn't participate in the war. At some point he accepts that he cannot prevent this from happening and starts to wave his hand at his crew to proceed with the evacuation of his ship."
-OrderedEvacuationNotValidPrizeConfirm,Continue.
-Return,Return to your ship.
-Spanish,Spanish
-Portuguese,Portuguese
-French,French
-German,German
-English,English
-,
-,
-BreakThroughDoors Wait Title,In progress
-BreakThroughDoors Wait,Your engineer is breaking through the bulkhead...
-,
-CaptainAdmitsTradeWithBritish Title,Documents
+Captain is clearly angry about this outcome and angrily responds that you don't have the right to do that as this is a neutral vessel headed to a country that doesn't participate in the war. At some point he accepts that he cannot prevent this from happening and starts to wave his hand at his crew to proceed with the evacuation of his ship.",,,,,,,,,,,
+OrderedEvacuationNotValidPrizeConfirm,Continue.,,,,,,,,,,,
+Return,Return to your ship.,,,,,,,,,,,
+Spanish,Spanish,,,,,,,,,,,
+Portuguese,Portuguese,,,,,,,,,,,
+French,French,,,,,,,,,,,
+German,German,,,,,,,,,,,
+English,English,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+BreakThroughDoors Wait Title,In progress,,,,,,,,,,,
+BreakThroughDoors Wait,Your engineer is breaking through the bulkhead...,,,,,,,,,,,
+,,,,,,,,,,,,
+CaptainAdmitsTradeWithBritish Title,Documents,,,,,,,,,,,
 CaptainAdmitsTradeWithBritish,"You try to question the authenticity of the documents to see how the captain of this freighter will react.
 
 He provides explanations to some of your assertions, but after you continue to cast doubts, he breaks and admits that the documents are fake. It turns out that they smuggle various goods to Britain under a false flag.
 
-<color=green>From now on, this freighter is considered a fair prize. You can sink it without risking an international incident.</color>"
-CaptainAdmitsTradeWithBritishConfirm,Continue.
-,
-,
-,
-/Evacuated Freighter,English
-Intro Title,Freighter
-Intro,"This freighter was abandoned by its crew. We can send a team to it, if we want."
-SendTeam,Send a team to the freighter.
-TeamSelect,Select crew that will be a part of the delegation.
-Intro_Deck Title,Deck
-Intro_Deck,You are on the cargo ship's deck.
-GoTo_DeckHouse1,Enter the deck house.
-Intro_DeckHouse Title,Deck house
-Intro_DeckHouse,You are inside the deck house.
-GoTo_Deck,Move outside to the deck.
-GoTo_CaptainQuarter,Go to a captain's office.
-GoTo_EngineRoom,Go to an engine room.
-Intro_CaptainQuarter Title,Captain quarter
-Intro_CaptainQuarter,You are in the captain's quarter.
-GoTo_DeckHouse2,Go back to the deck house.
-Intro_EngineRoom Title,Engine room
-Intro_EngineRoom,You are in the engine room.
-GoTo_CargoHold,Go to a cargo hold.
-Plant explosives.,Plant explosives.
-Intro_CargoHold Title,Cargo hold
-Intro_CargoHold,You are in the ship's cargo hold.
-ViewGoods,View the transported goods.
-SearchCargoHold,Search the cargo hold.
-SearchCargoHold_Result Title,Cargo hold
-SearchCargoHold_Result,Your crew is searching the cargo hold for suspicious cargo.
-Search_NothingFound,Our team has completed the search of the cargo hold.
-Search_NothingFoundConfirm,Continue.
-Return,Return to your ship.
-SendTeam Wait Title,Delegation sent...
-SendTeam Wait,"Please wait, while the delegation travels to the destination."
-,
-/Lifeboat,English
-Intro Title,Lifeboat
-Intro,There are {0} survivors on this lifeboat. What do you want to do?
-TakeSurvivorsOnBoard,Take them on board.
+<color=green>From now on, this freighter is considered a fair prize. You can sink it without risking an international incident.</color>",,,,,,,,,,,
+CaptainAdmitsTradeWithBritishConfirm,Continue.,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+/Evacuated Freighter,English,,,,,,,,,,,
+Intro Title,Freighter,,,,,,,,,,,
+Intro,"This freighter was abandoned by its crew. We can send a team to it, if we want.",,,,,,,,,,,
+SendTeam,Send a team to the freighter.,,,,,,,,,,,
+TeamSelect,Select crew that will be a part of the delegation.,,,,,,,,,,,
+Intro_Deck Title,Deck,,,,,,,,,,,
+Intro_Deck,You are on the cargo ship's deck.,,,,,,,,,,,
+GoTo_DeckHouse1,Enter the deck house.,,,,,,,,,,,
+Intro_DeckHouse Title,Deck house,,,,,,,,,,,
+Intro_DeckHouse,You are inside the deck house.,,,,,,,,,,,
+GoTo_Deck,Move outside to the deck.,,,,,,,,,,,
+GoTo_CaptainQuarter,Go to a captain's office.,,,,,,,,,,,
+GoTo_EngineRoom,Go to an engine room.,,,,,,,,,,,
+Intro_CaptainQuarter Title,Captain quarter,,,,,,,,,,,
+Intro_CaptainQuarter,You are in the captain's quarter.,,,,,,,,,,,
+GoTo_DeckHouse2,Go back to the deck house.,,,,,,,,,,,
+Intro_EngineRoom Title,Engine room,,,,,,,,,,,
+Intro_EngineRoom,You are in the engine room.,,,,,,,,,,,
+GoTo_CargoHold,Go to a cargo hold.,,,,,,,,,,,
+Plant explosives.,Plant explosives.,,,,,,,,,,,
+Intro_CargoHold Title,Cargo hold,,,,,,,,,,,
+Intro_CargoHold,You are in the ship's cargo hold.,,,,,,,,,,,
+ViewGoods,View the transported goods.,,,,,,,,,,,
+SearchCargoHold,Search the cargo hold.,,,,,,,,,,,
+SearchCargoHold_Result Title,Cargo hold,,,,,,,,,,,
+SearchCargoHold_Result,Your crew is searching the cargo hold for suspicious cargo.,,,,,,,,,,,
+Search_NothingFound,Our team has completed the search of the cargo hold.,,,,,,,,,,,
+Search_NothingFoundConfirm,Continue.,,,,,,,,,,,
+Return,Return to your ship.,,,,,,,,,,,
+SendTeam Wait Title,Delegation sent...,,,,,,,,,,,
+SendTeam Wait,"Please wait, while the delegation travels to the destination.",,,,,,,,,,,
+,,,,,,,,,,,,
+/Lifeboat,English,,,,,,,,,,,
+Intro Title,Lifeboat,,,,,,,,,,,
+Intro,There are {0} survivors on this lifeboat. What do you want to do?,,,,,,,,,,,
+TakeSurvivorsOnBoard,Take them on board.,,,,,,,,,,,
 TakeSurvivorsOnBoard Tooltip,"Open a list of survivors on this lifeboat and decide, if you want to take some of them on board.
 
-Note: Saving lives of civilians may increase your reputation. In addition headquarters will reward you for taking captains of enemy ships as prisoners of war."
-GiveThemSupplies,Give them supplies.
-GiveThemSupplies Tooltip,Open the ship storage screen and give them some supplies.
-AcceptSupplies,Sailors on board are both surprised and grateful for the supplies.
-Confirm,Confirm
-,
-,
-/Spy,English
-Spy_Port_Intro Title,Spy
-Spy_Port_Intro,{0} greets {1} in a very official fashion and explains that he received orders to join crew of {2} during this assignment.
-Spy_Port_Intro_Welcome,Welcome.
+Note: Saving lives of civilians may increase your reputation. In addition headquarters will reward you for taking captains of enemy ships as prisoners of war.",,,,,,,,,,,
+GiveThemSupplies,Give them supplies.,,,,,,,,,,,
+GiveThemSupplies Tooltip,Open the ship storage screen and give them some supplies.,,,,,,,,,,,
+AcceptSupplies,Sailors on board are both surprised and grateful for the supplies.,,,,,,,,,,,
+Confirm,Confirm,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+/Spy,English,,,,,,,,,,,
+Spy_Port_Intro Title,Spy,,,,,,,,,,,
+Spy_Port_Intro,{0} greets {1} in a very official fashion and explains that he received orders to join crew of {2} during this assignment.,,,,,,,,,,,
+Spy_Port_Intro_Welcome,Welcome.,,,,,,,,,,,
 "Spy_Port_Intro_Welcome Tooltip
-",Confirm that you was waiting for him and proceed to tour him around the ship.
-,
-,
-/War Correspondent,English
-WarCorrespondent_Port_Intro Title,War Correspondent
+",Confirm that you was waiting for him and proceed to tour him around the ship.,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+/War Correspondent,English,,,,,,,,,,,
+WarCorrespondent_Port_Intro Title,War Correspondent,,,,,,,,,,,
 WarCorrespondent_Port_Intro,"War correspondent warmly thanks {1} for allowing him to join the crew during this assignment. {1} shakes his hand and after some small talk explains basic things about living on board of {2} and where his bunk is.
 
-{0} appreciates the help, adds that it's not his first time on a ship and confirms that he will be fine."
-WarCorrespondent_Port_Intro_Welcome,Welcome.
-,
-,
-/Wreck,English
-SendDiver Title,Wreck
-SendDiver,There is a wreck of {0} on the sea floor. How should we proceed?
-SendDiver_Confirm,Send a diver.
-SendDiver_TeamSelect,Select a diver to explore the wreck.
-SendDiver_Confirm Wait,Sending diver
-SendDiver_Confirm Wait Title,Wreck
-SendDiver Wait Title,Please wait...
-SendDiver Wait,{0} is being lowered down to the wreck.
-Intro Title,Seabed
-Intro,Diver arrived at the wreck. What are your orders?
-Outside_EnterDeckHouse,Enter the deck house.
-DeckHouse Title,Galley
+{0} appreciates the help, adds that it's not his first time on a ship and confirms that he will be fine.",,,,,,,,,,,
+WarCorrespondent_Port_Intro_Welcome,Welcome.,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+/Wreck,English,,,,,,,,,,,
+SendDiver Title,Wreck,,,,,,,,,,,
+SendDiver,There is a wreck of {0} on the sea floor. How should we proceed?,,,,,,,,,,,
+SendDiver_Confirm,Send a diver.,,,,,,,,,,,
+SendDiver_TeamSelect,Select a diver to explore the wreck.,,,,,,,,,,,
+SendDiver_Confirm Wait,Sending diver,,,,,,,,,,,
+SendDiver_Confirm Wait Title,Wreck,,,,,,,,,,,
+SendDiver Wait Title,Please wait...,,,,,,,,,,,
+SendDiver Wait,{0} is being lowered down to the wreck.,,,,,,,,,,,
+Intro Title,Seabed,,,,,,,,,,,
+Intro,Diver arrived at the wreck. What are your orders?,,,,,,,,,,,
+Outside_EnterDeckHouse,Enter the deck house.,,,,,,,,,,,
+DeckHouse Title,Galley,,,,,,,,,,,
 DeckHouse,"After being lowered onto the ship's deck, it took a few minutes of effort for {0} to open the bulkhead at the deck house.
 
-Once inside, he entered a compartment with a galley and various accomodations. Nothing specific drawn his attention aside from a peculiar fish awkwardly trying to eat chicken that fell out of the refrigerator."
-DeckHouse_Return Title,Galley
-DeckHouse_Return,You are back to the galley.
-DeckHouse_Search,Search this compartment.
-MoveToCrewQuarters,Move up to the crew quarters.
-MoveDownToEngineRoom,Move down to the engine room.
-CrewQuarters Title,Crew Quarters
-CrewQuarters,Diver arrives at the crew quarters.
-CrewQuarters_Return Title,Crew Quarters
-CrewQuarters_Return,You are back to the crew quarters.
-CrewQuarters_Search,Search this compartment.
-CrewQuarters_Safe Title,Crew Quarters
-CrewQuarters_Safe,"There is nothing special in here, aside from a locked safe. It's already weared out by the water, so it may be possible to open it with the right tools."
-CrewQuarters_Safe_Open,Crack the safe open.
-CrewQuarters_Safe_Open_Result Title,Crew Quarters
-CrewQuarters_Safe_Open_Result,"After some struggle, officer successfully manages to open the safe using a crowbar found in the engine room. He found a key inside it and took it with him."
-MoveToGalleyFromCrewQuarters,Move back to the galley.
-EngineRoom Title,Engine Room
-EngineRoom,{0} arrives at the engine room of the ship. There are few bodies of the crew lying in the corner.
-EngineRoom_Return Title,Engine Room
-EngineRoom_Return,You are back to the engine room.
-EngineRoom_Search,Search this compartment.
-EngineRoom_SearchResult Title,Engine Room
-EngineRoom_SearchResult,{0} has found the captain's body in this compartment and spotted a key nearby. He decided to take it with him.
-MoveToGalleyFromEngineRoom,Move back to the galley.
-MoveToCargoHold,Move to the cargo hold.
-CargoHold Title,Cargo Hold
-CargoHold,You are in the ship's cargo hold.
-CargoHold_Return Title,Cargo Hold
-CargoHold_Return,You are back to the cargo hold.
-CargoHold_Search,Search this compartment.
-CargoHold_SearchResult Title,Cargo Hold
-CargoHold_SearchResult,"Your officer searched the cargo hold, but haven't found any sign of the valuable cargo mentioned by the orders. He has found a locked compartment though. It's behind a sturdy bulkhead that would be extremely hard to break through without a key, especially in that diving suit."
-CargoHold_Secret_Open,Open the sealed compartment.
-CargoHold_Open,View the transported goods.
-MoveBackToEngineRoom,Move back to the engine room.
-Submarine_Outside_EnterSubmarine,Enter submarine.
-Submarine_MoveToControlRoom,Move to control room.
-Submarine_MoveToOfficerQuarters,Move to officer quarters.
-Submarine_MoveToCrewQuarters,Move to crew quarters.
-Outside_Return,Return to the surface.
-,
-MoveDownToEngineRoom Wait Title,Galley
-MoveDownToEngineRoom Wait,Moving down to the engine room
-MoveToGalleyFromEngineRoom Wait Title,Engine Room
-MoveToGalleyFromEngineRoom Wait,Moving back to the galley
-MoveToCargoHold Wait Title,Engine Room
-MoveToCargoHold Wait,Moving to the cargo hold
-Outside_Return Wait,Returning to surface
-Outside_Return Wait Title,Wreck
-MoveBackToEngineRoom Wait Title,Cargo Hold
-MoveBackToEngineRoom Wait,Moving back to the engine room
-,
-/Enigma,English
-SendDiver Title,Wreck
-SendDiver,There is a wreck of {0} on the sea floor. How should we proceed?
-SendDiver_Confirm,Send a diver.
-SendDiver_TeamSelect,Select a diver to explore the wreck.
-ConningTower Title,Conning Tower
-ConningTower,"After being lowered onto the conning tower, {0} tried to open the hatch, but without any success. The hatch seems to be badly damaged and opening it would take a lot of effort and time. It's going to be faster to try entering through the escape hatch in the galley."
-Enter_BatteryRoom,Enter through the escape hatch.
-CrewQuarters Title,Crew Quarters
-CrewQuarters,{0} managed to enter crew quarters through the escape hatch in the galley. The hatch leading towards the control room is locked.
-Enter_ControlRoom,Try to open the hatch.
-CannotOpenHatch Title,Crew Quarters
+Once inside, he entered a compartment with a galley and various accomodations. Nothing specific drawn his attention aside from a peculiar fish awkwardly trying to eat chicken that fell out of the refrigerator.",,,,,,,,,,,
+DeckHouse_Return Title,Galley,,,,,,,,,,,
+DeckHouse_Return,You are back to the galley.,,,,,,,,,,,
+DeckHouse_Search,Search this compartment.,,,,,,,,,,,
+MoveToCrewQuarters,Move up to the crew quarters.,,,,,,,,,,,
+MoveDownToEngineRoom,Move down to the engine room.,,,,,,,,,,,
+CrewQuarters Title,Crew Quarters,,,,,,,,,,,
+CrewQuarters,Diver arrives at the crew quarters.,,,,,,,,,,,
+CrewQuarters_Return Title,Crew Quarters,,,,,,,,,,,
+CrewQuarters_Return,You are back to the crew quarters.,,,,,,,,,,,
+CrewQuarters_Search,Search this compartment.,,,,,,,,,,,
+CrewQuarters_Safe Title,Crew Quarters,,,,,,,,,,,
+CrewQuarters_Safe,"There is nothing special in here, aside from a locked safe. It's already weared out by the water, so it may be possible to open it with the right tools.",,,,,,,,,,,
+CrewQuarters_Safe_Open,Crack the safe open.,,,,,,,,,,,
+CrewQuarters_Safe_Open_Result Title,Crew Quarters,,,,,,,,,,,
+CrewQuarters_Safe_Open_Result,"After some struggle, officer successfully manages to open the safe using a crowbar found in the engine room. He found a key inside it and took it with him.",,,,,,,,,,,
+MoveToGalleyFromCrewQuarters,Move back to the galley.,,,,,,,,,,,
+EngineRoom Title,Engine Room,,,,,,,,,,,
+EngineRoom,{0} arrives at the engine room of the ship. There are few bodies of the crew lying in the corner.,,,,,,,,,,,
+EngineRoom_Return Title,Engine Room,,,,,,,,,,,
+EngineRoom_Return,You are back to the engine room.,,,,,,,,,,,
+EngineRoom_Search,Search this compartment.,,,,,,,,,,,
+EngineRoom_SearchResult Title,Engine Room,,,,,,,,,,,
+EngineRoom_SearchResult,{0} has found the captain's body in this compartment and spotted a key nearby. He decided to take it with him.,,,,,,,,,,,
+MoveToGalleyFromEngineRoom,Move back to the galley.,,,,,,,,,,,
+MoveToCargoHold,Move to the cargo hold.,,,,,,,,,,,
+CargoHold Title,Cargo Hold,,,,,,,,,,,
+CargoHold,You are in the ship's cargo hold.,,,,,,,,,,,
+CargoHold_Return Title,Cargo Hold,,,,,,,,,,,
+CargoHold_Return,You are back to the cargo hold.,,,,,,,,,,,
+CargoHold_Search,Search this compartment.,,,,,,,,,,,
+CargoHold_SearchResult Title,Cargo Hold,,,,,,,,,,,
+CargoHold_SearchResult,"Your officer searched the cargo hold, but haven't found any sign of the valuable cargo mentioned by the orders. He has found a locked compartment though. It's behind a sturdy bulkhead that would be extremely hard to break through without a key, especially in that diving suit.",,,,,,,,,,,
+CargoHold_Secret_Open,Open the sealed compartment.,,,,,,,,,,,
+CargoHold_Open,View the transported goods.,,,,,,,,,,,
+MoveBackToEngineRoom,Move back to the engine room.,,,,,,,,,,,
+Submarine_Outside_EnterSubmarine,Enter submarine.,,,,,,,,,,,
+Submarine_MoveToControlRoom,Move to control room.,,,,,,,,,,,
+Submarine_MoveToOfficerQuarters,Move to officer quarters.,,,,,,,,,,,
+Submarine_MoveToCrewQuarters,Move to crew quarters.,,,,,,,,,,,
+Outside_Return,Return to the surface.,,,,,,,,,,,
+,,,,,,,,,,,,
+MoveDownToEngineRoom Wait Title,Galley,,,,,,,,,,,
+MoveDownToEngineRoom Wait,Moving down to the engine room,,,,,,,,,,,
+MoveToGalleyFromEngineRoom Wait Title,Engine Room,,,,,,,,,,,
+MoveToGalleyFromEngineRoom Wait,Moving back to the galley,,,,,,,,,,,
+MoveToCargoHold Wait Title,Engine Room,,,,,,,,,,,
+MoveToCargoHold Wait,Moving to the cargo hold,,,,,,,,,,,
+Outside_Return Wait,Returning to surface,,,,,,,,,,,
+Outside_Return Wait Title,Wreck,,,,,,,,,,,
+MoveBackToEngineRoom Wait Title,Cargo Hold,,,,,,,,,,,
+MoveBackToEngineRoom Wait,Moving back to the engine room,,,,,,,,,,,
+,,,,,,,,,,,,
+/Enigma,English,,,,,,,,,,,
+SendDiver Title,Wreck,,,,,,,,,,,
+SendDiver,There is a wreck of {0} on the sea floor. How should we proceed?,,,,,,,,,,,
+SendDiver_Confirm,Send a diver.,,,,,,,,,,,
+SendDiver_TeamSelect,Select a diver to explore the wreck.,,,,,,,,,,,
+ConningTower Title,Conning Tower,,,,,,,,,,,
+ConningTower,"After being lowered onto the conning tower, {0} tried to open the hatch, but without any success. The hatch seems to be badly damaged and opening it would take a lot of effort and time. It's going to be faster to try entering through the escape hatch in the galley.",,,,,,,,,,,
+Enter_BatteryRoom,Enter through the escape hatch.,,,,,,,,,,,
+CrewQuarters Title,Crew Quarters,,,,,,,,,,,
+CrewQuarters,{0} managed to enter crew quarters through the escape hatch in the galley. The hatch leading towards the control room is locked.,,,,,,,,,,,
+Enter_ControlRoom,Try to open the hatch.,,,,,,,,,,,
+CannotOpenHatch Title,Crew Quarters,,,,,,,,,,,
 CannotOpenHatch,"{0} managed to unlock the hatch, but when he tried to open it, he couldn't do that, which made him realize that the compartment on the other side is not filled with water.
 
 To his surprise, he heard a few knocks and faint human voices afterwards. There is someone alive on the other side!
 
 {0} managed to communicate with the people trapped in the control room. It's a radioman and his assistant. They are trapped in there for many days now.
 
-They confirm that they have access to the Enigma machine and if you manage to open the hatch at the conning tower, they should be launched in the air bubble right to the surface along with the machine. They said they will be ready."
-ReturnAndOpenHatch,Return and open the main hatch.
-OpeningTheMainHatch Title,Conning Tower
-OpeningTheMainHatch,"{0} is opening the hatch installed on the conning tower. It's badly damaged, so it's going to take a few minutes."
-Outside_Return,Abort.
-,
-SendDiver_Confirm Wait,Sending diver
-SendDiver_Confirm Wait Title,Wreck
-Enter_BatteryRoom Wait,Entering escape hatch
-Enter_BatteryRoom Wait Title,Escape hatch
-Enter_ControlRoom Wait,Entering Crew Quarters
-Enter_ControlRoom Wait Title,Crew Quarters
-ReturnAndOpenHatch Wait,Opening main hatch
-ReturnAndOpenHatch Wait Title,Conning Tower
-Outside_Return Wait,Returning to surface
-Outside_Return Wait Title,Wreck
-,
-/Shot Down Aircraft,English
-TakeSurvivorsOnBoard Tooltip,"Open a list of survivors on this aircraft and decide, if you want to take some of them on board."
-Intro Title,Aircraft
-Intro,There are {0} survivors inside the aircraft. What do you want to do?
-TakeSurvivorsOnBoard,Rescue and take them on board.
-,
-,
-/Lost U-boat,English
-Intro Title,Lost ship
-Intro,{0} is floating on the surface without a living soul on its deck. Inspection from our boat makes it clear that the boat sustained major damage. It remains a mystery though what happened to the crew and why the enemy left it in such state while at sea.
-Intro_Investigated Title,Lost ship
-Intro_Investigated,{0} is floating on the surface without a living soul on its deck. What do you want to do?
-SendTeam,Send a team to investigate.
-DelegationSelect Title,Lost ship
-DelegationSelect,Pick a team that will investigate the ship.
-NotInvestigatedIntro Title,Lost ship
-NotInvestigatedIntro,"Your team cautiously boarded {0}, reporting that they cannot hear any sounds from inside the ship. What do you want to do?"
-InvestigatedIntro Title,Lost ship
-InvestigatedIntro,Your crew is back to the lost ship.
-Investigate,Investigate.
-Investigating Title,Lost ship
-Investigating,Your crew is investigating the lost ship‚Ä¶
-Result Title,Lost ship
-Result,"{1} went to the conning tower and carefully opened the closed hatch, then quickly ran to the barriers on the conning tower, clearly choking. He reported that inside are the corpses of sailors, with dried blood flowing out of their eyes and lips. {1} had no doubt - the ship was damaged by a mine which led to flooding of the batteries on the boat, which in turn released chlorine gas and resulted in the death of the entire crew."
-Accept,Accept.
-Mine,Mine the ship.
-Return,Return to your ship.
-SendTeam Wait,"Please wait, while the team arrives at the destination."
-SendTeam Wait Title,Team sent...
-,
-/Ally Help,English
-Intro_ReplacementParts Title,{0}
-Intro_ReplacementParts,"This u-boat called for help. According to the message, they need replacement parts from us. We should probably take them with us before meeting their crew - assuming that we want to share."
-Intro_MedicalSupplies Title,{0}
-Intro_MedicalSupplies,"This u-boat called for help. According to the message, they need medical supplies from us. We should probably take them with us before meeting their crew - assuming that we want to share."
-Intro_Food Title,{0}
-Intro_Food,"This u-boat called for help. According to the message, they need fresh vegetables and fruits from us. We should probably take them with us before meeting their crew - assuming that we want to share."
-SendTeam,Send a team to investigate.
-DelegationSelect Title,{0}
-DelegationSelect,Select crew that will be the part of the team.
-Intro Title,{0}
-Intro,"{1} was welcomed by the skipper of this vessel. After a short exchange of courtesy, the skipper got straight to the point asking about the resources he asked for in the radio message."
-Give_ReplacementParts,Give the replacement parts.
-Give_ReplacementParts Tooltip,- We will share 1 replacement part.
-Give_MedicalSupplies,Give medical supplies.
-Give_MedicalSupplies Tooltip,- We will share 1 med kit.
-Give_Food,Give food.
+They confirm that they have access to the Enigma machine and if you manage to open the hatch at the conning tower, they should be launched in the air bubble right to the surface along with the machine. They said they will be ready.",,,,,,,,,,,
+ReturnAndOpenHatch,Return and open the main hatch.,,,,,,,,,,,
+OpeningTheMainHatch Title,Conning Tower,,,,,,,,,,,
+OpeningTheMainHatch,"{0} is opening the hatch installed on the conning tower. It's badly damaged, so it's going to take a few minutes.",,,,,,,,,,,
+Outside_Return,Abort.,,,,,,,,,,,
+,,,,,,,,,,,,
+SendDiver_Confirm Wait,Sending diver,,,,,,,,,,,
+SendDiver_Confirm Wait Title,Wreck,,,,,,,,,,,
+Enter_BatteryRoom Wait,Entering escape hatch,,,,,,,,,,,
+Enter_BatteryRoom Wait Title,Escape hatch,,,,,,,,,,,
+Enter_ControlRoom Wait,Entering Crew Quarters,,,,,,,,,,,
+Enter_ControlRoom Wait Title,Crew Quarters,,,,,,,,,,,
+ReturnAndOpenHatch Wait,Opening main hatch,,,,,,,,,,,
+ReturnAndOpenHatch Wait Title,Conning Tower,,,,,,,,,,,
+Outside_Return Wait,Returning to surface,,,,,,,,,,,
+Outside_Return Wait Title,Wreck,,,,,,,,,,,
+,,,,,,,,,,,,
+/Shot Down Aircraft,English,,,,,,,,,,,
+TakeSurvivorsOnBoard Tooltip,"Open a list of survivors on this aircraft and decide, if you want to take some of them on board.",,,,,,,,,,,
+Intro Title,Aircraft,,,,,,,,,,,
+Intro,There are {0} survivors inside the aircraft. What do you want to do?,,,,,,,,,,,
+TakeSurvivorsOnBoard,Rescue and take them on board.,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+/Lost U-boat,English,,,,,,,,,,,
+Intro Title,Lost ship,,,,,,,,,,,
+Intro,{0} is floating on the surface without a living soul on its deck. Inspection from our boat makes it clear that the boat sustained major damage. It remains a mystery though what happened to the crew and why the enemy left it in such state while at sea.,,,,,,,,,,,
+Intro_Investigated Title,Lost ship,,,,,,,,,,,
+Intro_Investigated,{0} is floating on the surface without a living soul on its deck. What do you want to do?,,,,,,,,,,,
+SendTeam,Send a team to investigate.,,,,,,,,,,,
+DelegationSelect Title,Lost ship,,,,,,,,,,,
+DelegationSelect,Pick a team that will investigate the ship.,,,,,,,,,,,
+NotInvestigatedIntro Title,Lost ship,,,,,,,,,,,
+NotInvestigatedIntro,"Your team cautiously boarded {0}, reporting that they cannot hear any sounds from inside the ship. What do you want to do?",,,,,,,,,,,
+InvestigatedIntro Title,Lost ship,,,,,,,,,,,
+InvestigatedIntro,Your crew is back to the lost ship.,,,,,,,,,,,
+Investigate,Investigate.,,,,,,,,,,,
+Investigating Title,Lost ship,,,,,,,,,,,
+Investigating,Your crew is investigating the lost shipÅc,,,,,,,,,,,
+Result Title,Lost ship,,,,,,,,,,,
+Result,"{1} went to the conning tower and carefully opened the closed hatch, then quickly ran to the barriers on the conning tower, clearly choking. He reported that inside are the corpses of sailors, with dried blood flowing out of their eyes and lips. {1} had no doubt - the ship was damaged by a mine which led to flooding of the batteries on the boat, which in turn released chlorine gas and resulted in the death of the entire crew.",,,,,,,,,,,
+Accept,Accept.,,,,,,,,,,,
+Mine,Mine the ship.,,,,,,,,,,,
+Return,Return to your ship.,,,,,,,,,,,
+SendTeam Wait,"Please wait, while the team arrives at the destination.",,,,,,,,,,,
+SendTeam Wait Title,Team sent...,,,,,,,,,,,
+,,,,,,,,,,,,
+/Ally Help,English,,,,,,,,,,,
+Intro_ReplacementParts Title,{0},,,,,,,,,,,
+Intro_ReplacementParts,"This u-boat called for help. According to the message, they need replacement parts from us. We should probably take them with us before meeting their crew - assuming that we want to share.",,,,,,,,,,,
+Intro_MedicalSupplies Title,{0},,,,,,,,,,,
+Intro_MedicalSupplies,"This u-boat called for help. According to the message, they need medical supplies from us. We should probably take them with us before meeting their crew - assuming that we want to share.",,,,,,,,,,,
+Intro_Food Title,{0},,,,,,,,,,,
+Intro_Food,"This u-boat called for help. According to the message, they need fresh vegetables and fruits from us. We should probably take them with us before meeting their crew - assuming that we want to share.",,,,,,,,,,,
+SendTeam,Send a team to investigate.,,,,,,,,,,,
+DelegationSelect Title,{0},,,,,,,,,,,
+DelegationSelect,Select crew that will be the part of the team.,,,,,,,,,,,
+Intro Title,{0},,,,,,,,,,,
+Intro,"{1} was welcomed by the skipper of this vessel. After a short exchange of courtesy, the skipper got straight to the point asking about the resources he asked for in the radio message.",,,,,,,,,,,
+Give_ReplacementParts,Give the replacement parts.,,,,,,,,,,,
+Give_ReplacementParts Tooltip,- We will share 1 replacement part.,,,,,,,,,,,
+Give_MedicalSupplies,Give medical supplies.,,,,,,,,,,,
+Give_MedicalSupplies Tooltip,- We will share 1 med kit.,,,,,,,,,,,
+Give_Food,Give food.,,,,,,,,,,,
 Give_Food Tooltip,"- We will share 10 units of food.
-- Items brought by the officers will be offered in the first place, but if they don't have enough food with them, we will offer something from our ship's storage."
-Give_ReplacementParts_Disabled,Give the replacement parts.
-Give_ReplacementParts_Disabled Tooltip,- We don't have 1 replacement part to share.
-Give_MedicalSupplies_Disabled,Give medical supplies.
-Give_MedicalSupplies_Disabled Tooltip,- We don't have 1 med kit to share.
-Give_Food_Disabled,Give food.
-Give_Food_Disabled Tooltip,- We don't have 10 units of food to share.
-Return,Return to your ship.
-Thanks Title,{0}
-Thanks,The skipper thanked us for the help and promised to nicely mention us in his report to headquarters.
-GladToHelp,We are glad to help.
-,
-SendTeam Wait,"Please wait, while the team arrives at the destination."
-SendTeam Wait Title,Team sent...
-,
-/Surrender,English
-Intro Title,Surrender
-Intro,What do you want to do?
-Surrender,Gather the crew on the deck. We have to surrender.
-,
-/Scuttle,English
-Coast,Coast
-Intro Title,{0}
-Intro,What do you want to do?
-Scuttle,Gather the crew on the deck. We will scuttle the ship and abandon it.
+- Items brought by the officers will be offered in the first place, but if they don't have enough food with them, we will offer something from our ship's storage.",,,,,,,,,,,
+Give_ReplacementParts_Disabled,Give the replacement parts.,,,,,,,,,,,
+Give_ReplacementParts_Disabled Tooltip,- We don't have 1 replacement part to share.,,,,,,,,,,,
+Give_MedicalSupplies_Disabled,Give medical supplies.,,,,,,,,,,,
+Give_MedicalSupplies_Disabled Tooltip,- We don't have 1 med kit to share.,,,,,,,,,,,
+Give_Food_Disabled,Give food.,,,,,,,,,,,
+Give_Food_Disabled Tooltip,- We don't have 10 units of food to share.,,,,,,,,,,,
+Return,Return to your ship.,,,,,,,,,,,
+Thanks Title,{0},,,,,,,,,,,
+Thanks,The skipper thanked us for the help and promised to nicely mention us in his report to headquarters.,,,,,,,,,,,
+GladToHelp,We are glad to help.,,,,,,,,,,,
+,,,,,,,,,,,,
+SendTeam Wait,"Please wait, while the team arrives at the destination.",,,,,,,,,,,
+SendTeam Wait Title,Team sent...,,,,,,,,,,,
+,,,,,,,,,,,,
+/Surrender,English,,,,,,,,,,,
+Intro Title,Surrender,,,,,,,,,,,
+Intro,What do you want to do?,,,,,,,,,,,
+Surrender,Gather the crew on the deck. We have to surrender.,,,,,,,,,,,
+,,,,,,,,,,,,
+/Scuttle,English,,,,,,,,,,,
+Coast,Coast,,,,,,,,,,,
+Intro Title,{0},,,,,,,,,,,
+Intro,What do you want to do?,,,,,,,,,,,
+Scuttle,Gather the crew on the deck. We will scuttle the ship and abandon it.,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
