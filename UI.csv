@@ -731,7 +731,7 @@ Torpedo Target Distance Warning,"Estimated impact distance: {0} <sprite name=""W
 Torpedo Target Distance Tooltip,Estimated run distance of the torpedoes.
 Torpedo Target Distance Tooltip Too Close,"Estimated run distance of the torpedoes.
 
-Warning: The estimated run distance is too low. Torpedoes may not arm at such a distance and as a result they may not detonate."
+Warning: The estimated run distance is too low. Torpedoes may not arm at a distance lower than 300 m and as a result they may not detonate."
 Torpedo Target Distance Tooltip Too Far,"Estimated run distance of the torpedoes.
 
 Warning: The estimated run distance is quite high. It may be difficult to score a hit at such a distance."

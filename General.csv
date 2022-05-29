@@ -273,6 +273,19 @@ JoystickButton17,Right Trigger
 JoystickButton18,Left Trigger Shared Axis
 JoystickButton19,Right Trigger Shared Axis
 Sequence Last Separator, and
+Northern,Northern
+Western,Western
+Eastern,Eastern
+Southern,Southern
+Northwestern,Northwestern
+Northeastern,Northeastern
+Southwestern,Southwestern
+Southeastern,Southeastern
+Very slow,Very slow
+Slow,Slow
+Medium,Medium
+Fast,Fast
+Very fast,Very fast
 ,
 /Units,English
 km,km

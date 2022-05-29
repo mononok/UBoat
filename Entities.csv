@@ -320,3 +320,20 @@ G7e Torpedo T3 - Pi2 - LUT (Warmed),G7e torpedo T3 - Pi2 - LUT
 G7e Torpedo T3 - Pi2 - Prototype (Warmed),G7e torpedo T3 prototype - Pi2
 G7es Zaunk?nig Torpedo T5 - Pi4 (Warmed),"G7es ""Zaunk?nig"" torpedo T5 - Pi4"
 G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype (Warmed),"G7es ""Zaunk?nig"" torpedo T5 prototype - Pi4"
+Enumeration - Marchant Ship,1 merchant ship
+Enumeration - Merchant Ships,{0} merchant ships
+Enumeration - Steamer,1 steamer
+Enumeration - Steamers,{0} steamers
+Enumeration - Destroyer,1 destroyer
+Enumeration - Destroyers,{0} destroyers
+Enumeration - Corvette,1 corvette
+Enumeration - Corvettes,{0} corvettes
+Enumeration - Fast Attack Craft,1 fast attack craft
+Enumeration - Fast Attack Crafts,{0} fast attack crafts
+Enumeration - Escorts,{0} escorts
+Enumeration - Cruiser,1 cruiser
+Enumeration - Cruisers,{0} cruisers
+Enumeration - Escort Carrier,1 escort carrier
+Enumeration - Escort Carriers,{0} escort carriers
+Enumeration - Capital Ship,1 capital ship
+Enumeration - Capital Ships,{0} capital ships
