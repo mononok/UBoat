@@ -111,7 +111,7 @@ WarCorrespondentWrongAnswer Title,War correspondent
 WarCorrespondentWrongAnswer,The war correspondent thanks you for the answer. He seems to be a bit confused about it though.
 WarCorrespondentThanks.Accept,Glad to help.
 WarCorrespondentQuestion.Classified,This information is classified.
-,
+
 /Weather Station,English
 SendExpedition_Confirm Wait Title,Team sent...
 SendExpedition_Confirm Wait,"Please wait, while the team arrives at the destination."
@@ -141,7 +141,7 @@ Security: <color=yellow>Adequate</color>. Your guards should spot most security 
 RunAndTestStation Title,Testing the station
 RunAndTestStation,"Weather station is now up and running. We just need to test, if it works to consider this mission complete. We can use our on-board radio to check, if the station correctly transmits the data from the installed sensors."
 MainChoices_Retreat,Retreat to ship.
-,
+
 /WarCorrespondentQuestion,English
 Periscopes,"{0} seems to be confused about something. Suddenly, he reaches out and asks {1}, why there is a second periscope in the control room?"
 Periscopes Title,War correspondent
@@ -159,7 +159,7 @@ Food,"{0} chats a bit with {1} and mentions that the last meal was really tasty.
 Food Title,War correspondent
 Food.Toilet,It's near the toilet.
 Food.OfficerRoom,It's in the officer's room.
-,
+
 /Radio,English
 Intro,{0} works in the radio room.
 Intro Title,Radio
@@ -185,7 +185,7 @@ MessageReceived Title,Message Received
 MusicStationSelection Title,Radio
 ReceivingMessage Title,Radio
 RequestResupply_Sending Title,Resupply Request
-,
+
 /Rendezvous,English
 SendDelegation Wait Title,Team sent...
 SendDelegation Wait,"Please wait, while the team arrives at the destination."
@@ -209,7 +209,7 @@ TransferCaptives,Transfer survivors.
 Recruitment,Recruitment.
 Return,Return to your ship.
 IntroCancel,Cancel.
-,
+
 /Freighter Inspection,English
 Intro Title,Freighter
 Intro,"This freighter is unarmed and seems to not be escorted. While it sails under a neutral flag, ideally, we should investigate what it is carrying and it's destination to ensure that they are not smugglers headed to an enemy port."
@@ -424,11 +424,11 @@ Portuguese,Portuguese
 French,French
 German,German
 English,English
-,
-,
+
+
 BreakThroughDoors Wait Title,In progress
 BreakThroughDoors Wait,Your engineer is breaking through the bulkhead...
-,
+
 CaptainAdmitsTradeWithBritish Title,Documents
 CaptainAdmitsTradeWithBritish,"You try to question the authenticity of the documents to see how the captain of this freighter will react.
 
@@ -436,9 +436,9 @@ He provides explanations to some of your assertions, but after you continue to c
 
 <color=green>From now on, this freighter is considered a fair prize. You can sink it without risking an international incident.</color>"
 CaptainAdmitsTradeWithBritishConfirm,Continue.
-,
-,
-,
+
+
+
 /Evacuated Freighter,English
 Intro Title,Freighter
 Intro,"This freighter was abandoned by its crew. We can send a team to it, if we want."
@@ -470,7 +470,7 @@ Search_NothingFoundConfirm,Continue.
 Return,Return to your ship.
 SendTeam Wait Title,Delegation sent...
 SendTeam Wait,"Please wait, while the delegation travels to the destination."
-,
+
 /Lifeboat,English
 Intro Title,Lifeboat
 Intro,There are {0} survivors on this lifeboat. What do you want to do?
@@ -482,24 +482,24 @@ GiveThemSupplies,Give them supplies.
 GiveThemSupplies Tooltip,Open the ship storage screen and give them some supplies.
 AcceptSupplies,Sailors on board are both surprised and grateful for the supplies.
 Confirm,Confirm
-,
-,
+
+
 /Spy,English
 Spy_Port_Intro Title,Spy
 Spy_Port_Intro,{0} greets {1} in a very official fashion and explains that he received orders to join crew of {2} during this assignment.
 Spy_Port_Intro_Welcome,Welcome.
 "Spy_Port_Intro_Welcome Tooltip
 ",Confirm that you was waiting for him and proceed to tour him around the ship.
-,
-,
+
+
 /War Correspondent,English
 WarCorrespondent_Port_Intro Title,War Correspondent
 WarCorrespondent_Port_Intro,"War correspondent warmly thanks {1} for allowing him to join the crew during this assignment. {1} shakes his hand and after some small talk explains basic things about living on board of {2} and where his bunk is.
 
 {0} appreciates the help, adds that it's not his first time on a ship and confirms that he will be fine."
 WarCorrespondent_Port_Intro_Welcome,Welcome.
-,
-,
+
+
 /Wreck,English
 SendDiver Title,Wreck
 SendDiver,There is a wreck of {0} on the sea floor. How should we proceed?
@@ -556,7 +556,7 @@ Submarine_MoveToControlRoom,Move to control room.
 Submarine_MoveToOfficerQuarters,Move to officer quarters.
 Submarine_MoveToCrewQuarters,Move to crew quarters.
 Outside_Return,Return to the surface.
-,
+
 MoveDownToEngineRoom Wait Title,Galley
 MoveDownToEngineRoom Wait,Moving down to the engine room
 MoveToGalleyFromEngineRoom Wait Title,Engine Room
@@ -567,7 +567,7 @@ Outside_Return Wait,Returning to surface
 Outside_Return Wait Title,Wreck
 MoveBackToEngineRoom Wait Title,Cargo Hold
 MoveBackToEngineRoom Wait,Moving back to the engine room
-,
+
 /Enigma,English
 SendDiver Title,Wreck
 SendDiver,There is a wreck of {0} on the sea floor. How should we proceed?
@@ -591,7 +591,7 @@ ReturnAndOpenHatch,Return and open the main hatch.
 OpeningTheMainHatch Title,Conning Tower
 OpeningTheMainHatch,"{0} is opening the hatch installed on the conning tower. It's badly damaged, so it's going to take a few minutes."
 Outside_Return,Abort.
-,
+
 SendDiver_Confirm Wait,Sending diver
 SendDiver_Confirm Wait Title,Wreck
 Enter_BatteryRoom Wait,Entering escape hatch
@@ -602,14 +602,14 @@ ReturnAndOpenHatch Wait,Opening main hatch
 ReturnAndOpenHatch Wait Title,Conning Tower
 Outside_Return Wait,Returning to surface
 Outside_Return Wait Title,Wreck
-,
+
 /Shot Down Aircraft,English
 TakeSurvivorsOnBoard Tooltip,"Open a list of survivors on this aircraft and decide, if you want to take some of them on board."
 Intro Title,Aircraft
 Intro,There are {0} survivors inside the aircraft. What do you want to do?
 TakeSurvivorsOnBoard,Rescue and take them on board.
-,
-,
+
+
 /Lost U-boat,English
 Intro Title,Lost ship
 Intro,{0} is floating on the surface without a living soul on its deck. Inspection from our boat makes it clear that the boat sustained major damage. It remains a mystery though what happened to the crew and why the enemy left it in such state while at sea.
@@ -632,7 +632,7 @@ Mine,Mine the ship.
 Return,Return to your ship.
 SendTeam Wait,"Please wait, while the team arrives at the destination."
 SendTeam Wait Title,Team sent...
-,
+
 /Ally Help,English
 Intro_ReplacementParts Title,{0}
 Intro_ReplacementParts,"This u-boat called for help. According to the message, they need replacement parts from us. We should probably take them with us before meeting their crew - assuming that we want to share."
@@ -662,15 +662,15 @@ Return,Return to your ship.
 Thanks Title,{0}
 Thanks,The skipper thanked us for the help and promised to nicely mention us in his report to headquarters.
 GladToHelp,We are glad to help.
-,
+
 SendTeam Wait,"Please wait, while the team arrives at the destination."
 SendTeam Wait Title,Team sent...
-,
+
 /Surrender,English
 Intro Title,Surrender
 Intro,What do you want to do?
 Surrender,Gather the crew on the deck. We have to surrender.
-,
+
 /Scuttle,English
 Coast,Coast
 Intro Title,{0}

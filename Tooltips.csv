@@ -151,8 +151,8 @@ Depletion Discipline,Low discipline
 Depletion Discipline Description,Discipline on the boat is very low and because of it your crew is very susceptible to stress during combat. Consider returning back to the port and sending your crew on a vacation.
 Depletion Discipline Started,Low discipline
 Depletion Discipline Finished,Discipline increased
-,
-,
+
+
 Stress Started,Your crew is strained and stressed
 Stress Stopped,Crew is no longer strained and stressed
 Depletion Energy,The batteries are close to depletion

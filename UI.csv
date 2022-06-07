@@ -119,11 +119,11 @@ Button 7,Stop
 Button 8,Electric motors
 Button 9,
 Button 10,Stop & charge the battery
-,
+
 /Banners,English
 Experience Gain,+{0} XP
 Level Up,Level up!
-,
+
 /Journal,English
 Empty Report,(Nothing to report)
 Report Value,Report value: {0}
@@ -133,14 +133,14 @@ Subjects Header,Subjects
 Report Header,Report
 Enter Text,Enter contents…
 Create,Create
-,
+
 /Travel Confirmation,English
 Title,Travel
 Description,"Travelling to {0} will take us {1}, consume {2} tons of fuel and {3} food units.
 
 Navigation penalty: {4}%."
-,
-,
+
+
 /ActiveMissionSummaryUI,English
 NextStepLabel,"<size=14><color=#ffee66>New objective:</color></size>
 {0}"
@@ -212,21 +212,21 @@ Campaign,Campaign
 New Offensive,New Offensive
 Offensive Completed,Offensive Completed
 Campaign Mission Completed,Campaign Mission Completed!
-,
+
 /InteractionWheelUI,English
 Description,"<size=24>{0}</size>
 {1}"
-,
-,
+
+
 /TutorialUI,English
 Close Legend,Click anywhere to close…
 Close Legend Controller,"Press <sprite name=""JoystickButton0""> to close…"
-,
-,
+
+
 /StageViewUI,English
 Leave Position,Leave position
-,
-,
+
+
 /StorageUI,English
 Description,"<line-height=120%><size=24>{0}</size>
 <line-height=100%>{1}"
@@ -252,7 +252,7 @@ Moving X,Moving...{0} / {1}
 Moving,Moving...
 Total Transport Time Long,"Total time to transport all goods: {0:%d} days, {0:hh} h : {0:mm} min"
 Total Transport Time,Total time to transport all goods: {0:hh} h : {0:mm} min
-,
+
 /MainMenuUI,English
 Continue,Continue
 New Game,New game
@@ -497,7 +497,7 @@ Damage difficulty,Damage difficulty
 Damage difficulty Tooltip,"This setting determines how hard to manage are potential leaks on your ship. The higher this difficulty level is set, the larger the simulated hull breaches will be on average after receiving damage.
 
 Note: If you pursue realism we recommend the average setting, but each of these settings may potentially be the realistic one. There is limited data to support any claim as there is an observational bias towards the survivable damage on the photographies and in the written records."
-,
+
 /CampaignSetupUI,English
 Back,Back
 Next,Next
@@ -564,7 +564,7 @@ Loading,Loading...
 Summary,Summary:
 Main Settings,Main Settings
 Advanced Settings,Advanced Settings - Summary:
-,
+
 /EscapeMenuUI,English
 Resume,Resume
 Save Game,Save game
@@ -575,18 +575,18 @@ Quit,Quit
 QuitConfirmation,Are you sure you want to quit the game?
 QuitYes,Yes
 QuitNo,No
-,
-,
+
+
 /AreaEnterNotificationUI,English
 Entering Area,Entering area…
 Loading,Loading…
-,
-,
+
+
 /HintUI,English
 Close,Close
 Skip Tutorials,Skip tutorials
-,
-,
+
+
 /LoadingUI,English
 Loading,Loading…
 Hint 1,"<space=55>The ocean is a vast and empty space, hence encountering other ships by a pure luck is very rare. Always use hydrophone to find your prey."
@@ -614,13 +614,13 @@ Hint 22,"<space=55>If your boat is submerged at periscope depth during bad weath
 Hint 23,"<space=55>Enemy ships carry a limited number of depth charges. When they are exhausted, there is a good chance that they will withdraw from submarine hunting."
 Hint 24,"<space=55>At greater depths there is a so-called shadow zone. Due to the acoustic layer above it, enemy vessels will find it much harder to detect your ship using hydrophone or sonar."
 Hint 25,"<space=55>If the night is dark, consider turning on the red lighting inside your u-boat. Such light makes it easier for the eyes to adapt to the darkness. It will increase the sight range of your crew and will also make your screen brighter."
-,
+
 /IntroMovieUI,English
 Label 1,"THOUSANDS OF YOUNG, BRAVE MEN ENLISTED IN THE KRIEGSMARINE ENTICED
 BY ADVENTURE AND IDEOLOGY, MOTIVATED BY FAME AND MONEY."
 Label 2,LESS THAN HALF OF THEM RETURNED HOME
 Label 3,THEIR LIVES AND FIGHT BECAME LEGENDARY.
-,
+
 /ControlUI,English
 Telegraph,Telegraph
 Depth Meter,Depth meter
@@ -661,7 +661,7 @@ It has no effect on the discipline."
 Working Crew Tooltip,"Currently {0} of {1} sailors are on duty. 
 It drains discipline by <color=red>{2}</color>/min."
 Order in progress,Order in progress...
-,
+
 /ContactsUI,English
 Targets,Targets
 Target - Hide Periscope,Hide periscope
@@ -671,7 +671,7 @@ Target - Clear,Hold fire.
 Target - Ships,Fire at ships.
 Target - Aircrafts,Fire at aircraft.
 Target - Scan,Scan frequencies.
-,
+
 /EntitySelectionUI,English
 Capture Course,Plot an intercept course to the vessel.
 Center Camera,Center camera on the vessel.
@@ -690,12 +690,12 @@ Hit Chance,Hit Chance
 Error Level,Estimated group position error
 Interaction,Interaction
 GRT,({0} GRT)
-,
+
 /RadioTransmissionsUI,English
 Out of Range,out of range!
 Not Available in Demo,disabled in the demo!
 Alarm,alarm!
-,
+
 /TorpedoLaunchersUI,English
 Speed,Speed
 Depth,Depth
@@ -735,14 +735,14 @@ Warning: The estimated run distance is too low. Torpedoes may not arm at a dista
 Torpedo Target Distance Tooltip Too Far,"Estimated run distance of the torpedoes.
 
 Warning: The estimated run distance is quite high. It may be difficult to score a hit at such a distance."
-,
+
 /DefeatSummaryUI,English
 Header,Defeat
 Crew,Crew
 Officers,Officers
 Leave to Menu,Go to the menu
 Accept,Accept
-,
+
 /MissionCompletionUI,English
 Missions,Missions
 Accept Reward,Accept Reward
@@ -750,7 +750,7 @@ Reward,Reward
 Asignment Completed,Asignment Completed
 1 Day Later,1 day later...
 X Days Later,{0} days later...
-,
+
 /TrophyScreenUI,English
 Header,{0} receives a new decoration
 Header Progression,{0} gains points to the next decoration
@@ -770,17 +770,17 @@ Convoy Sinkings Summary 3,Our sources inform us that the convoy was headed to {1
 Sunk Ship Newspaper Title,{0} sunk!
 Sunk Ship Newspaper Diplomatic Incident Summary,"Our sources inform us that it was a neutral ship from {0} that carried {1} to {2}. Survivors report they were attacked by u-boat. It caused a great distress in {0}, but German officials continue denying that they are responsible for this incident."
 Sunk Ship Newspaper Valuables Summary,The word says that the ship was loaded with precious metals. Survivors claim that they were torpedoed by an u-boat.
-,
-,
+
+
 /HydrophoneUI,English
 Surface Warning,Hydrophone is very unreliable when used from the surface of the sea. Consider diving deeper before using it.
-,
+
 /DevConsole,English
 Error Logged,<color=red>Error logged</color>
-,
+
 /EntityViewUI,English
 Leave View,Leave view
-,
+
 /CharacterSelectionUI,English
 Rest,"<b>Rest</b>
 Give officer some free time to regain energy."
@@ -841,16 +841,16 @@ Quartermaster/Tooltip,The Quartermaster is responsible for providing ammunition 
 LeaderFollower,Leader's helper
 EngineerFollower,Engineers's helper
 RadiomanFollower,Radioman's helper
-,
+
 /GunUI,English
 Swap Ammo Tip,"Press "","" and ""."" to swap ammunition types."
 Out of Ammo,Out of ammo!
-,
+
 /ChangeViewUI,English
 FPP,FPP
 Section View,Section view
 Orbit View,Orbit view
-,
+
 /ActionQueueUI,English
 Adding to Queue,+ Adding to queue…
 Idle,Idle…
@@ -858,7 +858,7 @@ Locked Action Tooltip,This order cannot be stopped.
 External Action Tooltip,This order doesn't belong to this order queue.
 Automated Schedule Action,This order is coming from an automated schedule.
 Right Click to Cancel,Right click to cancel this order.
-,
+
 /CompartmentInfoUI,English
 Stern Torpedo Room,Stern Torpedo Room
 Engine Room,Engine Room
@@ -868,7 +868,7 @@ Control Room,Control Room
 Officers Room,Officers Room
 Bow Torpedo Room,Bow Torpedo Room
 Conning Tower,Conning Tower
-,
+
 /AssignmentSelectionUI,English
 Difficulty Easy,"Difficulty
 <color=green>Low</color>"
@@ -886,7 +886,7 @@ Very Large,very large
 Large,large
 Medium,medium
 Small,small
-,
+
 /LoadGameStateUI,English
 Save Data,"Date<pos=200>{1}
 Skipper<pos=200>{2}
@@ -904,7 +904,7 @@ Incompatible Mods,"The currently installed mods are different from the mods used
 {0}
 
 This may lead to unpredictable issues with the game. Are you sure that you want to continue?"
-,
+
 /SaveGameStateUI,English
 Header,Save
 Save,Save
@@ -918,12 +918,12 @@ Invalid Characters Error,Restricted characters are present in the file name.
 Tutorial Blockade,<color=red>It's not possible to save state when there is an active tutorial prompt.</color>
 General Blockade,<color=red>It's not possible to save state at the moment. Please try again later.</color>
 Undocked Blockade,<color=red>Game state can only be saved when u-boat is docked at a port or resupply ship.</color>
-,
+
 /UpgradeModeUI,English
 Header,Upgrades
 Total Time to Install Long,"Total time to install all upgrades: {0:%d} days, {0:hh} h : {0:mm} min"
 Total Time to Install,Total time to install all upgrades: {0:hh} h : {0:mm} min
-,
+
 /UpgradeUI,English
 Header,Upgrades
 Research Available,<color=#1a1>Research required to unlock this upgrade is available in the Headquarters.</color>
@@ -931,7 +931,7 @@ Install Progress,"Upgrading...
 {0:0}%"
 Install Queued,Queued...
 Install Time,It will take {0} to install this upgrade.
-,
+
 /CrewListUI,English
 Boarded,Boarded
 Free,Free
@@ -954,7 +954,7 @@ Recruit,Recruit
 Class,Class
 Name,Name
 Price,Cost
-,
+
 /MenuDropdown,English
 MENU,MENU
 JOURNAL,JOURNAL
@@ -966,15 +966,15 @@ LOAD,LOAD
 SETTINGS,SETTINGS
 EXIT,EXIT
 CAMPAIGN,CAMPAIGN
-,
+
 /ReputationPurchasesListUI,English
 Reputation Purchases,Reputation Purchases
 Buy,Buy
 Remove,Remove
-,
+
 /CampaignObjectivesListUI,English
 Header,Campaign Objectives
-,
+
 /HeadquartersUI,English
 Time to Complete,"Time to complete:
 {0}"
@@ -985,7 +985,7 @@ ClickToStartNewOperation,Click to start a new operation
 Requires,Requires:
 Early Research Warning,<color=#C05418>Warning: This work is still at early stages of development. Attempts to complete it before {0} will take twice more time.</color>
 Target Area,Target area
-,
+
 /RecruitmentUI/Backgrounds,English
 Story 1,A German of Austrian descent. A weapon lover and a hunter. Service in the navy is his dream. Ambitious. He counts on a rapid promotion in the military hierarchy.
 Story 2,{0} comes from a poor family. His father sent him to the forces to learn discipline. He hates his military service.
@@ -1020,7 +1020,7 @@ Story 24,"Growing up in the small village of Schmiedefeld near Dresden, {0} alwa
 Story 25,"A descendant of an impoverished noble family. After they bet on the wrong horse during the change of power, all the old splendor was gone. Now, during the war, the family try their best to regain the favor of the authorities, if necessary, also by the heroic deeds of their children."
 Story 26,"{0}  had a very happy childhood and grew up in the countryside. After completing his apprenticeship as a baker, he opened a small pastry shop in Friborg on the Elbe. When it was destroyed by fire, he lost everything he had. After that, he decided to join the Kriegsmarine as a sailor and was quickly accepted into the submarine training flotilla. After eight months of basic training, he became a torpedo mechanic. He is popular with his colleagues and likes to make jokes about the officers."
 Story 27,"Born in Munich, he helped his parents on the farm at an early age as a pig farmer. He learned butchery and was later trained as a cook. When the war started, he wanted to serve as the ship's cook. As there was an empty seat on the submarine, he volunteered to become ""Smutje"". He copes very well with the lack of space in the galley. While cooking, he likes to tell stories about the mountains near Munich. His culinary skills are deeply appreciated by the crew."
-,
+
 /StoryPlayerUI,English
 Skill Token Modifier,from {0} thanks to the {1} skill.
 Skill Token Equipment Modifier,from {0} carried by {1}.
@@ -1088,14 +1088,14 @@ Muscular,Muscular
 Slightly Overweight,Slightly Overweight
 Large,Large
 Heavy,Heavy
-,
+
 /CharacterUI/Hair Colors,English
 Black,Black
 Brown,Brown
 Blonde,Blonde
 Red,Red
 Gray,Gray
-,
+
 /CharacterSwitchUI,English
 X More,{0} targets...
 Normal Lighting,Normal lighting
@@ -1108,16 +1108,16 @@ Manual Steering,Dive planes: manual
 Devices,Devices
 Lighting,Lighting
 Orders,Orders
-,
+
 /HUD,English
 FPP Hint,"Press ALT to display UI.
 Press TAB to open management screen."
 FPP Hint Activator,Click right mouse button to open action list.
 Free Fly Camera Notification Hint,"Free camera enabled. Press ""{0}"" on the keyboard to leave this mode."
-,
+
 /LiveTimeSkippingUI,English
 Format,Day {0}
-,
+
 /VacationUI,English
 Header,Vacation
 Duration Format,{0} days
@@ -1138,7 +1138,7 @@ German Alps Resort,German Alps Resort
 German Alps Resort Description,Berchtesgaden. A tourist and winter sports resort located in the Salzburg Alps. A place of rest for the elite and exceptionally deserved sailors. The profile of this place is raised by the nearby official residence of Adolf Hitler - Berghof. Some lucky ones have the opportunity to meet their adored F?hrer there.
 Eagle's Nest,The Eagle's Nest
 Eagle's Nest Description,"The Eagle's nest. A birthday gift for Adolf Hitler's 50th birthday. A hostel at the top of the Kehlstein mountain. The building is residence of Hitler, Bormann and G?ring. A meeting place for personalities. Eva Braun often stays there. The perfect place for rest but also to gain contacts. Here Officers can settle their matters with the influential personalities of the Third Reich in a less official atmosphere."
-,
+
 /InputSettingsUI,English
 Already Used Confirmation,This key is already used for such actions: {0}.Do you want to continue?
 Hydrophone,Hydrophone
@@ -1218,14 +1218,14 @@ Toggle UI,Toggle UI
 Open Close Console,Toggle cheat console
 Bug Report,Bug reporting tool
 Reload,Reload
-,
+
 /Rewards,English
 Reputation,{0:+0.#%;-0.#%;0%}
 Budget,{0:+0.#;-0.#;0}
 Research Boost,{0}
 Milk Cow,Milk Cow
 Captive Released,Survivor released: {0}
-,
+
 /Accomplishments,English
 Assignment Completed,Completed assignment.
 Sunk Ship,"Sinking of ""{0}"" {1}."
@@ -1253,7 +1253,7 @@ Wounds,Wounds.
 Weather Station Deployment,Weather station deployment.
 Recovered Enigma From Wreck,Recovered Enigma machine from the wreck.
 Located Gold In Wreck,Located gold inside a sunk merchant ship.
-,
+
 /AssignmentSummaryUI,English
 Statistics,"Tonnage sunk: {0} tons
 Time: {1}
@@ -1270,13 +1270,13 @@ Rewards,Rewards:
 Additional Rewards,Additional rewards:
 Punishments,Punishments:
 Sunk Ship Format String,{0} {1}
-,
+
 /Mod Warning UI,English
 Info,"We noticed that you use mods in the game. Mods may sometimes introduce bugs into the game. Please consider disabling mods first, before reporting a bug as otherwise we may not be able to help you.
 
 Are you sure that you want to continue with the bug reporting tool?"
 Confirm,Confirm
-,
+
 /Customization,English
 Cotton Shirt 01 Blue,Buttoned blue striped shirt
 Cotton Shirt 01 Blue 2,Buttoned worn blue shirt
@@ -1385,7 +1385,7 @@ Basic Beard II,Slight stubble
 Basic Beard III,Heavy stubble
 Basic Beard IV,Beard
 Voice I,Voice 1
-,
+
 /Management UI,English
 Crew,Crew
 Schedule,Schedule
@@ -1402,24 +1402,24 @@ Disband Confirmation Title,Confirmation
 Morning Shift,Morning shift
 Evening Shift,Evening shift
 Night Shift,Night shift
-,
+
 /AssignmentManagementUI,English
 Description,This screen allows to setup which and how many sailors should be assigned to a shift or officer.
 Sailors X,{0} sailors
-,
+
 /TaskManagementUI,English
 Description,"This screen allows to set work priorities for officers and sailor shifts. A higher number means higher priority for working on the associated task.
 Selected priority may drop by a few points, if the associated task is currently not profitable."
 Description use,Press SHIFT + use mouse scroll to adjust priorities OR click to enter them manually.
 Save Preset,Save Preset
-,
+
 /TimeManagementUI,English
 Description,Configure work schedules for sailor shifts and officers.
-,
-,
+
+
 /ActivatorDetailsUI,English
 Details,Details
-,
+
 /EntityTooltips,English
 Imported Goods,Imported goods:
 Exported Goods,Exported goods:
@@ -1441,35 +1441,35 @@ Velocity: {3}
 <line-height=150%>Course: {4}
 Est. accuracy: {5}"
 Similar To,{0} similar to {1}
-,
-,
+
+
 /Select SquareUI,English
 Select Target Square,Select target square
-,
+
 /CampaignObjectivesListUI,English
 Campaign Unavailable,This campaign objective is currently not available.
 Campaign Unavailable Ports,"This campaign objective is currently not available.
 
 It will start after stationing in one of the following ports: {0}."
-,
+
 /Rich Presence,English
 Main Menu,In main menu
 At Sea,At sea aboard {0}
 Docked,Docked at {0}
 Default,In game
-,
+
 /CrashWarningUI,English
 Info,"We noticed that the last time you played UBOAT a crash occured that we are currently trying to repair.
 <line-height=40%>
 <line-height=100%>We kindly ask you to contact us on Steam forum. Thank you!"
-,
+
 /TutorialWarningUI,English
 Info,"Are you absolutely sure that you <b><u>want to disable tutorial introduction?</u></b>
 
 We highly recommend to play through the tutorial first. There are many things to learn about the game. It's going to be very hard to learn everything on the fly."
-,
-,
-,
+
+
+
 /CampaignSummaryUI,English
 Header,Summary
 Exit to Menu,Exit to Menu

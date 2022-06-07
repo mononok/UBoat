@@ -18,40 +18,40 @@ Warning Moving Too Fast,We are moving too fast!
 Warning Target Destroyed,Target is sinking.
 Warning Cannot Initiate Under Water,This action can be initiated only from the surface.
 Warning Sleep Alarm,Officers cannot rest during an alarm.
-,
+
 /HatchOpenCloseAction,English
 Pressure Warning,Pressure on the opening side is too high.
 Damaged Warning,The hatch is damaged and cannot be closed.
 Open,Open
 Close,Close
-,
+
 /RepairAction,English
 Flood Warning,A breathing apparatus is needed to work underwater.
 Occupied Warning,The station is occupied.
 Replacement Parts Warning,Replacement parts are required to repair this.
 Replacement Parts Info,A replacement part will be consumed to repair this.
 Already Being Repaired,{0} is already making repairs here.
-,
+
 /Campaign01PutDownBriefcase,English
 Put down briefcase,Put down the briefcase
-,
+
 /PutOnDeckAction,English
 Not Enough Space Warning,There is not enough free space on the deck for loading.
-,
+
 /CarryItemsAction,English
 Carrying Items,Carrying items…
 Carrying Water,Carrying water…
-,
+
 /InvestigateWreckAction,English
 Missing Wreck,There are no wrecks under the boat.
-,
+
 /SalvageReplacementParts,English
 Not Enough Scrap,There isn't enough scrap in the storage room.
 Storage Full,There is no free room for replacement parts in the storage.
-,
+
 /LaunchSonarDecoyAction,English
 Decoy Needed,Sonar decoy is needed to use this device.
-,
+
 /StoryTasks,English
 ScoutingParty,Scouting Party
 TransportTeam,Transport Team

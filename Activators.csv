@@ -709,7 +709,7 @@ Conning Tower Interior,Conning Tower
 Fuel Tank no. 1,Fuel Tank no. 1
 Fuel Tank no. 2,Fuel Tank no. 2
 Pill Thrower,Pill Thrower
-,
+
 G7a Torpedo T1 - Pi1,G7a torpedo T1 - Pi1
 G7a Torpedo T1 - Pi1.1,G7a torpedo T1 - Pi1/v2
 G7a Torpedo T1 - Pi3,G7a torpedo T1 - Pi3
@@ -737,7 +737,7 @@ G7e Torpedo T3 - Pi2 - Prototype (Warmed),G7e torpedo T3 prototype - Pi2
 G7es Zaunk?nig Torpedo T5 - Pi4 (Warmed),"G7es ""Zaunk?nig"" torpedo T5 - Pi4"
 G7es Zaunk?nig Torpedo T5 - Pi4 - Prototype (Warmed),"G7es ""Zaunk?nig"" torpedo T5 prototype - Pi4"
 TMB Mine x3,TMB mine x3
-,
+
 Bleeding,Injured
 Resupply Ammunition,Resupply Ammunition
 Disallow Sailor Work,Sailors: Disallow
@@ -752,15 +752,15 @@ RunAtBowAction,Run to Bow Compartment
 Valve Watch,Valves
 Switch Power,Switch power
 Cargo Hold,Cargo Hold
-,
+
 Deck Gun,Deck gun
 Upgrade,Upgrade
-,
+
 Ammo Large Calibre HE,Large Caliber HE Ammo
 Ammo Large Calibre AP,Large Caliber AP Ammo
 Ammo Large Calibre AA,Large Caliber AA Ammo
 Ammo Large Calibre SS,Large Caliber SS Ammo
-,
+
 Surrender,Surrender
 Scuttle,Scuttle
 Decoration Control Room,Decoration
