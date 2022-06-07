@@ -4,7 +4,7 @@ ReportEnemyPositionDirectionType,"The enemy {0} has been spotted in the vicinity
 ReportAlliedPositionType,An ally {0} is near your location in the vicinity of position {1}.
 Situation Update,Situation Update
 Campaign 01: Beginning,Beginnings
-Campaign 01: Beginning Description,
+Campaign 01: Beginning Description
 Campaign 01: Beginning MeetTheCaptain,Meet the captain.
 Campaign 01: Beginning LeaveBaggage,Leave the baggage at your bunk.
 Campaign 01: Beginning OpenMap,Open the map in the control room.
