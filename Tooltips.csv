@@ -285,6 +285,7 @@ Alarm Notification,"<b>Alarm!</b>
 The crew works harder at a cost of increased stress."
 Alarm Notification Title,Alarm
 Alarm Notification Description,"Skipper, there is an active alarm on our ship. You can disable it at any time using the telegraph. When the alarm is active, it has the following effects:
+? Additional sailors can be assigned to the officers.
 ? Crew's work performance is increased.
 ? Officers have new activities available at the command station in the control room.
 ? Officers will continue to work, even if their energy drops to zero and will refuse to rest.

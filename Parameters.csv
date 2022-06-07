@@ -141,3 +141,9 @@ Command Neutral,"<color=#777><sprite name=""pCommand"">Work performance: normal"
 Hydrophone Range Gain,"<sprite name=""pHydrophone"">Hydrophone range: <color=#3DB52A>+{0:0%}</color>"
 Hydrophone Range Neutral,"<color=#777><sprite name=""pHydrophone"">Hydrophone range: normal"
 Commanding Officers,Commanding officers
+Deck Gun Gain,"<sprite name=""pAim"">Reload duration: <color=#3DB52A>-{0:0%}</color>
+<sprite name=""pAim"">Recoil: <color=#3DB52A>-{1:0%}</color>"
+Deck Gun Neutral,"<color=#777><sprite name=""pAim"">Reload duration: normal
+<sprite name=""pAim"">Recoil: normal"
+Gun Manned,{0}: <color=#3DB52A>Manned</color>
+Gun Unmanned,{0}: Unmanned

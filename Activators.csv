@@ -131,6 +131,7 @@ Use Deck Gun Full Description 2,Rate of fire increases by 66%. Recoil recovery r
 Use Deck Gun Full Description 3,Rate of fire increases by 100%. Recoil recovery rate increases by 60%.
 MG C30,MG C/30
 MG C30 Description,20 mm anti-aircraft gun.
+MG C30 2,MG C/30 (II)
 Play Cards,Playing cards
 Play Cards Full Description,"<b>Playing cards</b>
 
@@ -792,3 +793,6 @@ Additional sailors:"
 DamageControlAction Full Description 1,"Due to maintaining devices in a good condition, the chance that they will become damaged in any occurrence decreases by 10%. The sailor also inspects compartments for hidden damages."
 DamageControlAction Full Description 2,"Due to maintaining devices in a good condition, the chance that they will become damaged in any occurrence decreases by 20%. The sailor also inspects compartments for hidden damages."
 Hull Weak Point,Weak point on the hull
+Breda 13.2 mm,Breda 13.2 mm
+Breda 13.2 mm 2,Breda 13.2 mm (II)
+43U,43U

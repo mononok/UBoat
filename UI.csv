@@ -759,7 +759,7 @@ Campaign Objective Header Progression,Campaign objective progressed
 Sunk Ship Title,{0} sunk!
 Sunk Ship Summary 1,This ship was registered in {5} and was carrying {1} from {3} to {2}. Its gross register tonnage was {0} tons.
 Sunk Ship Summary 2,Our intel tells us that the ship had GRT of {0} tons and was transporting {1} from {3} to {2}. It was registered in {5}.
-Sunk Ship Summary 3,Our sources inform us that the ship was headed from {3} to {2} with {1} in the cargo holds. The ship's GRT was {0} tons. It was a registered ship of {5}.
+Sunk Ship Summary 3,Our sources inform us that the ship was headed from {3} to {2} with {1} in the cargo holds. The ship's GRT was {0} tons. It was registered in {5}.
 Sunk Ship Summary False Flag 1,This ship was registered in {5} and was carrying {1} from {3} to {2}. Its gross register tonnage was {0} tons. The ship flied a false flag of {4}.
 Sunk Ship Summary False Flag 2,"Our intel tells that the ship had GRT of {0} tons and was transporting {1} from {3} to {2}. It was registered in {5}, but the crew used a flag of {4} for deception."
 Sunk Ship Summary False Flag 3,"Our sources inform us that the ship was headed from {3} to {2} with {1} in the cargo holds. The ship's GRT was {0} tons. It was a registered ship of {5}, but it flied a false flag of {4}."
@@ -877,7 +877,7 @@ Difficulty Medium,"Difficulty
 Difficulty Hard,"Difficulty
 <color=red>High</color>"
 Assignments,Assignments
-Mission Select,Mission Select
+Mission Select,Available missions
 Tutorial,Tutorial
 Objective,Objective:
 Reward,Reward:
@@ -926,7 +926,7 @@ Total Time to Install,Total time to install all upgrades: {0:hh} h : {0:mm} min
 ,
 /UpgradeUI,English
 Header,Upgrades
-Research Available,<color=#1a1>Research to unlock this upgrade is available in the Headquarters.</color>
+Research Available,<color=#1a1>Research required to unlock this upgrade is available in the Headquarters.</color>
 Install Progress,"Upgrading...
 {0:0}%"
 Install Queued,Queued...
