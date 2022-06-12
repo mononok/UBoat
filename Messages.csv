@@ -82,7 +82,7 @@ Convoy Spotted 4,"Convoy in sight, naval square {0}. Course {1:0}°, {2}.
 Transport Encounter Escaped 1,"Single merchant spotted in a naval square {0}, {7} speed, {5} course, zig-zagging, three-fan miss. One tube runner. Didn't pursue due to equipment issue."
 Transport Encounter Escaped 2,"Single steamer in a naval square {0}, speed {2}, course {1:0}°. Two duds, one miss, couldn't continue attack."
 Transport Encounter Escaped 3,"On my way back to the base, heard single propeller from a naval square {0}, most likely merchant, {7} speed, {5} course."
-Transport Encounter Escaped 4,"Lone steamer smoke cloud spotted somewhere in a naval square {0}. {6} speed, {5} course. Pursing other target."
+Transport Encounter Escaped 4,"Lone steamer's smoke cloud spotted somewhere in a naval square {0}. {6} speed, {5} course. Pursing other target."
 Transport Encounter Escaped 5,"Smoke cloud spotted in a naval square {0}. {6} speed, {5} course. We are currently performing surface repairs and won't intercept."
 Transport Encounter Escaped 6,"Merchant ship heard in a naval square {0} or near. Hydrophone operator reports {7} speed, {5} course. Carrying on with other orders."
 Transport Encounter Escaped 7,Single merchant ship's propeller heard in a naval square {0}. Estimated {7} speed and {5} course. We are currently carrying out other orders. Good luck.
@@ -124,7 +124,7 @@ Group Radar Detector,Radar waves detected at coordinates {1}.
 SSS Contact,SSS SSS {0} {1} under attack
 Submarine Spotted,{1} submarine spotted at {0}
 SSS Torpedoed,SSS SSS {0} {1} torpedoed
-Message Encrypted,(this message seems to be encrypted)
+Message Encrypted,<i>This message seems to be encrypted with a foreign cipher and we can't decode it. Our radioman can still track the source using a radio direction finder.</i>
 Smoke Column,Massive smoke column spotted at {0}
 Tutorial 01.Title,Training mission #{0:00}: Resupply
 Tutorial 02.Title,Training mission #{0:00}: Travel and Diving

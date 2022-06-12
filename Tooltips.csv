@@ -7,6 +7,11 @@ Bleeding,The sailors are in critical state!
 Bleeding Description,The sailors are dying on board. Stabilize them with a radioman that has medical training as soon as possible.
 Bleeding Increase,The sailor is in critical state!
 Bleeding Decrease,The sailor is stabilized
+Overworked,Officer have overworked
+Overworked Description,At least one of our officers have worked for far too long and needs medical attention.
+Overworked Increase,Officer have overworked
+Overworked Decrease,Officer is no longer overworked
+Overworked Item,{0} (was working for {1})
 Death,Death
 Death Description,Some sailors have died on board.
 Death Increase,A sailor died!
@@ -288,7 +293,7 @@ Alarm Notification Description,"Skipper, there is an active alarm on our ship. Y
 ? Additional sailors can be assigned to the officers.
 ? Crew's work performance is increased.
 ? Officers have new activities available at the command station in the control room.
-? Officers will continue to work, even if their energy drops to zero and will refuse to rest.
+? Officers will continue to work, even if their energy drops to zero and will refuse to rest. It may be dangerous for their health, if they work in such state for a long time.
 ? Stress is growing among the crew and discipline falls.
 
 For the last reason, alarms are not sustainable for the long periods of time. Use them wisely, skipper!"
@@ -326,3 +331,5 @@ Command Station - Thrifty Inactive,"<color=#999><b>? Mechanic (skill)</b>:
 <sprite name=""pDamageControl"">Add sailors to the officer to protect the internal equipment from an incoming damage.</color>"
 Command Station - Specialist,"<b>? Expert (skill)</b>:
 <sprite name=""pCommand"">Work performance +5%. This perk affects all tasks being done on the ship such as torpedo loading, repairs and speed of torpedo course calculation. It also affects the effective observation range of the watch crew."
+
+GainXp - Task Complete,Training complete!

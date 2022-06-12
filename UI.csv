@@ -604,7 +604,7 @@ Hint 12,"<space=55>If you lay your submarine on the seabed, enemy sonar will hav
 Hint 13,<space=55>Take some coffee with you to keep the officers awake during long engagements.
 Hint 14,"<space=55>Type XIV u-boats are often called ""milk cows"". They serve as resupply ships for combat u-boats and will always welcome you with some fresh bread."
 Hint 15,"<space=55>When trying to approach the enemy submerged, turn off all unnecessary devices. The enemy can hear them through the hydrophone and discover your location."
-UHint 16,<space=55>The character assigned to the listening room operates the radar when the boat is surfaced and the hydrophone when submerged.
+UHint 16,<space=55>The character assigned to the listening room operates a radar detector when the boat is surfaced and the hydrophone when submerged.
 Hint 17,"<space=55>If the enemy ship does not want to sink, you can help it with the 88 mm gun mounted on the deck."
 Hint 18,<space=55>Explosions of depth charges overwhelm enemy sonars for a short time. It's a window of opportunity for u-boats to escape the area.
 Hint 19,<space=55> Searchlights reveal the position of a surface vessel to a greater extent than they increase its view range.
@@ -720,14 +720,17 @@ Right,Right
 FAT settings,FAT settings
 LUT settings,LUT settings
 Torpedo Avoidance Maneuvers,Torpedo avoidance maneuvers!
-Torpedo Hit Angle,Estimated hit angle: {0} °
-Torpedo Hit Angle Warning,"Estimated hit angle: {0} ° <sprite name=""Warning"">"
-Torpedo Hit Angle Tooltip,Estimated impact angle of the torpedo against the target ship's hull. This estimation is three dimensional and includes a simple estimation of the target ship's hull curvature as well as a geometric two dimensional impact angle.
-Torpedo Hit Angle Warning Tooltip,"Estimated impact angle of the torpedo against the target ship's hull. This estimation is three dimensional and includes a simple estimation of the target ship's hull curvature as well as a geometric two dimensional impact angle.
+Vertical Hit Angle,Estimated vertical hit angle:
+Horizontal Hit Angle,Estimated horizontal hit angle:
+Torpedo Hit Angle,{0} °
+Horizontal Hit Angle Tooltip,Estimated horizontal (top-down) impact angle of the torpedo against the target ship's hull.
+Vertical Hit Angle Tooltip,"Estimated vertical impact angle of the torpedo against the target ship's hull.
 
-Warning: This angle seems to be quite high for the currently used torpedoes with a contact detonator. It's possible that they won't explode on hit."
-Torpedo Target Distance,Estimated impact distance: {0}
-Torpedo Target Distance Warning,"Estimated impact distance: {0} <sprite name=""Warning"">"
+This value is derived from the target ship's hull curvature at the estimated impact point. This estimation uses a simple mathematical model that doesn't take into account details about the target ship's construction that wouldn't be known for your crew."
+Total Hit Angle Tooltip,Estimated total impact angle of the torpedo against the target ship's hull. This is a sum of the horizontal and vertical impact angles that are presented on the left.
+Torpedo Hit Angle Warning Tooltip,Warning: The impact angle seems to be quite high for the currently used torpedoes with a contact detonator. It's possible that they won't explode on a hit.
+Torpedo Target Distance,Estimated impact distance:
+Torpedo Target Distance Value Warning,"{0} <sprite name=""Warning"">"
 Torpedo Target Distance Tooltip,Estimated run distance of the torpedoes.
 Torpedo Target Distance Tooltip Too Close,"Estimated run distance of the torpedoes.
 

@@ -28,9 +28,9 @@ Play Cards,Tip: send this officer to socialize with the crew. The discipline on 
 Sleep Positive,Tip: send this officer to socialize with the crew. The discipline on the ship could use some improvement.
 Sleep Negative,The officer is now rested.
 Tutorial Route Mouse 1,"Good! Now set the ship’s course by clicking the right mouse button on the <sprite name=""MissionDot""> target."
-Tutorial Route Controller 1
+Tutorial Route Controller 1,
 Tutorial Route Mouse 2,"To add more points to the route press SHIFT and like previously, click right mouse button on the next <sprite name=""MissionDot""> target."
-Tutorial Route Controller 2
+Tutorial Route Controller 2,
 Tutorial Route Mouse 3,"Very good! Now, do the same for the third and fourth waypoints.
 
 To spot them you will need to zoom out or move the map. You can zoom in and out using the mouse wheel, while you can move it by pressing left mouse button and moving the pointer."
@@ -40,7 +40,7 @@ Tutorial Engines FPP,"It's time to start the engines. Press CONTROL to show the 
 Tutorial Engines Controller,"It's time to start the engines. Press <sprite name=""JoystickButton3""> to show the telegraph."
 Tutorial Engines Gear,..and now choose the highlighted second gear of the engine.
 Tutorial Open Map,"Officer, it's time to open the map and plot the course. The easiest way to do that is to press the ""M"" key on the keyboard or to press the button in the upper right part of the screen."
-Tutorial Open Controller
+Tutorial Open Controller,
 Tutorial Prepare Boat,"It's a perfect time for you to get familiar with the boat and prepare for what is to come.
 <line-height=50%>
 <line-height=100%>I've prepared a list of things worth doing in the meantime. Select officer Kohler and assign him necessary tasks or if you prefer to play in FPP click on him twice."
