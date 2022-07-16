@@ -117,7 +117,7 @@ Button 5,Diesel motors
 Button 6,Alarm!
 Button 7,Stop
 Button 8,Electric motors
-Button 9,
+Button 9
 Button 10,Stop & charge the battery
 
 /Banners,English
@@ -128,7 +128,7 @@ Level Up,Level up!
 Empty Report,(Nothing to report)
 Report Value,Report value: {0}
 Messages Header,Messages
-Header,Ship log
+Header,Journal
 Subjects Header,Subjects
 Report Header,Report
 Enter Text,Enter contents…
@@ -497,6 +497,11 @@ Damage difficulty,Damage difficulty
 Damage difficulty Tooltip,"This setting determines how hard to manage are potential leaks on your ship. The higher this difficulty level is set, the larger the simulated hull breaches will be on average after receiving damage.
 
 Note: If you pursue realism we recommend the average setting, but each of these settings may potentially be the realistic one. There is limited data to support any claim as there is an observational bias towards the survivable damage on the photographies and in the written records."
+Sky quality,Sky quality
+Sky quality Simple,Simple clouds
+Sky quality Medium,Volumetric clouds - Medium quality
+Sky quality High,Volumetric clouds - High quality
+Sky quality Ultra,Volumetric clouds - Ultra quality
 
 /CampaignSetupUI,English
 Back,Back
@@ -604,7 +609,7 @@ Hint 12,"<space=55>If you lay your submarine on the seabed, enemy sonar will hav
 Hint 13,<space=55>Take some coffee with you to keep the officers awake during long engagements.
 Hint 14,"<space=55>Type XIV u-boats are often called ""milk cows"". They serve as resupply ships for combat u-boats and will always welcome you with some fresh bread."
 Hint 15,"<space=55>When trying to approach the enemy submerged, turn off all unnecessary devices. The enemy can hear them through the hydrophone and discover your location."
-UHint 16,<space=55>The character assigned to the listening room operates a radar detector when the boat is surfaced and the hydrophone when submerged.
+Hint 16,<space=55>The character assigned to the listening room operates a radar detector when the boat is surfaced and the hydrophone when submerged.
 Hint 17,"<space=55>If the enemy ship does not want to sink, you can help it with the 88 mm gun mounted on the deck."
 Hint 18,<space=55>Explosions of depth charges overwhelm enemy sonars for a short time. It's a window of opportunity for u-boats to escape the area.
 Hint 19,<space=55> Searchlights reveal the position of a surface vessel to a greater extent than they increase its view range.
@@ -617,9 +622,9 @@ Hint 25,"<space=55>If the night is dark, consider turning on the red lighting in
 
 /IntroMovieUI,English
 Label 1,"THOUSANDS OF YOUNG, BRAVE MEN ENLISTED IN THE KRIEGSMARINE ENTICED
-BY ADVENTURE AND IDEOLOGY, MOTIVATED BY FAME AND MONEY."
+BY ADVENTURE AND IDEOLOGY, MOTIVATED BY FAME AND MAKING A GOOD LIVING"
 Label 2,LESS THAN HALF OF THEM RETURNED HOME
-Label 3,THEIR LIVES AND FIGHT BECAME LEGENDARY.
+Label 3,THEIR LIVES AND FIGHT BECAME LEGENDARY
 
 /ControlUI,English
 Telegraph,Telegraph
@@ -628,6 +633,7 @@ Rudder,Rudder
 Map,Map
 Journal,Journal
 Pause,Pause
+Realtime,Switch to realtime
 Time Compression x1,Time compression x1
 Time Compression x4,Time compression x4
 Time Compression x12,Time compression x12
@@ -943,7 +949,7 @@ Requirements not Met,You don't have any officers staying on the land that match 
 Crew Management,Crew Management
 Status,Status
 Level,Level
-Management,Management
+Management,Crew
 Ready,Ready
 Tired,<color=red>Tired</color>
 Delegated to HQ,<color=#999>Headquarters</color>
@@ -961,7 +967,7 @@ Price,Cost
 /MenuDropdown,English
 MENU,MENU
 JOURNAL,JOURNAL
-MANAGEMENT,MANAGEMENT
+MANAGEMENT,CREW
 HEADQUARTERS,HEADQUARTERS
 UBOATOPEDIA,UBOATOPEDIA
 SAVE,SAVE
@@ -1111,6 +1117,7 @@ Manual Steering,Dive planes: manual
 Devices,Devices
 Lighting,Lighting
 Orders,Orders
+Stop Direct Orders,Stop direct orders
 
 /HUD,English
 FPP Hint,"Press ALT to display UI.
@@ -1221,12 +1228,16 @@ Toggle UI,Toggle UI
 Open Close Console,Toggle cheat console
 Bug Report,Bug reporting tool
 Reload,Reload
-
+Realtime,Realtime
 /Rewards,English
 Reputation,{0:+0.#%;-0.#%;0%}
+Reputation Description,Reputation {0:+0.#%;-0.#%;0%}
 Budget,{0:+0.#;-0.#;0}
+Budget Description,Budget {0:+0.#;-0.#;0}
 Research Boost,{0}
-Milk Cow,Milk Cow
+Research Boost Description,Double research rate of {0}
+Milk Cow,Milk cow
+Milk Cow Description,"An additional resupply u-boat, called ""milk cow"" by our crews, will appear on the map."
 Captive Released,Survivor released: {0}
 
 /Accomplishments,English
@@ -1390,7 +1401,7 @@ Basic Beard IV,Beard
 Voice I,Voice 1
 
 /Management UI,English
-Crew,Crew
+Crew,Crew list
 Schedule,Schedule
 Tasks,Tasks
 Add Sailor,Add Sailor

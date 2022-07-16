@@ -15,7 +15,7 @@ Overworked Item,{0} (was working for {1})
 Death,Death
 Death Description,Some sailors have died on board.
 Death Increase,A sailor died!
-Death Decrease,
+Death Decrease
 Decreased Performance,Performance decreased
 Decreased Performance Description,We are lacking healthy crew members to fully operate the boat.
 Performance Increased,Performance increased.
@@ -69,7 +69,7 @@ Hunger Starvation,The crew is starving!
 Crew Mission,Crew missions
 Crew Mission Description,We can send our men on missions nearby!
 Crew Mission Increase,New mission nearby!
-Crew Mission Decrease,
+Crew Mission Decrease
 Leak,Leak
 Leak Description,There are one or more leaks on board!
 Leak Increase,Leak on board!
@@ -111,7 +111,7 @@ Nearby Contacts Decrease,Area left.
 Checkpoint Unlocked,Checkpoint
 Checkpoint Unlocked Description,"We have unlocked a checkpoint at sea. In exchange for the required resources, we can quickly move to it."
 Checkpoint Unlocked Increase,Checkpoint unlocked!
-Checkpoint Unlocked Decrease,
+Checkpoint Unlocked Decrease
 Skip Travel,Fast travel
 Skip Travel Description,We are in a friendly area with no enemies nearby. Click this notification to quickly travel to your current target.
 Intel,Intelligence collected!
@@ -247,8 +247,8 @@ Radio Transmission Interrupted Description,"Due to a weak signal, bad weather or
 Resupply Ship Sank,Resupply ship sank
 Resupply Ship Sank Description,"One of our resupply ships was sunk by the enemy. 
 Coordinates: {0} (square {1})"
-Mission Status Update,
-Mission Status Update Description,
+Mission Status Update
+Mission Status Update Description
 Low Spare Parts,Running low on spare parts
 Low Spare Parts Description,"We are running low on the spare parts. If they are depleted, we won't be able to patch leaks or perform other major repairs."
 No Spare Parts,Spare parts are missing
@@ -333,3 +333,4 @@ Command Station - Specialist,"<b>? Expert (skill)</b>:
 <sprite name=""pCommand"">Work performance +5%. This perk affects all tasks being done on the ship such as torpedo loading, repairs and speed of torpedo course calculation. It also affects the effective observation range of the watch crew."
 
 GainXp - Task Complete,Training complete!
+InstallEquipment - Task Complete,Building complete!

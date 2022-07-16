@@ -4,7 +4,7 @@ ReportEnemyPositionDirectionType,"The enemy {0} has been spotted in the vicinity
 ReportAlliedPositionType,An ally {0} is near your location in the vicinity of position {1}.
 Situation Update,Situation Update
 Campaign 01: Beginning,Beginnings
-Campaign 01: Beginning Description,
+Campaign 01: Beginning Description
 Campaign 01: Beginning MeetTheCaptain,Meet the captain.
 Campaign 01: Beginning LeaveBaggage,Leave the baggage at your bunk.
 Campaign 01: Beginning OpenMap,Open the map in the control room.
@@ -47,7 +47,7 @@ Campaign 01: Beginning SinkTheCarrier,Sink the carrier.
 Campaign 01: Beginning Escape2,Escape from the escort.
 Campaign 01: Beginning ReachThePort,Reach the port.
 LostShipMission,Lost ship
-LostShipMission Description,
+LostShipMission Description
 LostShipMission FindLostShip,"Find the lost ship.
 <color=#aaa>Remaining: {0}.</color>"
 LostShipMission FindLostShip TimeLimitOff,Find the lost ship.
@@ -289,6 +289,7 @@ North Labrador Weather Station Deployment,Weather station deployment area
 SearchWreckAssignment Description,"Find a wreck, send a diver and recover the cargo."
 SearchWreckAssignment,Search wreck 
 SearchWreckAssignment ReachDestination,Reach destination.
+SearchWreckAssignment FreeSpaceForDivingSuit,Free space for a diving suit in the items storage.
 SearchWreckAssignment SendDiver,Send diver.
 SearchWreckAssignment LocateCargo,Locate cargo.
 SearchWreckAssignment RecoverCargo,Recover at least {0} units of gold.
